@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #00467f; /* Tufts navy color */
+  color: #fff;
+  padding: 1em 2em;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0;
+  color: #003366; /* Dark blue for titles */
+}
+
+h2, h3 {
+  color: #003366; /* Dark blue for titles */
+}
+
+main {
+  padding: 2em;
+}
+
+a {
+  color: #0076c0; /* Tufts blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.search-form {
+  margin-top: 0.5em;
+}
+.search-form input[type="text"] {
+  padding: 0.3em;
+}
+.search-form button {
+  padding: 0.3em;
+}
