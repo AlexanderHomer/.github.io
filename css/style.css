@@ -17,8 +17,9 @@ header, footer {
 }
 
 header {
-  padding-top: 5em; /* space for fixed search bar */
-  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 h1 {
@@ -86,16 +87,12 @@ main li {
 .search-form {
   display: flex;
   justify-content: center;
-  margin: 0 auto;
+  margin: 1em auto 0 auto;
   max-width: 600px;
   width: 100%;
-  position: fixed;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1000;
   background-color: #1976d2;
   padding: 0.5em;
+  transition: margin 0.3s;
 }
 
 .search-form input[type="text"] {
@@ -157,4 +154,16 @@ li span {
   color: #555;
   margin-left: 0.5em;
   font-style: italic;
+}
+
+header.collapsed {
+  padding: 0.5em 2em;
+}
+
+header.collapsed h1 {
+  display: none;
+}
+
+header.collapsed .search-form {
+  margin: 0 auto;
 }
