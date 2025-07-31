@@ -42,10 +42,19 @@ async function searchSite(query) {
     try {
       const resp = await fetch(url);
       const text = await resp.text();
-      if (text.toLowerCase().includes(lower)) {
+      const plain = text.replace(/<[^>]*>/g, ' ');
+      const idx = plain.toLowerCase().indexOf(lower);
+      if (idx !== -1) {
         const titleMatch = text.match(/<title>(.*?)<\/title>/i);
         const title = titleMatch ? titleMatch[1] : url;
-        results.push({ url, title });
+        const start = Math.max(0, idx - 40);
+        const end = Math.min(plain.length, idx + query.length + 40);
+        let snippet = plain.slice(start, end).replace(/\s+/g, ' ').trim();
+        // highlight query in snippet
+        const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'i');
+        snippet = snippet.replace(regex, '<b>$1</b>');
+        const fragment = encodeURIComponent(plain.substr(idx, query.length));
+        results.push({ url, title, snippet, fragment });
       }
     } catch (e) {
       // ignore errors fetching individual pages
@@ -69,9 +78,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     for (const page of matches) {
       const li = document.createElement('li');
       const a = document.createElement('a');
-      a.href = page.url;
+      a.href = `${page.url}#:~:text=${page.fragment}`;
       a.textContent = page.title;
+      const snippet = document.createElement('span');
+      snippet.innerHTML = ` - ${page.snippet}`;
       li.appendChild(a);
+      li.appendChild(snippet);
       list.appendChild(li);
     }
   }

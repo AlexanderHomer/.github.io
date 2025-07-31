@@ -144,3 +144,9 @@ main li {
 .floating-nav .btn:hover {
   background-color: #1565c0;
 }
+
+li span {
+  color: #555;
+  margin-left: 0.5em;
+  font-style: italic;
+}
