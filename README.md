@@ -4,8 +4,6 @@ This repository contains the source for the ENT Guidebook website. Pages are wri
 
 To preview locally run:
 
-```bash
+``` bash
 bundle exec jekyll serve
 ```
-
-

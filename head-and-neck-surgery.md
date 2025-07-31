@@ -2,209 +2,696 @@
 layout: default
 title: Head and Neck Surgery
 ---
-<h2 class="unnumbered" id="head-neck-surgery-clinic-guide">Head &amp;
-Neck Surgery – Clinic Guide</h2>
-<h3 class="unnumbered" id="dr.-olearys-clinic">Dr. O’Leary’s Clinic</h3>
+<h2 class="unnumbered" id="head-neck-surgery-clinic-guide">
+Head &
+Neck Surgery -- Clinic Guide
+</h2>
+<h3 class="unnumbered" id="dr.-olearys-clinic">
+Dr. O'Leary's Clinic
+</h3>
 <ol type="I">
-<li><p>Correct the chief compliant. Put type/site of cancer TNM stage
+<li>
+<p>
+Correct the chief compliant. Put type/site of cancer TNM stage
 and treatment (with date) at the beginning of every note (T2N1M0 HPV+
 left base of tongue SCCa s/p concomitant chemoradiation with weekly
-cisplatin completed on 10/13/2018.)</p></li>
-<li><p>Use Dr O’Leary’s New patient or Follow up visit
-templates</p></li>
-<li><p>ALWAYS CC op-note to primary care physician, other care providers
-(rad onc, med onc) and referring physician’</p></li>
-<li><p>Spray the patients with Lidocaine/Afrin spray prior to presenting
-to Dr. O’Leary so there is enough time for local anesthesia and
-decongestion</p></li>
+cisplatin completed on 10/13/2018.)
+</p>
+</li>
+<li>
+<p>
+Use Dr O'Leary's New patient or Follow up visit
+templates
+</p>
+</li>
+<li>
+<p>
+ALWAYS CC op-note to primary care physician, other care providers
+(rad onc, med onc) and referring physician'
+</p>
+</li>
+<li>
+<p>
+Spray the patients with Lidocaine/Afrin spray prior to presenting
+to Dr. O'Leary so there is enough time for local anesthesia and
+decongestion
+</p>
+</li>
 </ol>
-<h3 class="unnumbered" id="dr.-weins-clinic">Dr. Wein’s Clinic</h3>
+<h3 class="unnumbered" id="dr.-weins-clinic">
+Dr. Wein's Clinic
+</h3>
 <!-- Wein Clinic list start -->
 <ol>
-  <li>if you can, dictate your notes and minimize the amount of templating</li>
-  <li>always give patients a copy of their pathology, lab, or imaging results at the time of an office visit</li>
-  <li>document and circle the appropriate spaces on the encounter form if:
-    <ul>
-      <li>smoking cessation advised</li>
-      <li>imaging/labs ordered or surgery booked</li>
-      <li>imaging/labs/path reviewed</li>
-      <li>procedures performed</li>
-    </ul>
-  </li>
-  <li>Always CC the corresponding MD at the end of the note with “CC: Andrew Scott, MD”, and not with less formal approaches like “Dr. Scott, PCP”</li>
+<li>
+if you can, dictate your notes and minimize the amount of templating
+</li>
+<li>
+always give patients a copy of their pathology, lab, or imaging results at the time of an office visit
+</li>
+<li>
+document and circle the appropriate spaces on the encounter form if:
+<ul>
+<li>
+smoking cessation advised
+</li>
+<li>
+imaging/labs ordered or surgery booked
+</li>
+<li>
+imaging/labs/path reviewed
+</li>
+<li>
+procedures performed
+</li>
+</ul>
+</li>
+<li>
+Always CC the corresponding MD at the end of the note with "CC: Andrew Scott, MD", and not with less formal approaches like "Dr. Scott, PCP"
+</li>
 </ol>
 <!-- Wein Clinic list end -->
-<h3 class="unnumbered" id="dr.-tracys-clinic">Dr. Tracy’s Clinic</h3>
+<h3 class="unnumbered" id="dr.-tracys-clinic">
+Dr. Tracy's Clinic
+</h3>
 <ol>
-<li>Similar to Dr. O’Leary’s clinic flow</li>
+<li>
+Similar to Dr. O'Leary's clinic flow
+</li>
 </ol>
-<h3 class="unnumbered" id="burning-mouth-consults">Burning Mouth Consults</h3>
-<p><em>Dr. O’Leary’s workup</em></p>
+<h3 class="unnumbered" id="burning-mouth-consults">
+Burning Mouth Consults
+</h3>
+<p>
+`<em>`{=html}Dr. O'Leary's workup`</em>`{=html}
+</p>
 <ul>
-<li>Obtain lab tests: ANA, SS-A, SS-B, TSH, fasting glucose, A1c, CBC w/ diff, ferritin, Vit B1, B2, B6, B12, folate, Mg2+, Zinc</li>
-<li>Biopsy if visible lesion</li>
-<li>Consider patch testing</li>
+<li>
+Obtain lab tests: ANA, SS-A, SS-B, TSH, fasting glucose, A1c, CBC w/ diff, ferritin, Vit B1, B2, B6, B12, folate, Mg2+, Zinc
+</li>
+<li>
+Biopsy if visible lesion
+</li>
+<li>
+Consider patch testing
+</li>
 </ul>
-<h3 class="unnumbered" id="aphthous-ulcer-treatments">Aphthous ulcer
-treatments</h3>
-<p>triamcinolone acetonide with carboxymethylcellulose paste (Kenalog in
-Orabase)</p>
-<p>Fluocinonide (Lidex) gel</p>
-<p>Peridex mouthwash</p>
-<p>Aphthasol paste – Aphthasol oral paste is usually applied 4 times
+<h3 class="unnumbered" id="aphthous-ulcer-treatments">
+Aphthous ulcer
+treatments
+</h3>
+<p>
+triamcinolone acetonide with carboxymethylcellulose paste (Kenalog in
+Orabase)
+</p>
+<p>
+Fluocinonide (Lidex) gel
+</p>
+<p>
+Peridex mouthwash
+</p>
+<p>
+Aphthasol paste -- Aphthasol oral paste is usually applied 4 times
 each day--usually after breakfast, lunch, and dinner, and at
-bedtime.</p>
-<p>Oral B12 melts (made by same company as Xylimelts)</p>
-<h3 class="unnumbered" id="inspire-consults">Inspire Consults</h3>
-<ul><li><p>Check diagnosis of sleep apnea: AHI, (must be btw 15-65 w/
-&lt;25% central apneas) date of sleep study (should be in last 3 years).
+bedtime.
+</p>
+<p>
+Oral B12 melts (made by same company as Xylimelts)
+</p>
+<h3 class="unnumbered" id="inspire-consults">
+Inspire Consults
+</h3>
+<ul>
+<li>
+<p>
+Check diagnosis of sleep apnea: AHI, (must be btw 15-65 w/
+\<25% central apneas) date of sleep study (should be in last 3 years).
 Ask previous nasal, palate, tonsil surgeries. Still having daytime
 fatigue. Check social hx: work history/driving problems. Ask about heart
-failure/afib</p></li><li><p>Patients must be &gt;21yo. BMI&lt;32</p></li><li><p>Check CPAP usage: &lt;4 hours/&lt;5days tolerated and reasons for
-poor tolerance (claustrophobia etc).</p></li><li><p>Contraindications: Pts w/ neuromuscular disorders or those who
-can’t operate the remote at night. Pregnant pts. Pts w/ complete
-concentric collapse of the soft palate of sleep endoscopy</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="thyroid-nodules">Thyroid Nodules</h3>
-<ul><li><p>Nodules incidentally found on imaging </p>
+failure/afib
+</p>
+</li>
+<li>
+<p>
+Patients must be \>21yo. BMI\<32
+</p>
+</li>
+<li>
+<p>
+Check CPAP usage: \<4 hours/\<5days tolerated and reasons for
+poor tolerance (claustrophobia etc).
+</p>
+</li>
+<li>
+<p>
+Contraindications: Pts w/ neuromuscular disorders or those who
+can't operate the remote at night. Pregnant pts. Pts w/ complete
+concentric collapse of the soft palate of sleep endoscopy
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="thyroid-nodules">
+Thyroid Nodules
+</h3>
+<ul>
+<li>
+<p>
+Nodules incidentally found on imaging 
+</p>
 <ol type="A">
-<li><p>Should always be confirmed by Thyroid &amp; Cervical
-U/S </p></li>
-<li><p>Nodules &gt;1cm seen on PET scans that are confirmed on thyroid
-U/S should get an FNA </p></li>
-</ol></li><li><p>Initial workup of palpable or incidentally found nodules </p>
-<ul><li><p><strong>TSH </strong>[Free T<sub>4</sub>]
-and <strong>Ultrasound </strong> </p></li><li><p><strong>Normal or high TSH</strong> → no need for reuptake
-radionuclide cscan </p></li><li><p><strong>Low</strong> TSH → get a Iodine<sup>123</sup> or
-Technetium<sup>99</sup> reuptake scan </p>
+<li>
+<p>
+Should always be confirmed by Thyroid & Cervical
+U/S 
+</p>
+</li>
+<li>
+<p>
+Nodules \>1cm seen on PET scans that are confirmed on thyroid
+U/S should get an FNA 
+</p>
+</li>
+</ol>
+</li>
+<li>
+<p>
+Initial workup of palpable or incidentally found nodules 
+</p>
+<ul>
+<li>
+<p>
+`<strong>`{=html}TSH `</strong>`{=html}\[Free T`<sub>`{=html}4`</sub>`{=html}\]
+and `<strong>`{=html}Ultrasound `</strong>`{=html} 
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Normal or high TSH`</strong>`{=html} → no need for reuptake
+radionuclide cscan 
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Low`</strong>`{=html} TSH → get a Iodine`<sup>`{=html}123`</sup>`{=html} or
+Technetium`<sup>`{=html}99`</sup>`{=html} reuptake scan 
+</p>
 <ol type="1">
-<li><p>"Hot Nodule" → evaluate for hyperthyroidism </p></li>
-<li><p>"Cold Nodules" have a 5% risk of cancer and should get an
-ultrasound </p></li>
-<li><p>Multiple nodules? Evaluate each one separately. </p>
-<ul><li><p>If TSH low or normal. Get I<sup>123</sup> scan to see if there
-are autonomous nodules  </p></li><li><p>FNA iso or nonfunctioning nodules. </p></li><li><p>FNA </p>
-<ul><li><p>Don't bother if its completely cystic </p></li><li><p>Perform FNA if nodule is (A) &gt;2cm <strong> or </strong>(B) 
-&gt;1cm + suspicious features </p></li><li><p>Suspicious Ultrasound features (70% chance of malignancy) </p>
-<ul><li><p><strong><u>Hypo</u></strong>echoic - think hypOH DEAR ITS
-CANCER </p>
-<ul><li><p>partially cystic and iso/hyperechoic are less worrying features:
-perform FNA if &gt;1.5cm </p></li></ul>
-</li><li><p>Microcalcification or rim calcifications </p></li><li><p>Increased central vascularity </p></li><li><p>Tall than wide (think a Cachetic patient) = bad. Wider than tall
-(fat person) = good </p></li><li><p>Irregular margins </p></li></ul>
-
-
-
-
-<h4 class="unnumbered" id="bethesda-system---interpreting-results">Bethesda system -
-Interpreting Results</h4>
+<li>
+<p>
+"Hot Nodule" → evaluate for hyperthyroidism 
+</p>
+</li>
+<li>
+<p>
+"Cold Nodules" have a 5% risk of cancer and should get an
+ultrasound 
+</p>
+</li>
+<li>
+<p>
+Multiple nodules? Evaluate each one separately. 
+</p>
+<ul>
+<li>
+<p>
+If TSH low or normal. Get I`<sup>`{=html}123`</sup>`{=html} scan to see if there
+are autonomous nodules  
+</p>
+</li>
+<li>
+<p>
+FNA iso or nonfunctioning nodules. 
+</p>
+</li>
+<li>
+<p>
+FNA 
+</p>
+<ul>
+<li>
+<p>
+Don't bother if its completely cystic 
+</p>
+</li>
+<li>
+<p>
+Perform FNA if nodule is (A) \>2cm `<strong>`{=html} or `</strong>`{=html}(B) 
+\>1cm + suspicious features 
+</p>
+</li>
+<li>
+<p>
+Suspicious Ultrasound features (70% chance of malignancy) 
+</p>
+<ul>
+<li>
+<p>
+`<strong>`{=html}`<u>`{=html}Hypo`</u>`{=html}`</strong>`{=html}echoic - think hypOH DEAR ITS
+CANCER 
+</p>
+<ul>
+<li>
+<p>
+partially cystic and iso/hyperechoic are less worrying features:
+perform FNA if \>1.5cm 
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+Microcalcification or rim calcifications 
+</p>
+</li>
+<li>
+<p>
+Increased central vascularity 
+</p>
+</li>
+<li>
+<p>
+Tall than wide (think a Cachetic patient) = bad. Wider than tall
+(fat person) = good 
+</p>
+</li>
+<li>
+<p>
+Irregular margins 
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="bethesda-system---interpreting-results">
+Bethesda system -
+Interpreting Results
+</h4>
 <ol start="4" type="A">
-<li><p>Malignant (99% risk) &amp; suspicious for malignancy (70%
-risk) </p>
-<ul><li><p>Go to Surgery   </p></li><li><p>Indeterminate cytology - Two types </p>
-<ul><li><p>Follicular neoplasm or suspicious for follicular neoplasm or
-Hurthle Cell (25% risk of malignancy) </p>
-<ul><li><p>Pretty much all of these are surgically excised. Affirma to
-supplement decision making </p></li><li><p>FLUS (follicular lesion of unknown significance) or Atypia of
-undetermined significance — 14% risk </p>
-<ul><li><p>Can observe or excise.  Affirma test can help you rule out
-malignancy </p></li><li><p>Surgery: if excision is planned - do a lobectomy unless there are
+<li>
+<p>
+Malignant (99% risk) & suspicious for malignancy (70%
+risk) 
+</p>
+<ul>
+<li>
+<p>
+Go to Surgery   
+</p>
+</li>
+<li>
+<p>
+Indeterminate cytology - Two types 
+</p>
+<ul>
+<li>
+<p>
+Follicular neoplasm or suspicious for follicular neoplasm or
+Hurthle Cell (25% risk of malignancy) 
+</p>
+<ul>
+<li>
+<p>
+Pretty much all of these are surgically excised. Affirma to
+supplement decision making 
+</p>
+</li>
+<li>
+<p>
+FLUS (follicular lesion of unknown significance) or Atypia of
+undetermined significance --- 14% risk 
+</p>
+<ul>
+<li>
+<p>
+Can observe or excise.  Affirma test can help you rule out
+malignancy 
+</p>
+</li>
+<li>
+<p>
+Surgery: if excision is planned - do a lobectomy unless there are
 reasons in the history that make us more suspicious for
-malignancy  </p></li><li><p>Nondiagnostic—(around 1-4% risk):  </p>
-<ul><li><p>repeat U/S guided FNA. Most people wait ~3months but should
-repeat sooner if there are concerning U/S findings </p></li><li><p>Can excise if suspicious u/s findings or if its growth &gt;20% in
-2 directions </p></li><li><p>Benign — 2.5% risk </p>
-<ul><li><p>Follow up these patients </p>
-<ul><li><p>Suspicious U/S features: repeat U/S &amp; FNA within 12
-months </p></li><li><p>Otherwise repeat U/S in 12-24months and FNA if (a) growth &gt;20%
-in 2 directions or (b) nodule develops suspicious features </p></li><li><p>You can stop following any nodule that's had two benign cytology
-results. Its benign, get over it </p></li></ul>
-
-
+malignancy  
+</p>
+</li>
+<li>
+<p>
+Nondiagnostic---(around 1-4% risk):  
+</p>
+<ul>
+<li>
+<p>
+repeat U/S guided FNA. Most people wait \~3months but should
+repeat sooner if there are concerning U/S findings 
+</p>
+</li>
+<li>
+<p>
+Can excise if suspicious u/s findings or if its growth \>20% in
+2 directions 
+</p>
+</li>
+<li>
+<p>
+Benign --- 2.5% risk 
+</p>
+<ul>
+<li>
+<p>
+Follow up these patients 
+</p>
+<ul>
+<li>
+<p>
+Suspicious U/S features: repeat U/S & FNA within 12
+months 
+</p>
+</li>
+<li>
+<p>
+Otherwise repeat U/S in 12-24months and FNA if (a) growth \>20%
+in 2 directions or (b) nodule develops suspicious features 
+</p>
+</li>
+<li>
+<p>
+You can stop following any nodule that's had two benign cytology
+results. Its benign, get over it 
+</p>
+</li>
+</ul>
 <ol start="5" type="I">
-<li><p>Follow Up </p>
-<ul><li><p>Nodules that met criteria for FNA but were benign: see
-above </p></li><li><p>Nodules that did not meet criteria for FNA </p></li><li><p>repeat U/S in 12-24months (you don't need to follow spongiform or
-purely cyst nodules) </p></li><li><p>Nodules that are &gt;4cm or cause compressive symptoms can be
-surgically removed </p></li><li><p>Preoperative: Guidelines recommend documentation of voice and
+<li>
+<p>
+Follow Up 
+</p>
+<ul>
+<li>
+<p>
+Nodules that met criteria for FNA but were benign: see
+above 
+</p>
+</li>
+<li>
+<p>
+Nodules that did not meet criteria for FNA 
+</p>
+</li>
+<li>
+<p>
+repeat U/S in 12-24months (you don't need to follow spongiform or
+purely cyst nodules) 
+</p>
+</li>
+<li>
+<p>
+Nodules that are \>4cm or cause compressive symptoms can be
+surgically removed 
+</p>
+</li>
+<li>
+<p>
+Preoperative: Guidelines recommend documentation of voice and
 performing a FOE prior to Thyroid surgery on EVERY patient. Discuss risk
 of thyroid surgery to voice. Discuss findings of FOE w/
-anesthesia.</p></li><li><p>Perioperative: should identify RLN and SLN. Intraop nerve
-monitoring is optional. No opinion on decadron</p></li><li><p>Postop: should perform FOE on patients w/ voice change post op.
+anesthesia.
+</p>
+</li>
+<li>
+<p>
+Perioperative: should identify RLN and SLN. Intraop nerve
+monitoring is optional. No opinion on decadron
+</p>
+</li>
+<li>
+<p>
+Postop: should perform FOE on patients w/ voice change post op.
 If abnormal voice or VF mobility abnormality, patients should f/u with
-SLP</p></li></ul>
-
-
-
-id="improving-voice-outcomes-after-thyroid-surgery-clinical-practice-guideline"&gt;Improving
-Voice Outcomes after Thyroid Surgery – Clinical Practice Guideline
-
-
-
-<h3 class="unnumbered" id="adult-neck-mass-clinical-practice-guideline">Adult Neck Mass –
-Clinical Practice Guideline</h3>
-<ul><li><p>Don’t routinely give antibiotics unless other signs of infection
-exist</p></li><li><p>Suspicious if: present for &gt;2 weeks w/o change in size
-<u>or</u> if on exam mass is (1) fixed to adjacent structure (2) firm
-(3) &gt;1.5cm or (4) has ulceration of overlying skin <u>or</u> history
-highly suspicious</p>
-<ul><li><p>In these patients, do targeted physical exam (FOE etc)</p></li><li><p>Strongly recommend CT neck (U/S or MRI ok) or performing an FNA
-on these suspicious neck masses</p>
-<ul><li><p>FNA should be done INSTEAD of an open biopsy</p></li><li><p>Cystic masses: don’t assume that they are benign</p></li><li><p>If testing is negative:</p>
-<ul><li><p>Can either with open biopsy (should <u>always</u> be done with a
-direct laryngoscopy)</p></li><li><p>Or could do additional testing (CBC, ANA, SSA/SSB, ESR, TSH, PTH,
-EBV,CMV, PPD, Bartonella, Thyroid U/S, CT chest /w contrast,
-Thyroglobulin FNA-needle wash assay</p></li></ul>
-
-<h3 class="unnumbered" id="nerve-sheath-tumors">Nerve Sheath Tumors</h3>
-<h4 class="unnumbered" id="paragangliomas-glomus-tumors">Paragangliomas
-(Glomus tumors)</h4>
-<p>Glomus Jugulare: supplied by ascending pharyngeal a.</p>
-<p>Glomus Tympanicum: arise from Jacobson’s nerve (CNIX)</p>
-<p>Carotid Body: MC in H&amp;N: internal carotid posterior and external
-carotid anteriorly (Lyre sign)</p>
-<p>Vagal paraganglioma: Displaces carotid anteriorly and medially</p>
-<h3 class="unnumbered" id="salivary-glands">Salivary Glands</h3>
-<p>Innervation:</p>
-<ul>
-<li>Sup. Salivary nuc → GSPN (pregang. parasymp.) [CN7] → pterygopalatine ganglion → lacrimal</li>
-<li>Inf. Salivary nuc → Lesser petrosal [CN9] → Otic ganglion → auriculotemporal n. → parotid</li>
-<li>Sup. Salivary nuc → Corda Tympani [CN7] → Submandibular ganglion → submandibular gland</li>
+SLP
+</p>
+</li>
 </ul>
-<h3 class="unnumbered" id="melanoma">Melanoma</h3>
-<ul><li><p>Ask about:</p>
-<ul><li><p>Sunlight exposure, history of skin burns, family history
+
+id="improving-voice-outcomes-after-thyroid-surgery-clinical-practice-guideline"\>Improving
+Voice Outcomes after Thyroid Surgery -- Clinical Practice Guideline
+
+<h3 class="unnumbered" id="adult-neck-mass-clinical-practice-guideline">
+Adult Neck Mass --
+Clinical Practice Guideline
+</h3>
+<ul>
+<li>
+<p>
+Don't routinely give antibiotics unless other signs of infection
+exist
+</p>
+</li>
+<li>
+<p>
+Suspicious if: present for \>2 weeks w/o change in size
+`<u>`{=html}or`</u>`{=html} if on exam mass is (1) fixed to adjacent structure (2) firm
+(3) \>1.5cm or (4) has ulceration of overlying skin `<u>`{=html}or`</u>`{=html} history
+highly suspicious
+</p>
+<ul>
+<li>
+<p>
+In these patients, do targeted physical exam (FOE etc)
+</p>
+</li>
+<li>
+<p>
+Strongly recommend CT neck (U/S or MRI ok) or performing an FNA
+on these suspicious neck masses
+</p>
+<ul>
+<li>
+<p>
+FNA should be done INSTEAD of an open biopsy
+</p>
+</li>
+<li>
+<p>
+Cystic masses: don't assume that they are benign
+</p>
+</li>
+<li>
+<p>
+If testing is negative:
+</p>
+<ul>
+<li>
+<p>
+Can either with open biopsy (should `<u>`{=html}always`</u>`{=html} be done with a
+direct laryngoscopy)
+</p>
+</li>
+<li>
+<p>
+Or could do additional testing (CBC, ANA, SSA/SSB, ESR, TSH, PTH,
+EBV,CMV, PPD, Bartonella, Thyroid U/S, CT chest /w contrast,
+Thyroglobulin FNA-needle wash assay
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="nerve-sheath-tumors">
+Nerve Sheath Tumors
+</h3>
+<h4 class="unnumbered" id="paragangliomas-glomus-tumors">
+Paragangliomas
+(Glomus tumors)
+</h4>
+<p>
+Glomus Jugulare: supplied by ascending pharyngeal a.
+</p>
+<p>
+Glomus Tympanicum: arise from Jacobson's nerve (CNIX)
+</p>
+<p>
+Carotid Body: MC in H&N: internal carotid posterior and external
+carotid anteriorly (Lyre sign)
+</p>
+<p>
+Vagal paraganglioma: Displaces carotid anteriorly and medially
+</p>
+<h3 class="unnumbered" id="salivary-glands">
+Salivary Glands
+</h3>
+<p>
+Innervation:
+</p>
+<ul>
+<li>
+Sup. Salivary nuc → GSPN (pregang. parasymp.) \[CN7\] → pterygopalatine ganglion → lacrimal
+</li>
+<li>
+Inf. Salivary nuc → Lesser petrosal \[CN9\] → Otic ganglion → auriculotemporal n. → parotid
+</li>
+<li>
+Sup. Salivary nuc → Corda Tympani \[CN7\] → Submandibular ganglion → submandibular gland
+</li>
+</ul>
+<h3 class="unnumbered" id="melanoma">
+Melanoma
+</h3>
+<ul>
+<li>
+<p>
+Ask about:
+</p>
+<ul>
+<li>
+<p>
+Sunlight exposure, history of skin burns, family history
 (xeroderma pigmentosum, familial atypical multiple mole melanoma
-syndrome, dysplastic nevus syndrome)</p></li><li><p>Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
-not prognostic )</p>
-<ul><li><p>Asymmetry, Borders are irregular. Color is not uniform. Diameter
-&gt; 6 mm.</p></li><li><p>Workup:</p>
-<ul><li><p>Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
+syndrome, dysplastic nevus syndrome)
+</p>
+</li>
+<li>
+<p>
+Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
+not prognostic )
+</p>
+<ul>
+<li>
+<p>
+Asymmetry, Borders are irregular. Color is not uniform. Diameter
+\> 6 mm.
+</p>
+</li>
+<li>
+<p>
+Workup:
+</p>
+<ul>
+<li>
+<p>
+Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
 can do punch biopsy however this is subject to sampling error so if
 negative, strongly consider repeating. This will give you information to
-perform the wide local excision later.</p></li><li><p>Patients with:</p></li><li><p>Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
-for liver mets)</p></li><li><p>Palpable LNs or imaging findings for enlarged LNs: get U/S guided
-FNA to eval for metastatic LN disease</p></li><li><p>Stage III disease: some advocate for CT C/A/P to look for distant
-mets (CT chest is most important)</p></li><li><p>Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
-trials</p></li><li><p>Prognosis depends on variant: worse with ↑Breslow Depth,
-ulceration, M&gt;F, and Head/Neck location</p>
-<ul><li><p>Occiput and cheek most common sites of H&amp;N</p></li><li><p>Markers</p>
-<ul><li><p>HMB-45 (specific). S-100 sensitive. Melan A. MART-1</p></li><li><p>Variants include</p>
-<ul><li><p>Superficial spreading—most common subtype; dominant early radial
-growth results in good prognosis.</p></li><li><p>Lentigo maligna melanoma (LMM)—lentiginous proliferation (radial
+perform the wide local excision later.
+</p>
+</li>
+<li>
+<p>
+Patients with:
+</p>
+</li>
+<li>
+<p>
+Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
+for liver mets)
+</p>
+</li>
+<li>
+<p>
+Palpable LNs or imaging findings for enlarged LNs: get U/S guided
+FNA to eval for metastatic LN disease
+</p>
+</li>
+<li>
+<p>
+Stage III disease: some advocate for CT C/A/P to look for distant
+mets (CT chest is most important)
+</p>
+</li>
+<li>
+<p>
+Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
+trials
+</p>
+</li>
+<li>
+<p>
+Prognosis depends on variant: worse with ↑Breslow Depth,
+ulceration, M\>F, and Head/Neck location
+</p>
+<ul>
+<li>
+<p>
+Occiput and cheek most common sites of H&N
+</p>
+</li>
+<li>
+<p>
+Markers
+</p>
+<ul>
+<li>
+<p>
+HMB-45 (specific). S-100 sensitive. Melan A. MART-1
+</p>
+</li>
+<li>
+<p>
+Variants include
+</p>
+<ul>
+<li>
+<p>
+Superficial spreading---most common subtype; dominant early radial
+growth results in good prognosis.
+</p>
+</li>
+<li>
+<p>
+Lentigo maligna melanoma (LMM)---lentiginous proliferation (radial
 growth); best prognosis. Associated with sun-exposed skin and the
-elderly</p></li><li><p>Nodular—blue/blackish, looks like hemangiomaearly vertical
-growth; poor prognosis</p></li><li><p>Acral lentiginous—arises on the palms or soles, often in
-dark-skinned individuals; not related to UV light exposure</p></li><li><p>Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
-High rate of recurrence</p></li><li><p>Clark levels: <u>only useful for prognosis in T1 lesions.</u></p>
-<ul><li><p><strong>epidermis</strong> only = stage I.</p></li><li><p><strong>Into papillary</strong> dermis = II.</p></li><li><p><strong>All of papillary</strong> dermis =III.</p></li><li><p>Invades <strong>reticular</strong> dermis = IV.</p></li><li><p>Into <strong>subcutaneous</strong> tissue: V</p></li><li><p>Melanoma TNM Staging</p></li></ul>
-
-
-
-
-
+elderly
+</p>
+</li>
+<li>
+<p>
+Nodular---blue/blackish, looks like hemangiomaearly vertical
+growth; poor prognosis
+</p>
+</li>
+<li>
+<p>
+Acral lentiginous---arises on the palms or soles, often in
+dark-skinned individuals; not related to UV light exposure
+</p>
+</li>
+<li>
+<p>
+Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
+High rate of recurrence
+</p>
+</li>
+<li>
+<p>
+Clark levels: `<u>`{=html}only useful for prognosis in T1 lesions.`</u>`{=html}
+</p>
+<ul>
+<li>
+<p>
+`<strong>`{=html}epidermis`</strong>`{=html} only = stage I.
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Into papillary`</strong>`{=html} dermis = II.
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}All of papillary`</strong>`{=html} dermis =III.
+</p>
+</li>
+<li>
+<p>
+Invades `<strong>`{=html}reticular`</strong>`{=html} dermis = IV.
+</p>
+</li>
+<li>
+<p>
+Into `<strong>`{=html}subcutaneous`</strong>`{=html} tissue: V
+</p>
+</li>
+<li>
+<p>
+Melanoma TNM Staging
+</p>
+</li>
+</ul>
 <table>
 <colgroup>
 <col style="width: 36%"/>
@@ -212,261 +699,885 @@ High rate of recurrence</p></li><li><p>Clark levels: <u>only useful for prognosi
 </colgroup>
 <thead>
 <tr class="header">
-<th></th>
-<th>N0</th>
-<th>N1</th>
+<th>
+</th>
+<th>
+N0
+</th>
+<th>
+N1
+</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>T1a</td>
-<td>IA</td>
-<td>III</td>
+<td>
+T1a
+</td>
+<td>
+IA
+</td>
+<td>
+III
+</td>
 </tr>
 <tr class="even">
-<td>T1b</td>
-<td>IB</td>
-<td>T2a</td>
-<td>T2b</td>
-<td>IIA</td>
-<td>T3a</td>
-<td>T3b</td>
-<td>IIB</td>
-<td>T4a</td>
-<td>T4b</td>
-<td>IIC</td>
+<td>
+T1b
+</td>
+<td>
+IB
+</td>
+<td>
+T2a
+</td>
+<td>
+T2b
+</td>
+<td>
+IIA
+</td>
+<td>
+T3a
+</td>
+<td>
+T3b
+</td>
+<td>
+IIB
+</td>
+<td>
+T4a
+</td>
+<td>
+T4b
+</td>
+<td>
+IIC
+</td>
 </tr>
 </tbody>
 </table>
-<p>Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%</p>
-<ul><li><p>Treatment</p>
-<ul><li><p>Surgical margins</p></li></ul>
+<p>
+Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%
+</p>
+<ul>
+<li>
+<p>
+Treatment
+</p>
+<ul>
+<li>
+<p>
+Surgical margins
+</p>
+</li>
+</ul>
 <blockquote>
-<p>Tis = 0.5mm margin</p>
-<p>T1 (&lt;1mm) = 1cm margin.</p>
-<p>T2 (1-2mm): do 1-2cm margin</p>
-<p>T3+ (&gt;2mm): do 2cm</p>
+<p>
+Tis = 0.5mm margin
+</p>
+<p>
+T1 (\<1mm) = 1cm margin.
+</p>
+<p>
+T2 (1-2mm): do 1-2cm margin
+</p>
+<p>
+T3+ (\>2mm): do 2cm
+</p>
 </blockquote>
 <ol start="2" type="A">
-<li><p>T2/T3/T4</p>
-<ul><li><p>Adjuvant: may consider interferon alpha 2b (Stage III+)</p></li><li><p>N0 neck: consider sentinel LN biopsy (SLNB). Especially if</p>
-<ul><li><p>&lt;60 yo especially for tumors w/o ulceration, Ulceration, High
-mitotic rate, Angiolymphatic invasion, Clark level IV</p></li><li><p>N1-N3: Neck dissection</p>
-<ul><li><p>Superficial parotidectomy + MRND if primary location is:
+<li>
+<p>
+T2/T3/T4
+</p>
+<ul>
+<li>
+<p>
+Adjuvant: may consider interferon alpha 2b (Stage III+)
+</p>
+</li>
+<li>
+<p>
+N0 neck: consider sentinel LN biopsy (SLNB). Especially if
+</p>
+<ul>
+<li>
+<p>
+\<60 yo especially for tumors w/o ulceration, Ulceration, High
+mitotic rate, Angiolymphatic invasion, Clark level IV
+</p>
+</li>
+<li>
+<p>
+N1-N3: Neck dissection
+</p>
+<ul>
+<li>
+<p>
+Superficial parotidectomy + MRND if primary location is:
 anterior/lateral scalp, temple, lateral forehead, lateral cheek , ear
-(basically anything anterior to the plane of the EACs)</p></li><li><p>Level II-V neck dissection: If primary is scalp/occiput posterior
-to the coronal plane of the EACs.</p></li><li><p>Special considerations:</p>
-<ul><li><p>Lentigo maligna melanoma (LMM) — tends to have subclinical spread
+(basically anything anterior to the plane of the EACs)
+</p>
+</li>
+<li>
+<p>
+Level II-V neck dissection: If primary is scalp/occiput posterior
+to the coronal plane of the EACs.
+</p>
+</li>
+<li>
+<p>
+Special considerations:
+</p>
+<ul>
+<li>
+<p>
+Lentigo maligna melanoma (LMM) --- tends to have subclinical spread
 (often has positive margins). After resection, take a circumferential
-"square" margin (Anderson et al. Johnson et al.)</p></li><li><p>Chemo:</p>
-<ul><li><p>Interferon alpha-2b — use for stage III, consider for T2+
-lesions. Can cause hepatic and cardiac toxicity.</p></li><li><p>Dacarbazine (DTIC) — stage IV</p></li><li><p>Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy</p>
-<ul><li><p>2-4 hours preop, patients get radioactive colloid into melanoma.
+"square" margin (Anderson et al. Johnson et al.)
+</p>
+</li>
+<li>
+<p>
+Chemo:
+</p>
+<ul>
+<li>
+<p>
+Interferon alpha-2b --- use for stage III, consider for T2+
+lesions. Can cause hepatic and cardiac toxicity.
+</p>
+</li>
+<li>
+<p>
+Dacarbazine (DTIC) --- stage IV
+</p>
+</li>
+<li>
+<p>
+Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy
+</p>
+<ul>
+<li>
+<p>
+2-4 hours preop, patients get radioactive colloid into melanoma.
 Inject methylene blue into melanoma (dermis). Dissect out the hottest
 radiactive node and all other nodes that are above 10% of the cpm value
-of the hottest node.</p></li></ul>
-<h2 class="unnumbered" id="head-neck-squamous-cell-carcinoma">Head &amp;
-Neck Squamous Cell Carcinoma</h2>
-<h4 class="unnumbered" id="prognosis-by-stage">Prognosis by Stage</h4>
-<p>Stage 0 —99%</p>
-<p>Stage 1 — 90-92%</p>
-<p>Stage 2 — 75-85%</p>
-<p>Stage 3 — 50%</p>
-<p>Stage 4 — 25-35%</p>
-<h4 class="unnumbered" id="who-gets-chemotherapy">Who gets
-chemotherapy</h4>
-<ul><li><p>Nasopharyngeal CA: Stage III-IV, some Stage II</p></li><li><p>Unresectable H&amp;N Ca</p></li><li><p>Laryngeal CA: induction cisplatin/5-FU for organ
-preservation</p></li><li><p>Unknown Primary – patients with N2,N3 disease</p></li><li><p><strong>Patients with positive margins or lymph nodes that have
-ECS</strong></p></li></ul>
-
-
-
-
-<h4 class="unnumbered" id="who-gets-radiation-therapy-to-neck">Who gets
-radiation therapy to neck</h4>
-<ul><li><p>Patients with N1 disease + extracapsular spread</p></li><li><p>Patients with N2-3 disease</p></li></ul>
-
-<h4 class="unnumbered" id="who-gets-a-neck-dissection">Who gets a neck
-dissection: </h4>
-<p>Classic training is that if risk of spread to lymph nodes is
-&gt;15-25%, should do neck dissection</p>
-<p><strong>N0 disease in:</strong></p>
-<ul><li><p>Oral Cavity - I - III</p></li><li><p>Oropharynx - II - IV</p></li><li><p>Hypopharynx/Larynx - II-IV, VI when appropriate</p></li><li><p>Subglottic - II-IV and VI</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="oral-cavity-ca">Oral Cavity CA</h3>
-<p><strong>Management</strong></p>
-<ul><li><p>Excision w/ reconstruction. Tumors &lt;2cm can be approached
-transorally</p>
-<ul><li><p>Mandible: Abutting periosteum - can get away with a marginal
+of the hottest node.
+</p>
+</li>
+</ul>
+<h2 class="unnumbered" id="head-neck-squamous-cell-carcinoma">
+Head &
+Neck Squamous Cell Carcinoma
+</h2>
+<h4 class="unnumbered" id="prognosis-by-stage">
+Prognosis by Stage
+</h4>
+<p>
+Stage 0 ---99%
+</p>
+<p>
+Stage 1 --- 90-92%
+</p>
+<p>
+Stage 2 --- 75-85%
+</p>
+<p>
+Stage 3 --- 50%
+</p>
+<p>
+Stage 4 --- 25-35%
+</p>
+<h4 class="unnumbered" id="who-gets-chemotherapy">
+Who gets
+chemotherapy
+</h4>
+<ul>
+<li>
+<p>
+Nasopharyngeal CA: Stage III-IV, some Stage II
+</p>
+</li>
+<li>
+<p>
+Unresectable H&N Ca
+</p>
+</li>
+<li>
+<p>
+Laryngeal CA: induction cisplatin/5-FU for organ
+preservation
+</p>
+</li>
+<li>
+<p>
+Unknown Primary -- patients with N2,N3 disease
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Patients with positive margins or lymph nodes that have
+ECS`</strong>`{=html}
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="who-gets-radiation-therapy-to-neck">
+Who gets
+radiation therapy to neck
+</h4>
+<ul>
+<li>
+<p>
+Patients with N1 disease + extracapsular spread
+</p>
+</li>
+<li>
+<p>
+Patients with N2-3 disease
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="who-gets-a-neck-dissection">
+Who gets a neck
+dissection:
+</h4>
+<p>
+Classic training is that if risk of spread to lymph nodes is
+\>15-25%, should do neck dissection
+</p>
+<p>
+`<strong>`{=html}N0 disease in:`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+Oral Cavity - I - III
+</p>
+</li>
+<li>
+<p>
+Oropharynx - II - IV
+</p>
+</li>
+<li>
+<p>
+Hypopharynx/Larynx - II-IV, VI when appropriate
+</p>
+</li>
+<li>
+<p>
+Subglottic - II-IV and VI
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="oral-cavity-ca">
+Oral Cavity CA
+</h3>
+<p>
+`<strong>`{=html}Management`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+Excision w/ reconstruction. Tumors \<2cm can be approached
+transorally
+</p>
+<ul>
+<li>
+<p>
+Mandible: Abutting periosteum - can get away with a marginal
 mandibulectomy. Invasion of mandible - need a segmental
-resection</p></li><li><p>N0 necks: elective ipsi/bilateral (b/l if midline) level I-III
-(Can avoid neck dissection in T1/2 N0 lower lips).</p></li><li><p>N1+ neck: selective I-III ND.</p></li><li><p>RT if positive nodes. Chemotherapy if adverse features (positive
-margins, ECS on LNs)</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="oropharyngeal-ca">Oropharyngeal CA</h3>
-<p><strong>Sites</strong>:</p>
-<ul><li><p>Tonsil: MC, aggressive, high risk of occult LN spread</p></li><li><p>Base of tongue: also aggressive w/ high rates of LN
-spread</p></li><li><p>Posterior pharyngeal wall and soft palate = less
-aggressive</p></li></ul>
-
-
-<p>T1-T2: excision vs primary XRT.</p>
-<p>N0: XRT or elective unilateral or bilateral ND levels II-IV.</p>
-<p>N1: XRT selective ND II-IV.</p>
-<p>N2-3: Chemorads + selective ND</p>
-<p>T3-T4: typically treated with radiation</p>
-<h3 class="unnumbered" id="laryngeal-ca">Laryngeal CA</h3>
-<h4 class="unnumbered" id="premalignant-glottic-lesions">Premalignant
-Glottic Lesions </h4>
-<ul><li><p>Hyperplasia/Hyperkeratosis - <u>not a risk for
-malignancy</u></p></li><li><p>Dysplasia</p>
-<ul><li><p>Severe dysplasia/Carcinoma in situ- risk is 15-25%</p></li><li><p>CIS has features of malignancy but <u>not invaded beyond basement
-membrane</u></p></li><li><p>Excisions</p>
-<ul><li><p>Microflap excision: Dissects superficial lamina propria and
-<u>spares vocal ligament</u></p></li></ul>
-<h4 class="unnumbered" id="hypopharyngeal-ca">Hypopharyngeal CA</h4>
-<ul><li><p>Hypopharynx: Level of hyoid bone to the cricopharyngeus behind
-the larynx</p></li><li><p><strong>Piriform sinus</strong> is most common location</p>
-<ul><li><p>Post-cricoid region: think plummer-vinson syndrome</p></li><li><p>Most are diagnosed at advanced stage</p>
-<ul><li><p>Hypopharynx may have skip lesions</p></li><li><p>Management</p>
-<ul><li><p>T1, some T2, N0 - partial laryngopharygectomy</p></li><li><p>Always do Level II-IV neck dissection even in N0 disease</p></li><li><p>Techniques</p>
-<ul><li><p><strong>Partial laryngopharyngectomy</strong></p>
-<ul><li><p>For T1 (some T2) piriform sinus cancer</p></li><li><p>Must involve <strong>medial wall</strong> and be <strong>1.5cm
-away from apex</strong></p></li><li><p><strong>Lateral + suprahyoid pharyngectomy</strong></p>
-<ul><li><p>For <u>posterior</u> cricopharyngeal wall CA</p></li><li><p>Total laryngectomy with partial pharyngectomy</p>
-<ul><li><p>For advance CA and <u>post-cricoid</u> CA</p></li><li><p>For these, need reconstruction with tension-free
-closure.</p></li></ul>
-
-<h4 class="unnumbered" id="laryngeal">LARYNGEAL </h4>
-<ul><li><p>Sites</p>
-<ul><li><p><strong>Supraglottis</strong>: High rate of note metastasis.
-Typically to bilateral II-IV</p></li><li><p><strong>Glottis</strong>: Most common site in larynx</p>
-<ul><li><p>Less spread due to barriers (vocal ligament, thyroglottic
-ligament)</p></li><li><p>Anterior commissure - <u>no inner perichondrium</u> allows for
-anterior spread to thyroid cartilage</p></li><li><p><strong>Subglottic</strong>: Rare, poor prognosis</p></li><li><p>Treatments</p>
-<ul><li><p>Laser surgery</p>
-<ul><li><p>Ideal for T1 glottic or supraglottic SCCA. Risk of
-scarring</p></li><li><p><strong>Anterior commissure involvement</strong> - associated
-with high recurrence rates</p></li><li><p>Surgery</p>
-<ul><li><p>Cordectomy—Indication: T1 glottic cancer restricted to <u>middle
-1/3 of vocal fold</u></p></li><li><p>Conservative/Function Laryngectomies:</p>
-<ul><li><p>Contraindication to partial laryngectomies is poor pulmonary
-function</p></li><li><p>Vertical partial laryngectomy (Hemi laryngectomy)</p>
-<ul><li><p>high risk of aspiration, must have really go pulmonary
-<ul><li><p>Can decrease risk by <strong>turning to operated side</strong>
-and performing a <strong>chin tuck</strong></p></li><li><p>T1/T2 glottic CA that doesn't extend beyond 1/3 of opposite cord
-or involve posterior commissure</p></li><li><p>Supraglottic partial laryngectomy (Horizontal
-Hemi-laryngectomy)</p>
-<ul><li><p>For <strong>T1/T2 <em>supraglottic</em> tumors</strong></p></li><li><p>preservation of both true vocal cords and arytenoids - preserves
-voice</p></li><li><p>Disadvantage: needs initial trach, increased aspiration risk as
-SLN is taken</p></li><li><p>Supracricoid partial laryngectomy</p>
-<ul><li><p>Must preserve <u>one functional cricoarytenoid unit</u>
+resection
+</p>
+</li>
+<li>
+<p>
+N0 necks: elective ipsi/bilateral (b/l if midline) level I-III
+(Can avoid neck dissection in T1/2 N0 lower lips).
+</p>
+</li>
+<li>
+<p>
+N1+ neck: selective I-III ND.
+</p>
+</li>
+<li>
+<p>
+RT if positive nodes. Chemotherapy if adverse features (positive
+margins, ECS on LNs)
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="oropharyngeal-ca">
+Oropharyngeal CA
+</h3>
+<p>
+`<strong>`{=html}Sites`</strong>`{=html}:
+</p>
+<ul>
+<li>
+<p>
+Tonsil: MC, aggressive, high risk of occult LN spread
+</p>
+</li>
+<li>
+<p>
+Base of tongue: also aggressive w/ high rates of LN
+spread
+</p>
+</li>
+<li>
+<p>
+Posterior pharyngeal wall and soft palate = less
+aggressive
+</p>
+</li>
+</ul>
+<p>
+T1-T2: excision vs primary XRT.
+</p>
+<p>
+N0: XRT or elective unilateral or bilateral ND levels II-IV.
+</p>
+<p>
+N1: XRT selective ND II-IV.
+</p>
+<p>
+N2-3: Chemorads + selective ND
+</p>
+<p>
+T3-T4: typically treated with radiation
+</p>
+<h3 class="unnumbered" id="laryngeal-ca">
+Laryngeal CA
+</h3>
+<h4 class="unnumbered" id="premalignant-glottic-lesions">
+Premalignant
+Glottic Lesions
+</h4>
+<ul>
+<li>
+<p>
+Hyperplasia/Hyperkeratosis - `<u>`{=html}not a risk for
+malignancy`</u>`{=html}
+</p>
+</li>
+<li>
+<p>
+Dysplasia
+</p>
+<ul>
+<li>
+<p>
+Severe dysplasia/Carcinoma in situ- risk is 15-25%
+</p>
+</li>
+<li>
+<p>
+CIS has features of malignancy but `<u>`{=html}not invaded beyond basement
+membrane`</u>`{=html}
+</p>
+</li>
+<li>
+<p>
+Excisions
+</p>
+<ul>
+<li>
+<p>
+Microflap excision: Dissects superficial lamina propria and
+`<u>`{=html}spares vocal ligament`</u>`{=html}
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="hypopharyngeal-ca">
+Hypopharyngeal CA
+</h4>
+<ul>
+<li>
+<p>
+Hypopharynx: Level of hyoid bone to the cricopharyngeus behind
+the larynx
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Piriform sinus`</strong>`{=html} is most common location
+</p>
+<ul>
+<li>
+<p>
+Post-cricoid region: think plummer-vinson syndrome
+</p>
+</li>
+<li>
+<p>
+Most are diagnosed at advanced stage
+</p>
+<ul>
+<li>
+<p>
+Hypopharynx may have skip lesions
+</p>
+</li>
+<li>
+<p>
+Management
+</p>
+<ul>
+<li>
+<p>
+T1, some T2, N0 - partial laryngopharygectomy
+</p>
+</li>
+<li>
+<p>
+Always do Level II-IV neck dissection even in N0 disease
+</p>
+</li>
+<li>
+<p>
+Techniques
+</p>
+<ul>
+<li>
+<p>
+`<strong>`{=html}Partial laryngopharyngectomy`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+For T1 (some T2) piriform sinus cancer
+</p>
+</li>
+<li>
+<p>
+Must involve `<strong>`{=html}medial wall`</strong>`{=html} and be `<strong>`{=html}1.5cm
+away from apex`</strong>`{=html}
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Lateral + suprahyoid pharyngectomy`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+For `<u>`{=html}posterior`</u>`{=html} cricopharyngeal wall CA
+</p>
+</li>
+<li>
+<p>
+Total laryngectomy with partial pharyngectomy
+</p>
+<ul>
+<li>
+<p>
+For advance CA and `<u>`{=html}post-cricoid`</u>`{=html} CA
+</p>
+</li>
+<li>
+<p>
+For these, need reconstruction with tension-free
+closure.
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="laryngeal">
+LARYNGEAL
+</h4>
+<ul>
+<li>
+<p>
+Sites
+</p>
+<ul>
+<li>
+<p>
+`<strong>`{=html}Supraglottis`</strong>`{=html}: High rate of note metastasis.
+Typically to bilateral II-IV
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Glottis`</strong>`{=html}: Most common site in larynx
+</p>
+<ul>
+<li>
+<p>
+Less spread due to barriers (vocal ligament, thyroglottic
+ligament)
+</p>
+</li>
+<li>
+<p>
+Anterior commissure - `<u>`{=html}no inner perichondrium`</u>`{=html} allows for
+anterior spread to thyroid cartilage
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Subglottic`</strong>`{=html}: Rare, poor prognosis
+</p>
+</li>
+<li>
+<p>
+Treatments
+</p>
+<ul>
+<li>
+<p>
+Laser surgery
+</p>
+<ul>
+<li>
+<p>
+Ideal for T1 glottic or supraglottic SCCA. Risk of
+scarring
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Anterior commissure involvement`</strong>`{=html} - associated
+with high recurrence rates
+</p>
+</li>
+<li>
+<p>
+Surgery
+</p>
+<ul>
+<li>
+<p>
+Cordectomy---Indication: T1 glottic cancer restricted to `<u>`{=html}middle
+1/3 of vocal fold`</u>`{=html}
+</p>
+</li>
+<li>
+<p>
+Conservative/Function Laryngectomies:
+</p>
+<ul>
+<li>
+<p>
+Contraindication to partial laryngectomies is poor pulmonary
+function
+</p>
+</li>
+<li>
+<p>
+Vertical partial laryngectomy (Hemi laryngectomy)
+</p>
+<ul>
+<li>
+<p>
+high risk of aspiration, must have really go pulmonary
+<ul>
+<li>
+<p>
+Can decrease risk by `<strong>`{=html}turning to operated side`</strong>`{=html}
+and performing a `<strong>`{=html}chin tuck`</strong>`{=html}
+</p>
+</li>
+<li>
+<p>
+T1/T2 glottic CA that doesn't extend beyond 1/3 of opposite cord
+or involve posterior commissure
+</p>
+</li>
+<li>
+<p>
+Supraglottic partial laryngectomy (Horizontal
+Hemi-laryngectomy)
+</p>
+<ul>
+<li>
+<p>
+For `<strong>`{=html}T1/T2 `<em>`{=html}supraglottic`</em>`{=html} tumors`</strong>`{=html}
+</p>
+</li>
+<li>
+<p>
+preservation of both true vocal cords and arytenoids - preserves
+voice
+</p>
+</li>
+<li>
+<p>
+Disadvantage: needs initial trach, increased aspiration risk as
+SLN is taken
+</p>
+</li>
+<li>
+<p>
+Supracricoid partial laryngectomy
+</p>
+<ul>
+<li>
+<p>
+Must preserve `<u>`{=html}one functional cricoarytenoid unit`</u>`{=html}
 (arytenoid, cricoid and hyoid and associated musculature, plus the
-superior and recurrent laryngeal nerve)</p></li><li><p>Resects supraglottis plus vocal fold, thyroid cartilage, and
-paraglottic space</p></li><li><p><strong>Select T3/T3 supraglottic/glottic CA</strong> - must not
-have <strong>arytenoid fixation</strong></p></li><li><p>Open partial laryngectomy: Resects anterior commissure for select
-cases</p></li><li><p><strong>Contraindications</strong>:</p>
-<ul><li><p>Cartilage invasion, <strong>VF fixation</strong>, interarytenoid
-involvement, tongue base involvement, poor performance status</p></li><li><p>Total laryngectomy:</p>
-<ul><li><p>With addition of pharyngeal structures such as piriform sinus or
-laryngeal pharyngeal wall if needed</p></li><li><p>Radiation: Used for T1/T2 lesions</p></li><li><p>Neck Dissections</p>
-<ul><li><p>Hypopharyngeal: Yes starting at T1 (With T2 or N1, should also do
-Level VI)</p></li><li><p>Supraglottic: yes for T1 N0</p></li></ul>
-
-<h2 class="unnumbered" id="post--hn-cancer-treatment-follow-up-guide">Post- H&amp;N Cancer
-Treatment Follow-up Guide:</h2>
-<ul><li><p>Interval H&amp;P w/ fiberoptic or mirror exam:</p>
-<ul><li><p>Year 1: q1-3months.</p></li><li><p>Year 2: q2-6months</p></li><li><p>Year 3-5:q4-8months</p></li><li><p>After 5years: q1year</p></li><li><p>Get post-therapy (surgery or XRT) CT vs PET-CT 2-3 months (for
-most ppl – can probs avoid in T1/T2 glottic CA since It only picks up
-7-8mm lesions and FOE is more sensitive)</p></li><li><p>Check CXR and thyroid function tests q6-12 months</p></li><li><p>Evals: SLP, dental, and nutrition evals as needed</p></li></ul>
-
-
-
-
-
-
-<h2 class="unnumbered" id="head-neck-or-guide">Head &amp; Neck – OR
-Guide</h2>
-<h3 class="unnumbered" id="dr.-tracys-radial-forearm-free-flap">Dr.
-Tracy’s Radial Forearm Free Flap</h3>
-<p><strong>Raising the flap</strong></p>
-<p>Prep:</p>
-<p>Shave arm</p>
-<p>Prep arm, shoulder, chest with Chloraprep while someone holds the
-arm, and prep the head and neck in the usual fashion</p>
-<p>Tuck half sheet covered with towels under the flank. Arm needs to
-rest on arm board, place sterile drape on arm board.</p>
-<p>Place a towel around the armpit and use Edna to clip it. Then, wrap a
+superior and recurrent laryngeal nerve)
+</p>
+</li>
+<li>
+<p>
+Resects supraglottis plus vocal fold, thyroid cartilage, and
+paraglottic space
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Select T3/T3 supraglottic/glottic CA`</strong>`{=html} - must not
+have `<strong>`{=html}arytenoid fixation`</strong>`{=html}
+</p>
+</li>
+<li>
+<p>
+Open partial laryngectomy: Resects anterior commissure for select
+cases
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Contraindications`</strong>`{=html}:
+</p>
+<ul>
+<li>
+<p>
+Cartilage invasion, `<strong>`{=html}VF fixation`</strong>`{=html}, interarytenoid
+involvement, tongue base involvement, poor performance status
+</p>
+</li>
+<li>
+<p>
+Total laryngectomy:
+</p>
+<ul>
+<li>
+<p>
+With addition of pharyngeal structures such as piriform sinus or
+laryngeal pharyngeal wall if needed
+</p>
+</li>
+<li>
+<p>
+Radiation: Used for T1/T2 lesions
+</p>
+</li>
+<li>
+<p>
+Neck Dissections
+</p>
+<ul>
+<li>
+<p>
+Hypopharyngeal: Yes starting at T1 (With T2 or N1, should also do
+Level VI)
+</p>
+</li>
+<li>
+<p>
+Supraglottic: yes for T1 N0
+</p>
+</li>
+</ul>
+<h2 class="unnumbered" id="post--hn-cancer-treatment-follow-up-guide">
+Post- H&N Cancer
+Treatment Follow-up Guide:
+</h2>
+<ul>
+<li>
+<p>
+Interval H&P w/ fiberoptic or mirror exam:
+</p>
+<ul>
+<li>
+<p>
+Year 1: q1-3months.
+</p>
+</li>
+<li>
+<p>
+Year 2: q2-6months
+</p>
+</li>
+<li>
+<p>
+Year 3-5:q4-8months
+</p>
+</li>
+<li>
+<p>
+After 5years: q1year
+</p>
+</li>
+<li>
+<p>
+Get post-therapy (surgery or XRT) CT vs PET-CT 2-3 months (for
+most ppl -- can probs avoid in T1/T2 glottic CA since It only picks up
+7-8mm lesions and FOE is more sensitive)
+</p>
+</li>
+<li>
+<p>
+Check CXR and thyroid function tests q6-12 months
+</p>
+</li>
+<li>
+<p>
+Evals: SLP, dental, and nutrition evals as needed
+</p>
+</li>
+</ul>
+<h2 class="unnumbered" id="head-neck-or-guide">
+Head & Neck -- OR
+Guide
+</h2>
+<h3 class="unnumbered" id="dr.-tracys-radial-forearm-free-flap">
+Dr.
+Tracy's Radial Forearm Free Flap
+</h3>
+<p>
+`<strong>`{=html}Raising the flap`</strong>`{=html}
+</p>
+<p>
+Prep:
+</p>
+<p>
+Shave arm
+</p>
+<p>
+Prep arm, shoulder, chest with Chloraprep while someone holds the
+arm, and prep the head and neck in the usual fashion
+</p>
+<p>
+Tuck half sheet covered with towels under the flank. Arm needs to
+rest on arm board, place sterile drape on arm board.
+</p>
+<p>
+Place a towel around the armpit and use Edna to clip it. Then, wrap a
 sponge around the thumb to supinate the forearm and clip the sponge to
-the arm board with an Edna.</p>
-<p>Then cover the arm with towel to keep sterile.</p>
-<p>Dr. Tracy will then wrap the arm with an elastic wrap to drain it off
+the arm board with an Edna.
+</p>
+<p>
+Then cover the arm with towel to keep sterile.
+</p>
+<p>
+Dr. Tracy will then wrap the arm with an elastic wrap to drain it off
 its venous supply. Then the tourniquet will be applied as a setting of
-250 and a timer for 1 hour starts.</p>
-<p>Begin by incising the lateral aspect of the skin paddle to find the
+250 and a timer for 1 hour starts.
+</p>
+<p>
+Begin by incising the lateral aspect of the skin paddle to find the
 Cephalic vein which is preserved and follow it all the way up to the
 antecubital fossa. Next use forceps to find the vascular pedicle then
 you can raise the flap on the contralateral side and isolate and tie off
-the vascular pedicle and start lifting the flap</p>
-<h3 class="unnumbered" id="dr.-olearys-thyroidectomy">Dr. O’Leary’s
-Thyroidectomy</h3>
-<p>Laryngeal nerve monitoring tube is needed and the Medtronic NIM
-monitor. No paralytics, and needs antibiotics. Watch anesthesia’s
+the vascular pedicle and start lifting the flap
+</p>
+<h3 class="unnumbered" id="dr.-olearys-thyroidectomy">
+Dr. O'Leary's
+Thyroidectomy
+</h3>
+<p>
+Laryngeal nerve monitoring tube is needed and the Medtronic NIM
+monitor. No paralytics, and needs antibiotics. Watch anesthesia's
 glidescope to ensure that the blue stripe is adjacent to the vocal
 cords. Place the gel ax roll as the shoulder roll and recheck the tube
 placement with the glidescope. Attach the nerve monitor consul at the
 head of the bed and tape it in place. Ensure that the nerve monitor is
 working appropriately by tapping in the neck. Mark the neck along a
 nerve crease if possible 2-3 cm above the sternal notch. Inject with 1%
-lidocaine with epi. Prep with betadine.</p>
-<h3 class="unnumbered" id="dr.-dhingras-thyroidectomy">Dr. Dhingra’s Thyroidectomy</h3>
-<p>Inject incision in preop.</p>
-<p>Make generous incision 2 inches above the sternum then make the
+lidocaine with epi. Prep with betadine.
+</p>
+<h3 class="unnumbered" id="dr.-dhingras-thyroidectomy">
+Dr. Dhingra's Thyroidectomy
+</h3>
+<p>
+Inject incision in preop.
+</p>
+<p>
+Make generous incision 2 inches above the sternum then make the
 incision down past the platysma on both sides and use the Bovie to
 develop yourself sub-platysmal flaps. Use your finger as a come hither
 motion to get them going and work a free edge. Go down to the sternum on
-the inferior flap. Go up to the cricoid/thyroid notch superiorly.</p>
-<p>Then travel down midline kind of like you would do with a trach. Use
-kelly’s to present the midline fascia for someone to divide with the
-bovie.</p>
-<p>Keep going making sure you’re a midline until you come down to the
+the inferior flap. Go up to the cricoid/thyroid notch superiorly.
+</p>
+<p>
+Then travel down midline kind of like you would do with a trach. Use
+kelly's to present the midline fascia for someone to divide with the
+bovie.
+</p>
+<p>
+Keep going making sure you're a midline until you come down to the
 thyroid. Be careful inferiorly because there is a plexus of vessels and
-become very vascular. Here use the ligasure to make sure you don’t make
-anything bleed.</p>
-<p>Once you found the thyroid then you want to work the sternothyroid
+become very vascular. Here use the ligasure to make sure you don't make
+anything bleed.
+</p>
+<p>
+Once you found the thyroid then you want to work the sternothyroid
 off the thyroid to develop the lateral edge of the thyroid. To do this,
 get two peanuts: one using to retract the thyroid towards you and the
 other to push on the undersurface of the sternothyroid to elevate it
 off. Once you have enough of an edge, ask for the lady finger for
-someone to retract. Once you’ve developed the lateral edge, keep doing
+someone to retract. Once you've developed the lateral edge, keep doing
 it up towards the superior pole. Here there are a lot of vessels so be
-sure to use the Ligasure.</p>
-<p>This is the part to pay attention to: developing the superior pole is
+sure to use the Ligasure.
+</p>
+<p>
+This is the part to pay attention to: developing the superior pole is
 the one of three or four critical steps. You should not look for the
 superior laryngeal nerve necessarily but you should be cognizant of the
-cricothyroid muscle.</p>
-<p>Once you have freed the superior pole you can develop the middle a
-little bit more but don’t get too deep/posterior. This is when you have
+cricothyroid muscle.
+</p>
+<p>
+Once you have freed the superior pole you can develop the middle a
+little bit more but don't get too deep/posterior. This is when you have
 to check to see where your current laryngeal nerve is remember the
-different landmarks.</p>
-<ul><li><p>Located in simon's triangle: trachea, carotid, and inferior
-lobe.</p></li><li><p>RLN is deep to berry's ligament</p></li><li><p>Tubercle of Zuckerkandl: RLN is medial to it. Superior thyroid is
-superior to it</p></li><li><p>Left RLN is more medial than right RLN. Left RLN is reliably deep
-to inferior thyroid a</p></li><li><p>Superior Parathyroid is posterior to RLN. Inferior parathyroid is
-anterior to RLN</p></li></ul>
-
-
-
-
-<p>In reality you’re going to use a snit forcep spreading in the
+different landmarks.
+</p>
+<ul>
+<li>
+<p>
+Located in simon's triangle: trachea, carotid, and inferior
+lobe.
+</p>
+</li>
+<li>
+<p>
+RLN is deep to berry's ligament
+</p>
+</li>
+<li>
+<p>
+Tubercle of Zuckerkandl: RLN is medial to it. Superior thyroid is
+superior to it
+</p>
+</li>
+<li>
+<p>
+Left RLN is more medial than right RLN. Left RLN is reliably deep
+to inferior thyroid a
+</p>
+</li>
+<li>
+<p>
+Superior Parathyroid is posterior to RLN. Inferior parathyroid is
+anterior to RLN
+</p>
+</li>
+</ul>
+<p>
+In reality you're going to use a snit forcep spreading in the
 direction of the nerve and using the stimulator. Once you found it
 follow superiorly and inferiorly see that you are confident of the plane
-typically people follow it all the way into its insertion.</p>
-<p>Once you’ve done that you can free the rest of the middle and
+typically people follow it all the way into its insertion.
+</p>
+<p>
+Once you've done that you can free the rest of the middle and
 inferior pole of the thyroid and of the trachea. You can do this
 relatively quickly as the nerve is protected. Once the thyroid only
 attached to the trachea, use a Kelly and spread along the trachea in the
@@ -475,620 +1586,1763 @@ trachea as well as the plane is pretty well developed). Then you can
 transect half of it and do the otherside. Dump some thrombin soaked
 Gelfoam into the resected area close the straps with 3-0 Vicryl. Close
 the platysma with 4-0 Vicryl and close the wound with a subcuticular 5-0
-Monocryl.</p>
-<h3 class="unnumbered" id="dr-wein-thyroidectomy">Dr Wein Thyroidectomy</h3>
-<p>Similar set up to Dhingra’s. When you lift the upper subplatysmal
+Monocryl.
+</p>
+<h3 class="unnumbered" id="dr-wein-thyroidectomy">
+Dr Wein Thyroidectomy
+</h3>
+<p>
+Similar set up to Dhingra's. When you lift the upper subplatysmal
 flap, roll skin over a wet 4x8 gauze and suture to mandible with 2-0
 silk to retract it. Use 3 lone stars on lower flap. Split the straps.
 Free the middle of the thyroid. Use middle finger on gauze to retract
 thyroid towards you. Use a ladyfinger to retract straps. Bipolar through
-fascia. When you approach superior pole, hug gland. Dr Wein doesn’t
-necessarily go hunting for the nerve</p>
-<h3 class="unnumbered" id="dr-wein-inspire-hypoglossal-nerve-implants">Dr Wein INSPIRE Hypoglossal Nerve Implants</h3>
-<p><strong>Set Up:</strong></p>
-<ul><li><p>Patient rotated 180. Tube taped to the left</p></li><li><p>Place shoulder roll. Tuck right arm. <u>Leave mouth
-open</u></p></li><li><p>NIM Monitor (NIM 3.0): 3 lead setup:</p>
-<ul><li><p>Leads 1 &amp; 2 go into tongue (include=blue,
-exclude=red)</p></li><li><p>Lead 3 (purple) goes into marginal mandibular</p></li></ul>
-
-<p><img alt="" src="media/image29.png" style="width:3.68368in;height:1.27878in"/></p>
-<p>Figure 11: INSPIRE Implant Training, 2016</p>
-<p><strong>Incisions:</strong></p>
-<p>Neck: 4-6cm starting from anterior aspect of submandibular gland to
-~1cm from midline.</p>
-<p>Mark EJ, SMG, midline, hyoid, mandible</p>
-<p>Implant Pocket: 5cm inferior to clavicle. 5.5cm in length. Between
-deltopectoral groove &amp; sternum</p>
-<p>Sensor: Use inferolateral margin of pec (should be 5<sup>th</sup>
-intercostal space)</p>
-<p><img alt="" src="media/image30.png" style="width:2.25694in;height:1.55625in"/> 4-5cm incision lateral to
-nipple line</p>
-<p><strong>Prep</strong></p>
-<ul><li><p>Betadine from upper lip to mid abdomen. As far lateral as you can
-go to just past midline</p></li><li><p>1020 drape just above mandible (so tongue is visible)</p></li><li><p>Drap off the rest. Then place ioban from superior to
-inferior.</p></li><li><p>Split drape: drap up to head. Then half-drape around head &amp;
-top of 1000 drape (allow tongue to still be visible</p></li></ul>
-
-
-
-<p><strong>Steps:</strong></p>
-<p><strong>Neck</strong>: Incision through past platysma. Watch out for
+fascia. When you approach superior pole, hug gland. Dr Wein doesn't
+necessarily go hunting for the nerve
+</p>
+<h3 class="unnumbered" id="dr-wein-inspire-hypoglossal-nerve-implants">
+Dr Wein INSPIRE Hypoglossal Nerve Implants
+</h3>
+<p>
+`<strong>`{=html}Set Up:`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+Patient rotated 180. Tube taped to the left
+</p>
+</li>
+<li>
+<p>
+Place shoulder roll. Tuck right arm. `<u>`{=html}Leave mouth
+open`</u>`{=html}
+</p>
+</li>
+<li>
+<p>
+NIM Monitor (NIM 3.0): 3 lead setup:
+</p>
+<ul>
+<li>
+<p>
+Leads 1 & 2 go into tongue (include=blue,
+exclude=red)
+</p>
+</li>
+<li>
+<p>
+Lead 3 (purple) goes into marginal mandibular
+</p>
+</li>
+</ul>
+<p>
+`<img alt="" src="media/image29.png" style="width:3.68368in;height:1.27878in"/>`{=html}
+</p>
+<p>
+Figure 11: INSPIRE Implant Training, 2016
+</p>
+<p>
+`<strong>`{=html}Incisions:`</strong>`{=html}
+</p>
+<p>
+Neck: 4-6cm starting from anterior aspect of submandibular gland to
+\~1cm from midline.
+</p>
+<p>
+Mark EJ, SMG, midline, hyoid, mandible
+</p>
+<p>
+Implant Pocket: 5cm inferior to clavicle. 5.5cm in length. Between
+deltopectoral groove & sternum
+</p>
+<p>
+Sensor: Use inferolateral margin of pec (should be 5`<sup>`{=html}th`</sup>`{=html}
+intercostal space)
+</p>
+<p>
+`<img alt="" src="media/image30.png" style="width:2.25694in;height:1.55625in"/>`{=html} 4-5cm incision lateral to
+nipple line
+</p>
+<p>
+`<strong>`{=html}Prep`</strong>`{=html}
+</p>
+<ul>
+<li>
+<p>
+Betadine from upper lip to mid abdomen. As far lateral as you can
+go to just past midline
+</p>
+</li>
+<li>
+<p>
+1020 drape just above mandible (so tongue is visible)
+</p>
+</li>
+<li>
+<p>
+Drap off the rest. Then place ioban from superior to
+inferior.
+</p>
+</li>
+<li>
+<p>
+Split drape: drap up to head. Then half-drape around head &
+top of 1000 drape (allow tongue to still be visible
+</p>
+</li>
+</ul>
+<p>
+`<strong>`{=html}Steps:`</strong>`{=html}
+</p>
+<p>
+`<strong>`{=html}Neck`</strong>`{=html}: Incision through past platysma. Watch out for
 marginal mandibular (its just under platysma). Dissect to find
 mylohyoid/digastric tendon junction. If you first find the ant. belly of
 digastric, follow it posteriorly to digastric tendon. Then tunnel under
 DG tendon to free the entire length of posterior margin of mylohyoid.
 Retract mylohyoid anteriorly. This exposes the Ranine vein and the
-hypoglossal nerve.</p>
-<p>Isolate nerve fibers of hypoglossal nerve. Use bipolar NIM electrode
+hypoglossal nerve.
+</p>
+<p>
+Isolate nerve fibers of hypoglossal nerve. Use bipolar NIM electrode
 to determine inclusion (GGh, GGo, T/V)/exclusion (HG/SG) fibers. Use
 vessel loop to help retract nerve to pass stimulator cuff around
-inclusion fibers</p>
-<p>Pass stimulator under digastric tendon then tie stimulation lead to
-anterior belly of digastric. Pack w/ baci-soaked gauze</p>
-<p><strong>Implant Pocket</strong>: Incision down to but not through pec
-major fascia. Dissect pocket inferiorly to about 6cm deep</p>
-<p>Throw 2 silk sutures on medial edge of incision one 1cm superior to
-the other (vertical plane)</p>
-<p><strong>Sensor lead</strong>: Incision on 5th intercostal space.
+inclusion fibers
+</p>
+<p>
+Pass stimulator under digastric tendon then tie stimulation lead to
+anterior belly of digastric. Pack w/ baci-soaked gauze
+</p>
+<p>
+`<strong>`{=html}Implant Pocket`</strong>`{=html}: Incision down to but not through pec
+major fascia. Dissect pocket inferiorly to about 6cm deep
+</p>
+<p>
+Throw 2 silk sutures on medial edge of incision one 1cm superior to
+the other (vertical plane)
+</p>
+<p>
+`<strong>`{=html}Sensor lead`</strong>`{=html}: Incision on 5th intercostal space.
 Serratus fibers = most superficial running lateral to medial (inserting
 on ribs). External intercostals: run superior/lateral to inferior/medial
 (looks like packing tape). Make incision on medial aspect of incision
 through ext intercostals and dissect through until internal intercostals
-(running superior/medial to inferior/lateral) are seen.</p>
-<p>Use malleable to dissect plane btw ext &amp; int intercostals
+(running superior/medial to inferior/lateral) are seen.
+</p>
+<p>
+Use malleable to dissect plane btw ext & int intercostals
 (medially between ribs). Insert electrode. Fix sensor to ext
-intercostals w/ 4x 3-0 silk on RB-1</p>
-<p><strong>Tunnels:</strong> Use tunneling shaft from neck incision to
+intercostals w/ 4x 3-0 silk on RB-1
+</p>
+<p>
+`<strong>`{=html}Tunnels:`</strong>`{=html} Use tunneling shaft from neck incision to
 implant incision (avoid ext jugular) in the subplatysmal plane. Then
 tunnel from implant incision above pectoralis to sensor lead incision.
 Pass sensor leads from neck and chest sensors to implant. Put leads into
 implant. Screw in (press down and rotate for 4 clicks). Tie implant to
-pocket with 2-0 silks</p>
-<p>Close: 4-0 or 3-0 vicyrl for deeps. 5-0 monocyrl for superficial.
+pocket with 2-0 silks
+</p>
+<p>
+Close: 4-0 or 3-0 vicyrl for deeps. 5-0 monocyrl for superficial.
 Wash incision. Steri-stripes (perpendicular along incision than 3
 parallel to incision to hide any blood stains. Unmarked 4x8 Gauze over
-incision taped down with Medipore tape</p>
-<p><strong>Post-op</strong></p>
-<p>No antibiotics</p>
-<p>Pain medication</p>
-<p>Give post-INSPIRE d/c instructions</p>
-<p>Get <u>Lateral Neck and CXR in PACU. Make sure patient has no
-PTX</u></p>
-<h2 class="unnumbered" id="head-neck-post-op-guide">Head &amp; Neck –
-Post-op Guide</h2>
-<h3 class="unnumbered" id="dr.-weins-patients">Dr. Wein’s patients</h3>
-<ul><li><p>Always change dressing on rounds, replace Velcro trach ties,
+incision taped down with Medipore tape
+</p>
+<p>
+`<strong>`{=html}Post-op`</strong>`{=html}
+</p>
+<p>
+No antibiotics
+</p>
+<p>
+Pain medication
+</p>
+<p>
+Give post-INSPIRE d/c instructions
+</p>
+<p>
+Get `<u>`{=html}Lateral Neck and CXR in PACU. Make sure patient has no
+PTX`</u>`{=html}
+</p>
+<h2 class="unnumbered" id="head-neck-post-op-guide">
+Head & Neck --
+Post-op Guide
+</h2>
+<h3 class="unnumbered" id="dr.-weins-patients">
+Dr. Wein's patients
+</h3>
+<ul>
+<li>
+<p>
+Always change dressing on rounds, replace Velcro trach ties,
 clean any dried blood/secretions etc. Take pride in their
-appearance.</p></li><li><p>You don’t require permission to pull JP/Channel drains if their
-output has dropped off. Just use common sense</p></li><li><p>post-op follow up appointments should be 10-14 days for patients
-who will be waiting on pathology results</p></li><li><p>Be active in communication with the family.</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="dr.-olearys-patients">Dr. O’Leary’s
-patients</h3>
-<ul><li><p>Typically removes drains after 3 shifts where output is &lt;20cc.
-Check before removing any drains</p></li></ul>
-<h3 class="unnumbered" id="generic-free-flap-tracy">Generic Free Flap
-[Tracy]</h3>
-<p><strong>Neuro:</strong></p>
-<ul>
-<li>Continue standing tylenol through DHT</li>
-<li>Continue oxycodone through DHT for severe pain, IV dilaudid for breakthrough pain</li>
-<li>No NSAIDs until POD#7</li>
+appearance.
+</p>
+</li>
+<li>
+<p>
+You don't require permission to pull JP/Channel drains if their
+output has dropped off. Just use common sense
+</p>
+</li>
+<li>
+<p>
+post-op follow up appointments should be 10-14 days for patients
+who will be waiting on pathology results
+</p>
+</li>
+<li>
+<p>
+Be active in communication with the family.
+</p>
+</li>
 </ul>
-<p><strong>HEENT:</strong></p>
+<h3 class="unnumbered" id="dr.-olearys-patients">
+Dr. O'Leary's
+patients
+</h3>
 <ul>
-<li>Start peridex swabs TID</li>
-<li>Continue Q1H flap checks for total 48 hours</li>
-<li>Then q2h flap checks for 24 hours</li>
-<li>ENT resident flap checks BID</li>
-<li>Strict NPO, no use of oral swabs unless for medication</li>
-<li>No circumferential neck ties</li>
+<li>
+<p>
+Typically removes drains after 3 shifts where output is \<20cc.
+Check before removing any drains
+</p>
+</li>
 </ul>
-<p><strong>CV:</strong></p>
+<h3 class="unnumbered" id="generic-free-flap-tracy">
+Generic Free Flap
+\[Tracy\]
+</h3>
+<p>
+`<strong>`{=html}Neuro:`</strong>`{=html}
+</p>
 <ul>
-<li>MAP goal &gt;60</li>
-<li>Avoid pressors as much as possible, please give fluid boluses or transfuse with RBC if hypotensive</li>
+<li>
+Continue standing tylenol through DHT
+</li>
+<li>
+Continue oxycodone through DHT for severe pain, IV dilaudid for breakthrough pain
+</li>
+<li>
+No NSAIDs until POD#7
+</li>
 </ul>
-<p><strong>RESP:</strong></p>
+<p>
+`<strong>`{=html}HEENT:`</strong>`{=html}
+</p>
 <ul>
-<li>7.0 Shiley proximal XLT trach in place with 4-point sutures, and superior and inferior stay sutures</li>
-<li>In the event of decannulation, pull the stay sutures towards the skin to bring the trachea more superficial and replace the tracheostomy tube. Patient is also intubatable from above</li>
+<li>
+Start peridex swabs TID
+</li>
+<li>
+Continue Q1H flap checks for total 48 hours
+</li>
+<li>
+Then q2h flap checks for 24 hours
+</li>
+<li>
+ENT resident flap checks BID
+</li>
+<li>
+Strict NPO, no use of oral swabs unless for medication
+</li>
+<li>
+No circumferential neck ties
+</li>
 </ul>
-<p><strong>GI:</strong></p>
+<p>
+`<strong>`{=html}CV:`</strong>`{=html}
+</p>
 <ul>
-<li>Advance tube feeds to continuous rate (impact peptide)</li>
-<li>OK for meds via DHT</li>
-<li>Continue bowel regimen</li>
-<li>Continue daily electrolyte checks, replete as necessary</li>
-<li>STRICT NPO. No swabs or ice chips.</li>
+<li>
+MAP goal \>60
+</li>
+<li>
+Avoid pressors as much as possible, please give fluid boluses or transfuse with RBC if hypotensive
+</li>
 </ul>
-<p><strong>ID:</strong></p>
+<p>
+`<strong>`{=html}RESP:`</strong>`{=html}
+</p>
 <ul>
-<li>Daily CBC</li>
-<li>S/p unasyn through 8/10</li>
-<li>Peridex TID</li>
-<li>Bacitracin to incisions BID</li>
+<li>
+7.0 Shiley proximal XLT trach in place with 4-point sutures, and superior and inferior stay sutures
+</li>
+<li>
+In the event of decannulation, pull the stay sutures towards the skin to bring the trachea more superficial and replace the tracheostomy tube. Patient is also intubatable from above
+</li>
 </ul>
-<p><strong>GU:</strong></p>
+<p>
+`<strong>`{=html}GI:`</strong>`{=html}
+</p>
 <ul>
-<li>Continue to monitor strict I/Os</li>
-<li>Remove foley when able</li>
+<li>
+Advance tube feeds to continuous rate (impact peptide)
+</li>
+<li>
+OK for meds via DHT
+</li>
+<li>
+Continue bowel regimen
+</li>
+<li>
+Continue daily electrolyte checks, replete as necessary
+</li>
+<li>
+STRICT NPO. No swabs or ice chips.
+</li>
 </ul>
-<p><strong>HEME:</strong></p>
+<p>
+`<strong>`{=html}ID:`</strong>`{=html}
+</p>
 <ul>
-<li>Start prophylactic dose lovenox 40 mg QD</li>
-<li>CBC daily</li>
+<li>
+Daily CBC
+</li>
+<li>
+S/p unasyn through 8/10
+</li>
+<li>
+Peridex TID
+</li>
+<li>
+Bacitracin to incisions BID
+</li>
 </ul>
-<p><strong>MSK:</strong></p>
+<p>
+`<strong>`{=html}GU:`</strong>`{=html}
+</p>
 <ul>
-<li>Continue to monitor leg for compartment syndrome</li>
-<li>Obtain right leg orthotic</li>
-<li>Wound vac in place for 5 days</li>
-<li>Work with PT daily, OOB</li>
-<li>PT/OT consult</li>
+<li>
+Continue to monitor strict I/Os
+</li>
+<li>
+Remove foley when able
+</li>
 </ul>
-<h3 class="unnumbered" id="laryngectomy-patients">Laryngectomy</h3>
-<ul><li><p>Diet: NPO</p></li><li><p>Nursing:</p>
-<ul><li><p>humidified air at all times (unless HME in place)</p></li><li><p>keep laryngectomy tube in place, clean once daily</p></li><li><p>suction laryngectomy stoma as needed for secretions</p></li><li><p>apply bacitracin ointment to chest and neck twice daily</p></li><li><p>sign above bed saying patient cannot be intubated from
-above</p></li><li><p>Leave trach collar loose fitting ( 2 fingerbreadths distance from
-neck)</p></li><li><p>If stoma vent is dislodged, it is NOT an airway emergency; gently
-place back into stoma</p></li><li><p>Rounds: <strong><u>check for crusting in the stoma</u></strong> –
+<p>
+`<strong>`{=html}HEME:`</strong>`{=html}
+</p>
+<ul>
+<li>
+Start prophylactic dose lovenox 40 mg QD
+</li>
+<li>
+CBC daily
+</li>
+</ul>
+<p>
+`<strong>`{=html}MSK:`</strong>`{=html}
+</p>
+<ul>
+<li>
+Continue to monitor leg for compartment syndrome
+</li>
+<li>
+Obtain right leg orthotic
+</li>
+<li>
+Wound vac in place for 5 days
+</li>
+<li>
+Work with PT daily, OOB
+</li>
+<li>
+PT/OT consult
+</li>
+</ul>
+<h3 class="unnumbered" id="laryngectomy-patients">
+Laryngectomy
+</h3>
+<ul>
+<li>
+<p>
+Diet: NPO
+</p>
+</li>
+<li>
+<p>
+Nursing:
+</p>
+<ul>
+<li>
+<p>
+humidified air at all times (unless HME in place)
+</p>
+</li>
+<li>
+<p>
+keep laryngectomy tube in place, clean once daily
+</p>
+</li>
+<li>
+<p>
+suction laryngectomy stoma as needed for secretions
+</p>
+</li>
+<li>
+<p>
+apply bacitracin ointment to chest and neck twice daily
+</p>
+</li>
+<li>
+<p>
+sign above bed saying patient cannot be intubated from
+above
+</p>
+</li>
+<li>
+<p>
+Leave trach collar loose fitting ( 2 fingerbreadths distance from
+neck)
+</p>
+</li>
+<li>
+<p>
+If stoma vent is dislodged, it is NOT an airway emergency; gently
+place back into stoma
+</p>
+</li>
+<li>
+<p>
+Rounds: `<strong>`{=html}`<u>`{=html}check for crusting in the stoma`</u>`{=html}`</strong>`{=html} --
 any exposed cartilage? In radiated patients, look out for possible
-fistula formation (tube feeds coming out neck)</p></li></ul>
-
-
-
-
-
-
-
-<h3 class="unnumbered" id="thyroidectomy-patients">Thyroidectomy</h3>
-<ul><li><p>Check PTH and iCa2+ post-op in PACU. If PTH abnormal, check iCa2+
-q4-6hours. If normal, recheck iCa2+ q8hrs.</p></li><li><p>levothyroxine: according to endocrine, <strong>levothyroxine dose
-in mcg = 1.7xpt’s weight (kg)</strong></p></li><li><p>If hypocalcemic – replete Ca2+ (see electrolyte section)</p></li></ul>
-
-
-<h3 class="unnumbered" id="tracheostomy-tube-placement">Tracheostomy
-Tube Placement</h3>
-<ul><li><p>Post op CXR</p></li><li><p>As RT to get a spare trach (plus size smaller) in the room. Make
-sure fresh inner cannulas, trach ties are in the room</p></li><li><p>Make sure nursing has suctioning set-up</p></li><li><p>Order routine trach care (suctioning PRN, humidified
-air)</p></li></ul>
-
-
-
-<p>First trach change:</p>
-<ul><li><p>Done on POD5-7. Longer if you expect trach change to be
-difficult: deep neck, high lung compliance (aka high PEEP
-requirement).</p></li><li><p><strong>Before trach change</strong>: ask RT to put new trachs at
-bedside and ask the RN to verify the correct type is there. Also ask the
-RN to give some pain medication just before change.</p></li><li><p><strong>Need</strong>: shoulder roll, headlight, new trach, 10cc
-syringe, lube, suture scissors, suction set up in room, flexible
-‘chimney’ suction, yankeur suction, 4x4 gauze w/ saline, Velcro trach
-tie, allvyn dressing (prn)</p></li><li><p>After 1<sup>st</sup> trach change: RT can change the
-trach</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="specific-complications-and-their-management">Specific Complications and their management</h3>
-<h4 class="unnumbered" id="chyle-leak">Chyle Leak: </h4>
-<p>If suspected, collect from JP and send for triglycerides,
-chylomicrons. Also get serum triglycerides. Positive if TG &gt;100mg/dL
-if TG(in JP) &gt; TG serum or if there are any chylomicrons</p>
-<p>Low output: &lt;500cc/day:</p>
-<ul>
-<li>octreotide 100 𝜇g SC Q8 or 3-6mg IV qdaily. Can cause HTN and gallstones.</li>
-<li>Medium chain triglyceride diet [For tube feeds switch to Portagen]</li>
+fistula formation (tube feeds coming out neck)
+</p>
+</li>
 </ul>
-<p>High output &gt;500cc/day: typically need to go to OR.</p>
-<h2 class="unnumbered" id="head-neck-staging---8th-edition">Head &amp;
-Neck Staging - 8<sup>th</sup> Edition</h2>
-<ul><li><p>AJCC 8th Edition Staging</p></li><li><p>GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx,
-Salivary Gland, Thyroid CA (in general)</p></li></ul>
-
-<p>T1—&lt;2cm</p>
-<p>T2— 2-4cm</p>
-<p>T3— 4+cm</p>
-<ul><li><p>In general, for Laryngeal Cancer</p></li></ul>
-<p>T1 - same subsite</p>
-<p>T2 - extends to nearby subsite</p>
-<p>T3 - fixes vocal cords</p>
-<p>T4 - extends past borders of larynx</p>
+<h3 class="unnumbered" id="thyroidectomy-patients">
+Thyroidectomy
+</h3>
+<ul>
+<li>
+<p>
+Check PTH and iCa2+ post-op in PACU. If PTH abnormal, check iCa2+
+q4-6hours. If normal, recheck iCa2+ q8hrs.
+</p>
+</li>
+<li>
+<p>
+levothyroxine: according to endocrine, `<strong>`{=html}levothyroxine dose
+in mcg = 1.7xpt's weight (kg)`</strong>`{=html}
+</p>
+</li>
+<li>
+<p>
+If hypocalcemic -- replete Ca2+ (see electrolyte section)
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="tracheostomy-tube-placement">
+Tracheostomy
+Tube Placement
+</h3>
+<ul>
+<li>
+<p>
+Post op CXR
+</p>
+</li>
+<li>
+<p>
+As RT to get a spare trach (plus size smaller) in the room. Make
+sure fresh inner cannulas, trach ties are in the room
+</p>
+</li>
+<li>
+<p>
+Make sure nursing has suctioning set-up
+</p>
+</li>
+<li>
+<p>
+Order routine trach care (suctioning PRN, humidified
+air)
+</p>
+</li>
+</ul>
+<p>
+First trach change:
+</p>
+<ul>
+<li>
+<p>
+Done on POD5-7. Longer if you expect trach change to be
+difficult: deep neck, high lung compliance (aka high PEEP
+requirement).
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Before trach change`</strong>`{=html}: ask RT to put new trachs at
+bedside and ask the RN to verify the correct type is there. Also ask the
+RN to give some pain medication just before change.
+</p>
+</li>
+<li>
+<p>
+`<strong>`{=html}Need`</strong>`{=html}: shoulder roll, headlight, new trach, 10cc
+syringe, lube, suture scissors, suction set up in room, flexible
+'chimney' suction, yankeur suction, 4x4 gauze w/ saline, Velcro trach
+tie, allvyn dressing (prn)
+</p>
+</li>
+<li>
+<p>
+After 1`<sup>`{=html}st`</sup>`{=html} trach change: RT can change the
+trach
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="specific-complications-and-their-management">
+Specific Complications and their management
+</h3>
+<h4 class="unnumbered" id="chyle-leak">
+Chyle Leak:
+</h4>
+<p>
+If suspected, collect from JP and send for triglycerides,
+chylomicrons. Also get serum triglycerides. Positive if TG \>100mg/dL
+if TG(in JP) \> TG serum or if there are any chylomicrons
+</p>
+<p>
+Low output: \<500cc/day:
+</p>
+<ul>
+<li>
+octreotide 100 𝜇g SC Q8 or 3-6mg IV qdaily. Can cause HTN and gallstones.
+</li>
+<li>
+Medium chain triglyceride diet \[For tube feeds switch to Portagen\]
+</li>
+</ul>
+<p>
+High output \>500cc/day: typically need to go to OR.
+</p>
+<h2 class="unnumbered" id="head-neck-staging---8th-edition">
+Head &
+Neck Staging - 8`<sup>`{=html}th`</sup>`{=html} Edition
+</h2>
+<ul>
+<li>
+<p>
+AJCC 8th Edition Staging
+</p>
+</li>
+<li>
+<p>
+GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx,
+Salivary Gland, Thyroid CA (in general)
+</p>
+</li>
+</ul>
+<p>
+T1---\<2cm
+</p>
+<p>
+T2--- 2-4cm
+</p>
+<p>
+T3--- 4+cm
+</p>
+<ul>
+<li>
+<p>
+In general, for Laryngeal Cancer
+</p>
+</li>
+</ul>
+<p>
+T1 - same subsite
+</p>
+<p>
+T2 - extends to nearby subsite
+</p>
+<p>
+T3 - fixes vocal cords
+</p>
+<p>
+T4 - extends past borders of larynx
+</p>
 <ol start="3" type="A">
-<li><p>For oral cavity, p16 negative OP, larynx, salivary gland</p></li>
+<li>
+<p>
+For oral cavity, p16 negative OP, larynx, salivary gland
+</p>
+</li>
 <col style="width: 30%"/>
 <col style="width: 69%"/>
-<th>N category</th>
-<th>HPV Negative</th>
-<td><p>N1</p>
-<p> </p></td>
-<td><strong>Single</strong> ipsilateral, &lt;3cm,
-ENE<sub>negative</sub></td>
-<td>N2</td>
-<td><p>N2<sub>ALL</sub>: &lt;6cm, ENE<sub>negative</sub></p>
-<p>N2a: single, ipsilateral</p>
-<p>N2b: <strong>multiple,</strong> ipsilateral</p>
-<p>N2c: bilateral/contralateral</p></td>
-<td>N3</td>
-<td><p>N3a: &gt;6cm</p>
-<p>N3b: ENE<sub>positive</sub></p></td>
-<li><p>For Nasopharyngeal and P16 positive</p></li>
+<th>
+N category
+</th>
+<th>
+HPV Negative
+</th>
+<td>
+<p>
+N1
+</p>
+<p>
+ 
+</p>
+</td>
+<td>
+`<strong>`{=html}Single`</strong>`{=html} ipsilateral, \<3cm,
+ENE`<sub>`{=html}negative`</sub>`{=html}
+</td>
+<td>
+N2
+</td>
+<td>
+<p>
+N2`<sub>`{=html}ALL`</sub>`{=html}: \<6cm, ENE`<sub>`{=html}negative`</sub>`{=html}
+</p>
+<p>
+N2a: single, ipsilateral
+</p>
+<p>
+N2b: `<strong>`{=html}multiple,`</strong>`{=html} ipsilateral
+</p>
+<p>
+N2c: bilateral/contralateral
+</p>
+</td>
+<td>
+N3
+</td>
+<td>
+<p>
+N3a: \>6cm
+</p>
+<p>
+N3b: ENE`<sub>`{=html}positive`</sub>`{=html}
+</p>
+</td>
+<li>
+<p>
+For Nasopharyngeal and P16 positive
+</p>
+</li>
 <col style="width: 29%"/>
 <col style="width: 70%"/>
-<th>HPV Positive</th>
-<td>ipsilateral <strong>&lt;6cm</strong></td>
-<td>Contralateral/bilateral &lt;6cm</td>
-<td>&gt;6cm</td>
+<th>
+HPV Positive
+</th>
+<td>
+ipsilateral `<strong>`{=html}\<6cm`</strong>`{=html}
+</td>
+<td>
+Contralateral/bilateral \<6cm
+</td>
+<td>
+\>6cm
+</td>
 <ol start="5" type="A">
-<li><p>Tumor Staging</p></li>
-<p>Head &amp; Neck Cancer Staging (for most cancers)</p>
+<li>
+<p>
+Tumor Staging
+</p>
+</li>
+<p>
+Head & Neck Cancer Staging (for most cancers)
+</p>
 <table style="width:100%;">
 <col style="width: 20%"/>
 <col style="width: 19%"/>
-<th> </th>
-<th>N2</th>
-<th>N3</th>
-<td>T1</td>
-<td>I</td>
-<td>IVA</td>
-<td>IVB</td>
-<td>T2</td>
-<td>II</td>
-<td>T3</td>
-<p>*except Nasopharynx, p16 positive OP, salivary, thyroid CAs</p>
-<h3 class="unnumbered" id="oral-cavity"> ORAL CAVITY</h3>
+<th>
+ 
+</th>
+<th>
+N2
+</th>
+<th>
+N3
+</th>
+<td>
+T1
+</td>
+<td>
+I
+</td>
+<td>
+IVA
+</td>
+<td>
+IVB
+</td>
+<td>
+T2
+</td>
+<td>
+II
+</td>
+<td>
+T3
+</td>
+<p>
+\*except Nasopharynx, p16 positive OP, salivary, thyroid CAs
+</p>
+<h3 class="unnumbered" id="oral-cavity">
+ ORAL CAVITY
+</h3>
 <col style="width: 27%"/>
 <col style="width: 72%"/>
-<th>T category</th>
-<td><p> T0</p>
-<p>Tis</p></td>
-<td><p> No primary identified</p>
-<p>Carcinoma in situ</p></td>
-<td> T1</td>
-<td> &lt;2 cm &amp; DOI &lt;5mm</td>
-<td>2-4cm or DOI 5-10mm</td>
-<td>&gt;4cm or DOI &gt;10mm</td>
-<td><p> T4a</p>
-<td><p> Invades</p>
-<ul><li><blockquote>
-<p>Mandible (into cortex)</p>
-</blockquote></li></ul>
-<p>Inf. alveolar nerve</p>
-<p>FOM</p>
-<p>Skin</p>
-<p>Tongue musculature</p>
-</td></td></table></ol>
-<td><p>Invades</p>
-<p>Masticator space</p>
-<p>Pterygoid plates</p>
-<p>Skull base</p>
-<p>Carotid</p>
-<p>*note similarities to T4b of p16<sub>neg</sub> OPC</p></td>
-<p><img alt="" src="media/image31.emf" style="width:1.79653in;height:1.52526in"/> </p>
-<h3 class="unnumbered" id="oropharyngeal">OROPHARYNGEAL </h3>
-<p><strong>HPV Neg (p16-) and HPV Pos</strong></p>
+<th>
+T category
+</th>
+<td>
+<p>
+ T0
+</p>
+<p>
+Tis
+</p>
+</td>
+<td>
+<p>
+ No primary identified
+</p>
+<p>
+Carcinoma in situ
+</p>
+</td>
+<td>
+ T1
+</td>
+<td>
+ \<2 cm & DOI \<5mm
+</td>
+<td>
+2-4cm or DOI 5-10mm
+</td>
+<td>
+\>4cm or DOI \>10mm
+</td>
+<td>
+<p>
+ T4a
+</p>
+<td>
+<p>
+ Invades
+</p>
+<ul>
+<li>
+<blockquote>
+<p>
+Mandible (into cortex)
+</p>
+</blockquote>
+</li>
+</ul>
+<p>
+Inf. alveolar nerve
+</p>
+<p>
+FOM
+</p>
+<p>
+Skin
+</p>
+<p>
+Tongue musculature
+</p>
+</td>
+</td>
+</table>
+</ol>
+<td>
+<p>
+Invades
+</p>
+<p>
+Masticator space
+</p>
+<p>
+Pterygoid plates
+</p>
+<p>
+Skull base
+</p>
+<p>
+Carotid
+</p>
+<p>
+\*note similarities to T4b of p16`<sub>`{=html}neg`</sub>`{=html} OPC
+</p>
+</td>
+<p>
+`<img alt="" src="media/image31.emf" style="width:1.79653in;height:1.52526in"/>`{=html} 
+</p>
+<h3 class="unnumbered" id="oropharyngeal">
+OROPHARYNGEAL
+</h3>
+<p>
+`<strong>`{=html}HPV Neg (p16-) and HPV Pos`</strong>`{=html}
+</p>
 <col style="width: 16%"/>
 <col style="width: 43%"/>
 <col style="width: 39%"/>
-<p>Tx</p>
-<td> No primary identified</td>
-<td><p> </p>
-<td> &lt;2 cm</td>
-<td>same</td>
-<td>2-4cm</td>
-<td>&gt;4cm or extension to lingual surface of epiglottis</td>
-<td> same</td>
-<td><p> T4</p>
-<ul><li><p>Larynx</p></li><li><p>Tongue musculature</p></li><li><p>Medial pterygoids</p></li><li><p>Hard palate</p></li><li><p>Mandible</p></li></ul>
-
-
-
-
-<td><p><strong>T4a</strong> - Same</p>
-<p><strong>T4b</strong> - Invades</p>
-<ul><li><p>Lateral nasopharynx</p></li><li><p>Lateral pterygoids/pterygoid plate</p></li><li><p>Skull base</p></li><li><p>Carotid</p></li></ul>
-
-
-
-<p>Red = only for p16 negative OP cancers</p>
-<p>Clinical N staging</p>
+<p>
+Tx
+</p>
+<td>
+ No primary identified
+</td>
+<td>
+<p>
+ 
+</p>
+<td>
+ \<2 cm
+</td>
+<td>
+same
+</td>
+<td>
+2-4cm
+</td>
+<td>
+\>4cm or extension to lingual surface of epiglottis
+</td>
+<td>
+ same
+</td>
+<td>
+<p>
+ T4
+</p>
+<ul>
+<li>
+<p>
+Larynx
+</p>
+</li>
+<li>
+<p>
+Tongue musculature
+</p>
+</li>
+<li>
+<p>
+Medial pterygoids
+</p>
+</li>
+<li>
+<p>
+Hard palate
+</p>
+</li>
+<li>
+<p>
+Mandible
+</p>
+</li>
+</ul>
+<td>
+<p>
+`<strong>`{=html}T4a`</strong>`{=html} - Same
+</p>
+<p>
+`<strong>`{=html}T4b`</strong>`{=html} - Invades
+</p>
+<ul>
+<li>
+<p>
+Lateral nasopharynx
+</p>
+</li>
+<li>
+<p>
+Lateral pterygoids/pterygoid plate
+</p>
+</li>
+<li>
+<p>
+Skull base
+</p>
+</li>
+<li>
+<p>
+Carotid
+</p>
+</li>
+</ul>
+<p>
+Red = only for p16 negative OP cancers
+</p>
+<p>
+Clinical N staging
+</p>
 <col style="width: 18%"/>
 <col style="width: 38%"/>
 <col style="width: 42%"/>
-<p><strong>Note: ECE</strong> automatically <strong>bumps you up a N
-stage in the <u>pathological N grading system</u></strong> (not
-shown).</p>
-<p>Basically, if you have a N1 node and path shows ECE then its becomes
-a N2a node.</p>
-<p>With Pathological N Staging</p>
+<p>
+`<strong>`{=html}Note: ECE`</strong>`{=html} automatically `<strong>`{=html}bumps you up a N
+stage in the `<u>`{=html}pathological N grading system`</u>`{=html}`</strong>`{=html} (not
+shown).
+</p>
+<p>
+Basically, if you have a N1 node and path shows ECE then its becomes
+a N2a node.
+</p>
+<p>
+With Pathological N Staging
+</p>
 <col style="width: 41%"/>
-<th>HPV Positive - clinical</th>
-<th>HPV Positive - Pathological</th>
-<td>Positive nodes ≤4</td>
-<td>Positive nodes &gt;4</td>
-<td>-</td>
-<p>Staging - Oropharyngeal</p>
-<p>HPV Positive</p>
+<th>
+HPV Positive - clinical
+</th>
+<th>
+HPV Positive - Pathological
+</th>
+<td>
+Positive nodes ≤4
+</td>
+<td>
+Positive nodes \>4
+</td>
+<td>
+\-
+</td>
+<p>
+Staging - Oropharyngeal
+</p>
+<p>
+HPV Positive
+</p>
 <col style="width: 21%"/>
-<td>T4</td>
-<p>HPV Positive Staging</p>
-<p>(based on pathological N stage)</p>
+<td>
+T4
+</td>
+<p>
+HPV Positive Staging
+</p>
+<p>
+(based on pathological N stage)
+</p>
 <col style="width: 24%"/>
 <col style="width: 25%"/>
-<p>HPV Negative</p>
-<h3 class="unnumbered" id="larynx"> LARYNX</h3>
-<p>Supraglottic subsites:</p>
-<ul><li><p>Suprahyoid epiglottis</p></li><li><p>Infrahyoid epiglottis</p></li><li><p>Aryepiglottic folds (laryngeal aspect)</p></li><li><p>Arytenoids</p></li><li><p>Ventricular bands (false vocal folds)</p></li></ul>
-
-
-
-
-<h4 class="unnumbered" id="supraglottis"> SUPRAGLOTTIS</h4>
+<p>
+HPV Negative
+</p>
+<h3 class="unnumbered" id="larynx">
+ LARYNX
+</h3>
+<p>
+Supraglottic subsites:
+</p>
+<ul>
+<li>
+<p>
+Suprahyoid epiglottis
+</p>
+</li>
+<li>
+<p>
+Infrahyoid epiglottis
+</p>
+</li>
+<li>
+<p>
+Aryepiglottic folds (laryngeal aspect)
+</p>
+</li>
+<li>
+<p>
+Arytenoids
+</p>
+</li>
+<li>
+<p>
+Ventricular bands (false vocal folds)
+</p>
+</li>
+</ul>
+<h4 class="unnumbered" id="supraglottis">
+ SUPRAGLOTTIS
+</h4>
 <col style="width: 80%"/>
-<th>Criteria</th>
-<td> Tumor in 1 subsite. Normal TVF</td>
-<td><p>Tumor in 2+ subsites (can be glottis, vallecula).</p>
-<p>Normal TVF movement</p></td>
-<td><p>Vocal cord fixation and/OR</p>
-<p>Invasion of</p>
-<ul><li><p>Inner cortex of thyroid cartilage</p></li><li><p>Paraglottic space</p></li><li><p>Post-cricoid area</p></li><li><p>Preepiglottic space</p></li><li><p>Through thyroid cartilage</p></li><li><p>Neck soft tissue</p></li><li><p>Esophageus/Trachea</p></li><li><p>Prevertebral space</p></li><li><p>Around carotid</p></li><li><p>Mediastinum</p></li></ul>
-
-
-
-
-
-
-
-
-
-<p><img alt="" src="media/image32.png" style="width:1.85124in;height:1.97204in"/> </p>
-<p>In general, for Laryngeal Cancer</p>
-<h4 class="unnumbered" id="glottis">Glottis</h4>
+<th>
+Criteria
+</th>
+<td>
+ Tumor in 1 subsite. Normal TVF
+</td>
+<td>
+<p>
+Tumor in 2+ subsites (can be glottis, vallecula).
+</p>
+<p>
+Normal TVF movement
+</p>
+</td>
+<td>
+<p>
+Vocal cord fixation and/OR
+</p>
+<p>
+Invasion of
+</p>
+<ul>
+<li>
+<p>
+Inner cortex of thyroid cartilage
+</p>
+</li>
+<li>
+<p>
+Paraglottic space
+</p>
+</li>
+<li>
+<p>
+Post-cricoid area
+</p>
+</li>
+<li>
+<p>
+Preepiglottic space
+</p>
+</li>
+<li>
+<p>
+Through thyroid cartilage
+</p>
+</li>
+<li>
+<p>
+Neck soft tissue
+</p>
+</li>
+<li>
+<p>
+Esophageus/Trachea
+</p>
+</li>
+<li>
+<p>
+Prevertebral space
+</p>
+</li>
+<li>
+<p>
+Around carotid
+</p>
+</li>
+<li>
+<p>
+Mediastinum
+</p>
+</li>
+</ul>
+<p>
+`<img alt="" src="media/image32.png" style="width:1.85124in;height:1.97204in"/>`{=html} 
+</p>
+<p>
+In general, for Laryngeal Cancer
+</p>
+<h4 class="unnumbered" id="glottis">
+Glottis
+</h4>
 <col style="width: 74%"/>
-<td><p>T1a</p>
-<p>T1b</p></td>
-<td><p>1 vocal cord. Normal movement</p>
-<p>Both vocal cords. Normal movement</p></td>
-<td><p>Either:</p>
-<ul><li><p>Extension to supraglottis or subglottis</p></li><li><p>Impaired VF movement</p></li></ul>
-
-<p>*not similarity to supraglottic T3</p></td>
-<ul><li><p>Esophagus/Trachea</p></li></ul>
-<p>*note similarity to Supraglottic T4a</p></td>
-<p>*note similarity to Supraglottic T4b</p></td>
-<p>Glottic Stage and VF movement</p>
+<td>
+<p>
+T1a
+</p>
+<p>
+T1b
+</p>
+</td>
+<td>
+<p>
+1 vocal cord. Normal movement
+</p>
+<p>
+Both vocal cords. Normal movement
+</p>
+</td>
+<td>
+<p>
+Either:
+</p>
+<ul>
+<li>
+<p>
+Extension to supraglottis or subglottis
+</p>
+</li>
+<li>
+<p>
+Impaired VF movement
+</p>
+</li>
+</ul>
+<p>
+\*not similarity to supraglottic T3
+</p>
+</td>
+<ul>
+<li>
+<p>
+Esophagus/Trachea
+</p>
+</li>
+</ul>
+<p>
+\*note similarity to Supraglottic T4a
+</p>
+</td>
+<p>
+\*note similarity to Supraglottic T4b
+</p>
+</td>
+<p>
+Glottic Stage and VF movement
+</p>
 <col style="width: 37%"/>
 <col style="width: 32%"/>
-<th>T1</th>
-<th>T2</th>
-<th>T3</th>
-<td>Normal Movement</td>
-<td>Less movement</td>
-<td>No movement</td>
-<h4 class="unnumbered" id="subglottis">SUBGLOTTIS</h4>
+<th>
+T1
+</th>
+<th>
+T2
+</th>
+<th>
+T3
+</th>
+<td>
+Normal Movement
+</td>
+<td>
+Less movement
+</td>
+<td>
+No movement
+</td>
+<h4 class="unnumbered" id="subglottis">
+SUBGLOTTIS
+</h4>
 <col style="width: 23%"/>
 <col style="width: 76%"/>
-<td><p>Limited to subglottis</p>
-<td>Extends to glottis</td>
-<td>Vocal cord fixation</td>
-<h4 class="unnumbered" id="hypopharynx">HYPOPHARYNX</h4>
+<td>
+<p>
+Limited to subglottis
+</p>
+<td>
+Extends to glottis
+</td>
+<td>
+Vocal cord fixation
+</td>
+<h4 class="unnumbered" id="hypopharynx">
+HYPOPHARYNX
+</h4>
 <ol start="4" type="I">
-<li><p>Hypopharynx subsites</p>
-<ul><li><p>Pyriform sinuses</p></li><li><p>Lateral/posterior hypopharyngeal wall</p></li><li><p>Post-cricoid region</p></li></ul>
-
-
+<li>
+<p>
+Hypopharynx subsites
+</p>
+<ul>
+<li>
+<p>
+Pyriform sinuses
+</p>
+</li>
+<li>
+<p>
+Lateral/posterior hypopharyngeal wall
+</p>
+</li>
+<li>
+<p>
+Post-cricoid region
+</p>
+</li>
+</ul>
 <col style="width: 78%"/>
-<td>One subsite AND &lt;2cm</td>
-<td><p>2+ subsites OR 2-4cm</p>
-<p>Cannot extend to esophageus or cause VF fixation</p></td>
-<td>&gt;4cm OR invades <strong>esophageus</strong> OR causes VF
-fixation</td>
-<ul><li><p>Trachea</p></li></ul>
-<h3 class="unnumbered" id="maxillary-sinus">MAXILLARY SINUS</h3>
-<td>Limited to maxillary sinus mucosa</td>
-<td><p>Erosion into bone EXCEPT orbital floor or posterior wall</p>
-<td><p>Invasion into:</p>
-<ul><li><p>Orbital floor/ethmoid sinus (think V2 numbness)</p></li><li><p>Posterior wall/pterygoid fossa</p></li><li><p>Orbital contents</p></li><li><p>Skin</p></li><li><p>Pterygoid plates/infratemporal fossa</p></li><li><p>Sphenoid/frontal sinus/cribriform plate</p></li><li><p>Orbital apex</p></li><li><p>Dura/brain/skull base</p></li><li><p>Cranial Nerves (except V2)</p></li><li><p>nasopharynx</p></li></ul>
-
-
-
-
-
-
-
-
-
-<h3 class="unnumbered" id="nasal-cavityethmoid-sinus">NASAL
-CAVITY/ETHMOID SINUS</h3>
+<td>
+One subsite AND \<2cm
+</td>
+<td>
+<p>
+2+ subsites OR 2-4cm
+</p>
+<p>
+Cannot extend to esophageus or cause VF fixation
+</p>
+</td>
+<td>
+\>4cm OR invades `<strong>`{=html}esophageus`</strong>`{=html} OR causes VF
+fixation
+</td>
+<ul>
+<li>
+<p>
+Trachea
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="maxillary-sinus">
+MAXILLARY SINUS
+</h3>
+<td>
+Limited to maxillary sinus mucosa
+</td>
+<td>
+<p>
+Erosion into bone EXCEPT orbital floor or posterior wall
+</p>
+<td>
+<p>
+Invasion into:
+</p>
+<ul>
+<li>
+<p>
+Orbital floor/ethmoid sinus (think V2 numbness)
+</p>
+</li>
+<li>
+<p>
+Posterior wall/pterygoid fossa
+</p>
+</li>
+<li>
+<p>
+Orbital contents
+</p>
+</li>
+<li>
+<p>
+Skin
+</p>
+</li>
+<li>
+<p>
+Pterygoid plates/infratemporal fossa
+</p>
+</li>
+<li>
+<p>
+Sphenoid/frontal sinus/cribriform plate
+</p>
+</li>
+<li>
+<p>
+Orbital apex
+</p>
+</li>
+<li>
+<p>
+Dura/brain/skull base
+</p>
+</li>
+<li>
+<p>
+Cranial Nerves (except V2)
+</p>
+</li>
+<li>
+<p>
+nasopharynx
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="nasal-cavityethmoid-sinus">
+NASAL
+CAVITY/ETHMOID SINUS
+</h3>
 <col style="width: 17%"/>
 <col style="width: 82%"/>
-<td>Limited to one subsite in nasoethmoid complex</td>
-<td><p>More than 1 subsite in nasoethmoid complex (aka both nose and
-ethmoid)</p>
-<ul><li><p>Orbital floor</p></li><li><p>Maxillary sinus</p></li><li><p>Cribriform plate</p></li></ul>
-
-
-<p>*Note similarity to Maxillary sinus CA</p></td>
-<ul><li><p>Nasopharynx</p></li></ul>
-<h3 class="unnumbered" id="nasopharyngeal-ca"> NASOPHARYNGEAL CA</h3>
-<p><strong>WHO Type I</strong> - Keratinizing SCCA</p>
-<p><strong>WHO Type II</strong> - Nonkerating SCCA (associated with EBV,
-better prognosis)</p>
-<p><strong>WHO Type III</strong> - Undifferentiated CA</p>
-<td>Nasopharynx/nasal cavity</td>
-<td><p>Invaded parapharyngeal space or pterygoids musces</p>
-<p>(If they have trismus)</p></td>
-<td>Invasion into bones and/or sinuses</td>
-<ul><li><p>hypopharynx</p></li><li><p>Cranial nerves</p></li><li><p>Orbit</p></li></ul>
-
-
+<td>
+Limited to one subsite in nasoethmoid complex
+</td>
+<td>
+<p>
+More than 1 subsite in nasoethmoid complex (aka both nose and
+ethmoid)
+</p>
+<ul>
+<li>
+<p>
+Orbital floor
+</p>
+</li>
+<li>
+<p>
+Maxillary sinus
+</p>
+</li>
+<li>
+<p>
+Cribriform plate
+</p>
+</li>
+</ul>
+<p>
+\*Note similarity to Maxillary sinus CA
+</p>
+</td>
+<ul>
+<li>
+<p>
+Nasopharynx
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="nasopharyngeal-ca">
+ NASOPHARYNGEAL CA
+</h3>
+<p>
+`<strong>`{=html}WHO Type I`</strong>`{=html} - Keratinizing SCCA
+</p>
+<p>
+`<strong>`{=html}WHO Type II`</strong>`{=html} - Nonkerating SCCA (associated with EBV,
+better prognosis)
+</p>
+<p>
+`<strong>`{=html}WHO Type III`</strong>`{=html} - Undifferentiated CA
+</p>
+<td>
+Nasopharynx/nasal cavity
+</td>
+<td>
+<p>
+Invaded parapharyngeal space or pterygoids musces
+</p>
+<p>
+(If they have trismus)
+</p>
+</td>
+<td>
+Invasion into bones and/or sinuses
+</td>
+<ul>
+<li>
+<p>
+hypopharynx
+</p>
+</li>
+<li>
+<p>
+Cranial nerves
+</p>
+</li>
+<li>
+<p>
+Orbit
+</p>
+</li>
+</ul>
 <col style="width: 47%"/>
 <col style="width: 52%"/>
-<th> N stage</th>
-<td>N1</td>
-<td>Unilateral</td>
-<td>Bilateral</td>
-<h3 class="unnumbered" id="salivary-gland">SALIVARY GLAND</h3>
+<th>
+ N stage
+</th>
+<td>
+N1
+</td>
+<td>
+Unilateral
+</td>
+<td>
+Bilateral
+</td>
+<h3 class="unnumbered" id="salivary-gland">
+SALIVARY GLAND
+</h3>
 <col style="width: 75%"/>
-<td>&lt;2cm, no extraparenchymal extension</td>
-<td>2-4cm, no extraparenchymal extension</td>
-<td>&gt;4cm OR extraparenchymal extension</td>
-<ul><li><p>Facial nerve</p></li><li><p>mandible</p></li><li><p>pterygoids</p></li><li><p>Wraps around carotid</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="well-differentiated-thyroid-ca">WELL
-DIFFERENTIATED THYROID CA</h3>
+<td>
+\<2cm, no extraparenchymal extension
+</td>
+<td>
+2-4cm, no extraparenchymal extension
+</td>
+<td>
+\>4cm OR extraparenchymal extension
+</td>
+<ul>
+<li>
+<p>
+Facial nerve
+</p>
+</li>
+<li>
+<p>
+mandible
+</p>
+</li>
+<li>
+<p>
+pterygoids
+</p>
+</li>
+<li>
+<p>
+Wraps around carotid
+</p>
+</li>
+</ul>
+<h3 class="unnumbered" id="well-differentiated-thyroid-ca">
+WELL
+DIFFERENTIATED THYROID CA
+</h3>
 <col style="width: 62%"/>
-<th>Tumor</th>
-<th>Lymph</th>
-<td><p>T1: &lt;2cm</p>
-<p>T1a: &lt;1cm</p>
-<p>T1b: 1-2cm</p></td>
-<p>N1a: Level VI/VII nodes</p></td>
-<td>T2: 2-4cm</td>
-<td>N1b: mets to cervical nodes</td>
-<td><p>T3a: &gt;4cm limited to thyroid</p>
-<p>T3b: ETE invading strap muscles</p></td>
-<td> </td>
-<td><p>T4a: invasion beyond capsule&amp;straps</p>
-<p>T4b: invading into carotid/mediastinum/RLN</p></td>
-<p>Thyroid cancer staging</p>
-<p><strong>Only <u>&gt;55 years old</u></strong>: those &lt;55yo are
-Stage I unless they have mets, then they are stage II</p>
-<p>Anaplastic CA is automatically stage IV (IVA if N0 &amp; T1-3a; IVB
-if &gt;T3a or N1+)</p>
+<th>
+Tumor
+</th>
+<th>
+Lymph
+</th>
+<td>
+<p>
+T1: \<2cm
+</p>
+<p>
+T1a: \<1cm
+</p>
+<p>
+T1b: 1-2cm
+</p>
+</td>
+<p>
+N1a: Level VI/VII nodes
+</p>
+</td>
+<td>
+T2: 2-4cm
+</td>
+<td>
+N1b: mets to cervical nodes
+</td>
+<td>
+<p>
+T3a: \>4cm limited to thyroid
+</p>
+<p>
+T3b: ETE invading strap muscles
+</p>
+</td>
+<td>
+ 
+</td>
+<td>
+<p>
+T4a: invasion beyond capsule&straps
+</p>
+<p>
+T4b: invading into carotid/mediastinum/RLN
+</p>
+</td>
+<p>
+Thyroid cancer staging
+</p>
+<p>
+`<strong>`{=html}Only `<u>`{=html}\>55 years old`</u>`{=html}`</strong>`{=html}: those \<55yo are
+Stage I unless they have mets, then they are stage II
+</p>
+<p>
+Anaplastic CA is automatically stage IV (IVA if N0 & T1-3a; IVB
+if \>T3a or N1+)
+</p>
 <col style="width: 34%"/>
-<p>Metastatic disease = Stage IVB</p>
-id="non-melanoma-skin-cancer-scc-etc"&gt;NON-MELANOMA SKIN CANCER (SCC
-etc)</td></li></ol></td></td></td></ol></li></ul>
+<p>
+Metastatic disease = Stage IVB
+</p>
+id="non-melanoma-skin-cancer-scc-etc"\>NON-MELANOMA SKIN CANCER (SCC
+etc)
+</td>
+</li>
+</ol>
+</td>
+</td>
+</td>
+</ol>
+</li>
+</ul>
 </h3>
 <col style="width: 22%"/>
 <col style="width: 77%"/>
-<th> <em>T category</em></th>
-<td><em>T1</em></td>
-<td>&lt;2cm</td>
-<td><em>T2</em></td>
-<td><p>2-4cm</p>
-<td><em>T3</em></td>
-<td>&gt;4cm or <strong>DOI &gt;6mm</strong> or Perineural/minor bone
-invasion</td>
-<td><p><em>T4a</em></p>
-<p><em>T4b</em></p></td>
-<td><p>Gross cortical bone/bone marrow invasion</p>
-<p>Tumor with skull base/foramina invasion</p></td>
-<h3 class="unnumbered" id="section-25"> </h3>
-<h3 class="unnumbered" id="melanoma-skin"> MELANOMA (SKIN)</h3>
-<p> <strong>a/b/c classification</strong></p>
-<p>T stage: IF <strong>ulceration</strong> stage is <strong>B</strong>
-(as in T2-&gt;T2b)</p>
-<p>N stage</p>
-<p>(a) if micrometastasis</p>
-<p>(b) if macrometasis</p>
-<p>(c) given if in transit/satellite lesions</p>
-<p>w/o metastatic nodes</p>
-<col style="width: 15%"/>
-<col style="width: 9%"/>
-<th>T</th>
-<th>N</th>
-<td><p>T1</p>
-<p>T1a</p>
-<td><p>&lt;1mm thick</p>
-<p>&lt;0.8mm + no ulceration</p>
-<p>if 0.8-1mm thick (or if ulceration)</p></td>
-<td><strong>N1</strong></td>
-<td>1 node</td>
-<td><p>1-2mm thick</p>
-<td><strong>N2</strong></td>
-<td>2-3 nodes</td>
-<td>2-4mm thick</td>
-<td><strong>N3</strong></td>
-<td>4+ nodes, matted nodes, or in transit mets</td>
-<td>&gt;4mm thick</td>
-<h3 class="unnumbered" id="mucosal-melanoma">MUCOSAL MELANOMA</h3>
-<col style="width: 45%"/>
-<th>N/M stage</th>
-<td>Mucosal melanoma</td>
-<td>Any lymph node mets</td>
-<td><p>T4a</p>
-<td><p>Involves soft tissue, cartilage, bone,</p>
-<p>Overlying skin</p></td>
-<td><strong>M1</strong></td>
-<td>Any mets</td>
-<td>Involves skull base, cranial nerve, carotid, masticator,
-prevertebral space</td>
-<p><img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="media/image33.png" style="width:1.88969in;height:2.90093in"/></p>
-<p><a href="index.html">Back to homepage</a></p>
-</td></td></td></td></li></ul>
+<th>
+ `<em>`{=html}T category`</em>`{=html}
+</th>
+<td>
+`<em>`{=html}T1`</em>`{=html}
+</td>
+<td>
+\<2cm
+</td>
+<td>
+`<em>`{=html}T2`</em>`{=html}
+</td>
+<td>
+<p>
+2-4cm
+</p>
+<td>
+`<em>`{=html}T3`</em>`{=html}
+</td>
+<td>
+\>4cm or `<strong>`{=html}DOI \>6mm`</strong>`{=html} or Perineural/minor bone
+invasion
+</td>
+<td>
+<p>
+`<em>`{=html}T4a`</em>`{=html}
+</p>
+<p>
+`<em>`{=html}T4b`</em>`{=html}
+</p>
+</td>
+<td>
+<p>
+Gross cortical bone/bone marrow invasion
+</p>
+<p>
+Tumor with skull base/foramina invasion
+</p>
+</td>
+<h3 class="unnumbered" id="section-25">
+ 
+</h3>
+<h3 class="unnumbered" id="melanoma-skin">
+ MELANOMA (SKIN)
+</h3>
+<p>
+ `<strong>`{=html}a/b/c classification`</strong>`{=html}
+</p>
+<p>
+T stage: IF `<strong>`{=html}ulceration`</strong>`{=html} stage is `<strong>`{=html}B`</strong>`{=html}
+(as in T2-\>T2b)
+</p>
+<p>
+N stage
+</p>
+<p>
 
-</h3></li></ul></li></ul>
+(a) if micrometastasis
+    </p>
+    <p>
 
-</li></ul>
-</li></ul>
+    (b) if macrometasis
+        </p>
+        <p>
 
+        (c) given if in transit/satellite lesions
+            </p>
+            <p>
+            w/o metastatic nodes
+            </p>
+            <col style="width: 15%"/>
+            <col style="width: 9%"/>
+            <th>
+            T
+            </th>
+            <th>
+            N
+            </th>
+            <td>
+            <p>
+            T1
+            </p>
+            <p>
+            T1a
+            </p>
+            <td>
+            <p>
+            \<1mm thick
+            </p>
+            <p>
+            \<0.8mm + no ulceration
+            </p>
+            <p>
+            if 0.8-1mm thick (or if ulceration)
+            </p>
+            </td>
+            <td>
+            `<strong>`{=html}N1`</strong>`{=html}
+            </td>
+            <td>
+            1 node
+            </td>
+            <td>
+            <p>
+            1-2mm thick
+            </p>
+            <td>
+            `<strong>`{=html}N2`</strong>`{=html}
+            </td>
+            <td>
+            2-3 nodes
+            </td>
+            <td>
+            2-4mm thick
+            </td>
+            <td>
+            `<strong>`{=html}N3`</strong>`{=html}
+            </td>
+            <td>
+            4+ nodes, matted nodes, or in transit mets
+            </td>
+            <td>
+            \>4mm thick
+            </td>
+            <h3 class="unnumbered" id="mucosal-melanoma">
+            MUCOSAL MELANOMA
+            </h3>
+            <col style="width: 45%"/>
+            <th>
+            N/M stage
+            </th>
+            <td>
+            Mucosal melanoma
+            </td>
+            <td>
+            Any lymph node mets
+            </td>
+            <td>
+            <p>
+            T4a
+            </p>
+            <td>
+            <p>
+            Involves soft tissue, cartilage, bone,
+            </p>
+            <p>
+            Overlying skin
+            </p>
+            </td>
+            <td>
+            `<strong>`{=html}M1`</strong>`{=html}
+            </td>
+            <td>
+            Any mets
+            </td>
+            <td>
+            Involves skull base, cranial nerve, carotid, masticator,
+            prevertebral space
+            </td>
+            <p>
+            `<img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="media/image33.png" style="width:1.88969in;height:2.90093in"/>`{=html}
+            </p>
+            <p>
+            `<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+            </p>
+            </td>
+            </td>
+            </td>
+            </td>
+            </li>
+            </ul>
 
-
-</li></ul>
-
-
-</li></ul>
-
-</p></li></ul></li></ul>
-</li></ul>
-</li></ul>
-
-</li></ul></li></ul>
-
-
-</li></ul>
-</li></ul></li></ul>
-</li></ul>
-
-</li></ul></li></ul>
-
-</li></ul>
-</li></ul>
-</li></ul>
-</li></ul>
-
-</li></ul>
-</li></ul></li></ul>
-
-</li></ul>
-</li></ul>
-
-</li></ul>
-</li></ul>
-</li></ol></li></ul></li></ul>
-
-
-
-
-</li></ul>
-</li></ul>
-</li></ul>
-
-
-
-
-
-</li></ul>
-</li></ul>
-</li></ul></li></ul>
-
-</li></ul>
-</li></ul>
-</li></ol></li></ul></li></ul>
-
-</li></ul>
-
-</li></ul>
-</li></ul></li></ul>
-</li></ol></li></ul>
-
-</li></ul>
-
-</li></ol></li></ul>
-
-</li></ul>
+</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
