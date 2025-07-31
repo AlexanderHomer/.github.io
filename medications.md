@@ -1,0 +1,46 @@
+---
+layout: default
+title: Medication Dosing
+---
+<h2>Adult Medications</h2>
+<ul>
+<li>Acetaminophen 650mg PO q4h prn pain (max 4000mg/24h, caution in liver failure).</li>
+<li>Ibuprofen 400mg PO q4h prn pain (max 2400mg/24h, caution in renal failure, gastritis).</li>
+<li>Codeine 15mg tabs 1 tab PO q4-6hrs prn pain.</li>
+<li>Tramadol 100mg PO q8h prn pain (caution in narcotic addicts).</li>
+<li>Oxycodone 5mg tabs 1 tab PO q4-6h prn pain.</li>
+<li>Hydromorphone (dilaudid) 2-4mg PO q4h prn pain.</li>
+<li>Morphine long-acting 30mg PO bid.</li>
+<li>Hydrocodone/Acetaminophen (Vicodin) 5/300mg ½ tab PO q4hrs prn pain.</li>
+<li>Oxycodone/acetaminophen (Percocet) 5/325mg 1 tab PO q4h prn pain.</li>
+<li>Ketorolac 15-30mg IV q6-8h prn pain x 9 doses.</li>
+<li>Morphine 2-4mg IV q3h prn breakthrough pain / q4h prn pain.</li>
+<li>Hydromorphone 0.5-1mg IV q3h prn breakthrough pain / q4h prn pain.</li>
+<li>Lidocaine 5% 1 patch TD 12h on, 12h off (only for skin and subcutaneous pain).</li>
+<li>Viscous lidocaine 2% 5-10 mL swish &amp; spit q4h (max 6 doses, 60 mL in 24 h).</li>
+<li>Fentanyl 25-100mcg TD q72h (takes 12h to take effect).</li>
+<li>Oxycodone CR 20mg PO bid.</li>
+</ul>
+<h2>Common Pediatric / Liquid Meds</h2>
+<ul><li>Tylenol (160mg/5mL susp) 15mg/kg/dose Q4-6H.</li><li>Ibuprofen (100mg/5mL susp) 10mg/kg/dose Q6H (cannot give to infants &lt;6mo).</li><li>Oxycodone (5mg/5mL susp) 0.1mg/kg/dose Q4H.</li><li>Hydromorphone [Dilaudid] (1mg/mL susp) 0.03mg/kg/dose q3-4hrs prn pain (max 2mg/dose).</li><li>Percocet [Oxycodone/Tylenol] (5mg-325mg/5mL) 0.1mg/kg/dose Q4H.</li><li>Tylenol #3* [Tylenol/Codeine] (120mg-12mg/5mL) 15mL PO q4-6hrs prn pain. *CI for all T&amp;As &lt;21yo and all pedi patients &lt;12yo.</li><li>Lortab** [Hydrocodone/Tylenol] (10mg-300mg/15mL) 0.03mg/kg/dose q4-6hrs (max dose 2.5mg). **Dose based on hydrocodone component.</li><li>Prednisolone (Orapred: 15mg/5mL) 2mg/kg/day (max 80mg/day) split BID.</li><li>Prednisone (5mg/5mL susp) 1-2mg/kg/day (max 60mg/day) split BID.</li><li>Zofran (4mg/5mL susp) 0.15mg/kg/dose Q8H.</li><li>Amoxicillin (400mg/5mL susp) 80mg/kg/day split BID.</li><li>Augmentin (400mg/5mL susp) 40mg/kg/day split BID or TID.</li><li>Clindamycin (75mg/5mL susp) 20mg/kg/day split TID.</li><li>Keflex (250mg/5mL susp) 50mg/kg/day split BID or TID.</li><li>Azithromycin (200mg/5mL) 10mg/kg/dose x1day then 5mg/kg/dose x4days.</li><li>Omeprazole (2mg/mL susp) &lt;1yo: 2.5mg for 3-5kg, 5mg for 5-10kg, 10mg for &gt;10kg; &gt;1yo: 1mg/kg daily 30min before meals.</li><li>Ranitidine (15mg/mL susp) 5-10mg/kg/day split BID or TID.</li><li>Phenergan (Promethazine) [12.5 or 25mg PR] 0.25-0.5mg/kg/dose q6hrs prn nausea.</li><li>Morphine IV 0.03-0.05mg/kg/dose Q2-4H (monitor pulse ox).</li><li>Decadron IV 0.5mg/kg/dose q6h (max dose 10mg).</li><li>Zofran IV 0.1mg/kg/dose q8hrs (max dose 4mg).</li></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="index.html">Back to homepage</a></p>

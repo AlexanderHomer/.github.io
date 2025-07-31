@@ -1,0 +1,108 @@
+---
+layout: default
+title: Calls
+---
+<h2 class="unnumbered" id="calls">Calls</h2>
+<h4 class="unnumbered"
+id="post-tonsillectomy-patients">Post-tonsillectomy patients</h4>
+<ul>
+<li><p><strong>Bleeding:</strong> Ask all tonsil bleeds to go to an ED.
+If sounds like a large active bleed, they go to the nearest ED,
+otherwise they come to us.</p></li>
+<li><p><strong>Fever:</strong> Fever is expected for up to 2 weeks. If
+fever continues, can consider course of azithromycin (sometimes adenoid
+bed can become infected)</p></li>
+<li><p>Neck Pain: A small amount of neck pain is expected (typically
+from suspension or the adenoidectomy). If the patient cannot move their
+neck, send patient to ED for CT to r/o Grisel’s syndrome (especially if
+patient has down syndrome)</p></li>
+<li><p>Pain: check if patient has been able to receive pain meds (often
+parents can’t get kids to drink the meds). Offer PR Tylenol to help
+catch up pain</p></li>
+</ul>
+<h4 class="unnumbered" id="post-septorhinoplasty-qa">Post
+Septorhinoplasty Q&amp;A</h4>
+<ul>
+<li><p>Duration of swelling/bruising: 7-10days. Ways to reduce: sit up,
+apply ice</p></li>
+<li><p>When can I blow nose: gentile blowing starts 1-week
+post-op</p></li>
+<li><p>When should nasal drainage stop? 2-3 days postop</p></li>
+<li><p>When can I resume sports: light exercise 2-3 weeks. Sports where
+nose could be injured (ball-sports/contact sports) 3 months.</p></li>
+<li><p>When does nasal fullness/congestion subside – few weeks to a
+month</p></li>
+<li><p>When can I return to work – probably 1 week. Sooner if they are
+up to it but need to take it easy w/ lifting and moving</p></li>
+<li><p>Can I use my CPAP post-op – No (especially if cosmetic or
+osteotomies are performed since mask sits on nose + packing is in nose).
+May be able to start after packing removed at 1-week post-op check
+(Dr. Lee is typically okay once packing comes out). Tell patients to sit
+up or discuss with sleep specialist</p></li>
+<li><p>When can I wear sunglasses: Can wear them over splint. Once
+splint comes off, if possible, try and avoid glasses on bridge of nose
+for another 1 week (especially if osteotomies done) but can wear them if
+needed – just try and take them off for small periods of time.</p></li>
+<li><p>When can I fly? 2-3 weeks post-op</p></li>
+</ul>
+<p><strong>Post-ear surgery Restrictions</strong>:</p>
+<ul>
+<li><p>Glasscock dressing: 1-2 days</p>
+<ul>
+<li>For Dr. Sillman: Glasscock/cotton bud in ear is removed after 2
+days, then ear drops started</li>
+</ul></li>
+<li><p>Sinus precautions: 2 weeks</p></li>
+<li><p>Restrictions on flying: 2-3 weeks</p></li>
+<li><p>Restriction on scuba diving: for stapedectomy - forever</p></li>
+<li><p>Dry ear precautions: 6 weeks</p></li>
+</ul>
+<h4 class="unnumbered" id="sinus-surgery-restrictions">Sinus Surgery
+Restrictions:</h4>
+<ul>
+<li><p>Sinus precautions for 2-3 weeks</p></li>
+<li><p>Avoid flying for 2-3 weeks</p></li>
+</ul>
+<h4 class="unnumbered" id="travel-restrictions">Travel
+Restrictions:</h4>
+<ul>
+<li><p>Avoid flying for:</p>
+<ol type="A">
+<li><p>Sinus surgery or septorhinoplasty — 2-3 weeks</p></li>
+<li><p>Ear surgery (except tubes) — 2-3 weeks</p></li>
+<li><p>Stapedectomy — 2 weeks for Dr. Sillman (6-8 weeks: most other
+Otologists)</p></li>
+</ol></li>
+<li><p>Avoid travelling far from hospital</p>
+<ol type="A">
+<li>Tonsillectomies: 2 weeks</li>
+</ol></li>
+</ul>
+<h4 class="unnumbered" id="post-op-precautions">Post-Op
+Precautions:</h4>
+<ul>
+<li><p><strong>Dry ear precautions:</strong></p>
+<ol type="A">
+<li><p>Before showering, coat a small piece of cotton with a tablespoon
+of Vaseline ointment. Gently insert the cotton ball into the ear canal
+and keep in for the duration of the shower.</p></li>
+<li><p>If swimming or bathing is desired, purchase earplugs and a
+headband to keep earplugs from falling out.</p></li>
+</ol></li>
+<li><p><strong>Sinus Precautions</strong>:</p>
+<ol type="A">
+<li><p>Blowing your nose: Do not pinch your nose: do not blow your nose.
+You can gently wipe your nose if needed.</p></li>
+<li><p>Sneezing: If you must sneeze, keep your mouth open and do not
+pinch your nose closed.</p></li>
+<li><p>Sucking in air/liquid: Do not drink though a straw. Do not
+smoke.</p></li>
+<li><p>Blowing out air: Do not play a wind instrument. Do not blow up
+balloons.</p></li>
+<li><p>Pushing or lifting: Do not lift or push objects weighing more
+than 20 pounds. Avoid strenuous activity. Please use soft
+softeners.</p></li>
+<li><p>Bending over: Keep your head above the level of your
+heart.</p></li>
+</ol></li>
+</ul>
