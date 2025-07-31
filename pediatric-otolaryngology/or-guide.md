@@ -11,7 +11,7 @@ Rigid
 Bronchoscopy (Scott or Vecchiotti)
 </h3>
 <p>
-`<strong>`{=html}Set up:`</strong>`{=html}
+`<strong>Set up:`</strong>
 </p>
 <ul>
 <li>
@@ -27,86 +27,86 @@ On table for bronch:
 </li>
 <li>
 <p>
-`<strong>`{=html}Parson's Laryngoscope`</strong>`{=html}: Age appropriate \[see
+`<strong>Parson's Laryngoscope`</strong>: Age appropriate \[see
 chart\]
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Y-split light cable`</strong>`{=html} (must be the one with a
+`<strong>Y-split light cable`</strong> (must be the one with a
 straight light cable adapter on one side and the curved light prism for
 the laryngoscope of the other end.
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Bronchoscope`</strong>`{=html} age appropriate \[check chart\]
+`<strong>Bronchoscope`</strong> age appropriate \[check chart\]
 </p>
 <ul>
 <li>
 <p>
-Connect the `<strong>`{=html}rubber nipple, suction cover, bridge, and
-light prism`</strong>`{=html} (only in half way down so it doesn't obstruct the
+Connect the `<strong>rubber nipple, suction cover, bridge, and
+light prism`</strong> (only in half way down so it doesn't obstruct the
 endoscope)
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}0 degree endoscope`</strong>`{=html}: pick the largest size that
-will fit into the bronchoscope. `<strong>`{=html}MAKE SURE IT FITS`</strong>`{=html}.
-`<strong>`{=html}MAKE SURE YOU CAN SEE THROUGH IT`</strong>`{=html} (sometimes they are
+`<strong>0 degree endoscope`</strong>: pick the largest size that
+will fit into the bronchoscope. `<strong>MAKE SURE IT FITS`</strong>.
+`<strong>MAKE SURE YOU CAN SEE THROUGH IT`</strong> (sometimes they are
 broken)
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}2 suctions:`</strong>`{=html} A small shorter suction for the
+`<strong>2 suctions:`</strong> A small shorter suction for the
 larynx and a longer suction (one that fits through the bronch)
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Camera`</strong>`{=html}: connect to endoscope, focus and white
+`<strong>Camera`</strong>: connect to endoscope, focus and white
 balance
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Fred`</strong>`{=html}
+`<strong>Fred`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}1% lidocaine`</strong>`{=html}:
+`<strong>1% lidocaine`</strong>:
 </p>
 <ul>
 <li>
 <p>
-`<strong>`{=html}Calculate max dose for patient's weight`</strong>`{=html}: 0.4 x
+`<strong>Calculate max dose for patient's weight`</strong>: 0.4 x
 pt's weight (kg) = amount of 1% lidocaine in cc. \[eg 10kg child can have
 4cc of 1%lidocaine\]
 </p>
 </li>
 <li>
 <p>
-draw up into a `<strong>`{=html}`<u>`{=html}non-luer lock`</u>`{=html} 1cc syringe`</strong>`{=html}
-x 2. Put on a `<strong>`{=html}14G angiocath`</strong>`{=html} (orange tip)
+draw up into a `<strong>`<u>non-luer lock`</u> 1cc syringe`</strong>
+x 2. Put on a `<strong>14G angiocath`</strong> (orange tip)
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Vocal fold spreader`</strong>`{=html} + `<strong>`{=html}sterile elastics +
-A right angled probe`</strong>`{=html}
+`<strong>Vocal fold spreader`</strong> + `<strong>sterile elastics +
+A right angled probe`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}A shoulder roll.`</strong>`{=html}
+`<strong>A shoulder roll.`</strong>
 </p>
 </li>
 </ul>
 <p>
-`<img alt="" src="../media/image17.png" style="width:4.10216in;height:2.80449in"/>`{=html}
+`<img alt="" src="../media/image17.png" style="width:4.10216in;height:2.80449in"/>
 </p>
 <p>
 []{#_Toc139824222 .anchor}Flexible
@@ -251,8 +251,8 @@ of trach + 2/3 sizes up).
 </li>
 <li>
 <p>
-Be in preop area `<u>`{=html}at least`</u>`{=html} 15 minutes prior to
-1`<sup>`{=html}st`</sup>`{=html} case
+Be in preop area `<u>at least`</u> 15 minutes prior to
+1`<sup>st`</sup> case
 </p>
 </li>
 <li>
@@ -331,7 +331,7 @@ Spatula-tip bovie on 20/20.
 </li>
 <li>
 <p>
-Suction cautery `<u>`{=html}coag on 28 (cut on 20) & blend`</u>`{=html} for
+Suction cautery `<u>coag on 28 (cut on 20) & blend`</u> for
 adenoids
 </p>
 </li>
@@ -399,10 +399,10 @@ PICU post-op.
 id="open-neck-cases-eg-thyroglossal-duct-cyst-vecchiotti"\>Open Neck
 Cases eg thyroglossal duct cyst (Vecchiotti)
 <p>
-Dr. Vecchiotti's glove size: `<strong>`{=html}7`</strong>`{=html}
+Dr. Vecchiotti's glove size: `<strong>7`</strong>
 </p>
 <p>
-`<u>`{=html}PREPPING - You need:`</u>`{=html}
+`<u>PREPPING - You need:`</u>
 </p>
 <ul>
 <li>
@@ -422,11 +422,11 @@ if young infant, ask if in doubt) .
 Have marking pen ready to pre-mark incision -- have alcohol swabs
 ready if need to erase/remark. Apply mastisol around your operative
 field. Place the 1000 drapes on all 4 sides. Do a wide prep with
-betadine. `<strong>`{=html}Put on headlight before you scrub.`</strong>`{=html} Have
+betadine. `<strong>Put on headlight before you scrub.`</strong> Have
 bipolar set on 10/10.
 </p>
 <p>
-`<u>`{=html}CLOSING -- in general:`</u>`{=html}
+`<u>CLOSING -- in general:`</u>
 </p>
 <ul>
 <li>
@@ -456,18 +456,18 @@ Bacitracin ointment (occasionally dermabond)
 </li>
 </ul>
 <p>
-`<strong>`{=html}Sistrunk (Thyroglossal Duct Cyst Excision)
-Technique:`</strong>`{=html} see article `<em>`{=html}Posterior Hyoid Space as Related to
-Excision of the Thyroglossal Duct Cyst`</em>`{=html} John Maddalozzo, MD, FAAP,
-FACS, Jeremy Alderfer, MD; Vikash Modi, MD `<em>`{=html}The Laryngoscope
-2010`</em>`{=html}
+`<strong>Sistrunk (Thyroglossal Duct Cyst Excision)
+Technique:`</strong> see article `<em>Posterior Hyoid Space as Related to
+Excision of the Thyroglossal Duct Cyst`</em> John Maddalozzo, MD, FAAP,
+FACS, Jeremy Alderfer, MD; Vikash Modi, MD `<em>The Laryngoscope
+2010`</em>
 </p>
 <h3 class="unnumbered" id="cochlear-implants-vecchiotti">
 Cochlear
 Implants (Vecchiotti)
 </h3>
 <p>
-`<strong>`{=html}To confirm before patient enters room`</strong>`{=html}
+`<strong>To confirm before patient enters room`</strong>
 </p>
 <ul>
 <li>
@@ -507,11 +507,11 @@ Corp)
 Balance the microscope. Don't drape it yet.
 </p>
 <p>
-`<img alt="" src="../media/image18.jpeg" style="width:0.85278in;height:0.78194in"/>`{=html}`<img alt="" src="../media/image19.png" style="width:0.9625in;height:0.71042in"/>`{=html}Call audiology and give them
+`<img alt="" src="../media/image18.jpeg" style="width:0.85278in;height:0.78194in"/>`<img alt="" src="../media/image19.png" style="width:0.9625in;height:0.71042in"/>Call audiology and give them
 the serial numbers for the cochlear implants
 </p>
 <p>
-`<strong>`{=html}Things to put on the non-sterile side table:`</strong>`{=html}
+`<strong>Things to put on the non-sterile side table:`</strong>
 </p>
 <p>
 M&T kit, mastisol, 1000 drapes cut in half (need 5-6), NIM
@@ -519,10 +519,10 @@ electrodes, tegederms cut in ½, a razor, alcohol prep pads,
 lidocaine)
 </p>
 <p>
-`<strong>`{=html}Set up`</strong>`{=html}
+`<strong>Set up`</strong>
 </p>
 <p>
-`<img alt="" src="../media/image20.png" style="width:1.56319in;height:1.09306in"/>`{=html}Bed rotated 180 degrees.
+`<img alt="" src="../media/image20.png" style="width:1.56319in;height:1.09306in"/>Bed rotated 180 degrees.
 Leica microscope at head of bed, tower can be on the scrub side of
 microscope, NIM monitor and suction on the scrub side by the feet.
 </p>
@@ -537,7 +537,7 @@ implant site.
 Draw a lazy S incision 0.5cm behind the post-auricular crease.
 </p>
 <p>
-`<img alt="" src="../media/image21.png" style="width:1.94861in;height:1.71389in"/>`{=html}Place the NIM and curl the
+`<img alt="" src="../media/image21.png" style="width:1.94861in;height:1.71389in"/>Place the NIM and curl the
 leads before you stick the Tegaderm down. Test the monitor. Volume to
 max, voltage at 0.8.
 </p>
@@ -546,8 +546,8 @@ Put mastisol where the 1000 drapes will go and put the 1000 drapes
 down.
 </p>
 <p>
-`<strong>`{=html}Evaluate the TM with the microscope before you
-prep`</strong>`{=html}.
+`<strong>Evaluate the TM with the microscope before you
+prep`</strong>.
 </p>
 <p>
 Prep a wide area. Get the parts of the 1000 drapes that slip behind
@@ -557,7 +557,7 @@ posterior to anterior pulling the ear forward as you do. Redraw template
 markings again. Have scrub drape the microscope and the chairs.
 </p>
 <p>
-`<strong>`{=html}Procedure`</strong>`{=html}
+`<strong>Procedure`</strong>
 </p>
 <p>
 15 blade for incision, carry down to the temporalis fascia. Raise
@@ -569,7 +569,7 @@ placed) down to the bone. Raise the flap with a Lempert periosteal
 elevator to the spine of henle.
 </p>
 <p>
-`<img alt="" src="../media/image22.png" style="width:3.74306in;height:1.43333in"/>`{=html}Do a cortical mastoidectomy,
+`<img alt="" src="../media/image22.png" style="width:3.74306in;height:1.43333in"/>Do a cortical mastoidectomy,
 focus on the corner where the tegmen and EAC meet. Use a #6 until you
 hit Koerner septum, then switch to a #3 to expose the lateral
 semicircular canal, incus buttress and the fossa incudes. The incus
@@ -607,7 +607,7 @@ running 4-0 vicryl. Close deep layer with 4-0 vicyrl. Superficial with a
 fluffs. Then do a mastoid dressing (with 2 kerlexs)
 </p>
 <p>
-`<strong>`{=html}Post-op Instructions`</strong>`{=html}
+`<strong>Post-op Instructions`</strong>
 </p>
 <p>
 Mastoid/glasscock dressing for 24 hours. Then glasscock dressing at
@@ -652,9 +652,9 @@ Usually inject 1cc or 20 units/gland
 Dr Scott's OR Guide
 </h3>
 <p>
-For `<strong>`{=html}`<u>`{=html}Andrew Scott operative note`</u>`{=html}`</strong>`{=html} you need to
-focus on FINDINGS: `<strong>`{=html}+/- submucus cleft, Size of Tonsils, Size of
-Adenoids, Electrocautery Settings.`</strong>`{=html}
+For `<strong>`<u>Andrew Scott operative note`</u>`</strong> you need to
+focus on FINDINGS: `<strong>+/- submucus cleft, Size of Tonsils, Size of
+Adenoids, Electrocautery Settings.`</strong>
 </p>
 <p>
 []{#_Toc139824229 .anchor}Adenotonsillectomy
@@ -680,8 +680,8 @@ palate
 </li>
 <li>
 <p>
-Place soft suction catheter through nasal cavity; `<u>`{=html}place rolled
-gauze between soft suction catheter and clamp to secure in place`</u>`{=html}
+Place soft suction catheter through nasal cavity; `<u>place rolled
+gauze between soft suction catheter and clamp to secure in place`</u>
 (Vecchiotti does not use rolled gauze)
 </p>
 </li>
@@ -784,11 +784,11 @@ Tonsillectomy
 Patients
 </h4>
 <p>
-`<strong>`{=html}Orders`</strong>`{=html}: IVF, soft diet, pulse oximetry, cool
+`<strong>Orders`</strong>: IVF, soft diet, pulse oximetry, cool
 humidified air, ice pack to back of neck,
 </p>
 <p>
-`<strong>`{=html}Meds`</strong>`{=html}:
+`<strong>Meds`</strong>:
 </p>
 <p>
 Tylenol & ibuprofen liquid PO (should be standing orders, to be
@@ -802,7 +802,7 @@ patients \<6yo)
 Zofran IV, +/- Phenergine PR
 </p>
 <p>
-`<strong>`{=html}D/C Criteria`</strong>`{=html}: When you check soarian in the AM of
+`<strong>D/C Criteria`</strong>: When you check soarian in the AM of
 POD#1: make sure
 </p>
 <p>
@@ -819,16 +819,16 @@ Mandibular
 Distraction
 </h4>
 <p>
-POD#0-1: stay intubated. IV ancef or vanco. `<strong>`{=html}Trend cap
-gas`</strong>`{=html} (high risk of ↑↑PCO`<sub>`{=html}2`</sub>`{=html}) POD#2: clean pins w/ H2O2
+POD#0-1: stay intubated. IV ancef or vanco. `<strong>Trend cap
+gas`</strong> (high risk of ↑↑PCO`<sub>2`</sub>) POD#2: clean pins w/ H2O2
 and distraction begins.
 </p>
 <p>
-`<strong>`{=html}External devices:`</strong>`{=html} 1.5 turns (0.75mm) BID (
+`<strong>External devices:`</strong> 1.5 turns (0.75mm) BID (
 1.5mm/day)
 </p>
 <p>
-`<strong>`{=html}Internal devices:`</strong>`{=html} 1 turn (1mm) BID (2mm/day)
+`<strong>Internal devices:`</strong> 1 turn (1mm) BID (2mm/day)
 </p>
 <p>
 POD#5: wean sedation POD#6: extubate, dispo planning. Discharge on
@@ -845,9 +845,9 @@ POD#0-5: Make sure patient is on zosyn. Check for pressure necrosis
 (occiput, heels), and alar necrosis.
 </p>
 <p>
-`<strong>`{=html}Periextubation plan (POD#5):`</strong>`{=html} Decadron 0.25-0.5mg/kg
+`<strong>Periextubation plan (POD#5):`</strong> Decadron 0.25-0.5mg/kg
 to be given 13 hours prior to extubation q6hrs x3 so last dose is 1 hour
-prior to extubation. `<u>`{=html}Propofol "washout":`</u>`{=html} 8-10 hours prior to
+prior to extubation. `<u>Propofol "washout":`</u> 8-10 hours prior to
 planned extubation: start propofol 30mcg/kg/min (can titrate up to max
 100mcg/kg/min) then after 1 hour, can cut opioid and benzodiazepine
 infusions to 25-50% of previous level. continue precedex at same rate.
@@ -875,12 +875,12 @@ Glasscock x 24 hours then at night prn comfort
 <p>
 Ciprodex & Bactroban: Remove the cotton ball in ear, apply 3
 drops of ciprodex, then placed a new cotton ball coated in Bactroban
-back into the ear. Do this `<u>`{=html}three times a day`</u>`{=html}
+back into the ear. Do this `<u>three times a day`</u>
 </p>
 </li>
 <li>
 <p>
-`<u>`{=html}Sinus`</u>`{=html} precautions and `<u>`{=html}dry ear`</u>`{=html} precautions x 2
+`<u>Sinus`</u> precautions and `<u>dry ear`</u> precautions x 2
 weeks
 </p>
 </li>
@@ -900,7 +900,7 @@ Scott Cleft Lip
 & Cleft Palate
 </h4>
 <p>
-`<strong>`{=html}Medications`</strong>`{=html}:
+`<strong>Medications`</strong>:
 </p>
 <ul>
 <li>
@@ -931,7 +931,7 @@ LR @ mIVF rate
 <li>
 <p>
 Nasal saline spray: 4 drops to each nostril and to lip incisions
-q4 hours `<strong>`{=html}`<u>`{=html}\[cleft lip only\]`</u>`{=html}`</strong>`{=html} (this is super
+q4 hours `<strong>`<u>\[cleft lip only\]`</u>`</strong> (this is super
 important -- write an RN order to clean nose with q-tip if there is any
 crusting and do this on rounds in the AM)
 </p>
@@ -944,7 +944,7 @@ patients)
 </li>
 </ul>
 <p>
-`<strong>`{=html}Non-Medication Orders`</strong>`{=html}:
+`<strong>Non-Medication Orders`</strong>:
 </p>
 <ul>
 <li>
@@ -959,21 +959,21 @@ Activity ad lib
 </li>
 <li>
 <p>
-Regular Pedi Age-appropriate diet `<strong>`{=html}`<u>`{=html}\[cleft
-lip\]`</u>`{=html}`</strong>`{=html}
+Regular Pedi Age-appropriate diet `<strong>`<u>\[cleft
+lip\]`</u>`</strong>
 </p>
 </li>
 <li>
 <p>
-Soft/Pureed diet until follow up `<strong>`{=html}`<u>`{=html}\[cleft
-palate\]`</u>`{=html}`</strong>`{=html}
+Soft/Pureed diet until follow up `<strong>`<u>\[cleft
+palate\]`</u>`</strong>
 </p>
 </li>
 <li>
 <p>
 Welcome sleeves at all times (except under direct supervision) x2
-weeks (`<em>`{=html}sign the restraint order form in PACU otherwise you WILL get
-a page at night)`</em>`{=html}
+weeks (`<em>sign the restraint order form in PACU otherwise you WILL get
+a page at night)`</em>
 </p>
 </li>
 <li>
@@ -1020,12 +1020,12 @@ No ointment of any kind to incisions
 </li>
 <li>
 <p>
-`<u>`{=html}Follow up is 3 weeks`</u>`{=html}
+`<u>Follow up is 3 weeks`</u>
 </p>
 </li>
 </ul>
 <p>
-`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="../index.html">Back to homepage`</a>
 </p>
 </li>
 </ul>

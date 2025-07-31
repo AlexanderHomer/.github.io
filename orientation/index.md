@@ -4,39 +4,39 @@ title: Orientation
 ---
 <ul>
 <li>
-`<a href="../rules-of-the-game.html">`{=html}Rules of the Game`</a>`{=html}
+`<a href="../rules-of-the-game.html">Rules of the Game`</a>
 </li>
 <li>
-`<a href="../daily-routine.html">`{=html}Daily Routine`</a>`{=html}
+`<a href="../daily-routine.html">Daily Routine`</a>
 </li>
 <li>
-`<a href="../weekly-routines.html">`{=html}Weekly Routines`</a>`{=html}
+`<a href="../weekly-routines.html">Weekly Routines`</a>
 </li>
 <li>
-`<a href="../monthly-routines.html">`{=html}Monthly Routines`</a>`{=html}
+`<a href="../monthly-routines.html">Monthly Routines`</a>
 </li>
 <li>
-`<a href="../yearly-routines.html">`{=html}Yearly Routines`</a>`{=html}
+`<a href="../yearly-routines.html">Yearly Routines`</a>
 </li>
 <li>
-`<a href="../tips.html">`{=html}Tips`</a>`{=html}
+`<a href="../tips.html">Tips`</a>
 </li>
 <li>
-`<a href="../templates-protocols.html">`{=html}Templates/Protocols`</a>`{=html}
+`<a href="../templates-protocols.html">Templates/Protocols`</a>
 </li>
 <li>
-`<a href="../orders-discharges-and-dictations.html">`{=html}Orders, Discharges, and Dictations`</a>`{=html}
+`<a href="../orders-discharges-and-dictations.html">Orders, Discharges, and Dictations`</a>
 </li>
 <li>
-`<a href="case-duty-hour-logs.html">`{=html}Case & Duty Hour Logs`</a>`{=html}
+`<a href="case-duty-hour-logs.html">Case & Duty Hour Logs`</a>
 </li>
 <li>
-`<a href="on-call-room.html">`{=html}On-Call Room`</a>`{=html}
+`<a href="on-call-room.html">On-Call Room`</a>
 </li>
 <li>
-`<a href="../otolaryngology-national-conference-schedule.html">`{=html}Otolaryngology National Conference Schedule`</a>`{=html}
+`<a href="../otolaryngology-national-conference-schedule.html">Otolaryngology National Conference Schedule`</a>
 </li>
 <li>
-`<a href="vacation-requests.html">`{=html}Vacation Requests`</a>`{=html}
+`<a href="vacation-requests.html">Vacation Requests`</a>
 </li>
 </ul>

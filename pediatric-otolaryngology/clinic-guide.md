@@ -92,22 +92,22 @@ Family hx of ear disease; ankyloglossia (paternal);
 Pediatric ROS
 </h4>
 <p>
-`<strong>`{=html}Ears: No`</strong>`{=html} episodes of AOM. No otorrhea or otalgia. No
+`<strong>Ears: No`</strong> episodes of AOM. No otorrhea or otalgia. No
 concerns for hearing loss. No difficulty with balance. No history of
 speech delay.
 </p>
 <p>
-`<strong>`{=html}Nose`</strong>`{=html}: Denies chronic nasal congestion or rhinorrhea.
+`<strong>Nose`</strong>: Denies chronic nasal congestion or rhinorrhea.
 No epistaxis. No history or symptoms of environmental allergies; no
 formal allergy evaluation to date.
 </p>
 <p>
-`<strong>`{=html}Throat`</strong>`{=html}: No snoring or mouth breathing at night. No
+`<strong>Throat`</strong>: No snoring or mouth breathing at night. No
 witnessed apneic pauses in breathing while sleeping. No nighttime
 enuresis. No episodes of tonsillitis or frequent sore throats.
 </p>
 <p>
-`<strong>`{=html}Airway`</strong>`{=html}: No dysphagia or odynophagia. Denies any
+`<strong>Airway`</strong>: No dysphagia or odynophagia. Denies any
 change in sound of voice or cry, no hoarseness. No gasping or choking
 spells. No episodes of respiratory distress. (Stridor/how's the
 patient's cry, choking w. food/hx of respiration PNA, weight loss/FTT,
@@ -118,35 +118,35 @@ OME -
 Clinical Practice Guidelines
 </h3>
 <p>
-`<strong>`{=html}Recurrent AOM:`</strong>`{=html} 3 discrete episodes of AOM in 6months
+`<strong>Recurrent AOM:`</strong> 3 discrete episodes of AOM in 6months
 or 4 in past 12 months
 </p>
 <p>
-`<strong>`{=html}Chronic OME`</strong>`{=html}: OME that persists for 3+ months
+`<strong>Chronic OME`</strong>: OME that persists for 3+ months
 </p>
 <p>
 Always use pneumatic otoscopy. Tympanometry if diagnosis is
 uncertain. Council parents of newborns who fail NBHS of importance of
 f/u due to risk of SNHL. Should screen of OME in at-risk patients.
-`<strong>`{=html}Watchful waiting recommended for`</strong>`{=html} c`<strong>`{=html}hild with OME
-w/o risk factors.`</strong>`{=html} Don't give steroids, antihistamines, or
-decongestants to childrens with OME. `<strong>`{=html}OME \>3months -- get
-audiogram`</strong>`{=html}. Re-eval patients with OME q3-6months until OME no
+`<strong>Watchful waiting recommended for`</strong> c`<strong>hild with OME
+w/o risk factors.`</strong> Don't give steroids, antihistamines, or
+decongestants to childrens with OME. `<strong>OME \>3months -- get
+audiogram`</strong>. Re-eval patients with OME q3-6months until OME no
 longer present or hearing loss identified (yes, repeat hearing test
 q3-6months) or structural abnormalities/middle ear disease suspected.
-`<strong>`{=html}Chronic OME + hearing loss or symptoms that are consistent w/
-hearing loss`</strong>`{=html} -- book for tympanostomy tube placement.
-`<strong>`{=html}Recurrent AOM`</strong>`{=html}: book for tympanostomy tube placement if
-OME seen on day of visit. `<strong>`{=html}Patients \>4yo should get an
-adenoidectomy with ear tubes.`</strong>`{=html}
+`<strong>Chronic OME + hearing loss or symptoms that are consistent w/
+hearing loss`</strong> -- book for tympanostomy tube placement.
+`<strong>Recurrent AOM`</strong>: book for tympanostomy tube placement if
+OME seen on day of visit. `<strong>Patients \>4yo should get an
+adenoidectomy with ear tubes.`</strong>
 </p>
 <p>
-`<strong>`{=html}SRBD/OSA`</strong>`{=html}
+`<strong>SRBD/OSA`</strong>
 </p>
 <ul>
 <li>
 <p>
-Obtain PSG if: (1) obese \>95`<sup>`{=html}th`</sup>`{=html} %ile (2) down
+Obtain PSG if: (1) obese \>95`<sup>th`</sup> %ile (2) down
 syndrome (3) craniofacial disorder (4) neuromuscular disorder (5) sickle
 cell or mucopolysaccaharidose patients (6) when exam and history don't
 match up
@@ -233,20 +233,20 @@ ABR by 3 months old and early intervention by 6 months old.
 Order:
 </p>
 <p>
-`<strong>`{=html}CMV`</strong>`{=html} (PCR from urine saliva or IgM if \<3weeks old)
+`<strong>CMV`</strong> (PCR from urine saliva or IgM if \<3weeks old)
 + TORCH assay
 </p>
 <p>
-`<strong>`{=html}EKG`</strong>`{=html} (r/o Jervell Lange Nielsen),
+`<strong>EKG`</strong> (r/o Jervell Lange Nielsen),
 </p>
 <p>
-`<strong>`{=html}Ophtho consult`</strong>`{=html} (see below)
+`<strong>Ophtho consult`</strong> (see below)
 </p>
 <p>
-`<strong>`{=html}Genetics testing`</strong>`{=html},
+`<strong>Genetics testing`</strong>,
 </p>
 <p>
-`<strong>`{=html}Thyroid U/S`</strong>`{=html} (multinodular goiter = Pendred's),
+`<strong>Thyroid U/S`</strong> (multinodular goiter = Pendred's),
 Percholrate test (Pendred's) isn't used anymore,
 </p>
 <p>
@@ -328,7 +328,7 @@ Facial nerve paralysis: Mobius syndrome (look for club foot, CNVI palsy), CHARGE
 </li>
 </ul>
 <h3 class="unnumbered" id="pediatric-syndromes">
-`<img alt="" src="../media/image14.png" style="width:1.59792in;height:1.6375in"/>`{=html}Pediatric Syndromes
+`<img alt="" src="../media/image14.png" style="width:1.59792in;height:1.6375in"/>Pediatric Syndromes
 </h3>
 <h4 class="unnumbered" id="digeorgevelocardiofacial-syndrome">
 DiGeorge/Velocardiofacial
@@ -353,7 +353,7 @@ H -- Hypoparathyroidism (low calcum)
 22q11 deletion
 </p>
 <p>
-`<strong>`{=html}15% patients have glottic webs`</strong>`{=html}. Also have medialized
+`<strong>15% patients have glottic webs`</strong>. Also have medialized
 carotids (important for tonsillectomies)
 </p>
 <h4 class="unnumbered" id="charge-syndrome">
@@ -595,14 +595,14 @@ Atresia
 </h3>
 <p>
 Workup: If newborn hearing screen on contralateral ear is ok, can
-`<u>`{=html}delay formal audiogram until 6-7 months of age`</u>`{=html} (ABR if fails on
+`<u>delay formal audiogram until 6-7 months of age`</u> (ABR if fails on
 <h4 class="unnumbered" id="microtia">
 Microtia
 </h4>
 <p>
-`<strong>`{=html}Grade I`</strong>`{=html}: cup or lop ear. `<strong>`{=html}Grade II`</strong>`{=html}:
-rudimentary subunits `<strong>`{=html}Grade III`</strong>`{=html}: peanut ear
-`<strong>`{=html}Grade IV`</strong>`{=html}: anotia
+`<strong>Grade I`</strong>: cup or lop ear. `<strong>Grade II`</strong>:
+rudimentary subunits `<strong>Grade III`</strong>: peanut ear
+`<strong>Grade IV`</strong>: anotia
 </p>
 <p>
 Most commonly right side, seen in men.
@@ -612,9 +612,9 @@ Ask: about teratogens (isotretinoin, thalidomide, vascular insults
 during pregnancy)
 </p>
 <p>
-Look for associated conditions: `<strong>`{=html}Goldenhar`</strong>`{=html}
+Look for associated conditions: `<strong>Goldenhar`</strong>
 (mandibular hypoplasia/hemifacial microsomia → OAV if spine defects
-noted) `<strong>`{=html}CHARGE`</strong>`{=html} (coloboma, heart defects, choanal
+noted) `<strong>CHARGE`</strong> (coloboma, heart defects, choanal
 atresia, retardation, genital hypoplasia, ear abnormalities)
 </p>
 <p>
@@ -629,28 +629,28 @@ Aural Atresia
 Associated w/ microtia in 55-90%.
 </p>
 <p>
-`<strong>`{=html}Jahrsdoerfer`</strong>`{=html} (10 total points, \>7 = candidate for
-repair) `<strong>`{=html}SOME FIRMM`</strong>`{=html}:
+`<strong>Jahrsdoerfer`</strong> (10 total points, \>7 = candidate for
+repair) `<strong>SOME FIRMM`</strong>:
 </p>
 <p>
-`<strong>`{=html}S`</strong>`{=html}tapes present (2 points), `<strong>`{=html}O`</strong>`{=html}val
-window, `<strong>`{=html}M`</strong>`{=html}iddle ear space, `<strong>`{=html}E`</strong>`{=html}xternal ear
+`<strong>S`</strong>tapes present (2 points), `<strong>O`</strong>val
+window, `<strong>M`</strong>iddle ear space, `<strong>E`</strong>xternal ear
 appearance
 </p>
 <p>
-`<strong>`{=html}F`</strong>`{=html}acial nerve, `<strong>`{=html}I`</strong>`{=html}ncus-stapes
-connection, `<strong>`{=html}R`</strong>`{=html}ound window,
-`<strong>`{=html}M`</strong>`{=html}alleus-Incus complex `<strong>`{=html}M`</strong>`{=html}astoid
+`<strong>F`</strong>acial nerve, `<strong>I`</strong>ncus-stapes
+connection, `<strong>R`</strong>ound window,
+`<strong>M`</strong>alleus-Incus complex `<strong>M`</strong>astoid
 pneumatization
 </p>
 <p>
 No need to get CT before 4 years of age. CT to evaluate for
-`<strong>`{=html}cholesteatoma`</strong>`{=html} + to assess if candidate for aural
+`<strong>cholesteatoma`</strong> + to assess if candidate for aural
 atresia repair. Aural atresia repaired AFTER microtia (because you want
 skin w/ excellent blood supply for microtia)
 </p>
 <p>
-`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="../index.html">Back to homepage`</a>
 </p>
 </li>
 </ul>

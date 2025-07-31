@@ -52,8 +52,8 @@ Unknown Primary -- patients with N2,N3 disease
 </li>
 <li>
 <p>
-`<strong>`{=html}Patients with positive margins or lymph nodes that have
-ECS`</strong>`{=html}
+`<strong>Patients with positive margins or lymph nodes that have
+ECS`</strong>
 </p>
 </li>
 </ul>
@@ -82,7 +82,7 @@ Classic training is that if risk of spread to lymph nodes is
 \>15-25%, should do neck dissection
 </p>
 <p>
-`<strong>`{=html}N0 disease in:`</strong>`{=html}
+`<strong>N0 disease in:`</strong>
 </p>
 <ul>
 <li>
@@ -110,7 +110,7 @@ Subglottic - II-IV and VI
 Oral Cavity CA
 </h3>
 <p>
-`<strong>`{=html}Management`</strong>`{=html}
+`<strong>Management`</strong>
 </p>
 <ul>
 <li>
@@ -148,7 +148,7 @@ margins, ECS on LNs)
 Oropharyngeal CA
 </h3>
 <p>
-`<strong>`{=html}Sites`</strong>`{=html}:
+`<strong>Sites`</strong>:
 </p>
 <ul>
 <li>
@@ -194,8 +194,8 @@ Glottic Lesions
 <ul>
 <li>
 <p>
-Hyperplasia/Hyperkeratosis - `<u>`{=html}not a risk for
-malignancy`</u>`{=html}
+Hyperplasia/Hyperkeratosis - `<u>not a risk for
+malignancy`</u>
 </p>
 </li>
 <li>
@@ -210,8 +210,8 @@ Severe dysplasia/Carcinoma in situ- risk is 15-25%
 </li>
 <li>
 <p>
-CIS has features of malignancy but `<u>`{=html}not invaded beyond basement
-membrane`</u>`{=html}
+CIS has features of malignancy but `<u>not invaded beyond basement
+membrane`</u>
 </p>
 </li>
 <li>
@@ -222,7 +222,7 @@ Excisions
 <li>
 <p>
 Microflap excision: Dissects superficial lamina propria and
-`<u>`{=html}spares vocal ligament`</u>`{=html}
+`<u>spares vocal ligament`</u>
 </p>
 </li>
 </ul>
@@ -238,7 +238,7 @@ the larynx
 </li>
 <li>
 <p>
-`<strong>`{=html}Piriform sinus`</strong>`{=html} is most common location
+`<strong>Piriform sinus`</strong> is most common location
 </p>
 <ul>
 <li>
@@ -278,7 +278,7 @@ Techniques
 <ul>
 <li>
 <p>
-`<strong>`{=html}Partial laryngopharyngectomy`</strong>`{=html}
+`<strong>Partial laryngopharyngectomy`</strong>
 </p>
 <ul>
 <li>
@@ -288,18 +288,18 @@ For T1 (some T2) piriform sinus cancer
 </li>
 <li>
 <p>
-Must involve `<strong>`{=html}medial wall`</strong>`{=html} and be `<strong>`{=html}1.5cm
-away from apex`</strong>`{=html}
+Must involve `<strong>medial wall`</strong> and be `<strong>1.5cm
+away from apex`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Lateral + suprahyoid pharyngectomy`</strong>`{=html}
+`<strong>Lateral + suprahyoid pharyngectomy`</strong>
 </p>
 <ul>
 <li>
 <p>
-For `<u>`{=html}posterior`</u>`{=html} cricopharyngeal wall CA
+For `<u>posterior`</u> cricopharyngeal wall CA
 </p>
 </li>
 <li>
@@ -309,7 +309,7 @@ Total laryngectomy with partial pharyngectomy
 <ul>
 <li>
 <p>
-For advance CA and `<u>`{=html}post-cricoid`</u>`{=html} CA
+For advance CA and `<u>post-cricoid`</u> CA
 </p>
 </li>
 <li>
@@ -330,13 +330,13 @@ Sites
 <ul>
 <li>
 <p>
-`<strong>`{=html}Supraglottis`</strong>`{=html}: High rate of note metastasis.
+`<strong>Supraglottis`</strong>: High rate of note metastasis.
 Typically to bilateral II-IV
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Glottis`</strong>`{=html}: Most common site in larynx
+`<strong>Glottis`</strong>: Most common site in larynx
 </p>
 <ul>
 <li>
@@ -347,13 +347,13 @@ ligament)
 </li>
 <li>
 <p>
-Anterior commissure - `<u>`{=html}no inner perichondrium`</u>`{=html} allows for
+Anterior commissure - `<u>no inner perichondrium`</u> allows for
 anterior spread to thyroid cartilage
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Subglottic`</strong>`{=html}: Rare, poor prognosis
+`<strong>Subglottic`</strong>: Rare, poor prognosis
 </p>
 </li>
 <li>
@@ -374,7 +374,7 @@ scarring
 </li>
 <li>
 <p>
-`<strong>`{=html}Anterior commissure involvement`</strong>`{=html} - associated
+`<strong>Anterior commissure involvement`</strong> - associated
 with high recurrence rates
 </p>
 </li>
@@ -385,8 +385,8 @@ Surgery
 <ul>
 <li>
 <p>
-Cordectomy---Indication: T1 glottic cancer restricted to `<u>`{=html}middle
-1/3 of vocal fold`</u>`{=html}
+Cordectomy---Indication: T1 glottic cancer restricted to `<u>middle
+1/3 of vocal fold`</u>
 </p>
 </li>
 <li>
@@ -411,8 +411,8 @@ high risk of aspiration, must have really go pulmonary
 <ul>
 <li>
 <p>
-Can decrease risk by `<strong>`{=html}turning to operated side`</strong>`{=html}
-and performing a `<strong>`{=html}chin tuck`</strong>`{=html}
+Can decrease risk by `<strong>turning to operated side`</strong>
+and performing a `<strong>chin tuck`</strong>
 </p>
 </li>
 <li>
@@ -429,7 +429,7 @@ Hemi-laryngectomy)
 <ul>
 <li>
 <p>
-For `<strong>`{=html}T1/T2 `<em>`{=html}supraglottic`</em>`{=html} tumors`</strong>`{=html}
+For `<strong>T1/T2 `<em>supraglottic`</em> tumors`</strong>
 </p>
 </li>
 <li>
@@ -451,7 +451,7 @@ Supracricoid partial laryngectomy
 <ul>
 <li>
 <p>
-Must preserve `<u>`{=html}one functional cricoarytenoid unit`</u>`{=html}
+Must preserve `<u>one functional cricoarytenoid unit`</u>
 (arytenoid, cricoid and hyoid and associated musculature, plus the
 superior and recurrent laryngeal nerve)
 </p>
@@ -464,8 +464,8 @@ paraglottic space
 </li>
 <li>
 <p>
-`<strong>`{=html}Select T3/T3 supraglottic/glottic CA`</strong>`{=html} - must not
-have `<strong>`{=html}arytenoid fixation`</strong>`{=html}
+`<strong>Select T3/T3 supraglottic/glottic CA`</strong> - must not
+have `<strong>arytenoid fixation`</strong>
 </p>
 </li>
 <li>
@@ -476,12 +476,12 @@ cases
 </li>
 <li>
 <p>
-`<strong>`{=html}Contraindications`</strong>`{=html}:
+`<strong>Contraindications`</strong>:
 </p>
 <ul>
 <li>
 <p>
-Cartilage invasion, `<strong>`{=html}VF fixation`</strong>`{=html}, interarytenoid
+Cartilage invasion, `<strong>VF fixation`</strong>, interarytenoid
 involvement, tongue base involvement, poor performance status
 </p>
 </li>
@@ -519,7 +519,7 @@ Supraglottic: yes for T1 N0
 </li>
 </ul>
 <p>
-`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="../index.html">Back to homepage`</a>
 </p>
 </li>
 </ul>

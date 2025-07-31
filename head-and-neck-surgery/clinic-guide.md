@@ -83,7 +83,7 @@ Similar to Dr. O'Leary's clinic flow
 Burning Mouth Consults
 </h3>
 <p>
-`<em>`{=html}Dr. O'Leary's workup`</em>`{=html}
+`<em>Dr. O'Leary's workup`</em>
 </p>
 <ul>
 <li>
@@ -180,20 +180,20 @@ Initial workup of palpable or incidentally found nodules 
 <ul>
 <li>
 <p>
-`<strong>`{=html}TSH `</strong>`{=html}\[Free T`<sub>`{=html}4`</sub>`{=html}\]
-and `<strong>`{=html}Ultrasound `</strong>`{=html} 
+`<strong>TSH `</strong>\[Free T`<sub>4`</sub>\]
+and `<strong>Ultrasound `</strong> 
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Normal or high TSH`</strong>`{=html} → no need for reuptake
+`<strong>Normal or high TSH`</strong> → no need for reuptake
 radionuclide cscan 
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Low`</strong>`{=html} TSH → get a Iodine`<sup>`{=html}123`</sup>`{=html} or
-Technetium`<sup>`{=html}99`</sup>`{=html} reuptake scan 
+`<strong>Low`</strong> TSH → get a Iodine`<sup>123`</sup> or
+Technetium`<sup>99`</sup> reuptake scan 
 </p>
 <ol type="1">
 <li>
@@ -214,7 +214,7 @@ Multiple nodules? Evaluate each one separately. 
 <ul>
 <li>
 <p>
-If TSH low or normal. Get I`<sup>`{=html}123`</sup>`{=html} scan to see if there
+If TSH low or normal. Get I`<sup>123`</sup> scan to see if there
 are autonomous nodules  
 </p>
 </li>
@@ -235,7 +235,7 @@ Don't bother if its completely cystic 
 </li>
 <li>
 <p>
-Perform FNA if nodule is (A) \>2cm `<strong>`{=html} or `</strong>`{=html}(B) 
+Perform FNA if nodule is (A) \>2cm `<strong> or `</strong>(B) 
 \>1cm + suspicious features 
 </p>
 </li>
@@ -246,7 +246,7 @@ Suspicious Ultrasound features (70% chance of malignancy) 
 <ul>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Hypo`</u>`{=html}`</strong>`{=html}echoic - think hypOH DEAR ITS
+`<strong>`<u>Hypo`</u>`</strong>echoic - think hypOH DEAR ITS
 CANCER 
 </p>
 <ul>
@@ -447,8 +447,8 @@ exist
 <li>
 <p>
 Suspicious if: present for \>2 weeks w/o change in size
-`<u>`{=html}or`</u>`{=html} if on exam mass is (1) fixed to adjacent structure (2) firm
-(3) \>1.5cm or (4) has ulceration of overlying skin `<u>`{=html}or`</u>`{=html} history
+`<u>or`</u> if on exam mass is (1) fixed to adjacent structure (2) firm
+(3) \>1.5cm or (4) has ulceration of overlying skin `<u>or`</u> history
 highly suspicious
 </p>
 <ul>
@@ -480,7 +480,7 @@ If testing is negative:
 <ul>
 <li>
 <p>
-Can either with open biopsy (should `<u>`{=html}always`</u>`{=html} be done with a
+Can either with open biopsy (should `<u>always`</u> be done with a
 direct laryngoscopy)
 </p>
 </li>
@@ -658,32 +658,32 @@ High rate of recurrence
 </li>
 <li>
 <p>
-Clark levels: `<u>`{=html}only useful for prognosis in T1 lesions.`</u>`{=html}
+Clark levels: `<u>only useful for prognosis in T1 lesions.`</u>
 </p>
 <ul>
 <li>
 <p>
-`<strong>`{=html}epidermis`</strong>`{=html} only = stage I.
+`<strong>epidermis`</strong> only = stage I.
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Into papillary`</strong>`{=html} dermis = II.
+`<strong>Into papillary`</strong> dermis = II.
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}All of papillary`</strong>`{=html} dermis =III.
+`<strong>All of papillary`</strong> dermis =III.
 </p>
 </li>
 <li>
 <p>
-Invades `<strong>`{=html}reticular`</strong>`{=html} dermis = IV.
+Invades `<strong>reticular`</strong> dermis = IV.
 </p>
 </li>
 <li>
 <p>
-Into `<strong>`{=html}subcutaneous`</strong>`{=html} tissue: V
+Into `<strong>subcutaneous`</strong> tissue: V
 </p>
 </li>
 <li>
@@ -870,7 +870,7 @@ of the hottest node.
 </li>
 </ul>
 <p>
-`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="../index.html">Back to homepage`</a>
 </p>
 </li>
 </ul>
