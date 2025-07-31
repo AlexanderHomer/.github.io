@@ -11,7 +11,7 @@ Dr.
 Tracy's Radial Forearm Free Flap
 </h3>
 <p>
-`<strong>Raising the flap`</strong>
+<strong>Raising the flap</strong>
 </p>
 <p>
 Prep:
@@ -173,7 +173,7 @@ necessarily go hunting for the nerve
 Dr Wein INSPIRE Hypoglossal Nerve Implants
 </h3>
 <p>
-`<strong>Set Up:`</strong>
+<strong>Set Up:</strong>
 </p>
 <ul>
 <li>
@@ -183,8 +183,8 @@ Patient rotated 180. Tube taped to the left
 </li>
 <li>
 <p>
-Place shoulder roll. Tuck right arm. `<u>Leave mouth
-open`</u>
+Place shoulder roll. Tuck right arm. <u>Leave mouth
+open</u>
 </p>
 </li>
 <li>
@@ -205,13 +205,13 @@ Lead 3 (purple) goes into marginal mandibular
 </li>
 </ul>
 <p>
-`<img alt="" src="../media/image29.png" style="width:3.68368in;height:1.27878in"/>
+<img alt="" src="../media/image29.png" style="width:3.68368in;height:1.27878in"/>
 </p>
 <p>
 Figure 11: INSPIRE Implant Training, 2016
 </p>
 <p>
-`<strong>Incisions:`</strong>
+<strong>Incisions:</strong>
 </p>
 <p>
 Neck: 4-6cm starting from anterior aspect of submandibular gland to
@@ -225,15 +225,15 @@ Implant Pocket: 5cm inferior to clavicle. 5.5cm in length. Between
 deltopectoral groove & sternum
 </p>
 <p>
-Sensor: Use inferolateral margin of pec (should be 5`<sup>th`</sup>
+Sensor: Use inferolateral margin of pec (should be 5<sup>th</sup>
 intercostal space)
 </p>
 <p>
-`<img alt="" src="../media/image30.png" style="width:2.25694in;height:1.55625in"/> 4-5cm incision lateral to
+<img alt="" src="../media/image30.png" style="width:2.25694in;height:1.55625in"/> 4-5cm incision lateral to
 nipple line
 </p>
 <p>
-`<strong>Prep`</strong>
+<strong>Prep</strong>
 </p>
 <ul>
 <li>
@@ -261,10 +261,10 @@ top of 1000 drape (allow tongue to still be visible
 </li>
 </ul>
 <p>
-`<strong>Steps:`</strong>
+<strong>Steps:</strong>
 </p>
 <p>
-`<strong>Neck`</strong>: Incision through past platysma. Watch out for
+<strong>Neck</strong>: Incision through past platysma. Watch out for
 marginal mandibular (its just under platysma). Dissect to find
 mylohyoid/digastric tendon junction. If you first find the ant. belly of
 digastric, follow it posteriorly to digastric tendon. Then tunnel under
@@ -283,7 +283,7 @@ Pass stimulator under digastric tendon then tie stimulation lead to
 anterior belly of digastric. Pack w/ baci-soaked gauze
 </p>
 <p>
-`<strong>Implant Pocket`</strong>: Incision down to but not through pec
+<strong>Implant Pocket</strong>: Incision down to but not through pec
 major fascia. Dissect pocket inferiorly to about 6cm deep
 </p>
 <p>
@@ -291,7 +291,7 @@ Throw 2 silk sutures on medial edge of incision one 1cm superior to
 the other (vertical plane)
 </p>
 <p>
-`<strong>Sensor lead`</strong>: Incision on 5th intercostal space.
+<strong>Sensor lead</strong>: Incision on 5th intercostal space.
 Serratus fibers = most superficial running lateral to medial (inserting
 on ribs). External intercostals: run superior/lateral to inferior/medial
 (looks like packing tape). Make incision on medial aspect of incision
@@ -304,7 +304,7 @@ Use malleable to dissect plane btw ext & int intercostals
 intercostals w/ 4x 3-0 silk on RB-1
 </p>
 <p>
-`<strong>Tunnels:`</strong> Use tunneling shaft from neck incision to
+<strong>Tunnels:</strong> Use tunneling shaft from neck incision to
 implant incision (avoid ext jugular) in the subplatysmal plane. Then
 tunnel from implant incision above pectoralis to sensor lead incision.
 Pass sensor leads from neck and chest sensors to implant. Put leads into
@@ -318,7 +318,7 @@ parallel to incision to hide any blood stains. Unmarked 4x8 Gauze over
 incision taped down with Medipore tape
 </p>
 <p>
-`<strong>Post-op`</strong>
+<strong>Post-op</strong>
 </p>
 <p>
 No antibiotics
@@ -330,11 +330,11 @@ Pain medication
 Give post-INSPIRE d/c instructions
 </p>
 <p>
-Get `<u>Lateral Neck and CXR in PACU. Make sure patient has no
-PTX`</u>
+Get <u>Lateral Neck and CXR in PACU. Make sure patient has no
+PTX</u>
 </p>
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>
 </li>
 </ul>

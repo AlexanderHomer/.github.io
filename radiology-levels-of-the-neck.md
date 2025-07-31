@@ -17,8 +17,8 @@ The central compartment around the larynx and trachea is level VI.
 </li>
 </ul>
 <p>
-Example cross-sectional images can be viewed at `<a href="http://headneckbrainspine.com" target="_blank" rel="noopener">headneckbrainspine.com`</a>.
+Example cross-sectional images can be viewed at <a href="http://headneckbrainspine.com" target="_blank" rel="noopener">headneckbrainspine.com</a>.
 </p>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>

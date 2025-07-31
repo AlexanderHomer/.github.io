@@ -7,27 +7,27 @@ PEDIATRIC NECK
 MASSES
 </h2>
 <p>
-`<strong>History`</strong>: Ask if mass was present at birth, growth,
+<strong>History</strong>: Ask if mass was present at birth, growth,
 fluctuate in size. Travel history. Pets at home (rabbits/cats). Exposure
 to farm animals (cows/pigs). B-symptoms (Fevers, chills, night sweats).
 Exposure to phenytoin (drug-induced)
 </p>
 <p>
-`<strong>Work up`</strong>: First determine if congenital or
+<strong>Work up</strong>: First determine if congenital or
 acquired
 </p>
 <blockquote>
 <p>
-`<strong>Congenital + midline:`</strong> thyroglossal duct cyst →
+<strong>Congenital + midline:</strong> thyroglossal duct cyst →
 thyroid U/S (\~1% of thyroglossal cysts are the only thyroid tissue in a
 patient)
 </p>
 <p>
-`<strong>Congenital + lateral:`</strong> If suspected to be branchial
+<strong>Congenital + lateral:</strong> If suspected to be branchial
 cleft cyst, LVM, dermoid → MRI/CT
 </p>
 <p>
-`<strong>Acquire + infectious/inflammatory:`</strong>
+<strong>Acquire + infectious/inflammatory:</strong>
 </p>
 <p>
 Get CBC, EBV, cat-scratch (Bartonella), PPD. If atypical
@@ -40,7 +40,7 @@ Brucella (cows/pigs), ACE levels (Sarcoid)
 </p>
 </blockquote>
 <p>
-`<strong>Acquired + suspicious for malignancy (eg HL)`</strong>:
+<strong>Acquired + suspicious for malignancy (eg HL)</strong>:
 consider CBC, CXR, CT and excise
 </p>
 <h3 class="unnumbered" id="congenital-neck-masses">
@@ -48,7 +48,7 @@ CONGENITAL NECK
 MASSES
 </h3>
 <p>
-`<strong>Thyroglossal Duct cysts`</strong>:
+<strong>Thyroglossal Duct cysts</strong>:
 </p>
 <ul>
 <li>
@@ -60,19 +60,19 @@ TDC will be only thyroid tissue)
 <li>
 <p>
 Excision: Sistrunk: get mid portion of hyoid and cuff of tongue
-base (see `<em>Posterior hyoid space as related to excision of the
+base (see <em>Posterior hyoid space as related to excision of the
 thyroglossal duct cyst. J Maddalozzo, J Alderfer, V Modi - The
-Laryngoscope, 2010`</em>)
+Laryngoscope, 2010</em>)
 </p>
 </li>
 </ul>
 <p>
-`<strong>Thymic cysts`</strong>:
+<strong>Thymic cysts</strong>:
 </p>
 <ul>
 <li>
 <p>
-`<img alt="Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC " src="../media/image15.png" style="width:1.74653in;height:1.36875in"/>always
+<img alt="Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC " src="../media/image15.png" style="width:1.74653in;height:1.36875in"/>always
 on the left side and are cysts. Consider if patient has a macrocystic
 lymphatic malformation but no loculations (LVMs are multiple cysts,
 Thymic cysts are a single cyst). Get serial calcium and eval for
@@ -81,7 +81,7 @@ Consider DiGeorge Syndrome
 </li>
 </ul>
 <p>
-`<strong>Congenital Torticollis (SCM tumors of infancy)`</strong>:
+<strong>Congenital Torticollis (SCM tumors of infancy)</strong>:
 </p>
 <ul>
 <li>
@@ -97,7 +97,7 @@ Branchial Cleft
 Cyst
 </h4>
 <p>
-`<strong>First Branchial Cleft Cysts`</strong>:
+<strong>First Branchial Cleft Cysts</strong>:
 </p>
 <ul>
 <li>
@@ -108,7 +108,7 @@ masses. Runs along EAC. Lateral to CN7
 </li>
 <li>
 <p>
-`<img alt="" src="../media/image16.png" style="width:1.53472in;height:1.37986in"/>Type 2: 2 layers (ectoderm +
+<img alt="" src="../media/image16.png" style="width:1.53472in;height:1.37986in"/>Type 2: 2 layers (ectoderm +
 mesoderm)  More common
 </p>
 <ul>
@@ -121,7 +121,7 @@ required)
 </li>
 <li>
 <p>
-`<strong>Second Branchial Cleft:`</strong> Deep to CN7 (2nd arch).
+<strong>Second Branchial Cleft:</strong> Deep to CN7 (2nd arch).
 Superficial to CN9 (3rd arch)
 </p>
 <ul>
@@ -140,13 +140,13 @@ Treatment: Excision, may need tonsillectomy
 </li>
 <li>
 <p>
-`<strong>Third Branchial Cleft`</strong>: Deep to CN9 (3rdarch).
+<strong>Third Branchial Cleft</strong>: Deep to CN9 (3rdarch).
 Superficial to CN10. Ends in piriform
 </p>
 </li>
 <li>
 <p>
-`<strong>Fourth Branchial Cleft`</strong>: Starts by clavicle/base
+<strong>Fourth Branchial Cleft</strong>: Starts by clavicle/base
 of SCM → loops under subclavian or aortic arch → goes superiorly deep to
 carotids → loops around CN12 and goes to piriform sinus like 3rd
 branchial cleft cysts
@@ -187,12 +187,12 @@ of affected side)
 </ul>
 id="infectiousinflammatory-neck-masses"\>INFECTIOUS/INFLAMMATORY NECK
 <p>
-`<strong>Viral`</strong>: Post-infectious (especially after EBV
+<strong>Viral</strong>: Post-infectious (especially after EBV
 infections). EBV also helpful to r/o Postransplantation
 lymphproliferative disease (PTLD)
 </p>
 <p>
-`<strong>Bacterial`</strong>:
+<strong>Bacterial</strong>:
 </p>
 <ul>
 <li>
@@ -240,7 +240,7 @@ typically better since anti-TB drugs need to be taken for
 </li>
 </ul>
 <p>
-`<strong>Inflammatory`</strong>:
+<strong>Inflammatory</strong>:
 </p>
 <ul>
 <li>
@@ -281,7 +281,7 @@ In general: They grow at the same rate as the child, do not involute
 </li>
 </ul>
 <p>
-`<strong>Infantile Hemangiomas`</strong>:
+<strong>Infantile Hemangiomas</strong>:
 </p>
 <ul>
 <li>
@@ -314,7 +314,7 @@ Treatment: Propanolol: during proliferative phase (aka under 1yo)
 Make sure no cardiac issues and \>5weeks old: consider in-hospital if high risk (concurrent diagnoses, airway symptoms), monitor glucose.
 </li>
 <li>
-Dose: Start 0.5mg/kg/day (divided into 2-3x/day dosing). Give 1`<sup>st`</sup> dose in office. Monitor vitals for 2 hours and check blood sugar. Advance dose by 0.5mg/kg/dose q4days to 2 mg/kg/day as tolerated (many ppl have patients come back when increasing dose to monitor for another 2 hours). Stop after 12 month old (taper over 4 weeks). Stop if patient has illness (n/v) or wheezing from a cold. Once illness has resolved, can resume treatment
+Dose: Start 0.5mg/kg/day (divided into 2-3x/day dosing). Give 1<sup>st</sup> dose in office. Monitor vitals for 2 hours and check blood sugar. Advance dose by 0.5mg/kg/dose q4days to 2 mg/kg/day as tolerated (many ppl have patients come back when increasing dose to monitor for another 2 hours). Stop after 12 month old (taper over 4 weeks). Stop if patient has illness (n/v) or wheezing from a cold. Once illness has resolved, can resume treatment
 </li>
 <li>
 Superficial: can be treated with Pulse dye laser (PDL)
@@ -338,7 +338,7 @@ Non-involving (NICH): consider embolization and excision once child is school ag
 </li>
 </ul>
 <p>
-`<strong>Kasabach-merrit dx`</strong>:
+<strong>Kasabach-merrit dx</strong>:
 </p>
 <ul>
 <li>
@@ -353,16 +353,16 @@ LOW FLOW VASCULAR MALFORMATIONS
 </h4>
 <ul>
 <li>
-`<strong>Capillary Malformations`</strong>: Presents with Port-Wine stain at birth. Associated with Sturge Weber syndrome: Can involve leptomeninges- risk of seizures, mental retardation. Treatment: Pulse Dye Laser
+<strong>Capillary Malformations</strong>: Presents with Port-Wine stain at birth. Associated with Sturge Weber syndrome: Can involve leptomeninges- risk of seizures, mental retardation. Treatment: Pulse Dye Laser
 </li>
 <li>
-`<strong>Venous malformations`</strong>: Commonly on the lips. Bluish hue. Can cause consumption coagulopathy. Imaging shows calcifications (phleboliths) because of low flow. Tx Sclerotherapy
+<strong>Venous malformations</strong>: Commonly on the lips. Bluish hue. Can cause consumption coagulopathy. Imaging shows calcifications (phleboliths) because of low flow. Tx Sclerotherapy
 </li>
 <li>
-`<strong>Lymphatic Malformations`</strong>
+<strong>Lymphatic Malformations</strong>
 <ul>
 <li>
-Macrocystic \>2cm`<sup>2`</sup>. Microcystic \<2cm`<sup>2`</sup>
+Macrocystic \>2cm<sup>2</sup>. Microcystic \<2cm<sup>2</sup>
 </li>
 <li>
 Staging: suprahyoid worse than infrahyoid and bilateral is worse than unilateral
@@ -425,7 +425,7 @@ Lymphoma: Hogkins is more common than NHL in the neck: HL = B-symptoms
 </li>
 </ul>
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>
 </li>
 </ul>

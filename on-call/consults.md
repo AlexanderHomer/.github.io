@@ -81,8 +81,8 @@ sides, take at least one of them out.
 <p>
 ED doctors can pack a nose. As an Otolaryngologist, when you see
 an epistaxis patient, your job is to find out where the bleeding is
-coming from and why it is happening. `<strong>Find the bleeding
-source`</strong>
+coming from and why it is happening. <strong>Find the bleeding
+source</strong>
 </p>
 </li>
 <li>
@@ -101,7 +101,7 @@ from.
 </li>
 <li>
 <p>
-`<strong>If its anterior`</strong> and a vessel can be seen, use a
+<strong>If its anterior</strong> and a vessel can be seen, use a
 silver nitrate stick to cauterize it. Make sure you dry the area before
 and after cautery with a cotton tip applicator otherwise it will drop
 down onto patients' lips and discolor their skin.
@@ -109,14 +109,14 @@ down onto patients' lips and discolor their skin.
 </li>
 <li>
 <p>
-`<strong>If its further back (mid septum)`</strong>, wrap surgicel
+<strong>If its further back (mid septum)</strong>, wrap surgicel
 around Surgifoam (add some Bactroban) and press it against the area
 that's bleeding.
 </p>
 </li>
 <li>
 <p>
-`<strong>If it's posterior: use a posterior pack`</strong>. Pumping
+<strong>If it's posterior: use a posterior pack</strong>. Pumping
 vessels posteriorly will likely need to the OR to stop. Try medializing
 the middle turbinate and looking for the vessel on the lateral posterior
 aspect of the middle turbinate where the SPA comes out.
@@ -124,7 +124,7 @@ aspect of the middle turbinate where the SPA comes out.
 </li>
 <li>
 <p>
-`<strong>If it's an HHT patient`</strong>. Surgiflo seems to work
+<strong>If it's an HHT patient</strong>. Surgiflo seems to work
 best. Just coat the entire nasal cavity with it.
 </p>
 </li>
@@ -135,7 +135,7 @@ PTAs
 <ul>
 <li>
 <p>
-CBC w/ Diff; Rapid Strep; `<u>Monospot`</u>
+CBC w/ Diff; Rapid Strep; <u>Monospot</u>
 </p>
 </li>
 <li>
@@ -213,7 +213,7 @@ traumatic? Tube size? Extubation attempts, exposure)
 </li>
 <li>
 <p>
-`<strong>Operative Steps:`</strong> Place shoulder roll. mark out
+<strong>Operative Steps:</strong> Place shoulder roll. mark out
 midline, hyoid, thyroid cartilage, cricoid, sternal notch. Match a 3-4cm
 incision between cricoid and sternal notch. Inject w/ lido w/ epi. Prep
 & drape. Incision w/ 15 blade through platysma. Use bipolar to stop
@@ -227,11 +227,11 @@ under straps then can retract laterally first with senns then with army
 navy. If trach dives deep, comes from above thyroid over cricoid. Can
 also use bovie to separate thyroid. Careful with FiO2 and bovie coming
 up to the trachea. Switch to bipolar if you have to use it. Push fascia
-off trachea w/ a peanut. Expose you window (2/3`<sup>rd`</sup> tracheal
+off trachea w/ a peanut. Expose you window (2/3<sup>rd</sup> tracheal
 rings). Ask anesthesia to prepare circuit. Ask scrub tech to test cuff,
 put 10cc syringe on cuff of trach, put on obturator, get a 15 blade, ask
 anesthesia to lower cuff. Open trachea (careful not to cut cuff) by
-making two horizontal incisions over 2`<sup>nd`</sup> and 3`<sup>rd`</sup>
+making two horizontal incisions over 2<sup>nd</sup> and 3<sup>rd</sup>
 tracheal rings. Widen with curved mets. Use a pickup to hold piece of
 trachea between cuts and use heavy mayos to cut the sides of the
 incision to remove window. Widen w/ trach spreaders. Ask anesthesia to
@@ -409,26 +409,26 @@ Orbital Cellulitis
 <ul>
 <li>
 <p>
-`<strong>Preseptal vs Orbital Cellulitis`</strong>:
+<strong>Preseptal vs Orbital Cellulitis</strong>:
 </p>
 <ol type="A">
 <li>
-Orbital cellulitis is likely to have `<strong>chemosis`</strong>, pain
+Orbital cellulitis is likely to have <strong>chemosis</strong>, pain
 with EOMI, restricted eye movement
 </li>
 </ol>
 </li>
 <li>
 <p>
-`<strong>When to drain a subperiosteal abscess?`</strong> If the
-abscess volume is \<1250mm`<sup>3`</sup> can avoid OR (measure abscess
+<strong>When to drain a subperiosteal abscess?</strong> If the
+abscess volume is \<1250mm<sup>3</sup> can avoid OR (measure abscess
 in 3 dimensions WxDxL in
 </p>
 </li>
 <li>
 <p>
-`<strong>How to tell if there is a cavernous sinus
-thrombosis`</strong>: get a MRI with contrast.
+<strong>How to tell if there is a cavernous sinus
+thrombosis</strong>: get a MRI with contrast.
 </p>
 <ol type="A">
 <li>
@@ -475,36 +475,36 @@ vs inflammatory vs foreign body vs neoplastic
 <p>
 Evaluate: O2 sat, respiratory rate, retractions, ability to lay
 supine. Stridor: insp: supraglottic/glottic. Biphasic:
-glottic/subglottic. Expiratory: trachea/bronchi. `<strong>Perform
-fiberoptic exam and check airway`</strong>
+glottic/subglottic. Expiratory: trachea/bronchi. <strong>Perform
+fiberoptic exam and check airway</strong>
 </p>
 </li>
 <li>
 <p>
-Management`<strong>:`</strong>
+Management<strong>:</strong>
 </p>
 <ol type="1">
 <li>
 <p>
-`<u>Airway widely patent and mild edema, slow progression of
-symptoms`</u> → observation on floor w/ O2 monitoring
+<u>Airway widely patent and mild edema, slow progression of
+symptoms</u> → observation on floor w/ O2 monitoring
 </p>
 </li>
 <li>
 <p>
-`<u>Airway patent but moderate edema (e.g. angioedema
-patients)`</u> → observation in ICU
+<u>Airway patent but moderate edema (e.g. angioedema
+patients)</u> → observation in ICU
 </p>
 </li>
 <li>
 <p>
-`<u>Unable to entire airway`</u> → OR for awake fiberoptic
+<u>Unable to entire airway</u> → OR for awake fiberoptic
 intubation w/ possible awake trach
 </p>
 </li>
 <li>
 <p>
-`<u>Unable to see any airway`</u> → OR for awake trach
+<u>Unable to see any airway</u> → OR for awake trach
 </p>
 </li>
 </ol>

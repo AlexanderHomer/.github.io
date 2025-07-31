@@ -52,7 +52,7 @@ Generic Free Flap
 \[Tracy\]
 </h3>
 <p>
-`<strong>Neuro:`</strong>
+<strong>Neuro:</strong>
 </p>
 <ul>
 <li>
@@ -66,7 +66,7 @@ No NSAIDs until POD#7
 </li>
 </ul>
 <p>
-`<strong>HEENT:`</strong>
+<strong>HEENT:</strong>
 </p>
 <ul>
 <li>
@@ -89,7 +89,7 @@ No circumferential neck ties
 </li>
 </ul>
 <p>
-`<strong>CV:`</strong>
+<strong>CV:</strong>
 </p>
 <ul>
 <li>
@@ -100,7 +100,7 @@ Avoid pressors as much as possible, please give fluid boluses or transfuse with 
 </li>
 </ul>
 <p>
-`<strong>RESP:`</strong>
+<strong>RESP:</strong>
 </p>
 <ul>
 <li>
@@ -111,7 +111,7 @@ In the event of decannulation, pull the stay sutures towards the skin to bring t
 </li>
 </ul>
 <p>
-`<strong>GI:`</strong>
+<strong>GI:</strong>
 </p>
 <ul>
 <li>
@@ -131,7 +131,7 @@ STRICT NPO. No swabs or ice chips.
 </li>
 </ul>
 <p>
-`<strong>ID:`</strong>
+<strong>ID:</strong>
 </p>
 <ul>
 <li>
@@ -148,7 +148,7 @@ Bacitracin to incisions BID
 </li>
 </ul>
 <p>
-`<strong>GU:`</strong>
+<strong>GU:</strong>
 </p>
 <ul>
 <li>
@@ -159,7 +159,7 @@ Remove foley when able
 </li>
 </ul>
 <p>
-`<strong>HEME:`</strong>
+<strong>HEME:</strong>
 </p>
 <ul>
 <li>
@@ -170,7 +170,7 @@ CBC daily
 </li>
 </ul>
 <p>
-`<strong>MSK:`</strong>
+<strong>MSK:</strong>
 </p>
 <ul>
 <li>
@@ -243,7 +243,7 @@ place back into stoma
 </li>
 <li>
 <p>
-Rounds: `<strong>`<u>check for crusting in the stoma`</u>`</strong> --
+Rounds: <strong><u>check for crusting in the stoma</u></strong> --
 any exposed cartilage? In radiated patients, look out for possible
 fistula formation (tube feeds coming out neck)
 </p>
@@ -261,8 +261,8 @@ q4-6hours. If normal, recheck iCa2+ q8hrs.
 </li>
 <li>
 <p>
-levothyroxine: according to endocrine, `<strong>levothyroxine dose
-in mcg = 1.7xpt's weight (kg)`</strong>
+levothyroxine: according to endocrine, <strong>levothyroxine dose
+in mcg = 1.7xpt's weight (kg)</strong>
 </p>
 </li>
 <li>
@@ -312,14 +312,14 @@ requirement).
 </li>
 <li>
 <p>
-`<strong>Before trach change`</strong>: ask RT to put new trachs at
+<strong>Before trach change</strong>: ask RT to put new trachs at
 bedside and ask the RN to verify the correct type is there. Also ask the
 RN to give some pain medication just before change.
 </p>
 </li>
 <li>
 <p>
-`<strong>Need`</strong>: shoulder roll, headlight, new trach, 10cc
+<strong>Need</strong>: shoulder roll, headlight, new trach, 10cc
 syringe, lube, suture scissors, suction set up in room, flexible
 'chimney' suction, yankeur suction, 4x4 gauze w/ saline, Velcro trach
 tie, allvyn dressing (prn)
@@ -327,7 +327,7 @@ tie, allvyn dressing (prn)
 </li>
 <li>
 <p>
-After 1`<sup>st`</sup> trach change: RT can change the
+After 1<sup>st</sup> trach change: RT can change the
 trach
 </p>
 </li>
@@ -358,7 +358,7 @@ Medium chain triglyceride diet \[For tube feeds switch to Portagen\]
 High output \>500cc/day: typically need to go to OR.
 </p>
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>
 </li>
 </ul>

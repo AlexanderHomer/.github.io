@@ -92,22 +92,22 @@ Family hx of ear disease; ankyloglossia (paternal);
 Pediatric ROS
 </h4>
 <p>
-`<strong>Ears: No`</strong> episodes of AOM. No otorrhea or otalgia. No
+<strong>Ears: No</strong> episodes of AOM. No otorrhea or otalgia. No
 concerns for hearing loss. No difficulty with balance. No history of
 speech delay.
 </p>
 <p>
-`<strong>Nose`</strong>: Denies chronic nasal congestion or rhinorrhea.
+<strong>Nose</strong>: Denies chronic nasal congestion or rhinorrhea.
 No epistaxis. No history or symptoms of environmental allergies; no
 formal allergy evaluation to date.
 </p>
 <p>
-`<strong>Throat`</strong>: No snoring or mouth breathing at night. No
+<strong>Throat</strong>: No snoring or mouth breathing at night. No
 witnessed apneic pauses in breathing while sleeping. No nighttime
 enuresis. No episodes of tonsillitis or frequent sore throats.
 </p>
 <p>
-`<strong>Airway`</strong>: No dysphagia or odynophagia. Denies any
+<strong>Airway</strong>: No dysphagia or odynophagia. Denies any
 change in sound of voice or cry, no hoarseness. No gasping or choking
 spells. No episodes of respiratory distress. (Stridor/how's the
 patient's cry, choking w. food/hx of respiration PNA, weight loss/FTT,
@@ -118,35 +118,35 @@ OME -
 Clinical Practice Guidelines
 </h3>
 <p>
-`<strong>Recurrent AOM:`</strong> 3 discrete episodes of AOM in 6months
+<strong>Recurrent AOM:</strong> 3 discrete episodes of AOM in 6months
 or 4 in past 12 months
 </p>
 <p>
-`<strong>Chronic OME`</strong>: OME that persists for 3+ months
+<strong>Chronic OME</strong>: OME that persists for 3+ months
 </p>
 <p>
 Always use pneumatic otoscopy. Tympanometry if diagnosis is
 uncertain. Council parents of newborns who fail NBHS of importance of
 f/u due to risk of SNHL. Should screen of OME in at-risk patients.
-`<strong>Watchful waiting recommended for`</strong> c`<strong>hild with OME
-w/o risk factors.`</strong> Don't give steroids, antihistamines, or
-decongestants to childrens with OME. `<strong>OME \>3months -- get
-audiogram`</strong>. Re-eval patients with OME q3-6months until OME no
+<strong>Watchful waiting recommended for</strong> c<strong>hild with OME
+w/o risk factors.</strong> Don't give steroids, antihistamines, or
+decongestants to childrens with OME. <strong>OME \>3months -- get
+audiogram</strong>. Re-eval patients with OME q3-6months until OME no
 longer present or hearing loss identified (yes, repeat hearing test
 q3-6months) or structural abnormalities/middle ear disease suspected.
-`<strong>Chronic OME + hearing loss or symptoms that are consistent w/
-hearing loss`</strong> -- book for tympanostomy tube placement.
-`<strong>Recurrent AOM`</strong>: book for tympanostomy tube placement if
-OME seen on day of visit. `<strong>Patients \>4yo should get an
-adenoidectomy with ear tubes.`</strong>
+<strong>Chronic OME + hearing loss or symptoms that are consistent w/
+hearing loss</strong> -- book for tympanostomy tube placement.
+<strong>Recurrent AOM</strong>: book for tympanostomy tube placement if
+OME seen on day of visit. <strong>Patients \>4yo should get an
+adenoidectomy with ear tubes.</strong>
 </p>
 <p>
-`<strong>SRBD/OSA`</strong>
+<strong>SRBD/OSA</strong>
 </p>
 <ul>
 <li>
 <p>
-Obtain PSG if: (1) obese \>95`<sup>th`</sup> %ile (2) down
+Obtain PSG if: (1) obese \>95<sup>th</sup> %ile (2) down
 syndrome (3) craniofacial disorder (4) neuromuscular disorder (5) sickle
 cell or mucopolysaccaharidose patients (6) when exam and history don't
 match up
@@ -233,20 +233,20 @@ ABR by 3 months old and early intervention by 6 months old.
 Order:
 </p>
 <p>
-`<strong>CMV`</strong> (PCR from urine saliva or IgM if \<3weeks old)
+<strong>CMV</strong> (PCR from urine saliva or IgM if \<3weeks old)
 + TORCH assay
 </p>
 <p>
-`<strong>EKG`</strong> (r/o Jervell Lange Nielsen),
+<strong>EKG</strong> (r/o Jervell Lange Nielsen),
 </p>
 <p>
-`<strong>Ophtho consult`</strong> (see below)
+<strong>Ophtho consult</strong> (see below)
 </p>
 <p>
-`<strong>Genetics testing`</strong>,
+<strong>Genetics testing</strong>,
 </p>
 <p>
-`<strong>Thyroid U/S`</strong> (multinodular goiter = Pendred's),
+<strong>Thyroid U/S</strong> (multinodular goiter = Pendred's),
 Percholrate test (Pendred's) isn't used anymore,
 </p>
 <p>
@@ -328,7 +328,7 @@ Facial nerve paralysis: Mobius syndrome (look for club foot, CNVI palsy), CHARGE
 </li>
 </ul>
 <h3 class="unnumbered" id="pediatric-syndromes">
-`<img alt="" src="media/image14.png" style="width:1.59792in;height:1.6375in"/>Pediatric Syndromes
+<img alt="" src="media/image14.png" style="width:1.59792in;height:1.6375in"/>Pediatric Syndromes
 </h3>
 <h4 class="unnumbered" id="digeorgevelocardiofacial-syndrome">
 DiGeorge/Velocardiofacial
@@ -353,7 +353,7 @@ H -- Hypoparathyroidism (low calcum)
 22q11 deletion
 </p>
 <p>
-`<strong>15% patients have glottic webs`</strong>. Also have medialized
+<strong>15% patients have glottic webs</strong>. Also have medialized
 carotids (important for tonsillectomies)
 </p>
 <h4 class="unnumbered" id="charge-syndrome">
@@ -595,16 +595,16 @@ Atresia
 </h3>
 <p>
 Workup: If newborn hearing screen on contralateral ear is ok, can
-`<u>delay formal audiogram until 6-7 months of age`</u> (ABR if fails on
+<u>delay formal audiogram until 6-7 months of age</u> (ABR if fails on
 that side)
 </p>
 <h4 class="unnumbered" id="microtia">
 Microtia
 </h4>
 <p>
-`<strong>Grade I`</strong>: cup or lop ear. `<strong>Grade II`</strong>:
-rudimentary subunits `<strong>Grade III`</strong>: peanut ear
-`<strong>Grade IV`</strong>: anotia
+<strong>Grade I</strong>: cup or lop ear. <strong>Grade II</strong>:
+rudimentary subunits <strong>Grade III</strong>: peanut ear
+<strong>Grade IV</strong>: anotia
 </p>
 <p>
 Most commonly right side, seen in men.
@@ -614,9 +614,9 @@ Ask: about teratogens (isotretinoin, thalidomide, vascular insults
 during pregnancy)
 </p>
 <p>
-Look for associated conditions: `<strong>Goldenhar`</strong>
+Look for associated conditions: <strong>Goldenhar</strong>
 (mandibular hypoplasia/hemifacial microsomia → OAV if spine defects
-noted) `<strong>CHARGE`</strong> (coloboma, heart defects, choanal
+noted) <strong>CHARGE</strong> (coloboma, heart defects, choanal
 atresia, retardation, genital hypoplasia, ear abnormalities)
 </p>
 <p>
@@ -632,23 +632,23 @@ Aural Atresia
 Associated w/ microtia in 55-90%.
 </p>
 <p>
-`<strong>Jahrsdoerfer`</strong> (10 total points, \>7 = candidate for
-repair) `<strong>SOME FIRMM`</strong>:
+<strong>Jahrsdoerfer</strong> (10 total points, \>7 = candidate for
+repair) <strong>SOME FIRMM</strong>:
 </p>
 <p>
-`<strong>S`</strong>tapes present (2 points), `<strong>O`</strong>val
-window, `<strong>M`</strong>iddle ear space, `<strong>E`</strong>xternal ear
+<strong>S</strong>tapes present (2 points), <strong>O</strong>val
+window, <strong>M</strong>iddle ear space, <strong>E</strong>xternal ear
 appearance
 </p>
 <p>
-`<strong>F`</strong>acial nerve, `<strong>I`</strong>ncus-stapes
-connection, `<strong>R`</strong>ound window,
-`<strong>M`</strong>alleus-Incus complex `<strong>M`</strong>astoid
+<strong>F</strong>acial nerve, <strong>I</strong>ncus-stapes
+connection, <strong>R</strong>ound window,
+<strong>M</strong>alleus-Incus complex <strong>M</strong>astoid
 pneumatization
 </p>
 <p>
 No need to get CT before 4 years of age. CT to evaluate for
-`<strong>cholesteatoma`</strong> + to assess if candidate for aural
+<strong>cholesteatoma</strong> + to assess if candidate for aural
 atresia repair. Aural atresia repaired AFTER microtia (because you want
 skin w/ excellent blood supply for microtia)
 </p>
@@ -657,27 +657,27 @@ PEDIATRIC NECK
 MASSES
 </h2>
 <p>
-`<strong>History`</strong>: Ask if mass was present at birth, growth,
+<strong>History</strong>: Ask if mass was present at birth, growth,
 fluctuate in size. Travel history. Pets at home (rabbits/cats). Exposure
 to farm animals (cows/pigs). B-symptoms (Fevers, chills, night sweats).
 Exposure to phenytoin (drug-induced)
 </p>
 <p>
-`<strong>Work up`</strong>: First determine if congenital or
+<strong>Work up</strong>: First determine if congenital or
 acquired
 </p>
 <blockquote>
 <p>
-`<strong>Congenital + midline:`</strong> thyroglossal duct cyst →
+<strong>Congenital + midline:</strong> thyroglossal duct cyst →
 thyroid U/S (\~1% of thyroglossal cysts are the only thyroid tissue in a
 patient)
 </p>
 <p>
-`<strong>Congenital + lateral:`</strong> If suspected to be branchial
+<strong>Congenital + lateral:</strong> If suspected to be branchial
 cleft cyst, LVM, dermoid → MRI/CT
 </p>
 <p>
-`<strong>Acquire + infectious/inflammatory:`</strong>
+<strong>Acquire + infectious/inflammatory:</strong>
 </p>
 <p>
 Get CBC, EBV, cat-scratch (Bartonella), PPD. If atypical
@@ -690,7 +690,7 @@ Brucella (cows/pigs), ACE levels (Sarcoid)
 </p>
 </blockquote>
 <p>
-`<strong>Acquired + suspicious for malignancy (eg HL)`</strong>:
+<strong>Acquired + suspicious for malignancy (eg HL)</strong>:
 consider CBC, CXR, CT and excise
 </p>
 <h3 class="unnumbered" id="congenital-neck-masses">
@@ -698,7 +698,7 @@ CONGENITAL NECK
 MASSES
 </h3>
 <p>
-`<strong>Thyroglossal Duct cysts`</strong>:
+<strong>Thyroglossal Duct cysts</strong>:
 </p>
 <ul>
 <li>
@@ -710,19 +710,19 @@ TDC will be only thyroid tissue)
 <li>
 <p>
 Excision: Sistrunk: get mid portion of hyoid and cuff of tongue
-base (see `<em>Posterior hyoid space as related to excision of the
+base (see <em>Posterior hyoid space as related to excision of the
 thyroglossal duct cyst. J Maddalozzo, J Alderfer, V Modi - The
-Laryngoscope, 2010`</em>)
+Laryngoscope, 2010</em>)
 </p>
 </li>
 </ul>
 <p>
-`<strong>Thymic cysts`</strong>:
+<strong>Thymic cysts</strong>:
 </p>
 <ul>
 <li>
 <p>
-`<img alt="Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC " src="media/image15.png" style="width:1.74653in;height:1.36875in"/>always
+<img alt="Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC " src="media/image15.png" style="width:1.74653in;height:1.36875in"/>always
 on the left side and are cysts. Consider if patient has a macrocystic
 lymphatic malformation but no loculations (LVMs are multiple cysts,
 Thymic cysts are a single cyst). Get serial calcium and eval for
@@ -731,7 +731,7 @@ Consider DiGeorge Syndrome
 </li>
 </ul>
 <p>
-`<strong>Congenital Torticollis (SCM tumors of infancy)`</strong>:
+<strong>Congenital Torticollis (SCM tumors of infancy)</strong>:
 </p>
 <ul>
 <li>
@@ -747,7 +747,7 @@ Branchial Cleft
 Cyst
 </h4>
 <p>
-`<strong>First Branchial Cleft Cysts`</strong>:
+<strong>First Branchial Cleft Cysts</strong>:
 </p>
 <ul>
 <li>
@@ -758,7 +758,7 @@ masses. Runs along EAC. Lateral to CN7
 </li>
 <li>
 <p>
-`<img alt="" src="media/image16.png" style="width:1.53472in;height:1.37986in"/>Type 2: 2 layers (ectoderm +
+<img alt="" src="media/image16.png" style="width:1.53472in;height:1.37986in"/>Type 2: 2 layers (ectoderm +
 mesoderm)  More common
 </p>
 <ul>
@@ -771,7 +771,7 @@ required)
 </li>
 <li>
 <p>
-`<strong>Second Branchial Cleft:`</strong> Deep to CN7 (2nd arch).
+<strong>Second Branchial Cleft:</strong> Deep to CN7 (2nd arch).
 Superficial to CN9 (3rd arch)
 </p>
 <ul>
@@ -790,13 +790,13 @@ Treatment: Excision, may need tonsillectomy
 </li>
 <li>
 <p>
-`<strong>Third Branchial Cleft`</strong>: Deep to CN9 (3rdarch).
+<strong>Third Branchial Cleft</strong>: Deep to CN9 (3rdarch).
 Superficial to CN10. Ends in piriform
 </p>
 </li>
 <li>
 <p>
-`<strong>Fourth Branchial Cleft`</strong>: Starts by clavicle/base
+<strong>Fourth Branchial Cleft</strong>: Starts by clavicle/base
 of SCM → loops under subclavian or aortic arch → goes superiorly deep to
 carotids → loops around CN12 and goes to piriform sinus like 3rd
 branchial cleft cysts
@@ -837,12 +837,12 @@ of affected side)
 </ul>
 id="infectiousinflammatory-neck-masses"\>INFECTIOUS/INFLAMMATORY NECK
 <p>
-`<strong>Viral`</strong>: Post-infectious (especially after EBV
+<strong>Viral</strong>: Post-infectious (especially after EBV
 infections). EBV also helpful to r/o Postransplantation
 lymphproliferative disease (PTLD)
 </p>
 <p>
-`<strong>Bacterial`</strong>:
+<strong>Bacterial</strong>:
 </p>
 <ul>
 <li>
@@ -890,7 +890,7 @@ typically better since anti-TB drugs need to be taken for
 </li>
 </ul>
 <p>
-`<strong>Inflammatory`</strong>:
+<strong>Inflammatory</strong>:
 </p>
 <ul>
 <li>
@@ -931,7 +931,7 @@ In general: They grow at the same rate as the child, do not involute
 </li>
 </ul>
 <p>
-`<strong>Infantile Hemangiomas`</strong>:
+<strong>Infantile Hemangiomas</strong>:
 </p>
 <ul>
 <li>
@@ -964,7 +964,7 @@ Treatment: Propanolol: during proliferative phase (aka under 1yo)
 Make sure no cardiac issues and \>5weeks old: consider in-hospital if high risk (concurrent diagnoses, airway symptoms), monitor glucose.
 </li>
 <li>
-Dose: Start 0.5mg/kg/day (divided into 2-3x/day dosing). Give 1`<sup>st`</sup> dose in office. Monitor vitals for 2 hours and check blood sugar. Advance dose by 0.5mg/kg/dose q4days to 2 mg/kg/day as tolerated (many ppl have patients come back when increasing dose to monitor for another 2 hours). Stop after 12 month old (taper over 4 weeks). Stop if patient has illness (n/v) or wheezing from a cold. Once illness has resolved, can resume treatment
+Dose: Start 0.5mg/kg/day (divided into 2-3x/day dosing). Give 1<sup>st</sup> dose in office. Monitor vitals for 2 hours and check blood sugar. Advance dose by 0.5mg/kg/dose q4days to 2 mg/kg/day as tolerated (many ppl have patients come back when increasing dose to monitor for another 2 hours). Stop after 12 month old (taper over 4 weeks). Stop if patient has illness (n/v) or wheezing from a cold. Once illness has resolved, can resume treatment
 </li>
 <li>
 Superficial: can be treated with Pulse dye laser (PDL)
@@ -988,7 +988,7 @@ Non-involving (NICH): consider embolization and excision once child is school ag
 </li>
 </ul>
 <p>
-`<strong>Kasabach-merrit dx`</strong>:
+<strong>Kasabach-merrit dx</strong>:
 </p>
 <ul>
 <li>
@@ -1003,16 +1003,16 @@ LOW FLOW VASCULAR MALFORMATIONS
 </h4>
 <ul>
 <li>
-`<strong>Capillary Malformations`</strong>: Presents with Port-Wine stain at birth. Associated with Sturge Weber syndrome: Can involve leptomeninges- risk of seizures, mental retardation. Treatment: Pulse Dye Laser
+<strong>Capillary Malformations</strong>: Presents with Port-Wine stain at birth. Associated with Sturge Weber syndrome: Can involve leptomeninges- risk of seizures, mental retardation. Treatment: Pulse Dye Laser
 </li>
 <li>
-`<strong>Venous malformations`</strong>: Commonly on the lips. Bluish hue. Can cause consumption coagulopathy. Imaging shows calcifications (phleboliths) because of low flow. Tx Sclerotherapy
+<strong>Venous malformations</strong>: Commonly on the lips. Bluish hue. Can cause consumption coagulopathy. Imaging shows calcifications (phleboliths) because of low flow. Tx Sclerotherapy
 </li>
 <li>
-`<strong>Lymphatic Malformations`</strong>
+<strong>Lymphatic Malformations</strong>
 <ul>
 <li>
-Macrocystic \>2cm`<sup>2`</sup>. Microcystic \<2cm`<sup>2`</sup>
+Macrocystic \>2cm<sup>2</sup>. Microcystic \<2cm<sup>2</sup>
 </li>
 <li>
 Staging: suprahyoid worse than infrahyoid and bilateral is worse than unilateral
@@ -1083,7 +1083,7 @@ Rigid
 Bronchoscopy (Scott or Vecchiotti)
 </h3>
 <p>
-`<strong>Set up:`</strong>
+<strong>Set up:</strong>
 </p>
 <ul>
 <li>
@@ -1099,86 +1099,86 @@ On table for bronch:
 </li>
 <li>
 <p>
-`<strong>Parson's Laryngoscope`</strong>: Age appropriate \[see
+<strong>Parson's Laryngoscope</strong>: Age appropriate \[see
 chart\]
 </p>
 </li>
 <li>
 <p>
-`<strong>Y-split light cable`</strong> (must be the one with a
+<strong>Y-split light cable</strong> (must be the one with a
 straight light cable adapter on one side and the curved light prism for
 the laryngoscope of the other end.
 </p>
 </li>
 <li>
 <p>
-`<strong>Bronchoscope`</strong> age appropriate \[check chart\]
+<strong>Bronchoscope</strong> age appropriate \[check chart\]
 </p>
 <ul>
 <li>
 <p>
-Connect the `<strong>rubber nipple, suction cover, bridge, and
-light prism`</strong> (only in half way down so it doesn't obstruct the
+Connect the <strong>rubber nipple, suction cover, bridge, and
+light prism</strong> (only in half way down so it doesn't obstruct the
 endoscope)
 </p>
 </li>
 <li>
 <p>
-`<strong>0 degree endoscope`</strong>: pick the largest size that
-will fit into the bronchoscope. `<strong>MAKE SURE IT FITS`</strong>.
-`<strong>MAKE SURE YOU CAN SEE THROUGH IT`</strong> (sometimes they are
+<strong>0 degree endoscope</strong>: pick the largest size that
+will fit into the bronchoscope. <strong>MAKE SURE IT FITS</strong>.
+<strong>MAKE SURE YOU CAN SEE THROUGH IT</strong> (sometimes they are
 broken)
 </p>
 </li>
 <li>
 <p>
-`<strong>2 suctions:`</strong> A small shorter suction for the
+<strong>2 suctions:</strong> A small shorter suction for the
 larynx and a longer suction (one that fits through the bronch)
 </p>
 </li>
 <li>
 <p>
-`<strong>Camera`</strong>: connect to endoscope, focus and white
+<strong>Camera</strong>: connect to endoscope, focus and white
 balance
 </p>
 </li>
 <li>
 <p>
-`<strong>Fred`</strong>
+<strong>Fred</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>1% lidocaine`</strong>:
+<strong>1% lidocaine</strong>:
 </p>
 <ul>
 <li>
 <p>
-`<strong>Calculate max dose for patient's weight`</strong>: 0.4 x
+<strong>Calculate max dose for patient's weight</strong>: 0.4 x
 pt's weight (kg) = amount of 1% lidocaine in cc. \[eg 10kg child can have
 4cc of 1%lidocaine\]
 </p>
 </li>
 <li>
 <p>
-draw up into a `<strong>`<u>non-luer lock`</u> 1cc syringe`</strong>
-x 2. Put on a `<strong>14G angiocath`</strong> (orange tip)
+draw up into a <strong><u>non-luer lock</u> 1cc syringe</strong>
+x 2. Put on a <strong>14G angiocath</strong> (orange tip)
 </p>
 </li>
 <li>
 <p>
-`<strong>Vocal fold spreader`</strong> + `<strong>sterile elastics +
-A right angled probe`</strong>
+<strong>Vocal fold spreader</strong> + <strong>sterile elastics +
+A right angled probe</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>A shoulder roll.`</strong>
+<strong>A shoulder roll.</strong>
 </p>
 </li>
 </ul>
 <p>
-`<img alt="" src="media/image17.png" style="width:4.10216in;height:2.80449in"/>
+<img alt="" src="media/image17.png" style="width:4.10216in;height:2.80449in"/>
 </p>
 <p>
 []{#_Toc139824222 .anchor}Flexible
@@ -1323,8 +1323,8 @@ of trach + 2/3 sizes up).
 </li>
 <li>
 <p>
-Be in preop area `<u>at least`</u> 15 minutes prior to
-1`<sup>st`</sup> case
+Be in preop area <u>at least</u> 15 minutes prior to
+1<sup>st</sup> case
 </p>
 </li>
 <li>
@@ -1403,7 +1403,7 @@ Spatula-tip bovie on 20/20.
 </li>
 <li>
 <p>
-Suction cautery `<u>coag on 28 (cut on 20) & blend`</u> for
+Suction cautery <u>coag on 28 (cut on 20) & blend</u> for
 adenoids
 </p>
 </li>
@@ -1471,10 +1471,10 @@ PICU post-op.
 id="open-neck-cases-eg-thyroglossal-duct-cyst-vecchiotti"\>Open Neck
 Cases eg thyroglossal duct cyst (Vecchiotti)
 <p>
-Dr. Vecchiotti's glove size: `<strong>7`</strong>
+Dr. Vecchiotti's glove size: <strong>7</strong>
 </p>
 <p>
-`<u>PREPPING - You need:`</u>
+<u>PREPPING - You need:</u>
 </p>
 <ul>
 <li>
@@ -1494,11 +1494,11 @@ if young infant, ask if in doubt) .
 Have marking pen ready to pre-mark incision -- have alcohol swabs
 ready if need to erase/remark. Apply mastisol around your operative
 field. Place the 1000 drapes on all 4 sides. Do a wide prep with
-betadine. `<strong>Put on headlight before you scrub.`</strong> Have
+betadine. <strong>Put on headlight before you scrub.</strong> Have
 bipolar set on 10/10.
 </p>
 <p>
-`<u>CLOSING -- in general:`</u>
+<u>CLOSING -- in general:</u>
 </p>
 <ul>
 <li>
@@ -1528,18 +1528,18 @@ Bacitracin ointment (occasionally dermabond)
 </li>
 </ul>
 <p>
-`<strong>Sistrunk (Thyroglossal Duct Cyst Excision)
-Technique:`</strong> see article `<em>Posterior Hyoid Space as Related to
-Excision of the Thyroglossal Duct Cyst`</em> John Maddalozzo, MD, FAAP,
-FACS, Jeremy Alderfer, MD; Vikash Modi, MD `<em>The Laryngoscope
-2010`</em>
+<strong>Sistrunk (Thyroglossal Duct Cyst Excision)
+Technique:</strong> see article <em>Posterior Hyoid Space as Related to
+Excision of the Thyroglossal Duct Cyst</em> John Maddalozzo, MD, FAAP,
+FACS, Jeremy Alderfer, MD; Vikash Modi, MD <em>The Laryngoscope
+2010</em>
 </p>
 <h3 class="unnumbered" id="cochlear-implants-vecchiotti">
 Cochlear
 Implants (Vecchiotti)
 </h3>
 <p>
-`<strong>To confirm before patient enters room`</strong>
+<strong>To confirm before patient enters room</strong>
 </p>
 <ul>
 <li>
@@ -1579,11 +1579,11 @@ Corp)
 Balance the microscope. Don't drape it yet.
 </p>
 <p>
-`<img alt="" src="media/image18.jpeg" style="width:0.85278in;height:0.78194in"/>`<img alt="" src="media/image19.png" style="width:0.9625in;height:0.71042in"/>Call audiology and give them
+<img alt="" src="media/image18.jpeg" style="width:0.85278in;height:0.78194in"/><img alt="" src="media/image19.png" style="width:0.9625in;height:0.71042in"/>Call audiology and give them
 the serial numbers for the cochlear implants
 </p>
 <p>
-`<strong>Things to put on the non-sterile side table:`</strong>
+<strong>Things to put on the non-sterile side table:</strong>
 </p>
 <p>
 M&T kit, mastisol, 1000 drapes cut in half (need 5-6), NIM
@@ -1591,10 +1591,10 @@ electrodes, tegederms cut in ½, a razor, alcohol prep pads,
 lidocaine)
 </p>
 <p>
-`<strong>Set up`</strong>
+<strong>Set up</strong>
 </p>
 <p>
-`<img alt="" src="media/image20.png" style="width:1.56319in;height:1.09306in"/>Bed rotated 180 degrees.
+<img alt="" src="media/image20.png" style="width:1.56319in;height:1.09306in"/>Bed rotated 180 degrees.
 Leica microscope at head of bed, tower can be on the scrub side of
 microscope, NIM monitor and suction on the scrub side by the feet.
 </p>
@@ -1609,7 +1609,7 @@ implant site.
 Draw a lazy S incision 0.5cm behind the post-auricular crease.
 </p>
 <p>
-`<img alt="" src="media/image21.png" style="width:1.94861in;height:1.71389in"/>Place the NIM and curl the
+<img alt="" src="media/image21.png" style="width:1.94861in;height:1.71389in"/>Place the NIM and curl the
 leads before you stick the Tegaderm down. Test the monitor. Volume to
 max, voltage at 0.8.
 </p>
@@ -1618,8 +1618,8 @@ Put mastisol where the 1000 drapes will go and put the 1000 drapes
 down.
 </p>
 <p>
-`<strong>Evaluate the TM with the microscope before you
-prep`</strong>.
+<strong>Evaluate the TM with the microscope before you
+prep</strong>.
 </p>
 <p>
 Prep a wide area. Get the parts of the 1000 drapes that slip behind
@@ -1629,7 +1629,7 @@ posterior to anterior pulling the ear forward as you do. Redraw template
 markings again. Have scrub drape the microscope and the chairs.
 </p>
 <p>
-`<strong>Procedure`</strong>
+<strong>Procedure</strong>
 </p>
 <p>
 15 blade for incision, carry down to the temporalis fascia. Raise
@@ -1641,7 +1641,7 @@ placed) down to the bone. Raise the flap with a Lempert periosteal
 elevator to the spine of henle.
 </p>
 <p>
-`<img alt="" src="media/image22.png" style="width:3.74306in;height:1.43333in"/>Do a cortical mastoidectomy,
+<img alt="" src="media/image22.png" style="width:3.74306in;height:1.43333in"/>Do a cortical mastoidectomy,
 focus on the corner where the tegmen and EAC meet. Use a #6 until you
 hit Koerner septum, then switch to a #3 to expose the lateral
 semicircular canal, incus buttress and the fossa incudes. The incus
@@ -1679,7 +1679,7 @@ running 4-0 vicryl. Close deep layer with 4-0 vicyrl. Superficial with a
 fluffs. Then do a mastoid dressing (with 2 kerlexs)
 </p>
 <p>
-`<strong>Post-op Instructions`</strong>
+<strong>Post-op Instructions</strong>
 </p>
 <p>
 Mastoid/glasscock dressing for 24 hours. Then glasscock dressing at
@@ -1724,9 +1724,9 @@ Usually inject 1cc or 20 units/gland
 Dr Scott's OR Guide
 </h3>
 <p>
-For `<strong>`<u>Andrew Scott operative note`</u>`</strong> you need to
-focus on FINDINGS: `<strong>+/- submucus cleft, Size of Tonsils, Size of
-Adenoids, Electrocautery Settings.`</strong>
+For <strong><u>Andrew Scott operative note</u></strong> you need to
+focus on FINDINGS: <strong>+/- submucus cleft, Size of Tonsils, Size of
+Adenoids, Electrocautery Settings.</strong>
 </p>
 <p>
 []{#_Toc139824229 .anchor}Adenotonsillectomy
@@ -1752,8 +1752,8 @@ palate
 </li>
 <li>
 <p>
-Place soft suction catheter through nasal cavity; `<u>place rolled
-gauze between soft suction catheter and clamp to secure in place`</u>
+Place soft suction catheter through nasal cavity; <u>place rolled
+gauze between soft suction catheter and clamp to secure in place</u>
 (Vecchiotti does not use rolled gauze)
 </p>
 </li>
@@ -1856,11 +1856,11 @@ Tonsillectomy
 Patients
 </h4>
 <p>
-`<strong>Orders`</strong>: IVF, soft diet, pulse oximetry, cool
+<strong>Orders</strong>: IVF, soft diet, pulse oximetry, cool
 humidified air, ice pack to back of neck,
 </p>
 <p>
-`<strong>Meds`</strong>:
+<strong>Meds</strong>:
 </p>
 <p>
 Tylenol & ibuprofen liquid PO (should be standing orders, to be
@@ -1874,7 +1874,7 @@ patients \<6yo)
 Zofran IV, +/- Phenergine PR
 </p>
 <p>
-`<strong>D/C Criteria`</strong>: When you check soarian in the AM of
+<strong>D/C Criteria</strong>: When you check soarian in the AM of
 POD#1: make sure
 </p>
 <p>
@@ -1891,16 +1891,16 @@ Mandibular
 Distraction
 </h4>
 <p>
-POD#0-1: stay intubated. IV ancef or vanco. `<strong>Trend cap
-gas`</strong> (high risk of ↑↑PCO`<sub>2`</sub>) POD#2: clean pins w/ H2O2
+POD#0-1: stay intubated. IV ancef or vanco. <strong>Trend cap
+gas</strong> (high risk of ↑↑PCO<sub>2</sub>) POD#2: clean pins w/ H2O2
 and distraction begins.
 </p>
 <p>
-`<strong>External devices:`</strong> 1.5 turns (0.75mm) BID (
+<strong>External devices:</strong> 1.5 turns (0.75mm) BID (
 1.5mm/day)
 </p>
 <p>
-`<strong>Internal devices:`</strong> 1 turn (1mm) BID (2mm/day)
+<strong>Internal devices:</strong> 1 turn (1mm) BID (2mm/day)
 </p>
 <p>
 POD#5: wean sedation POD#6: extubate, dispo planning. Discharge on
@@ -1917,9 +1917,9 @@ POD#0-5: Make sure patient is on zosyn. Check for pressure necrosis
 (occiput, heels), and alar necrosis.
 </p>
 <p>
-`<strong>Periextubation plan (POD#5):`</strong> Decadron 0.25-0.5mg/kg
+<strong>Periextubation plan (POD#5):</strong> Decadron 0.25-0.5mg/kg
 to be given 13 hours prior to extubation q6hrs x3 so last dose is 1 hour
-prior to extubation. `<u>Propofol "washout":`</u> 8-10 hours prior to
+prior to extubation. <u>Propofol "washout":</u> 8-10 hours prior to
 planned extubation: start propofol 30mcg/kg/min (can titrate up to max
 100mcg/kg/min) then after 1 hour, can cut opioid and benzodiazepine
 infusions to 25-50% of previous level. continue precedex at same rate.
@@ -1947,12 +1947,12 @@ Glasscock x 24 hours then at night prn comfort
 <p>
 Ciprodex & Bactroban: Remove the cotton ball in ear, apply 3
 drops of ciprodex, then placed a new cotton ball coated in Bactroban
-back into the ear. Do this `<u>three times a day`</u>
+back into the ear. Do this <u>three times a day</u>
 </p>
 </li>
 <li>
 <p>
-`<u>Sinus`</u> precautions and `<u>dry ear`</u> precautions x 2
+<u>Sinus</u> precautions and <u>dry ear</u> precautions x 2
 weeks
 </p>
 </li>
@@ -1972,7 +1972,7 @@ Scott Cleft Lip
 & Cleft Palate
 </h4>
 <p>
-`<strong>Medications`</strong>:
+<strong>Medications</strong>:
 </p>
 <ul>
 <li>
@@ -2003,7 +2003,7 @@ LR @ mIVF rate
 <li>
 <p>
 Nasal saline spray: 4 drops to each nostril and to lip incisions
-q4 hours `<strong>`<u>\[cleft lip only\]`</u>`</strong> (this is super
+q4 hours <strong><u>\[cleft lip only\]</u></strong> (this is super
 important -- write an RN order to clean nose with q-tip if there is any
 crusting and do this on rounds in the AM)
 </p>
@@ -2016,7 +2016,7 @@ patients)
 </li>
 </ul>
 <p>
-`<strong>Non-Medication Orders`</strong>:
+<strong>Non-Medication Orders</strong>:
 </p>
 <ul>
 <li>
@@ -2031,21 +2031,21 @@ Activity ad lib
 </li>
 <li>
 <p>
-Regular Pedi Age-appropriate diet `<strong>`<u>\[cleft
-lip\]`</u>`</strong>
+Regular Pedi Age-appropriate diet <strong><u>\[cleft
+lip\]</u></strong>
 </p>
 </li>
 <li>
 <p>
-Soft/Pureed diet until follow up `<strong>`<u>\[cleft
-palate\]`</u>`</strong>
+Soft/Pureed diet until follow up <strong><u>\[cleft
+palate\]</u></strong>
 </p>
 </li>
 <li>
 <p>
 Welcome sleeves at all times (except under direct supervision) x2
-weeks (`<em>sign the restraint order form in PACU otherwise you WILL get
-a page at night)`</em>
+weeks (<em>sign the restraint order form in PACU otherwise you WILL get
+a page at night)</em>
 </p>
 </li>
 <li>
@@ -2092,12 +2092,12 @@ No ointment of any kind to incisions
 </li>
 <li>
 <p>
-`<u>Follow up is 3 weeks`</u>
+<u>Follow up is 3 weeks</u>
 </p>
 </li>
 </ul>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>
 </li>
 </ul>

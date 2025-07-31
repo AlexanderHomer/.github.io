@@ -6,72 +6,72 @@ title: Tips
 Tips
 </h1>
 <p>
-`<strong>EMR:`</strong>
+<strong>EMR:</strong>
 </p>
 <p>
 Epic for desktop and Haiku for mobile platforms
 </p>
 <p>
-`<strong>Links:`</strong>
+<strong>Links:</strong>
 </p>
 <p>
-Tufts Intranet URL:`<a href="http://intranet.nemc.org/">http://intranet.nemc.org/`</a>
+Tufts Intranet URL:<a href="http://intranet.nemc.org/">http://intranet.nemc.org/</a>
 </p>
 <p>
-Paging URL:`<a href="http://neamcomweb.tufts-
+Paging URL:<a href="http://neamcomweb.tufts-
 nemc.org/smartweb/pages/directory/PersonSearchResults.jsf">http://neamcomweb.tufts-
-nemc.org/smartweb/pages/directory/PersonSearchResults.jsf`</a>
+nemc.org/smartweb/pages/directory/PersonSearchResults.jsf</a>
 </p>
 <p>
 Citrix Receiver: https://access.well-net.org/Citrix/WellforceWeb/
 </p>
 <hr />
 <p>
-`<strong>Radiology`</strong>
+<strong>Radiology</strong>
 </p>
 <p>
-`<strong>Access PACS from home`</strong> Log on to the VPN and go to `<a href="http://radlink.tufts-nemc.org/">http://radlink.tufts-nemc.org/`</a>
+<strong>Access PACS from home</strong> Log on to the VPN and go to <a href="http://radlink.tufts-nemc.org/">http://radlink.tufts-nemc.org/</a>
 </p>
 <p>
-`<strong>Access Vue motion`</strong> : `<a href="http://10.138.132.14/">http://10.138.132.14/`</a>
+<strong>Access Vue motion</strong> : <a href="http://10.138.132.14/">http://10.138.132.14/</a>
 </p>
 <p>
-`<strong>PACS`</strong> (PC and internet explorer only): `<a href="http://155.36.152.94/">http://155.36.152.94/`</a>
+<strong>PACS</strong> (PC and internet explorer only): <a href="http://155.36.152.94/">http://155.36.152.94/</a>
 </p>
 <p>
-`<strong>CT wet reads`</strong> from radiology resident (proger 4).
+<strong>CT wet reads</strong> from radiology resident (proger 4).
 </p>
 <p>
-`<strong>OSH Imaging reads:`</strong> read request form in North 4 charting room, clarify which images want read
+<strong>OSH Imaging reads:</strong> read request form in North 4 charting room, clarify which images want read
 and hand deliver form to radiologist
 </p>
 <p>
-`<strong>IR:`</strong> order in Epic, call after 7 to book and discuss.
+<strong>IR:</strong> order in Epic, call after 7 to book and discuss.
 </p>
 <p>
-`<strong>Phlebotomy times:`</strong> 1, 5AM, 1,5,7,9,11 PM. Page if it's timed or urgent; notify nursing if
+<strong>Phlebotomy times:</strong> 1, 5AM, 1,5,7,9,11 PM. Page if it's timed or urgent; notify nursing if
 they have a PICC/Central line. If STAT, use "now" order, draw them yourself, label, bag, and tube to
 the lab.
 </p>
 <p>
-`<strong>XR STAT:`</strong> Order in Epic, page 1208 with patient name, location, image, indication
+<strong>XR STAT:</strong> Order in Epic, page 1208 with patient name, location, image, indication
 </p>
 <p>
-`<strong>MRI screening forms:`</strong> done by nursing, unless you need it STAT(do it yourself)
+<strong>MRI screening forms:</strong> done by nursing, unless you need it STAT(do it yourself)
 </p>
 <p>
-`<strong>PICC`</strong> : Consent form in Epic- print, get it signed, and fax before placing order. Requires
+<strong>PICC</strong> : Consent form in Epic- print, get it signed, and fax before placing order. Requires
 recent PT/PTT/platelet/Cr
 </p>
 <p>
-`<strong>Central line removal form:`</strong> Must be done for every line pull, requires an observer (RN or
+<strong>Central line removal form:</strong> Must be done for every line pull, requires an observer (RN or
 MD), put in procedures section of chart
 </p>
 <p>
-`<strong>Add on labs:`</strong> in Epic, lab order \> add to last collection
+<strong>Add on labs:</strong> in Epic, lab order \> add to last collection
 </p>
 <p>
-`<strong>Pager forwarding:`</strong> Paging system\>personal profile\> login/pw is pager number \> Status/Exceptions\>
+<strong>Pager forwarding:</strong> Paging system\>personal profile\> login/pw is pager number \> Status/Exceptions\>
 Add new exception \> Coverage \> New; Put start and end date
 </p>
 <ul>
@@ -85,5 +85,5 @@ Don't forget to forward your pager when you're on vacation
 </p>
 </ul>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>

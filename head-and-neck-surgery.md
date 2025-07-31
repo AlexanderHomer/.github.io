@@ -83,7 +83,7 @@ Similar to Dr. O'Leary's clinic flow
 Burning Mouth Consults
 </h3>
 <p>
-`<em>Dr. O'Leary's workup`</em>
+<em>Dr. O'Leary's workup</em>
 </p>
 <ul>
 <li>
@@ -180,20 +180,20 @@ Initial workup of palpable or incidentally found nodules 
 <ul>
 <li>
 <p>
-`<strong>TSH `</strong>\[Free T`<sub>4`</sub>\]
-and `<strong>Ultrasound `</strong> 
+<strong>TSH </strong>\[Free T<sub>4</sub>\]
+and <strong>Ultrasound </strong> 
 </p>
 </li>
 <li>
 <p>
-`<strong>Normal or high TSH`</strong> → no need for reuptake
+<strong>Normal or high TSH</strong> → no need for reuptake
 radionuclide cscan 
 </p>
 </li>
 <li>
 <p>
-`<strong>Low`</strong> TSH → get a Iodine`<sup>123`</sup> or
-Technetium`<sup>99`</sup> reuptake scan 
+<strong>Low</strong> TSH → get a Iodine<sup>123</sup> or
+Technetium<sup>99</sup> reuptake scan 
 </p>
 <ol type="1">
 <li>
@@ -214,7 +214,7 @@ Multiple nodules? Evaluate each one separately. 
 <ul>
 <li>
 <p>
-If TSH low or normal. Get I`<sup>123`</sup> scan to see if there
+If TSH low or normal. Get I<sup>123</sup> scan to see if there
 are autonomous nodules  
 </p>
 </li>
@@ -235,7 +235,7 @@ Don't bother if its completely cystic 
 </li>
 <li>
 <p>
-Perform FNA if nodule is (A) \>2cm `<strong> or `</strong>(B) 
+Perform FNA if nodule is (A) \>2cm <strong> or </strong>(B) 
 \>1cm + suspicious features 
 </p>
 </li>
@@ -246,7 +246,7 @@ Suspicious Ultrasound features (70% chance of malignancy) 
 <ul>
 <li>
 <p>
-`<strong>`<u>Hypo`</u>`</strong>echoic - think hypOH DEAR ITS
+<strong><u>Hypo</u></strong>echoic - think hypOH DEAR ITS
 CANCER 
 </p>
 <ul>
@@ -447,8 +447,8 @@ exist
 <li>
 <p>
 Suspicious if: present for \>2 weeks w/o change in size
-`<u>or`</u> if on exam mass is (1) fixed to adjacent structure (2) firm
-(3) \>1.5cm or (4) has ulceration of overlying skin `<u>or`</u> history
+<u>or</u> if on exam mass is (1) fixed to adjacent structure (2) firm
+(3) \>1.5cm or (4) has ulceration of overlying skin <u>or</u> history
 highly suspicious
 </p>
 <ul>
@@ -480,7 +480,7 @@ If testing is negative:
 <ul>
 <li>
 <p>
-Can either with open biopsy (should `<u>always`</u> be done with a
+Can either with open biopsy (should <u>always</u> be done with a
 direct laryngoscopy)
 </p>
 </li>
@@ -658,32 +658,32 @@ High rate of recurrence
 </li>
 <li>
 <p>
-Clark levels: `<u>only useful for prognosis in T1 lesions.`</u>
+Clark levels: <u>only useful for prognosis in T1 lesions.</u>
 </p>
 <ul>
 <li>
 <p>
-`<strong>epidermis`</strong> only = stage I.
+<strong>epidermis</strong> only = stage I.
 </p>
 </li>
 <li>
 <p>
-`<strong>Into papillary`</strong> dermis = II.
+<strong>Into papillary</strong> dermis = II.
 </p>
 </li>
 <li>
 <p>
-`<strong>All of papillary`</strong> dermis =III.
+<strong>All of papillary</strong> dermis =III.
 </p>
 </li>
 <li>
 <p>
-Invades `<strong>reticular`</strong> dermis = IV.
+Invades <strong>reticular</strong> dermis = IV.
 </p>
 </li>
 <li>
 <p>
-Into `<strong>subcutaneous`</strong> tissue: V
+Into <strong>subcutaneous</strong> tissue: V
 </p>
 </li>
 <li>
@@ -919,8 +919,8 @@ Unknown Primary -- patients with N2,N3 disease
 </li>
 <li>
 <p>
-`<strong>Patients with positive margins or lymph nodes that have
-ECS`</strong>
+<strong>Patients with positive margins or lymph nodes that have
+ECS</strong>
 </p>
 </li>
 </ul>
@@ -949,7 +949,7 @@ Classic training is that if risk of spread to lymph nodes is
 \>15-25%, should do neck dissection
 </p>
 <p>
-`<strong>N0 disease in:`</strong>
+<strong>N0 disease in:</strong>
 </p>
 <ul>
 <li>
@@ -977,7 +977,7 @@ Subglottic - II-IV and VI
 Oral Cavity CA
 </h3>
 <p>
-`<strong>Management`</strong>
+<strong>Management</strong>
 </p>
 <ul>
 <li>
@@ -1015,7 +1015,7 @@ margins, ECS on LNs)
 Oropharyngeal CA
 </h3>
 <p>
-`<strong>Sites`</strong>:
+<strong>Sites</strong>:
 </p>
 <ul>
 <li>
@@ -1061,8 +1061,8 @@ Glottic Lesions
 <ul>
 <li>
 <p>
-Hyperplasia/Hyperkeratosis - `<u>not a risk for
-malignancy`</u>
+Hyperplasia/Hyperkeratosis - <u>not a risk for
+malignancy</u>
 </p>
 </li>
 <li>
@@ -1077,8 +1077,8 @@ Severe dysplasia/Carcinoma in situ- risk is 15-25%
 </li>
 <li>
 <p>
-CIS has features of malignancy but `<u>not invaded beyond basement
-membrane`</u>
+CIS has features of malignancy but <u>not invaded beyond basement
+membrane</u>
 </p>
 </li>
 <li>
@@ -1089,7 +1089,7 @@ Excisions
 <li>
 <p>
 Microflap excision: Dissects superficial lamina propria and
-`<u>spares vocal ligament`</u>
+<u>spares vocal ligament</u>
 </p>
 </li>
 </ul>
@@ -1105,7 +1105,7 @@ the larynx
 </li>
 <li>
 <p>
-`<strong>Piriform sinus`</strong> is most common location
+<strong>Piriform sinus</strong> is most common location
 </p>
 <ul>
 <li>
@@ -1145,7 +1145,7 @@ Techniques
 <ul>
 <li>
 <p>
-`<strong>Partial laryngopharyngectomy`</strong>
+<strong>Partial laryngopharyngectomy</strong>
 </p>
 <ul>
 <li>
@@ -1155,18 +1155,18 @@ For T1 (some T2) piriform sinus cancer
 </li>
 <li>
 <p>
-Must involve `<strong>medial wall`</strong> and be `<strong>1.5cm
-away from apex`</strong>
+Must involve <strong>medial wall</strong> and be <strong>1.5cm
+away from apex</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>Lateral + suprahyoid pharyngectomy`</strong>
+<strong>Lateral + suprahyoid pharyngectomy</strong>
 </p>
 <ul>
 <li>
 <p>
-For `<u>posterior`</u> cricopharyngeal wall CA
+For <u>posterior</u> cricopharyngeal wall CA
 </p>
 </li>
 <li>
@@ -1176,7 +1176,7 @@ Total laryngectomy with partial pharyngectomy
 <ul>
 <li>
 <p>
-For advance CA and `<u>post-cricoid`</u> CA
+For advance CA and <u>post-cricoid</u> CA
 </p>
 </li>
 <li>
@@ -1197,13 +1197,13 @@ Sites
 <ul>
 <li>
 <p>
-`<strong>Supraglottis`</strong>: High rate of note metastasis.
+<strong>Supraglottis</strong>: High rate of note metastasis.
 Typically to bilateral II-IV
 </p>
 </li>
 <li>
 <p>
-`<strong>Glottis`</strong>: Most common site in larynx
+<strong>Glottis</strong>: Most common site in larynx
 </p>
 <ul>
 <li>
@@ -1214,13 +1214,13 @@ ligament)
 </li>
 <li>
 <p>
-Anterior commissure - `<u>no inner perichondrium`</u> allows for
+Anterior commissure - <u>no inner perichondrium</u> allows for
 anterior spread to thyroid cartilage
 </p>
 </li>
 <li>
 <p>
-`<strong>Subglottic`</strong>: Rare, poor prognosis
+<strong>Subglottic</strong>: Rare, poor prognosis
 </p>
 </li>
 <li>
@@ -1241,7 +1241,7 @@ scarring
 </li>
 <li>
 <p>
-`<strong>Anterior commissure involvement`</strong> - associated
+<strong>Anterior commissure involvement</strong> - associated
 with high recurrence rates
 </p>
 </li>
@@ -1252,8 +1252,8 @@ Surgery
 <ul>
 <li>
 <p>
-Cordectomy---Indication: T1 glottic cancer restricted to `<u>middle
-1/3 of vocal fold`</u>
+Cordectomy---Indication: T1 glottic cancer restricted to <u>middle
+1/3 of vocal fold</u>
 </p>
 </li>
 <li>
@@ -1278,8 +1278,8 @@ high risk of aspiration, must have really go pulmonary
 <ul>
 <li>
 <p>
-Can decrease risk by `<strong>turning to operated side`</strong>
-and performing a `<strong>chin tuck`</strong>
+Can decrease risk by <strong>turning to operated side</strong>
+and performing a <strong>chin tuck</strong>
 </p>
 </li>
 <li>
@@ -1296,7 +1296,7 @@ Hemi-laryngectomy)
 <ul>
 <li>
 <p>
-For `<strong>T1/T2 `<em>supraglottic`</em> tumors`</strong>
+For <strong>T1/T2 <em>supraglottic</em> tumors</strong>
 </p>
 </li>
 <li>
@@ -1318,7 +1318,7 @@ Supracricoid partial laryngectomy
 <ul>
 <li>
 <p>
-Must preserve `<u>one functional cricoarytenoid unit`</u>
+Must preserve <u>one functional cricoarytenoid unit</u>
 (arytenoid, cricoid and hyoid and associated musculature, plus the
 superior and recurrent laryngeal nerve)
 </p>
@@ -1331,8 +1331,8 @@ paraglottic space
 </li>
 <li>
 <p>
-`<strong>Select T3/T3 supraglottic/glottic CA`</strong> - must not
-have `<strong>arytenoid fixation`</strong>
+<strong>Select T3/T3 supraglottic/glottic CA</strong> - must not
+have <strong>arytenoid fixation</strong>
 </p>
 </li>
 <li>
@@ -1343,12 +1343,12 @@ cases
 </li>
 <li>
 <p>
-`<strong>Contraindications`</strong>:
+<strong>Contraindications</strong>:
 </p>
 <ul>
 <li>
 <p>
-Cartilage invasion, `<strong>VF fixation`</strong>, interarytenoid
+Cartilage invasion, <strong>VF fixation</strong>, interarytenoid
 involvement, tongue base involvement, poor performance status
 </p>
 </li>
@@ -1442,7 +1442,7 @@ Dr.
 Tracy's Radial Forearm Free Flap
 </h3>
 <p>
-`<strong>Raising the flap`</strong>
+<strong>Raising the flap</strong>
 </p>
 <p>
 Prep:
@@ -1604,7 +1604,7 @@ necessarily go hunting for the nerve
 Dr Wein INSPIRE Hypoglossal Nerve Implants
 </h3>
 <p>
-`<strong>Set Up:`</strong>
+<strong>Set Up:</strong>
 </p>
 <ul>
 <li>
@@ -1614,8 +1614,8 @@ Patient rotated 180. Tube taped to the left
 </li>
 <li>
 <p>
-Place shoulder roll. Tuck right arm. `<u>Leave mouth
-open`</u>
+Place shoulder roll. Tuck right arm. <u>Leave mouth
+open</u>
 </p>
 </li>
 <li>
@@ -1636,13 +1636,13 @@ Lead 3 (purple) goes into marginal mandibular
 </li>
 </ul>
 <p>
-`<img alt="" src="media/image29.png" style="width:3.68368in;height:1.27878in"/>
+<img alt="" src="media/image29.png" style="width:3.68368in;height:1.27878in"/>
 </p>
 <p>
 Figure 11: INSPIRE Implant Training, 2016
 </p>
 <p>
-`<strong>Incisions:`</strong>
+<strong>Incisions:</strong>
 </p>
 <p>
 Neck: 4-6cm starting from anterior aspect of submandibular gland to
@@ -1656,15 +1656,15 @@ Implant Pocket: 5cm inferior to clavicle. 5.5cm in length. Between
 deltopectoral groove & sternum
 </p>
 <p>
-Sensor: Use inferolateral margin of pec (should be 5`<sup>th`</sup>
+Sensor: Use inferolateral margin of pec (should be 5<sup>th</sup>
 intercostal space)
 </p>
 <p>
-`<img alt="" src="media/image30.png" style="width:2.25694in;height:1.55625in"/> 4-5cm incision lateral to
+<img alt="" src="media/image30.png" style="width:2.25694in;height:1.55625in"/> 4-5cm incision lateral to
 nipple line
 </p>
 <p>
-`<strong>Prep`</strong>
+<strong>Prep</strong>
 </p>
 <ul>
 <li>
@@ -1692,10 +1692,10 @@ top of 1000 drape (allow tongue to still be visible
 </li>
 </ul>
 <p>
-`<strong>Steps:`</strong>
+<strong>Steps:</strong>
 </p>
 <p>
-`<strong>Neck`</strong>: Incision through past platysma. Watch out for
+<strong>Neck</strong>: Incision through past platysma. Watch out for
 marginal mandibular (its just under platysma). Dissect to find
 mylohyoid/digastric tendon junction. If you first find the ant. belly of
 digastric, follow it posteriorly to digastric tendon. Then tunnel under
@@ -1714,7 +1714,7 @@ Pass stimulator under digastric tendon then tie stimulation lead to
 anterior belly of digastric. Pack w/ baci-soaked gauze
 </p>
 <p>
-`<strong>Implant Pocket`</strong>: Incision down to but not through pec
+<strong>Implant Pocket</strong>: Incision down to but not through pec
 major fascia. Dissect pocket inferiorly to about 6cm deep
 </p>
 <p>
@@ -1722,7 +1722,7 @@ Throw 2 silk sutures on medial edge of incision one 1cm superior to
 the other (vertical plane)
 </p>
 <p>
-`<strong>Sensor lead`</strong>: Incision on 5th intercostal space.
+<strong>Sensor lead</strong>: Incision on 5th intercostal space.
 Serratus fibers = most superficial running lateral to medial (inserting
 on ribs). External intercostals: run superior/lateral to inferior/medial
 (looks like packing tape). Make incision on medial aspect of incision
@@ -1735,7 +1735,7 @@ Use malleable to dissect plane btw ext & int intercostals
 intercostals w/ 4x 3-0 silk on RB-1
 </p>
 <p>
-`<strong>Tunnels:`</strong> Use tunneling shaft from neck incision to
+<strong>Tunnels:</strong> Use tunneling shaft from neck incision to
 implant incision (avoid ext jugular) in the subplatysmal plane. Then
 tunnel from implant incision above pectoralis to sensor lead incision.
 Pass sensor leads from neck and chest sensors to implant. Put leads into
@@ -1749,7 +1749,7 @@ parallel to incision to hide any blood stains. Unmarked 4x8 Gauze over
 incision taped down with Medipore tape
 </p>
 <p>
-`<strong>Post-op`</strong>
+<strong>Post-op</strong>
 </p>
 <p>
 No antibiotics
@@ -1761,8 +1761,8 @@ Pain medication
 Give post-INSPIRE d/c instructions
 </p>
 <p>
-Get `<u>Lateral Neck and CXR in PACU. Make sure patient has no
-PTX`</u>
+Get <u>Lateral Neck and CXR in PACU. Make sure patient has no
+PTX</u>
 </p>
 <h2 class="unnumbered" id="head-neck-post-op-guide">
 Head & Neck --
@@ -1814,7 +1814,7 @@ Generic Free Flap
 \[Tracy\]
 </h3>
 <p>
-`<strong>Neuro:`</strong>
+<strong>Neuro:</strong>
 </p>
 <ul>
 <li>
@@ -1828,7 +1828,7 @@ No NSAIDs until POD#7
 </li>
 </ul>
 <p>
-`<strong>HEENT:`</strong>
+<strong>HEENT:</strong>
 </p>
 <ul>
 <li>
@@ -1851,7 +1851,7 @@ No circumferential neck ties
 </li>
 </ul>
 <p>
-`<strong>CV:`</strong>
+<strong>CV:</strong>
 </p>
 <ul>
 <li>
@@ -1862,7 +1862,7 @@ Avoid pressors as much as possible, please give fluid boluses or transfuse with 
 </li>
 </ul>
 <p>
-`<strong>RESP:`</strong>
+<strong>RESP:</strong>
 </p>
 <ul>
 <li>
@@ -1873,7 +1873,7 @@ In the event of decannulation, pull the stay sutures towards the skin to bring t
 </li>
 </ul>
 <p>
-`<strong>GI:`</strong>
+<strong>GI:</strong>
 </p>
 <ul>
 <li>
@@ -1893,7 +1893,7 @@ STRICT NPO. No swabs or ice chips.
 </li>
 </ul>
 <p>
-`<strong>ID:`</strong>
+<strong>ID:</strong>
 </p>
 <ul>
 <li>
@@ -1910,7 +1910,7 @@ Bacitracin to incisions BID
 </li>
 </ul>
 <p>
-`<strong>GU:`</strong>
+<strong>GU:</strong>
 </p>
 <ul>
 <li>
@@ -1921,7 +1921,7 @@ Remove foley when able
 </li>
 </ul>
 <p>
-`<strong>HEME:`</strong>
+<strong>HEME:</strong>
 </p>
 <ul>
 <li>
@@ -1932,7 +1932,7 @@ CBC daily
 </li>
 </ul>
 <p>
-`<strong>MSK:`</strong>
+<strong>MSK:</strong>
 </p>
 <ul>
 <li>
@@ -2005,7 +2005,7 @@ place back into stoma
 </li>
 <li>
 <p>
-Rounds: `<strong>`<u>check for crusting in the stoma`</u>`</strong> --
+Rounds: <strong><u>check for crusting in the stoma</u></strong> --
 any exposed cartilage? In radiated patients, look out for possible
 fistula formation (tube feeds coming out neck)
 </p>
@@ -2023,8 +2023,8 @@ q4-6hours. If normal, recheck iCa2+ q8hrs.
 </li>
 <li>
 <p>
-levothyroxine: according to endocrine, `<strong>levothyroxine dose
-in mcg = 1.7xpt's weight (kg)`</strong>
+levothyroxine: according to endocrine, <strong>levothyroxine dose
+in mcg = 1.7xpt's weight (kg)</strong>
 </p>
 </li>
 <li>
@@ -2074,14 +2074,14 @@ requirement).
 </li>
 <li>
 <p>
-`<strong>Before trach change`</strong>: ask RT to put new trachs at
+<strong>Before trach change</strong>: ask RT to put new trachs at
 bedside and ask the RN to verify the correct type is there. Also ask the
 RN to give some pain medication just before change.
 </p>
 </li>
 <li>
 <p>
-`<strong>Need`</strong>: shoulder roll, headlight, new trach, 10cc
+<strong>Need</strong>: shoulder roll, headlight, new trach, 10cc
 syringe, lube, suture scissors, suction set up in room, flexible
 'chimney' suction, yankeur suction, 4x4 gauze w/ saline, Velcro trach
 tie, allvyn dressing (prn)
@@ -2089,7 +2089,7 @@ tie, allvyn dressing (prn)
 </li>
 <li>
 <p>
-After 1`<sup>st`</sup> trach change: RT can change the
+After 1<sup>st</sup> trach change: RT can change the
 trach
 </p>
 </li>
@@ -2121,7 +2121,7 @@ High output \>500cc/day: typically need to go to OR.
 </p>
 <h2 class="unnumbered" id="head-neck-staging---8th-edition">
 Head &
-Neck Staging - 8`<sup>th`</sup> Edition
+Neck Staging - 8<sup>th</sup> Edition
 </h2>
 <ul>
 <li>
@@ -2187,21 +2187,21 @@ N1
 </p>
 </td>
 <td>
-`<strong>Single`</strong> ipsilateral, \<3cm,
-ENE`<sub>negative`</sub>
+<strong>Single</strong> ipsilateral, \<3cm,
+ENE<sub>negative</sub>
 </td>
 <td>
 N2
 </td>
 <td>
 <p>
-N2`<sub>ALL`</sub>: \<6cm, ENE`<sub>negative`</sub>
+N2<sub>ALL</sub>: \<6cm, ENE<sub>negative</sub>
 </p>
 <p>
 N2a: single, ipsilateral
 </p>
 <p>
-N2b: `<strong>multiple,`</strong> ipsilateral
+N2b: <strong>multiple,</strong> ipsilateral
 </p>
 <p>
 N2c: bilateral/contralateral
@@ -2215,7 +2215,7 @@ N3
 N3a: \>6cm
 </p>
 <p>
-N3b: ENE`<sub>positive`</sub>
+N3b: ENE<sub>positive</sub>
 </p>
 </td>
 <li>
@@ -2229,7 +2229,7 @@ For Nasopharyngeal and P16 positive
 HPV Positive
 </th>
 <td>
-ipsilateral `<strong>\<6cm`</strong>
+ipsilateral <strong>\<6cm</strong>
 </td>
 <td>
 Contralateral/bilateral \<6cm
@@ -2368,17 +2368,17 @@ Skull base
 Carotid
 </p>
 <p>
-\*note similarities to T4b of p16`<sub>neg`</sub> OPC
+\*note similarities to T4b of p16<sub>neg</sub> OPC
 </p>
 </td>
 <p>
-`<img alt="" src="media/image31.emf" style="width:1.79653in;height:1.52526in"/> 
+<img alt="" src="media/image31.emf" style="width:1.79653in;height:1.52526in"/> 
 </p>
 <h3 class="unnumbered" id="oropharyngeal">
 OROPHARYNGEAL
 </h3>
 <p>
-`<strong>HPV Neg (p16-) and HPV Pos`</strong>
+<strong>HPV Neg (p16-) and HPV Pos</strong>
 </p>
 <col style="width: 16%"/>
 <col style="width: 43%"/>
@@ -2441,10 +2441,10 @@ Mandible
 </ul>
 <td>
 <p>
-`<strong>T4a`</strong> - Same
+<strong>T4a</strong> - Same
 </p>
 <p>
-`<strong>T4b`</strong> - Invades
+<strong>T4b</strong> - Invades
 </p>
 <ul>
 <li>
@@ -2478,8 +2478,8 @@ Clinical N staging
 <col style="width: 38%"/>
 <col style="width: 42%"/>
 <p>
-`<strong>Note: ECE`</strong> automatically `<strong>bumps you up a N
-stage in the `<u>pathological N grading system`</u>`</strong> (not
+<strong>Note: ECE</strong> automatically <strong>bumps you up a N
+stage in the <u>pathological N grading system</u></strong> (not
 shown).
 </p>
 <p>
@@ -2637,7 +2637,7 @@ Mediastinum
 </li>
 </ul>
 <p>
-`<img alt="" src="media/image32.png" style="width:1.85124in;height:1.97204in"/> 
+<img alt="" src="media/image32.png" style="width:1.85124in;height:1.97204in"/> 
 </p>
 <p>
 In general, for Laryngeal Cancer
@@ -2773,7 +2773,7 @@ Cannot extend to esophageus or cause VF fixation
 </p>
 </td>
 <td>
-\>4cm OR invades `<strong>esophageus`</strong> OR causes VF
+\>4cm OR invades <strong>esophageus</strong> OR causes VF
 fixation
 </td>
 <ul>
@@ -2895,14 +2895,14 @@ Nasopharynx
  NASOPHARYNGEAL CA
 </h3>
 <p>
-`<strong>WHO Type I`</strong> - Keratinizing SCCA
+<strong>WHO Type I</strong> - Keratinizing SCCA
 </p>
 <p>
-`<strong>WHO Type II`</strong> - Nonkerating SCCA (associated with EBV,
+<strong>WHO Type II</strong> - Nonkerating SCCA (associated with EBV,
 better prognosis)
 </p>
 <p>
-`<strong>WHO Type III`</strong> - Undifferentiated CA
+<strong>WHO Type III</strong> - Undifferentiated CA
 </p>
 <td>
 Nasopharynx/nasal cavity
@@ -3039,7 +3039,7 @@ T4b: invading into carotid/mediastinum/RLN
 Thyroid cancer staging
 </p>
 <p>
-`<strong>Only `<u>\>55 years old`</u>`</strong>: those \<55yo are
+<strong>Only <u>\>55 years old</u></strong>: those \<55yo are
 Stage I unless they have mets, then they are stage II
 </p>
 <p>
@@ -3065,34 +3065,34 @@ etc)
 <col style="width: 22%"/>
 <col style="width: 77%"/>
 <th>
- `<em>T category`</em>
+ <em>T category</em>
 </th>
 <td>
-`<em>T1`</em>
+<em>T1</em>
 </td>
 <td>
 \<2cm
 </td>
 <td>
-`<em>T2`</em>
+<em>T2</em>
 </td>
 <td>
 <p>
 2-4cm
 </p>
 <td>
-`<em>T3`</em>
+<em>T3</em>
 </td>
 <td>
-\>4cm or `<strong>DOI \>6mm`</strong> or Perineural/minor bone
+\>4cm or <strong>DOI \>6mm</strong> or Perineural/minor bone
 invasion
 </td>
 <td>
 <p>
-`<em>T4a`</em>
+<em>T4a</em>
 </p>
 <p>
-`<em>T4b`</em>
+<em>T4b</em>
 </p>
 </td>
 <td>
@@ -3110,10 +3110,10 @@ Tumor with skull base/foramina invasion
  MELANOMA (SKIN)
 </h3>
 <p>
- `<strong>a/b/c classification`</strong>
+ <strong>a/b/c classification</strong>
 </p>
 <p>
-T stage: IF `<strong>ulceration`</strong> stage is `<strong>B`</strong>
+T stage: IF <strong>ulceration</strong> stage is <strong>B</strong>
 (as in T2-\>T2b)
 </p>
 <p>
@@ -3161,7 +3161,7 @@ N stage
             </p>
             </td>
             <td>
-            `<strong>N1`</strong>
+            <strong>N1</strong>
             </td>
             <td>
             1 node
@@ -3171,7 +3171,7 @@ N stage
             1-2mm thick
             </p>
             <td>
-            `<strong>N2`</strong>
+            <strong>N2</strong>
             </td>
             <td>
             2-3 nodes
@@ -3180,7 +3180,7 @@ N stage
             2-4mm thick
             </td>
             <td>
-            `<strong>N3`</strong>
+            <strong>N3</strong>
             </td>
             <td>
             4+ nodes, matted nodes, or in transit mets
@@ -3214,7 +3214,7 @@ N stage
             </p>
             </td>
             <td>
-            `<strong>M1`</strong>
+            <strong>M1</strong>
             </td>
             <td>
             Any mets
@@ -3224,10 +3224,10 @@ N stage
             prevertebral space
             </td>
             <p>
-            `<img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="media/image33.png" style="width:1.88969in;height:2.90093in"/>
+            <img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="media/image33.png" style="width:1.88969in;height:2.90093in"/>
             </p>
             <p>
-            `<a href="index.html">Back to homepage`</a>
+            <a href="index.html">Back to homepage</a>
             </p>
             </td>
             </td>
