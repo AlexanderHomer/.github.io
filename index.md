@@ -45,7 +45,7 @@ title: ENT Guidebook
 </li>
 </ul>
 </li>
-\<h2<a href="on-call/index.html">On-Call</a>
+<a href="on-call/index.html">On-Call</a>
 <ul>
 <li>
 <a href="on-call/calls.html">Calls</a>
@@ -57,8 +57,6 @@ title: ENT Guidebook
 <a href="facial-trauma-guide.html">Facial Trauma Guide</a>
 </li>
 </ul>
-</li>
-<li>
 <h2>
 Specialties
 </h2>
