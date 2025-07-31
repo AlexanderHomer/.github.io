@@ -1,0 +1,13 @@
+---
+layout: default
+title: Antibiogram
+---
+<p>The Tufts antibiogram guides empiric therapy for common ENT infections. The table below lists frequently used regimens. Always confirm current sensitivities with the hospital antibiogram.</p>
+  <ul>
+    <li><strong>Acute otitis media</strong> – high dose amoxicillin or amoxicillin‑clavulanate.</li>
+    <li><strong>Acute sinusitis</strong> – amoxicillin‑clavulanate is first line; doxycycline if penicillin allergic.</li>
+    <li><strong>Peritonsillar abscess</strong> – ampicillin‑sulbactam or clindamycin to cover streptococci and anaerobes.</li>
+    <li><strong>Post‑operative wound infection</strong> – tailor to culture results; cefazolin or clindamycin are common empiric choices.</li>
+  </ul>
+  <p>Consult the printed antibiogram in the resident workroom or the Tufts intranet for detailed susceptibility data.</p>
+  <p><a href="index.html">Back to homepage</a></p>

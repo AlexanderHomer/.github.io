@@ -1,0 +1,40 @@
+---
+layout: default
+title: REVIEW OF SYSTEMS
+---
+<p>The following questions help structure an ENT-focused review of systems.</p>
+<h3>Otology</h3>
+<ul>
+<li>Hearing loss or tinnitus</li>
+<li>Ear pain or drainage</li>
+<li>Vertigo, imbalance or motion intolerance</li>
+<li>History of infections, surgery or noise exposure</li>
+</ul>
+<h3>Rhinology</h3>
+<ul><li>Nasal congestion or discharge</li><li>Facial pressure or sinus pain</li><li>Sneezing, itchy eyes or allergy symptoms</li><li>Loss of smell or post‑nasal drip</li><li>History of asthma or prior sinus surgery</li></ul>
+
+
+
+
+<h3>Laryngology</h3>
+<ul><li>Hoarseness and voice use pattern</li><li>Odynophagia, dysphagia or aspiration</li><li>Recent intubation or laryngeal trauma</li><li>History of thyroid disease or radiation</li></ul>
+
+
+
+<h3>Head &amp; Neck</h3>
+<ul><li>Dysphagia or odynophagia</li><li>Otalgia or hoarseness</li><li>Dyspnea, weight loss or neck masses</li><li>Tobacco, alcohol or HPV exposure</li></ul>
+
+
+
+<h3>Facial Plastics</h3>
+<ul><li>Sinusitis or allergy history</li><li>Autoimmune conditions or trauma</li><li>Use of nasal sprays or smoking</li><li>Tendency for hypertrophic scars or keloids</li></ul>
+
+
+
+<h3>Pediatrics</h3>
+<ul><li>Recurrent ear infections or speech delay</li><li>Chronic nasal congestion or epistaxis</li><li>Snoring, apnea or noisy breathing</li><li>Dysphagia or choking spells</li><li>Episodes of respiratory distress or poor weight gain</li></ul>
+
+
+
+
+<p><a href="index.html">Back to homepage</a></p>
