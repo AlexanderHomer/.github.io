@@ -6,72 +6,72 @@ title: Tips
 Tips
 </h1>
 <p>
-`<strong>`{=html}EMR:`</strong>`{=html}
+`<strong>EMR:`</strong>
 </p>
 <p>
 Epic for desktop and Haiku for mobile platforms
 </p>
 <p>
-`<strong>`{=html}Links:`</strong>`{=html}
+`<strong>Links:`</strong>
 </p>
 <p>
-Tufts Intranet URL:`<a href="http://intranet.nemc.org/">`{=html}http://intranet.nemc.org/`</a>`{=html}
+Tufts Intranet URL:`<a href="http://intranet.nemc.org/">http://intranet.nemc.org/`</a>
 </p>
 <p>
 Paging URL:`<a href="http://neamcomweb.tufts-
-nemc.org/smartweb/pages/directory/PersonSearchResults.jsf">`{=html}http://neamcomweb.tufts-
-nemc.org/smartweb/pages/directory/PersonSearchResults.jsf`</a>`{=html}
+nemc.org/smartweb/pages/directory/PersonSearchResults.jsf">http://neamcomweb.tufts-
+nemc.org/smartweb/pages/directory/PersonSearchResults.jsf`</a>
 </p>
 <p>
 Citrix Receiver: https://access.well-net.org/Citrix/WellforceWeb/
 </p>
 <hr />
 <p>
-`<strong>`{=html}Radiology`</strong>`{=html}
+`<strong>Radiology`</strong>
 </p>
 <p>
-`<strong>`{=html}Access PACS from home`</strong>`{=html} Log on to the VPN and go to `<a href="http://radlink.tufts-nemc.org/">`{=html}http://radlink.tufts-nemc.org/`</a>`{=html}
+`<strong>Access PACS from home`</strong> Log on to the VPN and go to `<a href="http://radlink.tufts-nemc.org/">http://radlink.tufts-nemc.org/`</a>
 </p>
 <p>
-`<strong>`{=html}Access Vue motion`</strong>`{=html} : `<a href="http://10.138.132.14/">`{=html}http://10.138.132.14/`</a>`{=html}
+`<strong>Access Vue motion`</strong> : `<a href="http://10.138.132.14/">http://10.138.132.14/`</a>
 </p>
 <p>
-`<strong>`{=html}PACS`</strong>`{=html} (PC and internet explorer only): `<a href="http://155.36.152.94/">`{=html}http://155.36.152.94/`</a>`{=html}
+`<strong>PACS`</strong> (PC and internet explorer only): `<a href="http://155.36.152.94/">http://155.36.152.94/`</a>
 </p>
 <p>
-`<strong>`{=html}CT wet reads`</strong>`{=html} from radiology resident (proger 4).
+`<strong>CT wet reads`</strong> from radiology resident (proger 4).
 </p>
 <p>
-`<strong>`{=html}OSH Imaging reads:`</strong>`{=html} read request form in North 4 charting room, clarify which images want read
+`<strong>OSH Imaging reads:`</strong> read request form in North 4 charting room, clarify which images want read
 and hand deliver form to radiologist
 </p>
 <p>
-`<strong>`{=html}IR:`</strong>`{=html} order in Epic, call after 7 to book and discuss.
+`<strong>IR:`</strong> order in Epic, call after 7 to book and discuss.
 </p>
 <p>
-`<strong>`{=html}Phlebotomy times:`</strong>`{=html} 1, 5AM, 1,5,7,9,11 PM. Page if it's timed or urgent; notify nursing if
+`<strong>Phlebotomy times:`</strong> 1, 5AM, 1,5,7,9,11 PM. Page if it's timed or urgent; notify nursing if
 they have a PICC/Central line. If STAT, use "now" order, draw them yourself, label, bag, and tube to
 the lab.
 </p>
 <p>
-`<strong>`{=html}XR STAT:`</strong>`{=html} Order in Epic, page 1208 with patient name, location, image, indication
+`<strong>XR STAT:`</strong> Order in Epic, page 1208 with patient name, location, image, indication
 </p>
 <p>
-`<strong>`{=html}MRI screening forms:`</strong>`{=html} done by nursing, unless you need it STAT(do it yourself)
+`<strong>MRI screening forms:`</strong> done by nursing, unless you need it STAT(do it yourself)
 </p>
 <p>
-`<strong>`{=html}PICC`</strong>`{=html} : Consent form in Epic- print, get it signed, and fax before placing order. Requires
+`<strong>PICC`</strong> : Consent form in Epic- print, get it signed, and fax before placing order. Requires
 recent PT/PTT/platelet/Cr
 </p>
 <p>
-`<strong>`{=html}Central line removal form:`</strong>`{=html} Must be done for every line pull, requires an observer (RN or
+`<strong>Central line removal form:`</strong> Must be done for every line pull, requires an observer (RN or
 MD), put in procedures section of chart
 </p>
 <p>
-`<strong>`{=html}Add on labs:`</strong>`{=html} in Epic, lab order \> add to last collection
+`<strong>Add on labs:`</strong> in Epic, lab order \> add to last collection
 </p>
 <p>
-`<strong>`{=html}Pager forwarding:`</strong>`{=html} Paging system\>personal profile\> login/pw is pager number \> Status/Exceptions\>
+`<strong>Pager forwarding:`</strong> Paging system\>personal profile\> login/pw is pager number \> Status/Exceptions\>
 Add new exception \> Coverage \> New; Put start and end date
 </p>
 <ul>
@@ -85,5 +85,5 @@ Don't forget to forward your pager when you're on vacation
 </p>
 </ul>
 <p>
-`<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="index.html">Back to homepage`</a>
 </p>

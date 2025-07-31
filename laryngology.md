@@ -3,7 +3,7 @@ layout: default
 title: Laryngology
 ---
 <p>
-`<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="index.html">Back to homepage`</a>
 </p>
 <!-- BEGIN Laryngology section imported from pocket guide -->
 <h2 id="laryngology">

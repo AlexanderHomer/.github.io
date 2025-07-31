@@ -6,7 +6,7 @@ title: PERIOPERATIVE ASPIRIN/ANTICOAGULATION GUIDE
 ANTI PLATELET
 </h2>
 <p>
-`<strong>`{=html}Patients with stents:`</strong>`{=html} ASA + P2Y12 (dual) therapy
+`<strong>Patients with stents:`</strong> ASA + P2Y12 (dual) therapy
 </p>
 <ul>
 <li>
@@ -79,14 +79,14 @@ Patients with chronically high risk, use a bridging agent
 </li>
 </ul>
 <p>
-`<strong>`{=html}Wafarin`</strong>`{=html} -- stop 5 days before surgery. Vit K if INR
+`<strong>Wafarin`</strong> -- stop 5 days before surgery. Vit K if INR
 \>1.5 \[can normally restart 12-24hr postop. Wont be therapeutic for
 3days\]. Bridge if recent stroke, heart valve, afib w/ 5-6 CHAD2 with
 therapeudic LWMH (1mg/kg BID) 3 days preop (2days after stopping
 warfarin)
 </p>
 <p>
-`<strong>`{=html}DTIs`</strong>`{=html}: Dabigatran (Pradaxa), Rivaroxaban
+`<strong>DTIs`</strong>: Dabigatran (Pradaxa), Rivaroxaban
 (Xarelto)/Apixaban (Eliquis) --- stop 2-3days before surgery (2 days if
 low risk, 3 days if high risk, 4days if patient has renal failure). No
 bridging needs. Restart POD1-2 for low bleeding risk procedures and
@@ -95,7 +95,7 @@ for 1-2 days). Peak effect only takes 2-3hrs. Can check aPTT \[for
 pradaxa\] or Factor Xa \[for xarleto\] to assess if pradaxa is cleared
 </p>
 <p>
-`<strong>`{=html}When to bridge (typically warfarin patients).`</strong>`{=html}
+`<strong>When to bridge (typically warfarin patients).`</strong>
 </p>
 <ul>
 <li>
@@ -109,7 +109,7 @@ Afib only w/ CHADS2 score 5-6 \[important, BRIDGE trial\]. Bridge pre&post op un
 </li>
 </ul>
 <p>
-`<strong>`{=html}How to bridge`</strong>`{=html}
+`<strong>How to bridge`</strong>
 </p>
 <p>
 Choice of therapeutic LWMH \[1mg/kg BID\] or intermediate dose (40mg BID) unless in renal failure then use UFH
@@ -183,14 +183,14 @@ be fatal).
 </ul>
 <blockquote>
 <p>
-`<strong>`{=html}Voiding`</strong>`{=html} -- if patient hasn't voided 6 hours after
+`<strong>Voiding`</strong> -- if patient hasn't voided 6 hours after
 procedure, get bladder scan. If \>400cc, straight cath, if \<400cc,
 repeat scan q2hours until either \>400cc or spontaneously voiding. If
-patient still retaining 6 hours after 1`<sup>`{=html}st`</sup>`{=html} straight cath,
+patient still retaining 6 hours after 1`<sup>st`</sup> straight cath,
 place foley and start Flomax
 </p>
 <p>
-`<strong>`{=html}Nutrition`</strong>`{=html}`<br/>`{=html}
+`<strong>Nutrition`</strong>`<br/>
 If you can't get nutrition here is an easy starting TF regiment:
 </p>
 <p>
@@ -221,7 +221,7 @@ For free water flushes: 7mL/kg/day split up either BID, TID, QID
 Electrolytes
 </h4>
 <p>
-`<strong>`{=html}Hypokalemia`</strong>`{=html} (Keep level \>2 for trauma/arrhythmia
+`<strong>Hypokalemia`</strong> (Keep level \>2 for trauma/arrhythmia
 patients)
 </p>
 <ul>
@@ -239,12 +239,12 @@ hypomagnesemia simultaneously.
 </li>
 </ul>
 <p>
-`<strong>`{=html}Hyperkalemia`</strong>`{=html}
+`<strong>Hyperkalemia`</strong>
 </p>
 <ul>
 <li>
 <p>
-`<u>`{=html}Between 5-6`</u>`{=html}:
+`<u>Between 5-6`</u>:
 </p>
 <ol type="1">
 <li>
@@ -269,7 +269,7 @@ diuretics.
 </li>
 <li>
 <p>
-`<u>`{=html}\>6 or symptomatic`</u>`{=html}:
+`<u>\>6 or symptomatic`</u>:
 </p>
 <ul>
 <li>
@@ -322,7 +322,7 @@ Optional: Furosemide 10-40mg IV / double their daily dose (onset
 </li>
 </ul>
 <p>
-`<strong>`{=html}Hypocalcemia`</strong>`{=html}
+`<strong>Hypocalcemia`</strong>
 </p>
 <p>
 
@@ -332,19 +332,19 @@ Optional: Furosemide 10-40mg IV / double their daily dose (onset
     <ul>
     <li>
     <p>
-    Very low (Ca`<sup>`{=html}2+`</sup>`{=html} \<7.5mg/dL or iCa`<sup>`{=html}2+`</sup>`{=html}
+    Very low (Ca`<sup>2+`</sup> \<7.5mg/dL or iCa`<sup>2+`</sup>
     \<3mg/dL)
     </p>
     <ul>
     <li>
     <p>
-    give IV dose (also start PO), repeat iCa`<sup>`{=html}2+`</sup>`{=html} &
-    Mg`<sup>`{=html}2+`</sup>`{=html} in 4-6 hours until normal.
+    give IV dose (also start PO), repeat iCa`<sup>2+`</sup> &
+    Mg`<sup>2+`</sup> in 4-6 hours until normal.
     </p>
     </li>
     <li>
     <p>
-    Low (Ca`<sup>`{=html}2+`</sup>`{=html} 7.5-8.5 or iCa`<sup>`{=html}2+`</sup>`{=html} 3.0-4.2)
+    Low (Ca`<sup>2+`</sup> 7.5-8.5 or iCa`<sup>2+`</sup> 3.0-4.2)
     </p>
     <ul>
     <li>
@@ -361,31 +361,31 @@ Optional: Furosemide 10-40mg IV / double their daily dose (onset
     </ul>
 
 <p>
-`<em>`{=html}`<strong>`{=html}IV Calcium`</strong>`{=html}`</em>`{=html}: Calcium gluconate 1-2g (2g more
+`<em>`<strong>IV Calcium`</strong>`</em>: Calcium gluconate 1-2g (2g more
 commonly given)
 </p>
 <p>
-`<em>`{=html}`<strong>`{=html}PO Calcium`</strong>`{=html}`</em>`{=html}: typically 1.5-2g of elemental
+`<em>`<strong>PO Calcium`</strong>`</em>: typically 1.5-2g of elemental
 calcium (either as calcium carbonate or calcium citrate typically
 divided into TID dosing). Increase total daily dose by 1-2g of elemental
 calcium until calcium normalizes. 500mg PO x appropriate doses
 </p>
 <p>
-In `<u>`{=html}children`</u>`{=html} it is 25 to 50 mg/kg
+In `<u>children`</u> it is 25 to 50 mg/kg
 </p>
 <p>
 Forms: Calcium carbonate: best when patient taking PO. Calcium
 citrate: best when patients are NPO
 </p>
 <p>
-`<em>`{=html}`<strong>`{=html}Vitamin D (Calcitriol)`</strong>`{=html}`</em>`{=html}: Start at
+`<em>`<strong>Vitamin D (Calcitriol)`</strong>`</em>: Start at
 0.25-0.5mcg qdaily. Can increase to 0.5-2mcg daily.
 </p>
 <p>
 Children \<1yo: 0.04-0.08 mcg/kg daily. \>1yo 0.25mcg daily
 </p>
 <p>
-`<strong>`{=html}Hypercalcemia`</strong>`{=html}
+`<strong>Hypercalcemia`</strong>
 </p>
 <p>
 
@@ -402,7 +402,7 @@ Children \<1yo: 0.04-0.08 mcg/kg daily. \>1yo 0.25mcg daily
         3.  Hold thiazide diuretics
             </p>
             <p>
-            `<strong>`{=html}Hypomagnesemia`</strong>`{=html} (Keep level \>2 for
+            `<strong>Hypomagnesemia`</strong> (Keep level \>2 for
             trauma/arrhythmia patients)
             </p>
             <p>
@@ -415,7 +415,7 @@ Children \<1yo: 0.04-0.08 mcg/kg daily. \>1yo 0.25mcg daily
                     daily
                     </p>
                     <p>
-                    `<strong>`{=html}Hypermagnesemia`</strong>`{=html}
+                    `<strong>Hypermagnesemia`</strong>
                     </p>
                     <p>
 
@@ -426,7 +426,7 @@ Children \<1yo: 0.04-0.08 mcg/kg daily. \>1yo 0.25mcg daily
                         3.  Calcium gluconate 2g IV (stabilizes cardiac membrane)
                             </p>
                             <p>
-                            `<strong>`{=html}Hypophosphatemia`</strong>`{=html} (not usually treated in
+                            `<strong>Hypophosphatemia`</strong> (not usually treated in
                             non-transplant, non-NPO floor patients)
                             </p>
                             <p>
@@ -453,7 +453,7 @@ Children \<1yo: 0.04-0.08 mcg/kg daily. \>1yo 0.25mcg daily
                                     etc)
                                     </p>
                                     <p>
-                                    `<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+                                    `<a href="index.html">Back to homepage`</a>
                                     </p>
                                     </li>
                                     </ul>

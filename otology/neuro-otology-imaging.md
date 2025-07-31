@@ -6,22 +6,22 @@ title: Neuro-otology Imaging
 Neuro-otology Imaging
 </h2>
 <p>
-`<strong>`{=html}CT Temporal Bone`</strong>`{=html}:
+`<strong>CT Temporal Bone`</strong>:
 </p>
 <p>
-`<strong>`{=html}Stenvers/Perpendicular`</strong>`{=html} view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the `<strong>`{=html}round`</strong>`{=html} window, `<strong>`{=html}tegmen`</strong>`{=html}, as well as other structures.
+`<strong>Stenvers/Perpendicular`</strong> view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the `<strong>round`</strong> window, `<strong>tegmen`</strong>, as well as other structures.
 </p>
 <p>
-The `<strong>`{=html}Poschl/Parallel`</strong>`{=html} view, a short-axis view of the petrous pyramid, was used to optimally visualize the `<strong>`{=html}superior semicircular canal`</strong>`{=html}
+The `<strong>Poschl/Parallel`</strong> view, a short-axis view of the petrous pyramid, was used to optimally visualize the `<strong>superior semicircular canal`</strong>
 </p>
 <h4 class="unnumbered" id="how-to-read-temporal-bone-images">
 How to Read Temporal Bone Images
 </h4>
 <p>
-`<strong>`{=html}Divide into:`</strong>`{=html} EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
+`<strong>Divide into:`</strong> EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
 </p>
 <p>
-`<strong>`{=html}External Auditory Canal (EAC):`</strong>`{=html}
+`<strong>External Auditory Canal (EAC):`</strong>
 </p>
 <ul>
 <li>
@@ -56,7 +56,7 @@ Canal Atresia/Stenosis: look at ossicles -- malleus/incus are typically fused. O
 </li>
 </ul>
 <p>
-`<strong>`{=html}Middle Ear`</strong>`{=html}
+`<strong>Middle Ear`</strong>
 </p>
 <ul>
 <li>
@@ -76,7 +76,7 @@ Glomus Tympanicum: oval mass of cochlear promontory
 </li>
 </ul>
 <p>
-`<strong>`{=html}Inner Ear`</strong>`{=html}
+`<strong>Inner Ear`</strong>
 </p>
 <ul>
 <li>
@@ -113,7 +113,7 @@ Otosclerosis: demineralized bone over otic capsule
 </li>
 </ul>
 <p>
-`<strong>`{=html}Petrous Apex`</strong>`{=html}
+`<strong>Petrous Apex`</strong>
 </p>
 <ul>
 <li>
@@ -138,7 +138,7 @@ Chondrosarcoma: look for intratumoral calcification
 </li>
 </ul>
 <p>
-`<strong>`{=html}Intratemporal Fossa`</strong>`{=html}
+`<strong>Intratemporal Fossa`</strong>
 </p>
 <ul>
 <li>
@@ -158,10 +158,10 @@ Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiat
 </li>
 </ul>
 <p>
-`<img alt="" src="../media/image5.png" style="width:3.75841in;height:3.04933in" />`{=html}
+`<img alt="" src="../media/image5.png" style="width:3.75841in;height:3.04933in" />
 </p>
 <p>
-`<em>`{=html}Image:`</em>`{=html} Adunka and Buchman, `<em>`{=html}Otology, Neurotology, and Lateral Skull Base Surgery`</em>`{=html}
+`<em>Image:`</em> Adunka and Buchman, `<em>Otology, Neurotology, and Lateral Skull Base Surgery`</em>
 </p>
 <p>
 .
@@ -170,7 +170,7 @@ Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiat
 MRI Internal Auditory Canal
 </h4>
 <p>
-`<strong>`{=html}General principles of MRI:`</strong>`{=html}
+`<strong>General principles of MRI:`</strong>
 </p>
 <table>
 <colgroup>
@@ -673,7 +673,7 @@ Test cranial nerves
 </li>
 <li>
 <p>
-Nystagmus: `<strong>`{=html}nystagmus named in direction of fast phase`</strong>`{=html}
+Nystagmus: `<strong>nystagmus named in direction of fast phase`</strong>
 </p>
 <ol type="A">
 <li>
@@ -710,12 +710,12 @@ Check for BPPV:
 <ol type="A">
 <li>
 <p>
-`<strong>`{=html}Dix Hallpike`</strong>`{=html}: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site
+`<strong>Dix Hallpike`</strong>: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Head-shake test:`</strong>`{=html}
+`<strong>Head-shake test:`</strong>
 </p>
 </li>
 </ol>
@@ -723,13 +723,13 @@ Check for BPPV:
 </ol>
 <blockquote>
 <p>
-Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. `<strong>`{=html}Fast phase = towards lesion`</strong>`{=html}
+Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. `<strong>Fast phase = towards lesion`</strong>
 </p>
 </blockquote>
 <ol start="3" type="A">
 <li>
 <p>
-`<strong>`{=html}Head Impulse test/Head Trust`</strong>`{=html}
+`<strong>Head Impulse test/Head Trust`</strong>
 </p>
 </li>
 </ol>
@@ -741,7 +741,7 @@ Hold head and quickly rotate it toward one ear while patient fixates on your nos
 <ol start="4" type="A">
 <li>
 <p>
-`<strong>`{=html}Oscillopsia test`</strong>`{=html}: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
+`<strong>Oscillopsia test`</strong>: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
 </p>
 </li>
 </ol>
@@ -749,7 +749,7 @@ Hold head and quickly rotate it toward one ear while patient fixates on your nos
 Additional testing
 </p>
 <p>
-`<img src="../media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " />`{=html}`<strong>`{=html}VNG/ENG`</strong>`{=html}: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.
+`<img src="../media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " />`<strong>VNG/ENG`</strong>: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.
 </p>
 <h4 class="unnumbered" id="caloric-testing">
 Caloric Testing
@@ -820,7 +820,7 @@ Phase lead - exaggerated in peripheral disease
 </li>
 </ul>
 <p>
-`<strong>`{=html}VEMP`</strong>`{=html} (cervical to SCM)
+`<strong>VEMP`</strong> (cervical to SCM)
 </p>
 <ul>
 <li>
@@ -835,17 +835,17 @@ oVEMP evaluates utricle (horizontal acceleration) -\> superior vestibular nerve
 </li>
 <li>
 <p>
-Unilateral decreased `<strong>`{=html}amplitude`</strong>`{=html} - peripheral lesion
+Unilateral decreased `<strong>amplitude`</strong> - peripheral lesion
 </p>
 </li>
 <li>
 <p>
-Decreased `<strong>`{=html}threshold`</strong>`{=html} - SCC dehiscence or perilymph fistula
+Decreased `<strong>threshold`</strong> - SCC dehiscence or perilymph fistula
 </p>
 </li>
 <li>
 <p>
-Increased `<strong>`{=html}threshold`</strong>`{=html} - middle ear pathology or ossicular chain abnormalities
+Increased `<strong>threshold`</strong> - middle ear pathology or ossicular chain abnormalities
 </p>
 </li>
 </ul>
@@ -855,12 +855,12 @@ Other
 <ol type="1">
 <li>
 <p>
-`<strong>`{=html}vHIT`</strong>`{=html}: basically a recorded head impulse test
+`<strong>vHIT`</strong>: basically a recorded head impulse test
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}Computer Dynamic Posturography`</strong>`{=html}: expensive test to test proprioception
+`<strong>Computer Dynamic Posturography`</strong>: expensive test to test proprioception
 </p>
 </li>
 </ol>
@@ -886,7 +886,7 @@ Causes of Vertigo
 Perilymph Fistula
 </h4>
 <p>
--sudden `<u>`{=html}SNHL w/ vertigo`</u>`{=html} s/p trauma
+-sudden `<u>SNHL w/ vertigo`</u> s/p trauma
 </p>
 <p>
 -Tullio's phenomenon (vertigo w/ loud sound) Hennebert's sign: (vertigo w/ pneumatoscopy)
@@ -901,7 +901,7 @@ Superior Semicircular Canal Dehiscence
 -vertigo, autophony, Tullio's & Hennebert's sign, aural fullness
 </p>
 <p>
--Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), `<strong>`{=html}acoustic reflexes are present`</strong>`{=html}
+-Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), `<strong>acoustic reflexes are present`</strong>
 </p>
 <p>
 -CT Temporal Bone: Get Porshl's view
@@ -919,16 +919,16 @@ BPPV - Clinical Practice Guideline
 -Assess patient's home safety/risk of falling + ability to perform Epley
 </p>
 <p>
-\-`<strong>`{=html}No`</strong>`{=html} i`<strong>`{=html}maging or vestibular testing or vestibular suppressants`</strong>`{=html} for those who have symptoms+exam findings of BPPV
+\-`<strong>No`</strong> i`<strong>maging or vestibular testing or vestibular suppressants`</strong> for those who have symptoms+exam findings of BPPV
 </p>
 <p>
--Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. `<strong>`{=html}Hold head`</strong>`{=html} and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. `<strong>`{=html}Repeat`</strong>`{=html} until nystagmus is gone
+-Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. `<strong>Hold head`</strong> and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. `<strong>Repeat`</strong> until nystagmus is gone
 </p>
 <p>
 -can do Semont maneuver. Ask patient to keep head elevated for 48hours.
 </p>
 <p>
--patients w/ migraines and motion refractory take longer to recover. `<u>`{=html}F/u in 4-6 weeks`</u>`{=html}. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
+-patients w/ migraines and motion refractory take longer to recover. `<u>F/u in 4-6 weeks`</u>. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
 </p>
 <p>
 -surgery Tx: singular Neuroectomy (historic) posterior SCC occlusion (pack Posterior SCC with bone wax)
@@ -946,13 +946,13 @@ Dx: Audiogram & ECoG: SP/AP \>0.35
 Tx: restrict salt intake \<1.5g/day, avoid EtOH, caffeine, even out water consumption
 </p>
 <p>
-`<strong>`{=html}Acute Vertigo`</strong>`{=html} (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)
+`<strong>Acute Vertigo`</strong> (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)
 </p>
 <p>
-`<strong>`{=html}Maintenance therapy`</strong>`{=html}: HCTZ 50mg qdaily
+`<strong>Maintenance therapy`</strong>: HCTZ 50mg qdaily
 </p>
 <p>
-`<strong>`{=html}Surgery`</strong>`{=html}: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)
+`<strong>Surgery`</strong>: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)
 </p>
 <h4 class="unnumbered" id="other-causes-of-vertigo">
 Other causes of vertigo
@@ -964,5 +964,5 @@ Cogan Syndrome: if patients have rapidly progressing blurry vision (interstitial
 Labyrinthine Concussion: BPPV like symptoms after trauma
 </p>
 <p>
-`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="../index.html">Back to homepage`</a>
 </p>

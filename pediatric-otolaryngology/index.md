@@ -4,12 +4,12 @@ title: Pediatric Otolaryngology
 ---
 <ul>
 <li>
-`<a href="clinic-guide.html">`{=html}Clinic Guide`</a>`{=html}
+`<a href="clinic-guide.html">Clinic Guide`</a>
 </li>
 <li>
-`<a href="neck-masses.html">`{=html}Neck Masses`</a>`{=html}
+`<a href="neck-masses.html">Neck Masses`</a>
 </li>
 <li>
-`<a href="or-guide.html">`{=html}OR Guide`</a>`{=html}
+`<a href="or-guide.html">OR Guide`</a>
 </li>
 </ul>

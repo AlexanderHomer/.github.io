@@ -691,5 +691,5 @@ Interpreter (code 1031)
       </tr>
       </table>
       <p>
-      `<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+      `<a href="index.html">Back to homepage`</a>
       </p>

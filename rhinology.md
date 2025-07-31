@@ -48,7 +48,7 @@ Nasal steroids (Flonase/Nasacort/Nasonex/Rhinocort)
 </li>
 <li>
 <p>
-Can give oral 2`<sup>`{=html}nd`</sup>`{=html} gen antihistamines if sneezing,
+Can give oral 2`<sup>nd`</sup> gen antihistamines if sneezing,
 itching
 </p>
 </li>
@@ -97,7 +97,7 @@ animals more frequently (not great evidence)
 </li>
 <li>
 <p>
-`<strong>`{=html}Inferior turbinate reduction:`</strong>`{=html} can be offered if
+`<strong>Inferior turbinate reduction:`</strong> can be offered if
 allergic rhinitis \_ nasal obstruction+ enlarged inferior turbinates +
 failed medical management. Dr. Rebeiz likes to offer one side at a time
 to see if patients get a response before he does the other
@@ -148,7 +148,7 @@ Probably safer and more effective
 </li>
 <li>
 <p>
-1`<sup>`{=html}st`</sup>`{=html} dose in office. After that, administered at
+1`<sup>st`</sup> dose in office. After that, administered at
 home
 </p>
 </li>
@@ -164,16 +164,16 @@ More likely to cause GI upset
 </ol>
 <blockquote>
 <p>
-`<strong>`{=html}Allergy testing`</strong>`{=html}:
+`<strong>Allergy testing`</strong>:
 </p>
 </blockquote>
 <ol type="I">
 <li>
 <p>
-`<u>`{=html}Skin testing`</u>`{=html}: contraindicated in eczema, uncontrolled
+`<u>Skin testing`</u>: contraindicated in eczema, uncontrolled
 asthma, cardiovascular disease or on beta-blockers (Can do blood tests
-on these patients instead). `<strong>`{=html}Patients should stop antihistamines
-48-72hrs prior`</strong>`{=html}
+on these patients instead). `<strong>Patients should stop antihistamines
+48-72hrs prior`</strong>
 </p>
 </li>
 <li>
@@ -189,28 +189,28 @@ enlarges (use 1ml of previous strength + 4ml of dilute)
 <h4 class="unnumbered" id="allergens-will-associated-oral-allergy-triggers">
 `<img
 src="media/image23.png"
-style="width:1.74097in;height:2.26458in" />`{=html}Allergens (will associated
+style="width:1.74097in;height:2.26458in" />Allergens (will associated
 oral allergy triggers)
 </h4>
 <p>
-`<strong>`{=html}Spring`</strong>`{=html} --- trees (birch) → Apples, Peaches, Carrots,
+`<strong>Spring`</strong> --- trees (birch) → Apples, Peaches, Carrots,
 Peanuts
 </p>
 <p>
-`<strong>`{=html}Summer`</strong>`{=html} --- grass → dates, orange, tomato,
+`<strong>Summer`</strong> --- grass → dates, orange, tomato,
 watermelon
 </p>
 <p>
-`<strong>`{=html}Summer/Fall`</strong>`{=html} --- Mugwort → celery, carrots
+`<strong>Summer/Fall`</strong> --- Mugwort → celery, carrots
 </p>
 <p>
-`<strong>`{=html}Fall`</strong>`{=html} --- Ragweed → bananas, melon
+`<strong>Fall`</strong> --- Ragweed → bananas, melon
 </p>
 <p>
-`<strong>`{=html}Nighttime`</strong>`{=html} --- dust mites
+`<strong>Nighttime`</strong> --- dust mites
 </p>
 <p>
-`<strong>`{=html}Cross-reactive oral allergens`</strong>`{=html}:
+`<strong>Cross-reactive oral allergens`</strong>:
 </p>
 <p>
 Peach → 55% of apple, plum, pear
@@ -235,66 +235,66 @@ Other causes of
 Rhinitis
 </h3>
 <p>
-`<strong>`{=html}Acid reflux`</strong>`{=html}. MCC of rhinitis. Especially at
+`<strong>Acid reflux`</strong>. MCC of rhinitis. Especially at
 night.
 </p>
 <p>
-`<strong>`{=html}Rhinoscleroma:`</strong>`{=html} nasal deformity 2/2 klebsiella
+`<strong>Rhinoscleroma:`</strong> nasal deformity 2/2 klebsiella
 </p>
 <p>
-`<strong>`{=html}Rhinosporidososis`</strong>`{=html}: strawberry friable nasal mass 2/2
+`<strong>Rhinosporidososis`</strong>: strawberry friable nasal mass 2/2
 rhinosporidium seebri
 </p>
 <p>
-`<strong>`{=html}Nonallergic rhinitis w/ eosinophilia Syndrome
-(NARES):`</strong>`{=html} associated w/ aspirin allergies.
+`<strong>Nonallergic rhinitis w/ eosinophilia Syndrome
+(NARES):`</strong> associated w/ aspirin allergies.
 </p>
 <p>
-`<strong>`{=html}Rhinitis of pregnancy`</strong>`{=html}: avoid afrin. Consider
+`<strong>Rhinitis of pregnancy`</strong>: avoid afrin. Consider
 turbinate reduction
 </p>
 <p>
-`<strong>`{=html}Atrophic Rhinitis`</strong>`{=html}: Includes empty nose syndrome.
+`<strong>Atrophic Rhinitis`</strong>: Includes empty nose syndrome.
 </p>
 <p>
-`<strong>`{=html}Rhinitis Medicamentosa`</strong>`{=html}: due to overuse of afrin
+`<strong>Rhinitis Medicamentosa`</strong>: due to overuse of afrin
 </p>
 <p>
-`<strong>`{=html}Vasomotor Rhinitis`</strong>`{=html}: diagnosis of exclusion.
+`<strong>Vasomotor Rhinitis`</strong>: diagnosis of exclusion.
 </p>
 <h3 class="unnumbered" id="sinusitis-clinical-practice-guideline-italicized-not-part-of-guidelines">
 Sinusitis
--- Clinical Practice Guideline (`<em>`{=html}Italicized`</em>`{=html} = not part of
+-- Clinical Practice Guideline (`<em>Italicized`</em> = not part of
 guidelines)
 </h3>
 <p>
-`<strong>`{=html}ARS`</strong>`{=html}: purulent nasal `<strong>`{=html}drainage`</strong>`{=html}
-accompanied by nasal `<strong>`{=html}obstruction`</strong>`{=html}, facial
-`<strong>`{=html}pain`</strong>`{=html}-pressure fullness,
+`<strong>ARS`</strong>: purulent nasal `<strong>drainage`</strong>
+accompanied by nasal `<strong>obstruction`</strong>, facial
+`<strong>pain`</strong>-pressure fullness,
 </p>
 <p>
-or both. `<strong>`{=html}Suspect Acute Bacterial Rhinosinusitis (ABRS) if
-symptoms \>10days or get better then worse.`</strong>`{=html} If you see
+or both. `<strong>Suspect Acute Bacterial Rhinosinusitis (ABRS) if
+symptoms \>10days or get better then worse.`</strong> If you see
 patients w/ symptoms \<10days, this is likely viral: give Flonase,
 nasal saline, Tylenol/ibuprofen.
 </p>
 <p>
-`<strong>`{=html}ABRS:`</strong>`{=html} amox or augmentin x5-10days (doxycycline or
+`<strong>ABRS:`</strong> amox or augmentin x5-10days (doxycycline or
 levoquin or moxifloxacin for PCN allergic patients). Can do watchful
 waiting for 7 days in reliable patients. If no improvement after 7 days:
 give antibiotics (if watchful waiting) or change antibiotics (if patient
 given amox/augmentin, do doxycycline, Levaquin, or combo clindamycin +
-3`<sup>`{=html}rd`</sup>`{=html} gen cephalosporin)
+3`<sup>rd`</sup> gen cephalosporin)
 </p>
 <p>
-`<em>`{=html}`<u>`{=html}Frontal sinusitis`</u>`{=html}: treat more aggressively`</em>`{=html}
+`<em>`<u>Frontal sinusitis`</u>: treat more aggressively`</em>
 </p>
 <p>
-`<strong>`{=html}Recurrent ABRS`</strong>`{=html}: 4+ episodes a year with periods
+`<strong>Recurrent ABRS`</strong>: 4+ episodes a year with periods
 where symptoms are gone/
 </p>
 <p>
-`<strong>`{=html}Chronic Rhinosinusitis`</strong>`{=html}: \>12 weeks of symptoms.
+`<strong>Chronic Rhinosinusitis`</strong>: \>12 weeks of symptoms.
 Confirm diagnosis with clinical exam (anterior rhinoscopy, nasal
 endoscopy) or CT sinus. Patients should be evaluated for asthma, cystic
 fibrosis, immunocompromised state, and ciliary dyskinesia +/- allergy
@@ -306,9 +306,9 @@ budesonide rinses maybe useful for CRS w/ polyps but not officially
 recommended. Don't give antifungals.
 </p>
 <p>
-`<em>`{=html}If no response to Flonase, can give course of oral steroids (2-4
+`<em>If no response to Flonase, can give course of oral steroids (2-4
 week) + antibiotics (macrolides especially -- for 3-6 weeks) at same time
-(especially for CRSw/ polyps)`</em>`{=html}
+(especially for CRSw/ polyps)`</em>
 </p>
 <h4 class="unnumbered" id="allergic-fungal-rhinosinusitis">
 Allergic
@@ -350,8 +350,8 @@ Positive fungal stain of sinus content
 <li>
 <p>
 `<img src="media/image24.jpeg"
-style="width:1.73542in;height:1.98611in" />`{=html}`<strong>`{=html}Mycetoma (Fungal
-Ball)`</strong>`{=html}: typically aspergillus (Y-shaped 45 degree septated
+style="width:1.73542in;height:1.98611in" />`<strong>Mycetoma (Fungal
+Ball)`</strong>: typically aspergillus (Y-shaped 45 degree septated
 hyphae) in one sinus treated with surgery
 </p>
 </li>
@@ -396,20 +396,20 @@ recalcitrant form of disease)
 </p>
 <p>
 R/O: encephalocele, inverted papilloma, glioma, antrochoanal polyp
-(retention cyst of max sinus that protrudes through antrum). `<strong>`{=html}Get
-CT scan, allergy test`</strong>`{=html}
+(retention cyst of max sinus that protrudes through antrum). `<strong>Get
+CT scan, allergy test`</strong>
 </p>
 <p>
 Surgical Tx: Do FESS -- polypectomy, sphenoidethmoidectomy, max
 antrostomy. Send specimen to r/o inverted papilloma
 </p>
 <p>
-Medical Tx : aggressive allergy mgmt`<strong>`{=html}, flonase`</strong>`{=html} +/-
+Medical Tx : aggressive allergy mgmt`<strong>, flonase`</strong> +/-
 rhinocort aqua (Budesonide) or Azelastine HCl 137mcg/spray (H1 blocker)
 \[2 sprays BID\], avoid ASA
 </p>
 <p>
-`<em>`{=html}Severe disease`</em>`{=html}: consider low-dose steroids, budesonide
+`<em>Severe disease`</em>: consider low-dose steroids, budesonide
 rinses, corticosteroid eluding stents (propel)
 </p>
 <h3 class="unnumbered" id="inverted-papilloma">
@@ -480,7 +480,7 @@ cavity → Lethal Midline Granuloma
 Epistaxis
 </h3>
 <p>
-`<strong>`{=html}Anatomy`</strong>`{=html}
+`<strong>Anatomy`</strong>
 </p>
 <ol type="I">
 <li>
@@ -503,9 +503,9 @@ Hereditary Hemorrhagic
 Telangiectasia
 </h4>
 <p>
-Autosomal dominant. Tx: NdYAG laser. `<strong>`{=html}Saunder's
-dermoplasty`</strong>`{=html}: removal telangiectic mucosa and replaced with STSG
-`<strong>`{=html}Young's procedure`</strong>`{=html}: close nasal cavity. For acute bleeds
+Autosomal dominant. Tx: NdYAG laser. `<strong>Saunder's
+dermoplasty`</strong>: removal telangiectic mucosa and replaced with STSG
+`<strong>Young's procedure`</strong>: close nasal cavity. For acute bleeds
 in the ED: surgiflo works well.
 </p>
 <h3 class="unnumbered" id="adult-obstructive-sleep-apnea">
@@ -513,15 +513,15 @@ Adult
 Obstructive Sleep Apnea
 </h3>
 <p>
-`<em>`{=html}See Dr. Wein's Head & Neck clinic section for Inspire
-patients`</em>`{=html}
+`<em>See Dr. Wein's Head & Neck clinic section for Inspire
+patients`</em>
 </p>
 <p>
-`<strong>`{=html}Apnea`</strong>`{=html} = cessation of nasal air pressure \[defined as
+`<strong>Apnea`</strong> = cessation of nasal air pressure \[defined as
 90% of baseline\] (for \>10secs)
 </p>
 <p>
-`<strong>`{=html}Hypopnea`</strong>`{=html}:
+`<strong>Hypopnea`</strong>:
 </p>
 <ul>
 <li>
@@ -533,23 +533,23 @@ desat (for \>10 secs)
 <li>
 <p>
 30+3/arousal criteria: drop in 30% of baseline + 3% O2 desat
-`<strong>`{=html}or`</strong>`{=html} an arousal (\>10secs)
+`<strong>or`</strong> an arousal (\>10secs)
 </p>
 </li>
 </ul>
 <p>
-`<strong>`{=html}AHI`</strong>`{=html}: Apnea+hypopnea per hour. AHI \> 5 = OSA.
+`<strong>AHI`</strong>: Apnea+hypopnea per hour. AHI \> 5 = OSA.
 \>15 = moderate. \>30 = severe
 </p>
 <p>
-`<strong>`{=html}RERA`</strong>`{=html}: Arousal preceded by inc. respiratory effort
+`<strong>RERA`</strong>: Arousal preceded by inc. respiratory effort
 (for \>10sec)
 </p>
 <p>
-`<strong>`{=html}RDI`</strong>`{=html}: Apnea+hypopnea+RERA/hour
+`<strong>RDI`</strong>: Apnea+hypopnea+RERA/hour
 </p>
 <p>
-`<strong>`{=html}Central Apnea:`</strong>`{=html} cessation of respiratory effort
+`<strong>Central Apnea:`</strong> cessation of respiratory effort
 during apnea. \>5 central apneas/hour = primary central sleep
 apnea.
 </p>
@@ -576,9 +576,9 @@ Nasopharynx: Adenoids?
 </li>
 <li>
 <p>
-Velopharynx: do `<strong>`{=html}mullers maneuver`</strong>`{=html}: attempt to
-breathing in with mouth/nose closed. `<strong>`{=html}If \>50%
-collapse`</strong>`{=html}→ retropalatal/retrolingual collapse
+Velopharynx: do `<strong>mullers maneuver`</strong>: attempt to
+breathing in with mouth/nose closed. `<strong>If \>50%
+collapse`</strong>→ retropalatal/retrolingual collapse
 (velopharynx)
 </p>
 </li>
@@ -609,7 +609,7 @@ Diverticulum
 Presents w/ dysphagia and regurgitation of indigested food
 </p>
 <p>
-`<strong>`{=html}Pulsion`</strong>`{=html} diverticulum at Killians Triangle (between
+`<strong>Pulsion`</strong> diverticulum at Killians Triangle (between
 cricopharyngeus and inferior constrictor). Occurs on left side 90% of
 time
 </p>
@@ -622,7 +622,7 @@ Ask: about exposure to heavy metals and job (woodworkers inc. rate of
 SCCA (if soft wood work) and Adenocarcinoma (if hard wood))
 </p>
 <p>
-`<strong>`{=html}Types`</strong>`{=html}:
+`<strong>Types`</strong>:
 </p>
 <p>
 SCCA, Adenocarcinoma (in wood/leather workers), Adenoid Cystic (slow
@@ -637,20 +637,20 @@ Otolaryngologic
 Manifestations of Autoimmune Diseases
 </h3>
 <p>
-`<strong>`{=html}W.A.S.: Autoimmune`</strong>`{=html} laryngeal manifestations →
+`<strong>W.A.S.: Autoimmune`</strong> laryngeal manifestations →
 Wegener's=supraglottic. Amyloid = Glottic. Sarcoidosis= Subglottic
 </p>
 <p>
-`<strong>`{=html}Wegener's (Granulomatosis with Polyangiitis GPA):`</strong>`{=html} MC
+`<strong>Wegener's (Granulomatosis with Polyangiitis GPA):`</strong> MC
 H&N symptom recurrent sinusitis. Also associated w/ septal
 perforation, chronic otitis, subglottic stenosis. Order c-ANCA
 </p>
 <p>
-`<strong>`{=html}Amyloidosis`</strong>`{=html}: causes macroglossia, deposits on TVF.
+`<strong>Amyloidosis`</strong>: causes macroglossia, deposits on TVF.
 Requires biopsy for diagnosis
 </p>
 <p>
-`<strong>`{=html}Sarcoidosis`</strong>`{=html}: can cause `<u>`{=html}supraglottic`</u>`{=html} mass
+`<strong>Sarcoidosis`</strong>: can cause `<u>supraglottic`</u> mass
 (epiglottis) w/ TVF immobility. Also risk of FN palsy (w/ uveitis and
 parotitis = Heerfordt's disease) Order ACE levels
 </p>
@@ -671,13 +671,13 @@ Look at coronal & axial
 <li>
 <p>
 Identify uncinate process and its relation to medial orbital
-wall`<strong>`{=html}. Check that it is not lateralized as a lateralized uncinate
-= easy orbital entry`</strong>`{=html}
+wall`<strong>. Check that it is not lateralized as a lateralized uncinate
+= easy orbital entry`</strong>
 </p>
 </li>
 <li>
 <p>
-Look for `<strong>`{=html}Haller cells`</strong>`{=html} (infraorbital cells) as
+Look for `<strong>Haller cells`</strong> (infraorbital cells) as
 thse crowd middle meatus and can be hard to reach
 </p>
 </li>
@@ -690,12 +690,12 @@ present, may need angled instruments)
 </ul>
 <p>
 `<img src="media/image25.png"
-style="width:3.85in;height:1.62778in" />`{=html}
+style="width:3.85in;height:1.62778in" />
 </p>
 <p>
 Figure 8: (Left) Haller cell (Right) Lateralized uncinate process.
-Palmer and Chiu, `<em>`{=html}Atlas of Endoscopic Sinus and Skull Base
-Surgery`</em>`{=html}.
+Palmer and Chiu, `<em>Atlas of Endoscopic Sinus and Skull Base
+Surgery`</em>.
 </p>
 <h4 class="unnumbered" id="ethmoidectomysphenoidectomy-figure-8">
 Ethmoidectomy/Sphenoidectomy
@@ -704,7 +704,7 @@ Ethmoidectomy/Sphenoidectomy
 <ul>
 <li>
 <p>
-Sagittal Look at `<strong>`{=html}slope of skull base`</strong>`{=html} the more it
+Sagittal Look at `<strong>slope of skull base`</strong> the more it
 slopes, the lower your entry through the basal lamella should be (image
 1 below)
 </p>
@@ -712,8 +712,8 @@ slopes, the lower your entry through the basal lamella should be (image
 <li>
 <p>
 The height of the skull base doesn't matter as much as the
-difference between the height of the `<strong>`{=html}roof of maxillary to height
-of skull base`</strong>`{=html} matters. Maxillary sinus roof is ur landmark, if
+difference between the height of the `<strong>roof of maxillary to height
+of skull base`</strong> matters. Maxillary sinus roof is ur landmark, if
 the maxillary sinus roof is high, and skull base is low, u may enter
 basal lamella too high (image 2)
 </p>
@@ -727,7 +727,7 @@ cribriform plate. Type I: 1-3mm; Type 2: 3-7mm; Type 3 (most dangerous)
 </li>
 <li>
 <p>
-Identify `<strong>`{=html}onodi cells`</strong>`{=html} (check coronals) - this is
+Identify `<strong>onodi cells`</strong> (check coronals) - this is
 a posterior ethmoid cell superior or lateral to sphenoid. Important
 because the sphenoid isn't posterior to it but the optic nerve/apex is!
 (Image
@@ -739,7 +739,7 @@ because the sphenoid isn't posterior to it but the optic nerve/apex is!
 </li>
 <li>
 <p>
-Check i`<strong>`{=html}ntrasinus septum of sphenoid`</strong>`{=html} (check
+Check i`<strong>ntrasinus septum of sphenoid`</strong> (check
 axials) to make sure its doesn't lead to carotid (Image 4)
 </p>
 </li>
@@ -750,8 +750,8 @@ Frontal Sinusotomy
 <ul>
 <li>
 <p>
-Check sagittal. Determine `<strong>`{=html}anterior-posterior dimension of
-frontal recess`</strong>`{=html}. If small, stripping the mucosa in the recess =
+Check sagittal. Determine `<strong>anterior-posterior dimension of
+frontal recess`</strong>. If small, stripping the mucosa in the recess =
 high likelihood of restenosis
 </p>
 </li>
@@ -777,7 +777,7 @@ Around frontal recess
 <ol type="1">
 <li>
 <p>
-`<strong>`{=html}Agger nasi`</strong>`{=html}
+`<strong>Agger nasi`</strong>
 </p>
 </li>
 <li>
@@ -808,7 +808,7 @@ Type 4 within frontal sinus
 </ul>
 <p>
 `<img src="media/image26.png"
-style="width:3.85in;height:2.80417in" />`{=html}
+style="width:3.85in;height:2.80417in" />
 </p>
 <p>
 Figure 9: Palmer and Chiu, Atlas of Endoscopic Sinus and Skull Base
@@ -861,7 +861,7 @@ SURGERY:
 <li>
 <p>
 `<img src="media/image27.png"
-style="width:1.65625in;height:1.48542in" />`{=html}`<strong>`{=html}Inject`</strong>`{=html} 1%
+style="width:1.65625in;height:1.48542in" />`<strong>Inject`</strong> 1%
 lido + epi : root of middle turb and lateral nasal wall. Inject with
 patties in place in middle meatus
 </p>
@@ -874,48 +874,48 @@ turb.
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Turbinoplasty`</u>`{=html}`</strong>`{=html} with up biting tru-cut
+`<strong>`<u>Turbinoplasty`</u>`</strong> with up biting tru-cut
 along inferomedial, inferior, inferolateral surface of middle turb and
 hold medially for 30 secs
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Uncinectomy`</u>`{=html}`</strong>`{=html}: Use `<strong>`{=html}ostium
-seeker`</strong>`{=html} to probe max ostium. With `<strong>`{=html}cottle`</strong>`{=html},
+`<strong>`<u>Uncinectomy`</u>`</strong>: Use `<strong>ostium
+seeker`</strong> to probe max ostium. With `<strong>cottle`</strong>,
 perform uncinectomy, then remove inferior portion with a small
-`<strong>`{=html}backbiter`</strong>`{=html}. Use `<strong>`{=html}ostium seeker`</strong>`{=html} to pull
-the superior uncinate and remove with a `<strong>`{=html}upbiting
-tru-bite`</strong>`{=html}. Used `<strong>`{=html}curved navigation suction`</strong>`{=html} to
+`<strong>backbiter`</strong>. Use `<strong>ostium seeker`</strong> to pull
+the superior uncinate and remove with a `<strong>upbiting
+tru-bite`</strong>. Used `<strong>curved navigation suction`</strong> to
 confirm you've opened it up.
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Widen maxillary antrostomy`</u>`{=html}`</strong>`{=html} by excising
+`<strong>`<u>Widen maxillary antrostomy`</u>`</strong> by excising
 the posterior fontanelle posterior to the maxillary os with a
-`<strong>`{=html}straight tru-bite`</strong>`{=html}
+`<strong>straight tru-bite`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Anterior ethmoidectomy`</u>`{=html}`</strong>`{=html} enter ethmoid
-bullae with suction, remove pieces with `<strong>`{=html}blakesley
-forcep`</strong>`{=html}
+`<strong>`<u>Anterior ethmoidectomy`</u>`</strong> enter ethmoid
+bullae with suction, remove pieces with `<strong>blakesley
+forcep`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Posterior ethmoidectomy`</u>`{=html}`</strong>`{=html}: identify basal
+`<strong>`<u>Posterior ethmoidectomy`</u>`</strong>: identify basal
 lamella (horizontal/vertical portion). Enter basal lamella with a
-`<strong>`{=html}j curette`</strong>`{=html} on inferior/medial aspect below level of the
+`<strong>j curette`</strong> on inferior/medial aspect below level of the
 roof of the maxillary sinus
 </p>
 </li>
 </ul>
 <p>
 `<img src="media/image28.png"
-style="width:2.96494in;height:3.04348in" />`{=html}
+style="width:2.96494in;height:3.04348in" />
 </p>
 <p>
 Figure 10: Palmer and Chiu, Atlas of Endoscopic Sinus and Skull Base
@@ -924,29 +924,29 @@ Surgery.
 <ul>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Sphenoidotomy`</u>`{=html}`</strong>`{=html}: anterior face of sphenoid
+`<strong>`<u>Sphenoidotomy`</u>`</strong>: anterior face of sphenoid
 = 7cm from nasal sill. Find it medial to superior turbinate or the
 bolger's box method (the box is superior turbinate \[medial\], lamina
 papyracea \[laterally\], skull base, basal lamella: locate it
 inferior/medially). Use a straight tru-bite to transect lower 1/3 of
 superior turbinate to better visualize sphenoid os, then use j curette
-to enlarge os `<strong>`{=html}laterally`</strong>`{=html}
+to enlarge os `<strong>laterally`</strong>
 </p>
 </li>
 <li>
 <p>
-Come back along skull base using `<strong>`{=html}J
-curette`</strong>`{=html}
+Come back along skull base using `<strong>J
+curette`</strong>
 </p>
 </li>
 <li>
 <p>
-`<strong>`{=html}`<u>`{=html}Frontal sinusotomy`</u>`{=html}:`</strong>`{=html} Enter frontal sinus
-with `<strong>`{=html}ostium seeker`</strong>`{=html} then curved suction. Take down the
+`<strong>`<u>Frontal sinusotomy`</u>:`</strong> Enter frontal sinus
+with `<strong>ostium seeker`</strong> then curved suction. Take down the
 superior part of the uncinate if that hasn't already been done. If there
-is an agger nasi cell, get a `<strong>`{=html}45 or 70 degree scope`</strong>`{=html} and
-take down `<u>`{=html}inferior`</u>`{=html} part of agger nasi. `<u>`{=html}Do not strip
-mucosa`</u>`{=html}. A lot of people just do balloon dilation for frontal
+is an agger nasi cell, get a `<strong>45 or 70 degree scope`</strong> and
+take down `<u>inferior`</u> part of agger nasi. `<u>Do not strip
+mucosa`</u>. A lot of people just do balloon dilation for frontal
 sinus
 </p>
 </li>
@@ -1034,5 +1034,5 @@ Have suction electrocautery and nasopores for hemostasis
 </ul>
 <!-- END Rhinology section -->
 <p>
-`<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+`<a href="index.html">Back to homepage`</a>
 </p>
