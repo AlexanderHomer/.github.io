@@ -16,6 +16,11 @@ header, footer {
   text-align: center;
 }
 
+header {
+  padding-top: 5em; /* space for fixed search bar */
+  position: relative;
+}
+
 h1 {
   font-size: 2.2rem;
   margin: 0;
@@ -81,10 +86,13 @@ main li {
 .search-form {
   display: flex;
   justify-content: center;
-  margin: 1em auto;
+  margin: 0 auto;
   max-width: 600px;
-  position: sticky;
+  width: 100%;
+  position: fixed;
   top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 1000;
   background-color: #1976d2;
   padding: 0.5em;
@@ -143,4 +151,10 @@ main li {
 
 .floating-nav .btn:hover {
   background-color: #1565c0;
+}
+
+li span {
+  color: #555;
+  margin-left: 0.5em;
+  font-style: italic;
 }
