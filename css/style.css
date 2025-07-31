@@ -129,7 +129,7 @@ main li {
 /* Floating navigation buttons */
 .floating-nav {
   position: fixed;
-  left: 1rem;
+  right: 1rem;
   bottom: 1rem;
   display: flex;
   flex-direction: column;
