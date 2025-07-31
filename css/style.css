@@ -109,6 +109,8 @@ main li {
   color: #fff;
   border-radius: 0 20px 20px 0;
   cursor: pointer;
+  height: auto;
+  line-height: normal;
 }
 
 .search-form button:hover {
