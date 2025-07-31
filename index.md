@@ -1,11 +1,9 @@
 
 ---
 
-## layout: default
+#ENT Guidebook
 
-title: ENT Guidebook
-
-# [Orientation](https://orientation/index.html)
+## [Orientation](https://orientation/index.html)
 
 <ul> <li><a href="rules-of-the-game.html">Rules of the Game</a></li>
 
