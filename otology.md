@@ -2,571 +2,3991 @@
 layout: default
 title: Otology
 ---
+```{=html}
 <!-- BEGIN Otology section imported from pocket guide -->
-<h2 class="unnumbered" id="otology---clinic-guide">Otology - Clinic Guide</h2>
-<h4 class="unnumbered" id="sillmannoonan-clinic">Sillman/Noonan Clinic</h4>
+```
+```{=html}
+<h2 class="unnumbered" id="otology---clinic-guide">
+```
+Otology - Clinic Guide
+```{=html}
+</h2>
+```
+```{=html}
+<h4 class="unnumbered" id="sillmannoonan-clinic">
+```
+Sillman/Noonan Clinic
+```{=html}
+</h4>
+```
+```{=html}
 <ul>
-<li><p>Use the new patient or follow up visit templates for the physician exam</p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Use the new patient or follow up visit templates for the physician exam
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>For the ear exam: use the microscope. Put “Microscopic exam in the ear section”</p></li>
-<li><p>For vertigo patients: do dix-hallpike, head thrust, rhomberg, Fukuda stepping tests +/- checking vibratory sensation, finger to nose prn</p></li>
-</ul></li>
-<li><p>Assessments in the assessment/problem section with the ICD-9 codes</p></li>
-<li><p>Keep the plans short. Put a plan for each problem listed.</p>
-<ul>
-<li><p><img alt="" src="media/image3.png" style="width:1.16111in;height:1.14028in" />including discussions regarding dry ear precautions. Put observation if no specific plan was proposed</p></li>
-</ul></li>
-<li><p>Put in the Attestation template and replace the *** with your name</p></li>
-<li><p>Under follow up, put the time frame + “sooner prn.” Do NOT press done</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+For the ear exam: use the microscope. Put "Microscopic exam in the ear section"
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+For vertigo patients: do dix-hallpike, head thrust, rhomberg, Fukuda stepping tests +/- checking vibratory sensation, finger to nose prn
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h3 class="unnumbered" id="audiology">Audiology</h3>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Assessments in the assessment/problem section with the ICD-9 codes
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Keep the plans short. Put a plan for each problem listed.
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p><strong>PTA (pure tone)</strong>: Hearing sensitivity at 500,1000,2000Hz</p></li>
-<li><p><strong>SRT</strong> - lowest threshold <strong>spondee</strong> can be repeated 50% of time</p></li>
-<li><p><strong>WRS (word rec)</strong> - % correct of a 50 word list of <u>monosyllabic phonetically balanced words.</u> Given at 40dB greater than SRT</p></li>
-<li><p><strong>Hearing loss levels:</strong> go down by 15dB starting at &lt;25dB</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="media/image3.png" style="width:1.16111in;height:1.14028in" />`{=html}including discussions regarding dry ear precautions. Put observation if no specific plan was proposed
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Put in the Attestation template and replace the \*\*\* with your name
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Under follow up, put the time frame + "sooner prn." Do NOT press done
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="audiology">
+```
+Audiology
+```{=html}
+</h3>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}PTA (pure tone)`</strong>`{=html}: Hearing sensitivity at 500,1000,2000Hz
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}SRT`</strong>`{=html} - lowest threshold `<strong>`{=html}spondee`</strong>`{=html} can be repeated 50% of time
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}WRS (word rec)`</strong>`{=html} - % correct of a 50 word list of `<u>`{=html}monosyllabic phonetically balanced words.`</u>`{=html} Given at 40dB greater than SRT
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Hearing loss levels:`</strong>`{=html} go down by 15dB starting at \<25dB
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <blockquote>
-<p><img alt="" src="media/image4.emf" style="width:1.65347in;height:1.54792in" /><strong>Audiogram symbols</strong>: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)</p>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="media/image4.emf" style="width:1.65347in;height:1.54792in" />`{=html}`<strong>`{=html}Audiogram symbols`</strong>`{=html}: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)
+```{=html}
+</p>
+```
+```{=html}
 </blockquote>
-<h4 class="unnumbered" id="audiogram-patterns">Audiogram Patterns</h4>
+```
+```{=html}
+<h4 class="unnumbered" id="audiogram-patterns">
+```
+Audiogram Patterns
+```{=html}
+</h4>
+```
+```{=html}
 <ol type="A">
-<li><p><strong>2kHz notch</strong> (air-bone) otosclerosis</p></li>
-<li><p><strong>4kHz notch</strong> (SNHL) - noise exposure</p></li>
-<li><p><strong>Cookie bite</strong> – hereditary</p></li>
-<li><p><strong>Low Frequency</strong> (SNHL) — Meniere’s</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}2kHz notch`</strong>`{=html} (air-bone) otosclerosis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}4kHz notch`</strong>`{=html} (SNHL) - noise exposure
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Cookie bite`</strong>`{=html} -- hereditary
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Low Frequency`</strong>`{=html} (SNHL) --- Meniere's
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-<h4 class="unnumbered" id="tympanometry">Tympanometry</h4>
+```
+```{=html}
+<h4 class="unnumbered" id="tympanometry">
+```
+Tympanometry
+```{=html}
+</h4>
+```
+```{=html}
 <blockquote>
-<p><strong>Ad = <u>D</u></strong>eep for <strong><u>d</u></strong>iscontinuity</p>
-<p>As= <strong><u>s</u></strong>hallow for oto<strong><u>s</u></strong>clerosis /ossicular fixation</p>
-<p>B + volume wnl: OME</p>
-<p>B + large volume: perforation</p>
-<p>C: ETD, retraction</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Ad = `<u>`{=html}D`</u>`{=html}`</strong>`{=html}eep for `<strong>`{=html}`<u>`{=html}d`</u>`{=html}`</strong>`{=html}iscontinuity
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+As= `<strong>`{=html}`<u>`{=html}s`</u>`{=html}`</strong>`{=html}hallow for oto`<strong>`{=html}`<u>`{=html}s`</u>`{=html}`</strong>`{=html}clerosis /ossicular fixation
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+B + volume wnl: OME
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+B + large volume: perforation
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+C: ETD, retraction
+```{=html}
+</p>
+```
+```{=html}
 </blockquote>
-<h4 class="unnumbered" id="acoustic-reflex-testing">Acoustic Reflex Testing</h4>
-<p>Image to the right are common patterns (Red = absent. Green = present)</p>
-<p><strong>Right/Left</strong>: the side of the sound stimulus.</p>
-<p><strong>Ipsilateral/Contralateral</strong>: side that the reflect stimulus is detected.</p>
-<p><strong>Note</strong>: Acoustic reflexes should be <u>absent</u> in <u>CHL</u> (otosclerosis etc) <u>unless</u> patients have <u>semicircular canal dehiscence.</u></p>
-<p><strong>OAEs</strong>: <u>T</u><strong>EOAE - newborn testing.</strong> <u>D</u>POAE - think <u>d</u>ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity</p>
-<p><strong>ECoG</strong>: Basically measuring Wave I on a ABR. The big thing to know is <strong><u>&gt;0.45 SP/AP</u></strong> is associated with <strong><u>Meniere's</u></strong></p>
-<p><strong>ABR</strong>: <strong><u>Wave V latency</u></strong> (&gt;0.2ms) due to retrocochlear pathology</p>
+```
+```{=html}
+<h4 class="unnumbered" id="acoustic-reflex-testing">
+```
+Acoustic Reflex Testing
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+Image to the right are common patterns (Red = absent. Green = present)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Right/Left`</strong>`{=html}: the side of the sound stimulus.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Ipsilateral/Contralateral`</strong>`{=html}: side that the reflect stimulus is detected.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Note`</strong>`{=html}: Acoustic reflexes should be `<u>`{=html}absent`</u>`{=html} in `<u>`{=html}CHL`</u>`{=html} (otosclerosis etc) `<u>`{=html}unless`</u>`{=html} patients have `<u>`{=html}semicircular canal dehiscence.`</u>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}OAEs`</strong>`{=html}: `<u>`{=html}T`</u>`{=html}`<strong>`{=html}EOAE - newborn testing.`</strong>`{=html} `<u>`{=html}D`</u>`{=html}POAE - think `<u>`{=html}d`</u>`{=html}ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}ECoG`</strong>`{=html}: Basically measuring Wave I on a ABR. The big thing to know is `<strong>`{=html}`<u>`{=html}\>0.45 SP/AP`</u>`{=html}`</strong>`{=html} is associated with `<strong>`{=html}`<u>`{=html}Meniere's`</u>`{=html}`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}ABR`</strong>`{=html}: `<strong>`{=html}`<u>`{=html}Wave V latency`</u>`{=html}`</strong>`{=html} (\>0.2ms) due to retrocochlear pathology
+```{=html}
+</p>
+```
+```{=html}
 <ol type="A">
-<li><p>Abnormal wave I-V and III-V latency = CHL</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Abnormal wave I-V and III-V latency = CHL
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-
-<h2 class="unnumbered" id="neuro-otology-imaging">Neuro-otology Imaging</h2>
-<p><strong>CT Temporal Bone</strong>:</p>
-<p><strong>Stenvers/Perpendicular</strong> view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the <strong>round</strong> window, <strong>tegmen</strong>, as well as other structures.</p>
-<p>The <strong>Poschl/Parallel</strong> view, a short-axis view of the petrous pyramid, was used to optimally visualize the <strong>superior semicircular canal</strong></p>
-<h4 class="unnumbered" id="how-to-read-temporal-bone-images">How to Read Temporal Bone Images</h4>
-<p><strong>Divide into:</strong> EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve</p>
-<p><strong>External Auditory Canal (EAC):</strong></p>
+```
+```{=html}
+<h2 class="unnumbered" id="neuro-otology-imaging">
+```
+Neuro-otology Imaging
+```{=html}
+</h2>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}CT Temporal Bone`</strong>`{=html}:
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Stenvers/Perpendicular`</strong>`{=html} view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the `<strong>`{=html}round`</strong>`{=html} window, `<strong>`{=html}tegmen`</strong>`{=html}, as well as other structures.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+The `<strong>`{=html}Poschl/Parallel`</strong>`{=html} view, a short-axis view of the petrous pyramid, was used to optimally visualize the `<strong>`{=html}superior semicircular canal`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="how-to-read-temporal-bone-images">
+```
+How to Read Temporal Bone Images
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Divide into:`</strong>`{=html} EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}External Auditory Canal (EAC):`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Necrotizing otitis externa: inflamed EAC and auricle w/ bony erosion of inferior EAC. T1 w/ contrast: cellulitis enhances. Same with T2</p></li>
-<li><p>Cholesteatoma: eroding mass in inferior, posterior EAC. MRI shows T1 iso/hypointense.T2 intermediate/high intensity. DWI is bright (aka restricted)</p></li>
-<li><p>Keratosis Obturans does not have bony destruction</p></li>
-<li><p>Exostoses (swimmers ears): typically at suture lines and are bilateral.</p></li>
-<li><p>Osteomas: Typically ovoid &lt;1cm</p></li>
-<li><p>Canal Atresia/Stenosis: look at ossicles – malleus/incus are typically fused. Oval window atresia</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Necrotizing otitis externa: inflamed EAC and auricle w/ bony erosion of inferior EAC. T1 w/ contrast: cellulitis enhances. Same with T2
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cholesteatoma: eroding mass in inferior, posterior EAC. MRI shows T1 iso/hypointense.T2 intermediate/high intensity. DWI is bright (aka restricted)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Keratosis Obturans does not have bony destruction
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Exostoses (swimmers ears): typically at suture lines and are bilateral.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Osteomas: Typically ovoid \<1cm
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Canal Atresia/Stenosis: look at ossicles -- malleus/incus are typically fused. Oval window atresia
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p><strong>Middle Ear</strong></p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Middle Ear`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Cholesteatoma: congenital by EAC, TM intact. Acquired in epitympanum (Prussak’s space), erodes scutum and ossicles. T1 dark, they don’t enhance. Bright(ish) on T2, Lights up on DWI</p></li>
-<li><p>Aberrant Carotid Artery: the carotid canal just continues into the middle ear</p></li>
-<li><p>Glomus Tympanicum: oval mass of cochlear promontory</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cholesteatoma: congenital by EAC, TM intact. Acquired in epitympanum (Prussak's space), erodes scutum and ossicles. T1 dark, they don't enhance. Bright(ish) on T2, Lights up on DWI
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Aberrant Carotid Artery: the carotid canal just continues into the middle ear
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Glomus Tympanicum: oval mass of cochlear promontory
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p><strong>Inner Ear</strong></p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Inner Ear`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Superior SSC dehiscence</p></li>
-<li><p>Cochlear abnormalities: aplasia or common cavity</p></li>
-<li><p>Enlarged vestibular aqueduct: if &gt;1.5mm. Look for Mondini malformation: think Pendred’s</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Superior SSC dehiscence
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cochlear abnormalities: aplasia or common cavity
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Enlarged vestibular aqueduct: if \>1.5mm. Look for Mondini malformation: think Pendred's
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
+```
+```{=html}
 <ul>
-<li><p>Hypoplastic CN8: If &lt;3mm</p></li>
-<li><p>Labyrinthitis: T1 w/ contrast = enhances. Schwannoma has similar appearance but also has filling defect on T2)</p></li>
-<li><p>Otosclerosis: demineralized bone over otic capsule</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Hypoplastic CN8: If \<3mm
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Labyrinthitis: T1 w/ contrast = enhances. Schwannoma has similar appearance but also has filling defect on T2)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Otosclerosis: demineralized bone over otic capsule
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p><strong>Petrous Apex</strong></p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Petrous Apex`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Most common abnormality is asymmetric marrow (T1 bright)</p></li>
-<li><p>Mucocele: breakdown of bony trabecular, T1 low, T2 high, rim enhancement</p></li>
-<li><p>Cholesterol Granulomas: expand from petrous apex. T1/T2 high. Well circumscribed w/ smooth edges</p></li>
-<li><p>Chondrosarcoma: look for intratumoral calcification</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Most common abnormality is asymmetric marrow (T1 bright)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Mucocele: breakdown of bony trabecular, T1 low, T2 high, rim enhancement
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cholesterol Granulomas: expand from petrous apex. T1/T2 high. Well circumscribed w/ smooth edges
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Chondrosarcoma: look for intratumoral calcification
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p><strong>Intratemporal Fossa</strong></p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Intratemporal Fossa`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Vestibular schwannomas: T1 iso, avidly enhance, T2 iso/high</p></li>
-<li><p>Meningiomas: similar to vestibular schwannomas but T2 is variable and have calcifications.</p></li>
-<li><p>Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiated from arachnoid cysts as epidermoids are bright on DWI.</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Vestibular schwannomas: T1 iso, avidly enhance, T2 iso/high
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Meningiomas: similar to vestibular schwannomas but T2 is variable and have calcifications.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiated from arachnoid cysts as epidermoids are bright on DWI.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p><img alt="" src="media/image5.png" style="width:3.75841in;height:3.04933in" /></p>
-<p><em>Image:</em> Adunka and Buchman, <em>Otology, Neurotology, and Lateral Skull Base Surgery</em></p>
-<p>.</p>
-<h4 class="unnumbered" id="mri-internal-auditory-canal">MRI Internal Auditory Canal</h4>
-<p><strong>General principles of MRI:</strong></p>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="media/image5.png" style="width:3.75841in;height:3.04933in" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<em>`{=html}Image:`</em>`{=html} Adunka and Buchman, `<em>`{=html}Otology, Neurotology, and Lateral Skull Base Surgery`</em>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+.
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="mri-internal-auditory-canal">
+```
+MRI Internal Auditory Canal
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}General principles of MRI:`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <table>
+```
+```{=html}
 <colgroup>
+```
+```{=html}
 <col style="width: 17%" />
+```
+```{=html}
 <col style="width: 9%" />
+```
+```{=html}
 <col style="width: 15%" />
+```
+```{=html}
 <col style="width: 15%" />
+```
+```{=html}
 <col style="width: 15%" />
+```
+```{=html}
 <col style="width: 26%" />
+```
+```{=html}
 </colgroup>
+```
+```{=html}
 <thead>
+```
+```{=html}
 <tr class="header">
-<th></th>
-<th colspan="3">Tissue Type</th>
-<th></th>
-<th></th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
+<th colspan="3">
+```
+Tissue Type
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </thead>
+```
+```{=html}
 <tbody>
+```
+```{=html}
 <tr class="odd">
-<td></td>
-<td>Fat</td>
-<td>Soft Tissue</td>
-<td>CSF/Water</td>
-<td>Edema</td>
-<td>Best for</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Fat
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Soft Tissue
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+CSF/Water
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Edema
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Best for
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>T1W</td>
-<td>↑</td>
-<td>↔︎</td>
-<td>↓</td>
-<td>↓</td>
-<td>Marrow, Fat, SAH</td>
+```
+```{=html}
+<td>
+```
+T1W
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Marrow, Fat, SAH
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>T1W w/ Gad</td>
-<td>↔︎</td>
-<td>↔︎/↑</td>
-<td>↓</td>
-<td>↓</td>
-<td>Infection, Tumor, Inflamation</td>
+```
+```{=html}
+<td>
+```
+T1W w/ Gad
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎/↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Infection, Tumor, Inflamation
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>T2W</td>
-<td>↓</td>
-<td>↔︎</td>
-<td>↑</td>
-<td>↑</td>
-<td>Nerves</td>
+```
+```{=html}
+<td>
+```
+T2W
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nerves
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>FIESTA/CISS</td>
-<td>↓</td>
-<td>↓/↔︎</td>
-<td>↑</td>
-<td>↑</td>
-<td>Membranous labyrinth/IAC/Nerves</td>
+```
+```{=html}
+<td>
+```
+FIESTA/CISS
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓/↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Membranous labyrinth/IAC/Nerves
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>FLAIR</td>
-<td>↑</td>
-<td>↔︎</td>
-<td>↓</td>
-<td>↑</td>
-<td>Epidermoids, SAH</td>
+```
+```{=html}
+<td>
+```
+FLAIR
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Epidermoids, SAH
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>DWI</td>
-<td>↓</td>
-<td>↔︎</td>
-<td>↓</td>
-<td>↑</td>
-<td>Cholesteatomas</td>
+```
+```{=html}
+<td>
+```
+DWI
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Cholesteatomas
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </tbody>
+```
+```{=html}
 </table>
-<p>Pathology:</p>
+```
+```{=html}
+<p>
+```
+Pathology:
+```{=html}
+</p>
+```
+```{=html}
 <table>
+```
+```{=html}
 <colgroup>
+```
+```{=html}
 <col style="width: 34%" />
+```
+```{=html}
 <col style="width: 6%" />
+```
+```{=html}
 <col style="width: 7%" />
+```
+```{=html}
 <col style="width: 15%" />
+```
+```{=html}
 <col style="width: 35%" />
+```
+```{=html}
 </colgroup>
+```
+```{=html}
 <thead>
+```
+```{=html}
 <tr class="header">
-<th></th>
-<th>T1</th>
-<th>T2</th>
-<th>T1 w/ Gad</th>
-<th>Notes</th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+T1
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+T2
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+T1 w/ Gad
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Notes
+```{=html}
+</th>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </thead>
+```
+```{=html}
 <tbody>
+```
+```{=html}
 <tr class="odd">
-<td>Vestibular Schwannomas</td>
-<td>↔︎</td>
-<td>↑</td>
-<td>↑</td>
-<td>Brighter than meningiomas on T2, Meningiomas tend to be broad against dural surface</td>
+```
+```{=html}
+<td>
+```
+Vestibular Schwannomas
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Brighter than meningiomas on T2, Meningiomas tend to be broad against dural surface
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Glomus tumors (paraganglioms)</td>
-<td>↔︎</td>
-<td>↑</td>
-<td>↑</td>
-<td>Salt &amp; Pepper appearance of T1</td>
+```
+```{=html}
+<td>
+```
+Glomus tumors (paraganglioms)
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Salt & Pepper appearance of T1
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>Epidermoids/Arachnoid Cysts</td>
-<td>↓</td>
-<td>↑</td>
-<td>↓</td>
-<td></td>
+```
+```{=html}
+<td>
+```
+Epidermoids/Arachnoid Cysts
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Cholesterol Granuloma</td>
-<td>↑</td>
-<td>↑</td>
-<td>↑</td>
-<td></td>
+```
+```{=html}
+<td>
+```
+Cholesterol Granuloma
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>Cholesteatomas</td>
-<td>↔︎</td>
-<td>↑</td>
-<td>↔︎</td>
-<td>Lights up on DWI</td>
+```
+```{=html}
+<td>
+```
+Cholesteatomas
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↑
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+↔︎
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Lights up on DWI
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </tbody>
+```
+```{=html}
 </table>
-<h3 class="unnumbered" id="vertigo">Vertigo</h3>
-<h4 class="unnumbered" id="history">History</h4>
+```
+```{=html}
+<h3 class="unnumbered" id="vertigo">
+```
+Vertigo
+```{=html}
+</h3>
+```
+```{=html}
+<h4 class="unnumbered" id="history">
+```
+History
+```{=html}
+</h4>
+```
+```{=html}
 <ol type="I">
-<li><p>Time course of sensation</p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Time course of sensation
+```{=html}
+</p>
+```
+```{=html}
 <ol type="A">
-<li><p>Seconds: BPPV</p></li>
-<li><p>Minutes to hours: Meniere's, vestibular migraines</p></li>
-<li><p>Days: Vestibular neuritis, labyrinthitis</p></li>
-<li><p>Constant: Central</p></li>
-</ol></li>
-<li><p>Accompanying symptoms:</p>
-<ol type="A">
-<li><p>Ear fullness/hearing loss: Meniere's</p></li>
-<li><p>Fatigability</p></li>
-<li><p>Photophobia: vestibular migraines.</p></li>
-<li><p>Occurs with loud sounds: SCCD.</p></li>
-<li><p>Syncope: Neuro cardiogenic syncope.</p></li>
-<li><p>Relation to movement/Head position</p></li>
-</ol></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Seconds: BPPV
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Minutes to hours: Meniere's, vestibular migraines
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Days: Vestibular neuritis, labyrinthitis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Constant: Central
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Accompanying symptoms:
+```{=html}
+</p>
+```
+```{=html}
+<ol type="A">
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Ear fullness/hearing loss: Meniere's
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Fatigability
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Photophobia: vestibular migraines.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Occurs with loud sounds: SCCD.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Syncope: Neuro cardiogenic syncope.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Relation to movement/Head position
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
 <table>
+```
+```{=html}
 <colgroup>
+```
+```{=html}
 <col style="width: 28%" />
+```
+```{=html}
 <col style="width: 37%" />
+```
+```{=html}
 <col style="width: 33%" />
+```
+```{=html}
 </colgroup>
+```
+```{=html}
 <thead>
+```
+```{=html}
 <tr class="header">
-<th> </th>
-<th>Peripheral Vertigo</th>
-<th>Central Vertigo</th>
+```
+```{=html}
+<th>
+```
+ 
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Peripheral Vertigo
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Central Vertigo
+```{=html}
+</th>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </thead>
+```
+```{=html}
 <tbody>
+```
+```{=html}
 <tr class="odd">
-<td>Intensity</td>
-<td>Severe</td>
-<td>Mild</td>
+```
+```{=html}
+<td>
+```
+Intensity
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Severe
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Mild
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Fatigability</td>
-<td>Fatigues</td>
-<td>Does not fatigue</td>
+```
+```{=html}
+<td>
+```
+Fatigability
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Fatigues
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Does not fatigue
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>Associated symptoms</td>
-<td>Nausea, sweating</td>
-<td>Falls, weakness, numbness</td>
+```
+```{=html}
+<td>
+```
+Associated symptoms
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nausea, sweating
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Falls, weakness, numbness
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Eye closure</td>
-<td>Worse with eye closure</td>
-<td>Better with eye closure</td>
+```
+```{=html}
+<td>
+```
+Eye closure
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Worse with eye closure
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Better with eye closure
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="odd">
-<td>Nystagmus</td>
-<td>Horizontal</td>
-<td>Vertical</td>
+```
+```{=html}
+<td>
+```
+Nystagmus
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Horizontal
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Vertical
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Fixation/suppression</td>
-<td>Fixation suppresses nystagmus</td>
-<td>No effect</td>
+```
+```{=html}
+<td>
+```
+Fixation/suppression
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Fixation suppresses nystagmus
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+No effect
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </tbody>
+```
+```{=html}
 </table>
-<p>95% of Vertigo can be diagnosed by asking about hearing loss and time course:</p>
+```
+```{=html}
+<p>
+```
+95% of Vertigo can be diagnosed by asking about hearing loss and time course:
+```{=html}
+</p>
+```
+```{=html}
 <table>
+```
+```{=html}
 <colgroup>
+```
+```{=html}
 <col style="width: 31%" />
+```
+```{=html}
 <col style="width: 32%" />
+```
+```{=html}
 <col style="width: 35%" />
+```
+```{=html}
 </colgroup>
+```
+```{=html}
 <thead>
+```
+```{=html}
 <tr class="header">
-<th></th>
-<th>Episodic vertigo</th>
-<th>Constant vertigo</th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Episodic vertigo
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Constant vertigo
+```{=html}
+</th>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </thead>
+```
+```{=html}
 <tbody>
+```
+```{=html}
 <tr class="odd">
-<td>Hearing Loss</td>
-<td>Meniere's</td>
-<td>Labyrinthitis</td>
+```
+```{=html}
+<td>
+```
+Hearing Loss
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Meniere's
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Labyrinthitis
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>Normal hearing</td>
-<td>BPPV</td>
-<td>Vestibular Neuritis</td>
+```
+```{=html}
+<td>
+```
+Normal hearing
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+BPPV
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Vestibular Neuritis
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </tbody>
+```
+```{=html}
 </table>
-<h4 class="unnumbered" id="physical-exam-for-vertigo">Physical exam for Vertigo</h4>
+```
+```{=html}
+<h4 class="unnumbered" id="physical-exam-for-vertigo">
+```
+Physical exam for Vertigo
+```{=html}
+</h4>
+```
+```{=html}
 <ol type="I">
-<li><p>Test hearing with tuning forks</p></li>
-<li><p>Test cranial nerves</p></li>
-<li><p>Nystagmus: <strong>nystagmus named in direction of fast phase</strong></p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Test hearing with tuning forks
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Test cranial nerves
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nystagmus: `<strong>`{=html}nystagmus named in direction of fast phase`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <ol type="A">
-<li><p>Does fixation help the vertigo (test by removing fixation: frenzel googles. Turning off lights, asking pt to close eyes)</p></li>
-<li><p>Gets worse when looking to the side of the lesion</p></li>
-<li><p>Vertical nystagmus = central</p></li>
-</ol></li>
-<li><p>Smooth pursuit: if patient cant track eyes smoothly: CNS pathology</p></li>
-<li><p>Test vestibulospinal reflex: Fukuda stepping test/Romberg</p></li>
-<li><p>Check for BPPV:</p>
-<ol type="A">
-<li><p><strong>Dix Hallpike</strong>: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site</p></li>
-<li><p><strong>Head-shake test:</strong></p></li>
-</ol></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Does fixation help the vertigo (test by removing fixation: frenzel googles. Turning off lights, asking pt to close eyes)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Gets worse when looking to the side of the lesion
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Vertical nystagmus = central
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Smooth pursuit: if patient cant track eyes smoothly: CNS pathology
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Test vestibulospinal reflex: Fukuda stepping test/Romberg
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Check for BPPV:
+```{=html}
+</p>
+```
+```{=html}
+<ol type="A">
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Dix Hallpike`</strong>`{=html}: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Head-shake test:`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
 <blockquote>
-<p>Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. <strong>Fast phase = towards lesion</strong></p>
+```
+```{=html}
+<p>
+```
+Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. `<strong>`{=html}Fast phase = towards lesion`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 </blockquote>
+```
+```{=html}
 <ol start="3" type="A">
-<li><p><strong>Head Impulse test/Head Trust</strong></p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Head Impulse test/Head Trust`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
+```
+```{=html}
 <blockquote>
-<p>Hold head and quickly rotate it toward one ear while patient fixates on your nose. If their eyes don't stay locked on you, patient has lesion on the side you rotate them towards</p>
+```
+```{=html}
+<p>
+```
+Hold head and quickly rotate it toward one ear while patient fixates on your nose. If their eyes don't stay locked on you, patient has lesion on the side you rotate them towards
+```{=html}
+</p>
+```
+```{=html}
 </blockquote>
+```
+```{=html}
 <ol start="4" type="A">
-<li><p><strong>Oscillopsia test</strong>: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Oscillopsia test`</strong>`{=html}: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-<p>Additional testing</p>
-<p><img src="media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " /><strong>VNG/ENG</strong>: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.</p>
-<h4 class="unnumbered" id="caloric-testing">Caloric Testing</h4>
+```
+```{=html}
+<p>
+```
+Additional testing
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<img src="media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " />`{=html}`<strong>`{=html}VNG/ENG`</strong>`{=html}: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="caloric-testing">
+```
+Caloric Testing
+```{=html}
+</h4>
+```
+```{=html}
 <ul>
-<li><p>Normal nystagmus response: Cold Opposite Warm Same (COWS)</p></li>
-<li><p>It’s the only test for horizontal SCC. Test works by comparing sides. Can't detect bilateral lesions - will need rotary chair for this)</p></li>
-<li><p>Interpreting results</p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Normal nystagmus response: Cold Opposite Warm Same (COWS)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+It's the only test for horizontal SCC. Test works by comparing sides. Can't detect bilateral lesions - will need rotary chair for this)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Interpreting results
+```{=html}
+</p>
+```
+```{=html}
 <ol type="1">
-<li><p>Unilateral weakness (UW): UW &gt;25-30% = abnormal</p></li>
-<li><p>Directional preponderamce (DP): classic teaching is that DP &gt;30% = signficiant</p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Unilateral weakness (UW): UW \>25-30% = abnormal
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Directional preponderamce (DP): classic teaching is that DP \>30% = signficiant
+```{=html}
+</p>
+```
+```{=html}
 <ol type="1">
-<li><p>DP towards central lesion/away from peripheral lesion</p></li>
-</ol></li>
-</ol></li>
-</ul>
-<h4 class="unnumbered" id="rotary-chair">Rotary Chair</h4>
-<ul>
-<li><p>Used to determine bilateral vestibular impairment (aminoglycoside toxicity)</p>
-<ol type="1">
-<li><p>Gain: normal is 1, decreased in acute peripheral disease, normalizes with time</p>
-<ol type="1">
-<li><p>If gain is still abnormal, patient would benefit from vestibular rehab</p></li>
-</ol></li>
-<li><p>Phase lead - exaggerated in peripheral disease</p></li>
-</ol></li>
-</ul>
-<p><strong>VEMP</strong> (cervical to SCM)</p>
-<ul>
-<li><p>cVEMP evaluates saccule (vertical acceleration) -&gt; inferior vestibular nerve</p></li>
-<li><p>oVEMP evaluates utricle (horizontal acceleration) -&gt; superior vestibular nerve</p></li>
-<li><p>Unilateral decreased <strong>amplitude</strong> - peripheral lesion</p></li>
-<li><p>Decreased <strong>threshold</strong> - SCC dehiscence or perilymph fistula</p></li>
-<li><p>Increased <strong>threshold</strong> - middle ear pathology or ossicular chain abnormalities</p></li>
-</ul>
-<h4 class="unnumbered" id="other">Other</h4>
-<ol type="1">
-<li><p><strong>vHIT</strong>: basically a recorded head impulse test</p></li>
-<li><p><strong>Computer Dynamic Posturography</strong>: expensive test to test proprioception</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+DP towards central lesion/away from peripheral lesion
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-<h4 class="unnumbered" id="vignettes">Vignettes</h4>
-<ul>
-<li><p>Down beating nystagmus with lateral gaze- Arnold chiari malformation (low medulla lesion)</p></li>
-<li><p>Bilateral INO lesions- lag dysmetria with lateral gaze. This is MS.</p></li>
-</ul>
-<h3 class="unnumbered" id="causes-of-vertigo">Causes of Vertigo</h3>
-<h4 class="unnumbered" id="perilymph-fistula">Perilymph Fistula</h4>
-<p>-sudden <u>SNHL w/ vertigo</u> s/p trauma</p>
-<p>-Tullio’s phenomenon (vertigo w/ loud sound) Hennebert’s sign: (vertigo w/ pneumatoscopy)</p>
-<p>-Tx: bedrest, stool softeners, avoid straining</p>
-<h4 class="unnumbered" id="superior-semicircular-canal-dehiscence">Superior Semicircular Canal Dehiscence</h4>
-<p>-vertigo, autophony, Tullio’s &amp; Hennebert’s sign, aural fullness</p>
-<p>-Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), <strong>acoustic reflexes are present</strong></p>
-<p>-CT Temporal Bone: Get Porshl’s view</p>
-<p>-r/o otosclerosis with acoustic reflexes (otosclerosis: reflexes would be negative)</p>
-<h4 class="unnumbered" id="bppv---clinical-practice-guideline">BPPV - Clinical Practice Guideline</h4>
-<p>-Dix-Hallpike: offending side=side closer to the ground. Nystagmus: geotropic (posterior SCC BPPV). If strong hx &amp; neg dix-hallpike. Consider Lateral SCC BPPV and perform supine test</p>
-<p>-Assess patient’s home safety/risk of falling + ability to perform Epley</p>
-<p>-<strong>No</strong> i<strong>maging or vestibular testing or vestibular suppressants</strong> for those who have symptoms+exam findings of BPPV</p>
-<p>-Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. <strong>Hold head</strong> and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. <strong>Repeat</strong> until nystagmus is gone</p>
-<p>-can do Semont maneuver. Ask patient to keep head elevated for 48hours.</p>
-<p>-patients w/ migraines and motion refractory take longer to recover. <u>F/u in 4-6 weeks</u>. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.</p>
-<p>-surgery Tx: singular Neuroectomy (historic) posterior SCC occlusion (pack Posterior SCC with bone wax)</p>
-<h4 class="unnumbered" id="menieres-disease">Meniere’s Disease</h4>
-<p>Symptoms (Tetrad): FATE: Fluctuating SNHL (low-mid frequency), aural fullness, tinnitus, episodic vertigo. Typically unilateral. Bilateral in 25%. Can have sudden loss of consciousness or drop attacks (Crisis of Tumarkin).</p>
-<p>Dx: Audiogram &amp; ECoG: SP/AP &gt;0.35</p>
-<p>Tx: restrict salt intake &lt;1.5g/day, avoid EtOH, caffeine, even out water consumption</p>
-<p><strong>Acute Vertigo</strong> (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)</p>
-<p><strong>Maintenance therapy</strong>: HCTZ 50mg qdaily</p>
-<p><strong>Surgery</strong>: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)</p>
-<h4 class="unnumbered" id="other-causes-of-vertigo">Other causes of vertigo</h4>
-<p>Cogan Syndrome: if patients have rapidly progressing blurry vision (interstitial keratitis) w/ vertigo + fluctuating SNHL. Tx: High dose steroids</p>
-<p>Labyrinthine Concussion: BPPV like symptoms after trauma</p>
-<h2 class="unnumbered" id="otitis">Otitis</h2>
-<h4 class="unnumbered" id="acute-otitis-externa-clinical-practice-guideline">Acute Otitis Externa – Clinical Practice Guideline</h4>
-<ul>
-<li><p><img alt="" src="media/image7.jpeg" style="width:0.88194in;height:0.86944in" /><strong>Diagnosis</strong>: rapid onset (over 2 days) + ear pain, itchiness, fullness + EITHER signs of ear canal fullness (tenderness of tragus/pinnae) OR diffuse canal edema. Otorrhea is not needed for diagnosis. <strong>MCC</strong>: P aeruginosa + staph aureus. <strong>Eval for</strong>: Hx of T2DM, HIV, hx of XRT/immunocompromised. <strong>Check for</strong> TM perforation/Tubes – ciprodex/ofloxacin are the only drops if perforation/tubes are present. <u>If cranial nerve palsy or granulation tissue on inferior aspect of canal (at bony-cartilaginous junction)</u>: consider malignant otitis externa (which is AOE + osteomyelitis of skull base)</p></li>
-<li><p><strong>Tx</strong>: <strong>Topical Abx:</strong> Ciprodex/cipro HC, cortisporin, acetic acid (Vinegar), Vosol HC (acetic acid+hydrocortisone). Dosing should be at least BID, for 7-10days Don’t give systemic antibiotics unless patients are high risk: T2DM, HIV, <strong>Tell patients how to apply otic drops</strong>: lie with affected ear up. Put drops. Tragus pump to help. Stay in position x3-5mins.</p></li>
-<li><p>When to place ear wick: If EAC edema means TM cannot be seen</p></li>
-<li><p><img alt="" src="media/image8.jpeg" style="width:1.27917in;height:1.01528in" />Follow up should be in 2-3 days</p></li>
-</ul>
-<h4 class="unnumbered" id="malignant-otitis-externa">Malignant Otitis Externa</h4>
-<p>-granulation tissue in EAC at bony-cartilaginous junction</p>
-<p>-CN7→X→XI involvement</p>
-<p>-Technetium-99 (osteoblastic) to establish dx</p>
-<p>Gallium-67 to follow.</p>
-<p>-Tx: anti-pseudomonas Abx. Topical antibiotics. Debridement. Hyperbaric oxygen</p>
-<h4 class="unnumbered" id="chronic-otitis-externa">Chronic Otitis Externa</h4>
-<p>-&gt;6weeks of persistent OE.</p>
-<p>-first try <strong>mineral oil</strong> 2-3 drops at night. F/U in 2 months</p>
-<p>-next can try <strong>DermOtic</strong> (fluocinolone) if that doesn’t work</p>
-<h4 class="unnumbered" id="fungal-otitis-external-otomycosis">Fungal Otitis External (Otomycosis)</h4>
-<p>MCC: aspergillus. Exam shows sheets of keratin with black conidophores on top of white filamentous hyphae. Tx: acetic acid (vinegar) vs c<strong>lotrimazole 1% solution (lotrimin)</strong>, glucose control, dry ear precautions. Consider gentian violet or methyl-cresyl actate for refractors cases</p>
-<h3 class="unnumbered" id="tinnitus-clinical-practice-guideline">Tinnitus-<strong>Clinical Practice Guideline</strong></h3>
-<p>- definitely get audiogram for tinnitus that is unilateral, persistent (&gt;6months) or associated with hearing loss. Note: Dr. Sillman says every tinnitus patient should get an audiogram as they often have high-tone SNHL (if hearing loss, can recommend hearing aids)</p>
-<p>-In general, don’t get imaging. Only get imaging if tinnitus + either unilateral/asymmetric hearing loss or neurological abnormalities</p>
-<p>-Tx: can observe for bothersome tinnitus that has lasted for &lt;6months. For tinnitus that is bothersome &amp; persistent (&gt;6months) guideline recommends: <strong>sound therapy</strong> (white noise machine), <strong>cognitive behavior therapy</strong>, and <strong>hearing aids</strong> (ONLY IF patients have hearing loss). Guideline recommend against: dietary supplements, deep-brain stimulation, medical therapy. Dr Sillman also likely to recommend meditation.</p>
-<h3 class="unnumbered" id="otosclerosis">Otosclerosis</h3>
-<ul>
-<li><p>Ask: Progressive CHL beginning in 20-40yo. Strong family history (<strong>Autosomal Dominant w/ incomplete penetrance)</strong>. Often have tinnitus. Hear better in noise</p></li>
-<li><p>Exam: Schwartze sign (red hue behind TM). Audiogram: look for Carharts notch @ 2kHz (CO2: Carhart notch in Otosclerosis at 2Khz). Absent acoustic reflex. Shallow tympanometry (As: for Oto<u>s</u>clerosis)</p></li>
-<li><p>DDx: SSCD (has present acoustic reflexes). Congenital stapes fixation (CHl since birth), Ossicular fixation (2/2 tympanosclerosis: presents w/ same findings/audiogram – hard to differentiate), Paget’s disease/Osteopetrosis (imaging is different)</p></li>
-<li><p>Tx: hearing aids or stapedectomy (criteria for stapedectomy: 25dB air-bone gap) w/ good bone line, good word rec)</p></li>
-<li><p>Stapedectomy: things to check:</p>
-<ol type="A">
-<li><p>Only 1 good ear = contraindication. If both ears are bad: initial surgery on poorer ear</p></li>
-<li><p>Check CT for:</p>
-<ol type="1">
-<li><p>Widened IAC: associated w/ stapes gusher</p></li>
-<li><p>Check for middle meningeal artery: patients may have persistent stapedial artery.</p></li>
-</ol></li>
-</ol></li>
-<li><p>Floating footplate: if footplate becomes mobile after stapes superstructure removed</p>
-<ol type="A">
-<li><p>If retrievable, remove. If non-retrievable: abort and wait for plate to refix</p></li>
-</ol></li>
-</ul>
-<h3 class="unnumbered" id="facial-nerve">Facial Nerve</h3>
-<p><strong>Intracranial segment</strong>: gives of Nervus intermedius – contributes to GSPN and chorda tympani -&gt; <strong>meatal</strong>: through IAC to fundus -&gt; <strong>labyrinthine</strong>: shortest segment – goes to geniculate ganglion and gives of GSPN [gives off pregang. Parasymp to lacrimal gland] -&gt; <strong>tympanic</strong> : goes inferior to HSCC &amp; above oval window/stapes (which is why you down-fracture stapes) -&gt; mastoid segment</p>
-<p><strong>Management of FN paralysis</strong>:</p>
-<ul>
-<li><p><strong>HBI</strong>-<strong>V (Day 0-14)</strong>: Give 14 day course of prednisone and have them f/u within 1 week. If progressed to HBVI at f/u, get a ENoG,</p></li>
-<li><p><strong>HBVI (Day 0-3):</strong> Give 14 day course of prednisone, f/u within 1 week</p></li>
-<li><p><strong>HBVI (Day3-14)</strong>: Get ENoG. If &gt;90% degeneration: Get EMG: decompress nerve if EMG is negative, observe if positive. If &lt;90% degeneration: give Prednisone.</p></li>
-</ul>
-<h4 class="unnumbered" id="bells-palsy-clinical-practice-guideline">Bell’s Palsy – Clinical Practice Guideline</h4>
-<p>Dx: typically rapid onset unilateral FN paresis or paralysis. <strong>R/O stroke, parotid mass, systemic/infection</strong>. Ask about <strong>Sarcoidosis</strong> (Heerfordt fever). Guidelines say: <strong>no lab or imaging tests needed</strong>. If complete paralysis (HBVI) can <em>offer</em> ENoG/EMG (get after 7 days). If HBI→HBV: don’t get nerve testing</p>
-<p>Tx: <strong>eye protection</strong>: tape eyes shut at night, eye drops + <strong>steroids within 72hrs of symptoms:</strong> at least 5 days of high dose then taper. Can add antivirals but meh evidence. <strong>f/u in 3 months</strong> sooner if ocular symptoms or new/worsening neurological symptoms</p>
-<p>Counsel: recover starts in 2-3 weeks, typically complete in 3-4months. HBVI (complete paralysis): 70% chance of recovery. HB1→HBV: 94% of recovery.</p>
-<h4 class="unnumbered" id="sudden-sensorineural-hearing-loss---clinical-practice-guideline">Sudden Sensorineural Hearing Loss - Clinical Practice Guideline</h4>
-<p>-non-CPG recommendations are in <em>italics</em></p>
-<p>-audiometric criteria: decrease in hearing of &gt;30db in 3 consecutive frequencies</p>
-<ol>
-  <li>Clinician’s should exclude CHL</li>
-  <li>Assess for modifying factors: check for bilateral SNHL, recurrent episodes, associated vertigo or eye symptoms or focal defects</li>
-  <li>Do not order CT head/brain for presumptive SSNHL.</li>
-  <li>Obtain audiogram to confirm diagnosis</li>
-  <li>Do not obtain lab testing</li>
-  <li>We SHOULD r/o retrocochlear pathology w/ MRI, ABR, or audio followup</li>
-  <li>Counsel patients on natural history of idiopathic SSNHL:
-    <p>~1/3 to 2/3 of patients recover some function within 2 weeks.</p>
-    <p>If no return of hearing within 2 weeks, less likely to recover</p>
-  </li>
-  <li>Can (but not required) initiate steroid treatment (prednisone 1mg/kg/d (max 60mg/d), methylprednisone 48mg/d or decadron 10mg/d) for 7-14 days then taper over similar time. Offer up to 6 weeks out.</li>
-  <li>Can give hyperbaric oxygen therapy within 3 months of disease</li>
-  <li>Don't give any other meds (antivirals, thrombolytics, vasodilators, antioxidants)</li>
-  <li>Can offer intratympanic steroids for those who fail initial therapy”</li>
-  <li>Decadron: 24mg/mL or 16mg/mL (compound) or 10mg/mL (stock)</li>
-  <li>Methylprednisolone: 30-40mg/mL</li>
-  <li>Inject 0.4-0.8mL into middle ear q3-7 days for 3-4 sessions. Keep head and affected ear up for 15-30mins after injection</li>
-  <li>Repeat audio in 6 months</li>
-  <li>If no improvement, should offer hearing aids</li>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-<h2 class="unnumbered" id="otology-or">Otology – OR</h2>
-<h3 class="unnumbered" id="dr.-sillmans-tympanomastoidectomy">Dr. Sillman’s Tympanomastoidectomy</h3>
-<ul>
-<li><p>Remove the OR bed’s pad under head and place yellow gel + towels. Keep ear the same height as shoulder.</p></li>
-<li><p>Always balance the microscope and make sure the teaching oculars are on the ipsilateral side of the operating ear, and the oculars are “zeroed”</p></li>
-<li><p>NIM monitor for all mastoids</p></li>
-<li><p>Bien Air drill (Large 3L normal saline bags are used if using midas rex drill)</p></li>
-<li><p>Turn 180 degrees</p></li>
-<li><p>6,4 cutter, 3,2,1 diamond</p></li>
-<li><p>10% betadine</p></li>
-<li><p>Facial nerve leads: Orbicularis oris (in nasolabial fold next to nose pointing down) to get zygomaticus and orbicularis, and orbicularis oculi (just above lateral eyebrow pointing down and lateral) to get frontal and orbicularis</p></li>
-<li><p>For the hair, use mupirocin to keep it out of your way</p></li>
-<li><p>No thousand drapes. Blue towels start shoulder, posterior, superior, anterior. Staple</p></li>
-<li><p>Need crani drape. Direct the head of the little man to surgeon side.</p></li>
-<li><p>Drape microscope: don't connect the lens first- do last. Put hand pieces in first.</p></li>
-<li><p>Incision 1cm behind postauricular crease. Then switch to bovie down to TPF. Find temporal line and do a vertical incision then a horizontal one (T-shaped) through TPF to the bone. Use Joseph periosteal to expose mastoid. Harvests TPF if graft is needed</p></li>
-<li><p><strong>Postop</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.</p></li>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h3 class="unnumbered" id="dr.-noonans-tympanomastoidectomy">Dr. Noonan’s Tympanomastoidectomy</h3>
+```
+```{=html}
+<h4 class="unnumbered" id="rotary-chair">
+```
+Rotary Chair
+```{=html}
+</h4>
+```
+```{=html}
 <ul>
-<li><p>Similar to Dr. Sillman’s but does not remove the OR bed’s pad under the head</p></li>
-<li><p>Have a shaver</p></li>
-<li><p>Use mastisol and place 2 halves of the 1020 drapes around the surgical ear</p></li>
-<li><p>Inject 10cc lido with epi off the field for post auricular incision, have 3 cc of 1:10,000 epi alone on the field for canal injections.</p></li>
-<li><p>Harvests TPF and TF if graft is needed</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Used to determine bilateral vestibular impairment (aminoglycoside toxicity)
+```{=html}
+</p>
+```
+```{=html}
+<ol type="1">
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Gain: normal is 1, decreased in acute peripheral disease, normalizes with time
+```{=html}
+</p>
+```
+```{=html}
+<ol type="1">
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+If gain is still abnormal, patient would benefit from vestibular rehab
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Phase lead - exaggerated in peripheral disease
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h1 class="unnumbered" id="temporal-bone-lab">Temporal Bone Lab</h1>
-<p><strong>Location</strong>: 4<sup>th</sup> floor of the Boston Dispensary. Get a key made</p>
-<p><strong>Temporal Bone Harvest</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts</p>
-<p>Set up your station according to the House Dissection Manuel</p>
-<p><strong>Steps to a Mastoidectomy / Cochlear implant:</strong></p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}VEMP`</strong>`{=html} (cervical to SCM)
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-<li><p>Get a 6 cutting burr: Drill out Trotman’s triangle (temporal line, parallel to EAC, and sigmoid)</p></li>
-<li><p>Always keep the corner of the EAC/Temporal line as your deepest point and saucerize.</p></li>
-<li><p>Get your exposure:</p></li>
-<li><p>Make sure you hug the tegmen – the tegmen is the roof of the mastoid antrum and will lead you directly to it.</p></li>
-<li><p>Thin the posterior EAC (put your suction into the EAC and really thin it out)</p></li>
-<li><p>Get through Koerner’s Septum → you should enter the antrum and see Lateral SCC.</p></li>
-<li><p>Switch to 3 cutting burr: Drill away the inferior/anterior part of the antrum until you see the fossa incus (and the reflection of the incus) The incus points to the facial recess</p></li>
-<li><p>Thin the posterior EAC some more</p></li>
-<li><p>Switch to a 2 coarse diamond: start drilling the facial recess. There are some air cells above the facial recess (sentinel cells). Show yourself the cochlear. Practice a cochleostomy with a 1 fine diamond burr</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+cVEMP evaluates saccule (vertical acceleration) -\> inferior vestibular nerve
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+oVEMP evaluates utricle (horizontal acceleration) -\> superior vestibular nerve
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Unilateral decreased `<strong>`{=html}amplitude`</strong>`{=html} - peripheral lesion
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Decreased `<strong>`{=html}threshold`</strong>`{=html} - SCC dehiscence or perilymph fistula
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Increased `<strong>`{=html}threshold`</strong>`{=html} - middle ear pathology or ossicular chain abnormalities
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h1 class="unnumbered" id="cranial-nerves">Cranial Nerves</h1>
-<p><strong>CNI</strong>: Olfactory.</p>
-<p><strong>CNII</strong>: Optic.</p>
-<p><strong>CNIII</strong>: Oculomotor — constricts+ accommodates, innervates levator palpebrae. Moves eyes.</p>
-<p><strong>CNIV</strong>: Trochlear —innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.</p>
-<p><strong>CNV:</strong> Trigeminal—sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini &amp; Tensor tympani). Associated w/ 1<sup>st</sup> branchial arch</p>
-<p><strong>CNVI:</strong> Abducens: Innervates lateral rectus.</p>
-<p><strong>CNVII:</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.</p>
-<p><strong>CNVIII:</strong> Vestibulocochlear— hearing &amp; balance.</p>
-<p><strong>CNIX:</strong> Glossopharyngeal— muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&amp;body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3<sup>rd</sup> branchial arch.</p>
-<p><strong>CNX:</strong> Vagus — muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold’s nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).</p>
-<p><strong>CNXI</strong> – Spinal Accessory — innervates SCM, trapezius.</p>
-<p><strong>CNXII</strong>: Hypoglossal — all muscles of tongue except palatoglossus</p>
-<!-- END Otology section -->
-  <p><a href="index.html">Back to homepage</a></p>
+```
+```{=html}
+<h4 class="unnumbered" id="other">
+```
+Other
+```{=html}
+</h4>
+```
+```{=html}
+<ol type="1">
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}vHIT`</strong>`{=html}: basically a recorded head impulse test
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Computer Dynamic Posturography`</strong>`{=html}: expensive test to test proprioception
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+<h4 class="unnumbered" id="vignettes">
+```
+Vignettes
+```{=html}
+</h4>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Down beating nystagmus with lateral gaze- Arnold chiari malformation (low medulla lesion)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Bilateral INO lesions- lag dysmetria with lateral gaze. This is MS.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="causes-of-vertigo">
+```
+Causes of Vertigo
+```{=html}
+</h3>
+```
+```{=html}
+<h4 class="unnumbered" id="perilymph-fistula">
+```
+Perilymph Fistula
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+-sudden `<u>`{=html}SNHL w/ vertigo`</u>`{=html} s/p trauma
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Tullio's phenomenon (vertigo w/ loud sound) Hennebert's sign: (vertigo w/ pneumatoscopy)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Tx: bedrest, stool softeners, avoid straining
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="superior-semicircular-canal-dehiscence">
+```
+Superior Semicircular Canal Dehiscence
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+-vertigo, autophony, Tullio's & Hennebert's sign, aural fullness
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), `<strong>`{=html}acoustic reflexes are present`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-CT Temporal Bone: Get Porshl's view
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-r/o otosclerosis with acoustic reflexes (otosclerosis: reflexes would be negative)
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="bppv---clinical-practice-guideline">
+```
+BPPV - Clinical Practice Guideline
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+-Dix-Hallpike: offending side=side closer to the ground. Nystagmus: geotropic (posterior SCC BPPV). If strong hx & neg dix-hallpike. Consider Lateral SCC BPPV and perform supine test
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Assess patient's home safety/risk of falling + ability to perform Epley
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+\-`<strong>`{=html}No`</strong>`{=html} i`<strong>`{=html}maging or vestibular testing or vestibular suppressants`</strong>`{=html} for those who have symptoms+exam findings of BPPV
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. `<strong>`{=html}Hold head`</strong>`{=html} and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. `<strong>`{=html}Repeat`</strong>`{=html} until nystagmus is gone
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-can do Semont maneuver. Ask patient to keep head elevated for 48hours.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-patients w/ migraines and motion refractory take longer to recover. `<u>`{=html}F/u in 4-6 weeks`</u>`{=html}. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-surgery Tx: singular Neuroectomy (historic) posterior SCC occlusion (pack Posterior SCC with bone wax)
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="menieres-disease">
+```
+Meniere's Disease
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+Symptoms (Tetrad): FATE: Fluctuating SNHL (low-mid frequency), aural fullness, tinnitus, episodic vertigo. Typically unilateral. Bilateral in 25%. Can have sudden loss of consciousness or drop attacks (Crisis of Tumarkin).
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Dx: Audiogram & ECoG: SP/AP \>0.35
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Tx: restrict salt intake \<1.5g/day, avoid EtOH, caffeine, even out water consumption
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Acute Vertigo`</strong>`{=html} (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Maintenance therapy`</strong>`{=html}: HCTZ 50mg qdaily
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Surgery`</strong>`{=html}: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="other-causes-of-vertigo">
+```
+Other causes of vertigo
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+Cogan Syndrome: if patients have rapidly progressing blurry vision (interstitial keratitis) w/ vertigo + fluctuating SNHL. Tx: High dose steroids
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Labyrinthine Concussion: BPPV like symptoms after trauma
+```{=html}
+</p>
+```
+```{=html}
+<h2 class="unnumbered" id="otitis">
+```
+Otitis
+```{=html}
+</h2>
+```
+```{=html}
+<h4 class="unnumbered" id="acute-otitis-externa-clinical-practice-guideline">
+```
+Acute Otitis Externa -- Clinical Practice Guideline
+```{=html}
+</h4>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="media/image7.jpeg" style="width:0.88194in;height:0.86944in" />`{=html}`<strong>`{=html}Diagnosis`</strong>`{=html}: rapid onset (over 2 days) + ear pain, itchiness, fullness + EITHER signs of ear canal fullness (tenderness of tragus/pinnae) OR diffuse canal edema. Otorrhea is not needed for diagnosis. `<strong>`{=html}MCC`</strong>`{=html}: P aeruginosa + staph aureus. `<strong>`{=html}Eval for`</strong>`{=html}: Hx of T2DM, HIV, hx of XRT/immunocompromised. `<strong>`{=html}Check for`</strong>`{=html} TM perforation/Tubes -- ciprodex/ofloxacin are the only drops if perforation/tubes are present. `<u>`{=html}If cranial nerve palsy or granulation tissue on inferior aspect of canal (at bony-cartilaginous junction)`</u>`{=html}: consider malignant otitis externa (which is AOE + osteomyelitis of skull base)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Tx`</strong>`{=html}: `<strong>`{=html}Topical Abx:`</strong>`{=html} Ciprodex/cipro HC, cortisporin, acetic acid (Vinegar), Vosol HC (acetic acid+hydrocortisone). Dosing should be at least BID, for 7-10days Don't give systemic antibiotics unless patients are high risk: T2DM, HIV, `<strong>`{=html}Tell patients how to apply otic drops`</strong>`{=html}: lie with affected ear up. Put drops. Tragus pump to help. Stay in position x3-5mins.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+When to place ear wick: If EAC edema means TM cannot be seen
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="media/image8.jpeg" style="width:1.27917in;height:1.01528in" />`{=html}Follow up should be in 2-3 days
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h4 class="unnumbered" id="malignant-otitis-externa">
+```
+Malignant Otitis Externa
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+-granulation tissue in EAC at bony-cartilaginous junction
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-CN7→X→XI involvement
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Technetium-99 (osteoblastic) to establish dx
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Gallium-67 to follow.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-Tx: anti-pseudomonas Abx. Topical antibiotics. Debridement. Hyperbaric oxygen
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="chronic-otitis-externa">
+```
+Chronic Otitis Externa
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+-\>6weeks of persistent OE.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-first try `<strong>`{=html}mineral oil`</strong>`{=html} 2-3 drops at night. F/U in 2 months
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+-next can try `<strong>`{=html}DermOtic`</strong>`{=html} (fluocinolone) if that doesn't work
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="fungal-otitis-external-otomycosis">
+```
+Fungal Otitis External (Otomycosis)
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+MCC: aspergillus. Exam shows sheets of keratin with black conidophores on top of white filamentous hyphae. Tx: acetic acid (vinegar) vs c`<strong>`{=html}lotrimazole 1% solution (lotrimin)`</strong>`{=html}, glucose control, dry ear precautions. Consider gentian violet or methyl-cresyl actate for refractors cases
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="tinnitus-clinical-practice-guideline">
+```
+Tinnitus-`<strong>`{=html}Clinical Practice Guideline`</strong>`{=html}
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+-   definitely get audiogram for tinnitus that is unilateral, persistent (\>6months) or associated with hearing loss. Note: Dr. Sillman says every tinnitus patient should get an audiogram as they often have high-tone SNHL (if hearing loss, can recommend hearing aids)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    -In general, don't get imaging. Only get imaging if tinnitus + either unilateral/asymmetric hearing loss or neurological abnormalities
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    -Tx: can observe for bothersome tinnitus that has lasted for \<6months. For tinnitus that is bothersome & persistent (\>6months) guideline recommends: `<strong>`{=html}sound therapy`</strong>`{=html} (white noise machine), `<strong>`{=html}cognitive behavior therapy`</strong>`{=html}, and `<strong>`{=html}hearing aids`</strong>`{=html} (ONLY IF patients have hearing loss). Guideline recommend against: dietary supplements, deep-brain stimulation, medical therapy. Dr Sillman also likely to recommend meditation.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <h3 class="unnumbered" id="otosclerosis">
+    ```
+    Otosclerosis
+    ```{=html}
+    </h3>
+    ```
+    ```{=html}
+    <ul>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Ask: Progressive CHL beginning in 20-40yo. Strong family history (`<strong>`{=html}Autosomal Dominant w/ incomplete penetrance)`</strong>`{=html}. Often have tinnitus. Hear better in noise
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Exam: Schwartze sign (red hue behind TM). Audiogram: look for Carharts notch @ 2kHz (CO2: Carhart notch in Otosclerosis at 2Khz). Absent acoustic reflex. Shallow tympanometry (As: for Oto`<u>`{=html}s`</u>`{=html}clerosis)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    DDx: SSCD (has present acoustic reflexes). Congenital stapes fixation (CHl since birth), Ossicular fixation (2/2 tympanosclerosis: presents w/ same findings/audiogram -- hard to differentiate), Paget's disease/Osteopetrosis (imaging is different)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Tx: hearing aids or stapedectomy (criteria for stapedectomy: 25dB air-bone gap) w/ good bone line, good word rec)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Stapedectomy: things to check:
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ol type="A">
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Only 1 good ear = contraindication. If both ears are bad: initial surgery on poorer ear
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Check CT for:
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ol type="1">
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Widened IAC: associated w/ stapes gusher
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Check for middle meningeal artery: patients may have persistent stapedial artery.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ol>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ol>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Floating footplate: if footplate becomes mobile after stapes superstructure removed
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ol type="A">
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    If retrievable, remove. If non-retrievable: abort and wait for plate to refix
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ol>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ul>
+    ```
+    ```{=html}
+    <h3 class="unnumbered" id="facial-nerve">
+    ```
+    Facial Nerve
+    ```{=html}
+    </h3>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Intracranial segment`</strong>`{=html}: gives of Nervus intermedius -- contributes to GSPN and chorda tympani -\> `<strong>`{=html}meatal`</strong>`{=html}: through IAC to fundus -\> `<strong>`{=html}labyrinthine`</strong>`{=html}: shortest segment -- goes to geniculate ganglion and gives of GSPN \[gives off pregang. Parasymp to lacrimal gland\] -\> `<strong>`{=html}tympanic`</strong>`{=html} : goes inferior to HSCC & above oval window/stapes (which is why you down-fracture stapes) -\> mastoid segment
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Management of FN paralysis`</strong>`{=html}:
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ul>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}HBI`</strong>`{=html}-`<strong>`{=html}V (Day 0-14)`</strong>`{=html}: Give 14 day course of prednisone and have them f/u within 1 week. If progressed to HBVI at f/u, get a ENoG,
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}HBVI (Day 0-3):`</strong>`{=html} Give 14 day course of prednisone, f/u within 1 week
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}HBVI (Day3-14)`</strong>`{=html}: Get ENoG. If \>90% degeneration: Get EMG: decompress nerve if EMG is negative, observe if positive. If \<90% degeneration: give Prednisone.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ul>
+    ```
+    ```{=html}
+    <h4 class="unnumbered" id="bells-palsy-clinical-practice-guideline">
+    ```
+    Bell's Palsy -- Clinical Practice Guideline
+    ```{=html}
+    </h4>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Dx: typically rapid onset unilateral FN paresis or paralysis. `<strong>`{=html}R/O stroke, parotid mass, systemic/infection`</strong>`{=html}. Ask about `<strong>`{=html}Sarcoidosis`</strong>`{=html} (Heerfordt fever). Guidelines say: `<strong>`{=html}no lab or imaging tests needed`</strong>`{=html}. If complete paralysis (HBVI) can `<em>`{=html}offer`</em>`{=html} ENoG/EMG (get after 7 days). If HBI→HBV: don't get nerve testing
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Tx: `<strong>`{=html}eye protection`</strong>`{=html}: tape eyes shut at night, eye drops + `<strong>`{=html}steroids within 72hrs of symptoms:`</strong>`{=html} at least 5 days of high dose then taper. Can add antivirals but meh evidence. `<strong>`{=html}f/u in 3 months`</strong>`{=html} sooner if ocular symptoms or new/worsening neurological symptoms
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Counsel: recover starts in 2-3 weeks, typically complete in 3-4months. HBVI (complete paralysis): 70% chance of recovery. HB1→HBV: 94% of recovery.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <h4 class="unnumbered" id="sudden-sensorineural-hearing-loss---clinical-practice-guideline">
+    ```
+    Sudden Sensorineural Hearing Loss - Clinical Practice Guideline
+    ```{=html}
+    </h4>
+    ```
+    ```{=html}
+    <p>
+    ```
+    -non-CPG recommendations are in `<em>`{=html}italics`</em>`{=html}
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    -audiometric criteria: decrease in hearing of \>30db in 3 consecutive frequencies
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ol>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Clinician's should exclude CHL
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Assess for modifying factors: check for bilateral SNHL, recurrent episodes, associated vertigo or eye symptoms or focal defects
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Do not order CT head/brain for presumptive SSNHL.
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Obtain audiogram to confirm diagnosis
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Do not obtain lab testing
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    We SHOULD r/o retrocochlear pathology w/ MRI, ABR, or audio followup
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Counsel patients on natural history of idiopathic SSNHL:
+    ```{=html}
+    <p>
+    ```
+    \~1/3 to 2/3 of patients recover some function within 2 weeks.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    If no return of hearing within 2 weeks, less likely to recover
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Can (but not required) initiate steroid treatment (prednisone 1mg/kg/d (max 60mg/d), methylprednisone 48mg/d or decadron 10mg/d) for 7-14 days then taper over similar time. Offer up to 6 weeks out.
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Can give hyperbaric oxygen therapy within 3 months of disease
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Don't give any other meds (antivirals, thrombolytics, vasodilators, antioxidants)
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Can offer intratympanic steroids for those who fail initial therapy"
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Decadron: 24mg/mL or 16mg/mL (compound) or 10mg/mL (stock)
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Methylprednisolone: 30-40mg/mL
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Inject 0.4-0.8mL into middle ear q3-7 days for 3-4 sessions. Keep head and affected ear up for 15-30mins after injection
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    Repeat audio in 6 months
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    If no improvement, should offer hearing aids
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ol>
+    ```
+    ```{=html}
+    <h2 class="unnumbered" id="otology-or">
+    ```
+    Otology -- OR
+    ```{=html}
+    </h2>
+    ```
+    ```{=html}
+    <h3 class="unnumbered" id="dr.-sillmans-tympanomastoidectomy">
+    ```
+    Dr. Sillman's Tympanomastoidectomy
+    ```{=html}
+    </h3>
+    ```
+    ```{=html}
+    <ul>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Remove the OR bed's pad under head and place yellow gel + towels. Keep ear the same height as shoulder.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Always balance the microscope and make sure the teaching oculars are on the ipsilateral side of the operating ear, and the oculars are "zeroed"
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    NIM monitor for all mastoids
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Bien Air drill (Large 3L normal saline bags are used if using midas rex drill)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Turn 180 degrees
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    6,4 cutter, 3,2,1 diamond
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    10% betadine
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Facial nerve leads: Orbicularis oris (in nasolabial fold next to nose pointing down) to get zygomaticus and orbicularis, and orbicularis oculi (just above lateral eyebrow pointing down and lateral) to get frontal and orbicularis
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    For the hair, use mupirocin to keep it out of your way
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    No thousand drapes. Blue towels start shoulder, posterior, superior, anterior. Staple
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Need crani drape. Direct the head of the little man to surgeon side.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Drape microscope: don't connect the lens first- do last. Put hand pieces in first.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Incision 1cm behind postauricular crease. Then switch to bovie down to TPF. Find temporal line and do a vertical incision then a horizontal one (T-shaped) through TPF to the bone. Use Joseph periosteal to expose mastoid. Harvests TPF if graft is needed
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Postop`</strong>`{=html}: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ul>
+    ```
+    ```{=html}
+    <h3 class="unnumbered" id="dr.-noonans-tympanomastoidectomy">
+    ```
+    Dr. Noonan's Tympanomastoidectomy
+    ```{=html}
+    </h3>
+    ```
+    ```{=html}
+    <ul>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Similar to Dr. Sillman's but does not remove the OR bed's pad under the head
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Have a shaver
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Use mastisol and place 2 halves of the 1020 drapes around the surgical ear
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Inject 10cc lido with epi off the field for post auricular incision, have 3 cc of 1:10,000 epi alone on the field for canal injections.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Harvests TPF and TF if graft is needed
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ul>
+    ```
+    ```{=html}
+    <h1 class="unnumbered" id="temporal-bone-lab">
+    ```
+    Temporal Bone Lab
+    ```{=html}
+    </h1>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Location`</strong>`{=html}: 4`<sup>`{=html}th`</sup>`{=html} floor of the Boston Dispensary. Get a key made
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Temporal Bone Harvest`</strong>`{=html}: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Set up your station according to the House Dissection Manuel
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}Steps to a Mastoidectomy / Cochlear implant:`</strong>`{=html}
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <ul>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Get a 6 cutting burr: Drill out Trotman's triangle (temporal line, parallel to EAC, and sigmoid)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Always keep the corner of the EAC/Temporal line as your deepest point and saucerize.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Get your exposure:
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Make sure you hug the tegmen -- the tegmen is the roof of the mastoid antrum and will lead you directly to it.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Thin the posterior EAC (put your suction into the EAC and really thin it out)
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Get through Koerner's Septum → you should enter the antrum and see Lateral SCC.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Switch to 3 cutting burr: Drill away the inferior/anterior part of the antrum until you see the fossa incus (and the reflection of the incus) The incus points to the facial recess
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Thin the posterior EAC some more
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    <li>
+    ```
+    ```{=html}
+    <p>
+    ```
+    Switch to a 2 coarse diamond: start drilling the facial recess. There are some air cells above the facial recess (sentinel cells). Show yourself the cochlear. Practice a cochleostomy with a 1 fine diamond burr
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    </li>
+    ```
+    ```{=html}
+    </ul>
+    ```
+    ```{=html}
+    <h1 class="unnumbered" id="cranial-nerves">
+    ```
+    Cranial Nerves
+    ```{=html}
+    </h1>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNI`</strong>`{=html}: Olfactory.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNII`</strong>`{=html}: Optic.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNIII`</strong>`{=html}: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNIV`</strong>`{=html}: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNV:`</strong>`{=html} Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1`<sup>`{=html}st`</sup>`{=html} branchial arch
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNVI:`</strong>`{=html} Abducens: Innervates lateral rectus.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNVII:`</strong>`{=html} Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNVIII:`</strong>`{=html} Vestibulocochlear--- hearing & balance.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNIX:`</strong>`{=html} Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3`<sup>`{=html}rd`</sup>`{=html} branchial arch.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNX:`</strong>`{=html} Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNXI`</strong>`{=html} -- Spinal Accessory --- innervates SCM, trapezius.
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<strong>`{=html}CNXII`</strong>`{=html}: Hypoglossal --- all muscles of tongue except palatoglossus
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <!-- END Otology section -->
+    ```
+    ```{=html}
+    <p>
+    ```
+    `<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+    ```{=html}
+    </p>
+    ```

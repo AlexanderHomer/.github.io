@@ -2,7 +2,13 @@
 layout: default
 title: Case & Duty Hour Logs
 ---
-<h2>Logging Duty Hours</h2>
+```{=html}
+<h2>
+```
+Logging Duty Hours
+```{=html}
+</h2>
+```
     <ol>
       <li>Department: "Department of Otolaryngology/ENT &ndash; Otolaryngology"</li>
       <li>Choose training location</li>

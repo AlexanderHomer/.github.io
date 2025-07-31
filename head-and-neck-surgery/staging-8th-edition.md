@@ -2,341 +2,2741 @@
 layout: default
 title: Head &amp; Neck Staging - 8th Edition
 ---
-<h2 class="unnumbered" id="head-neck-staging---8th-edition">Head &amp;
-Neck Staging - 8<sup>th</sup> Edition</h2>
-<ul><li><p>AJCC 8th Edition Staging</p></li><li><p>GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx,
-Salivary Gland, Thyroid CA (in general)</p></li></ul>
-
-<p>T1—&lt;2cm</p>
-<p>T2— 2-4cm</p>
-<p>T3— 4+cm</p>
-<ul><li><p>In general, for Laryngeal Cancer</p></li></ul>
-<p>T1 - same subsite</p>
-<p>T2 - extends to nearby subsite</p>
-<p>T3 - fixes vocal cords</p>
-<p>T4 - extends past borders of larynx</p>
+```{=html}
+<h2 class="unnumbered" id="head-neck-staging---8th-edition">
+```
+Head &
+Neck Staging - 8`<sup>`{=html}th`</sup>`{=html} Edition
+```{=html}
+</h2>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+AJCC 8th Edition Staging
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx,
+Salivary Gland, Thyroid CA (in general)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+T1---\<2cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T2--- 2-4cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T3--- 4+cm
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+In general, for Laryngeal Cancer
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+T1 - same subsite
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T2 - extends to nearby subsite
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T3 - fixes vocal cords
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T4 - extends past borders of larynx
+```{=html}
+</p>
+```
+```{=html}
 <ol start="3" type="A">
-<li><p>For oral cavity, p16 negative OP, larynx, salivary gland</p></li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+For oral cavity, p16 negative OP, larynx, salivary gland
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 <col style="width: 30%"/>
+```
+```{=html}
 <col style="width: 69%"/>
-<th>N category</th>
-<th>HPV Negative</th>
-<td><p>N1</p>
-<p> </p></td>
-<td><strong>Single</strong> ipsilateral, &lt;3cm,
-ENE<sub>negative</sub></td>
-<td>N2</td>
-<td><p>N2<sub>ALL</sub>: &lt;6cm, ENE<sub>negative</sub></p>
-<p>N2a: single, ipsilateral</p>
-<p>N2b: <strong>multiple,</strong> ipsilateral</p>
-<p>N2c: bilateral/contralateral</p></td>
-<td>N3</td>
-<td><p>N3a: &gt;6cm</p>
-<p>N3b: ENE<sub>positive</sub></p></td>
-<li><p>For Nasopharyngeal and P16 positive</p></li>
+```
+```{=html}
+<th>
+```
+N category
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+HPV Negative
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+N1
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+ 
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<strong>`{=html}Single`</strong>`{=html} ipsilateral, \<3cm,
+ENE`<sub>`{=html}negative`</sub>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+N2
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+N2`<sub>`{=html}ALL`</sub>`{=html}: \<6cm, ENE`<sub>`{=html}negative`</sub>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+N2a: single, ipsilateral
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+N2b: `<strong>`{=html}multiple,`</strong>`{=html} ipsilateral
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+N2c: bilateral/contralateral
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+N3
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+N3a: \>6cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+N3b: ENE`<sub>`{=html}positive`</sub>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+For Nasopharyngeal and P16 positive
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 <col style="width: 29%"/>
+```
+```{=html}
 <col style="width: 70%"/>
-<th>HPV Positive</th>
-<td>ipsilateral <strong>&lt;6cm</strong></td>
-<td>Contralateral/bilateral &lt;6cm</td>
-<td>&gt;6cm</td>
+```
+```{=html}
+<th>
+```
+HPV Positive
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+ipsilateral `<strong>`{=html}\<6cm`</strong>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Contralateral/bilateral \<6cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>6cm
+```{=html}
+</td>
+```
+```{=html}
 <ol start="5" type="A">
-<li><p>Tumor Staging</p></li>
-<p>Head &amp; Neck Cancer Staging (for most cancers)</p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Tumor Staging
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<p>
+```
+Head & Neck Cancer Staging (for most cancers)
+```{=html}
+</p>
+```
+```{=html}
 <table style="width:100%;">
+```
+```{=html}
 <col style="width: 20%"/>
+```
+```{=html}
 <col style="width: 19%"/>
-<th> </th>
-<th>N2</th>
-<th>N3</th>
-<td>T1</td>
-<td>I</td>
-<td>IVA</td>
-<td>IVB</td>
-<td>T2</td>
-<td>II</td>
-<td>T3</td>
-<p>*except Nasopharynx, p16 positive OP, salivary, thyroid CAs</p>
-<h3 class="unnumbered" id="oral-cavity"> ORAL CAVITY</h3>
+```
+```{=html}
+<th>
+```
+ 
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+N2
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+N3
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+T1
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+I
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IVA
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IVB
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T2
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+II
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T3
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+\*except Nasopharynx, p16 positive OP, salivary, thyroid CAs
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="oral-cavity">
+```
+ ORAL CAVITY
+```{=html}
+</h3>
+```
+```{=html}
 <col style="width: 27%"/>
+```
+```{=html}
 <col style="width: 72%"/>
-<th>T category</th>
-<td><p> T0</p>
-<p>Tis</p></td>
-<td><p> No primary identified</p>
-<p>Carcinoma in situ</p></td>
-<td> T1</td>
-<td> &lt;2 cm &amp; DOI &lt;5mm</td>
-<td>2-4cm or DOI 5-10mm</td>
-<td>&gt;4cm or DOI &gt;10mm</td>
-<td><p> T4a</p>
-<td><p> Invades</p>
-<ul><li><blockquote>
-<p>Mandible (into cortex)</p>
-</blockquote></li></ul>
-<p>Inf. alveolar nerve</p>
-<p>FOM</p>
-<p>Skin</p>
-<p>Tongue musculature</p>
-</td></td></table></ol>
-<td><p>Invades</p>
-<p>Masticator space</p>
-<p>Pterygoid plates</p>
-<p>Skull base</p>
-<p>Carotid</p>
-<p>*note similarities to T4b of p16<sub>neg</sub> OPC</p></td>
-<p><img alt="" src="../media/image31.emf" style="width:1.79653in;height:1.52526in"/> </p>
-<h3 class="unnumbered" id="oropharyngeal">OROPHARYNGEAL </h3>
-<p><strong>HPV Neg (p16-) and HPV Pos</strong></p>
+```
+```{=html}
+<th>
+```
+T category
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ T0
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Tis
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ No primary identified
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Carcinoma in situ
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ T1
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ \<2 cm & DOI \<5mm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+2-4cm or DOI 5-10mm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>4cm or DOI \>10mm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ T4a
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ Invades
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<blockquote>
+```
+```{=html}
+<p>
+```
+Mandible (into cortex)
+```{=html}
+</p>
+```
+```{=html}
+</blockquote>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+Inf. alveolar nerve
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+FOM
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Skin
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Tongue musculature
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</table>
+```
+```{=html}
+</ol>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Invades
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Masticator space
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Pterygoid plates
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Skull base
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Carotid
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+\*note similarities to T4b of p16`<sub>`{=html}neg`</sub>`{=html} OPC
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="../media/image31.emf" style="width:1.79653in;height:1.52526in"/>`{=html} 
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="oropharyngeal">
+```
+OROPHARYNGEAL
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}HPV Neg (p16-) and HPV Pos`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 16%"/>
+```
+```{=html}
 <col style="width: 43%"/>
+```
+```{=html}
 <col style="width: 39%"/>
-<p>Tx</p>
-<td> No primary identified</td>
-<td><p> </p>
-<td> &lt;2 cm</td>
-<td>same</td>
-<td>2-4cm</td>
-<td>&gt;4cm or extension to lingual surface of epiglottis</td>
-<td> same</td>
-<td><p> T4</p>
-<ul><li><p>Larynx</p></li><li><p>Tongue musculature</p></li><li><p>Medial pterygoids</p></li><li><p>Hard palate</p></li><li><p>Mandible</p></li></ul>
-
-
-
-
-<td><p><strong>T4a</strong> - Same</p>
-<p><strong>T4b</strong> - Invades</p>
-<ul><li><p>Lateral nasopharynx</p></li><li><p>Lateral pterygoids/pterygoid plate</p></li><li><p>Skull base</p></li><li><p>Carotid</p></li></ul>
-
-
-
-<p>Red = only for p16 negative OP cancers</p>
-<p>Clinical N staging</p>
+```
+```{=html}
+<p>
+```
+Tx
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+ No primary identified
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ 
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+ \<2 cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+same
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+2-4cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>4cm or extension to lingual surface of epiglottis
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ same
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+ T4
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Larynx
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Tongue musculature
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Medial pterygoids
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Hard palate
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Mandible
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}T4a`</strong>`{=html} - Same
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}T4b`</strong>`{=html} - Invades
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Lateral nasopharynx
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Lateral pterygoids/pterygoid plate
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Skull base
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Carotid
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+Red = only for p16 negative OP cancers
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Clinical N staging
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 18%"/>
+```
+```{=html}
 <col style="width: 38%"/>
+```
+```{=html}
 <col style="width: 42%"/>
-<p><strong>Note: ECE</strong> automatically <strong>bumps you up a N
-stage in the <u>pathological N grading system</u></strong> (not
-shown).</p>
-<p>Basically, if you have a N1 node and path shows ECE then its becomes
-a N2a node.</p>
-<p>With Pathological N Staging</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Note: ECE`</strong>`{=html} automatically `<strong>`{=html}bumps you up a N
+stage in the `<u>`{=html}pathological N grading system`</u>`{=html}`</strong>`{=html} (not
+shown).
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Basically, if you have a N1 node and path shows ECE then its becomes
+a N2a node.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+With Pathological N Staging
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 41%"/>
-<th>HPV Positive - clinical</th>
-<th>HPV Positive - Pathological</th>
-<td>Positive nodes ≤4</td>
-<td>Positive nodes &gt;4</td>
-<td>-</td>
-<p>Staging - Oropharyngeal</p>
-<p>HPV Positive</p>
+```
+```{=html}
+<th>
+```
+HPV Positive - clinical
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+HPV Positive - Pathological
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+Positive nodes ≤4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Positive nodes \>4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\-
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+Staging - Oropharyngeal
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+HPV Positive
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 21%"/>
-<td>T4</td>
-<p>HPV Positive Staging</p>
-<p>(based on pathological N stage)</p>
+```
+```{=html}
+<td>
+```
+T4
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+HPV Positive Staging
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+(based on pathological N stage)
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 24%"/>
+```
+```{=html}
 <col style="width: 25%"/>
-<p>HPV Negative</p>
-<h3 class="unnumbered" id="larynx"> LARYNX</h3>
-<p>Supraglottic subsites:</p>
-<ul><li><p>Suprahyoid epiglottis</p></li><li><p>Infrahyoid epiglottis</p></li><li><p>Aryepiglottic folds (laryngeal aspect)</p></li><li><p>Arytenoids</p></li><li><p>Ventricular bands (false vocal folds)</p></li></ul>
-
-
-
-
-<h4 class="unnumbered" id="supraglottis"> SUPRAGLOTTIS</h4>
+```
+```{=html}
+<p>
+```
+HPV Negative
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="larynx">
+```
+ LARYNX
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+Supraglottic subsites:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Suprahyoid epiglottis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Infrahyoid epiglottis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Aryepiglottic folds (laryngeal aspect)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Arytenoids
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Ventricular bands (false vocal folds)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h4 class="unnumbered" id="supraglottis">
+```
+ SUPRAGLOTTIS
+```{=html}
+</h4>
+```
+```{=html}
 <col style="width: 80%"/>
-<th>Criteria</th>
-<td> Tumor in 1 subsite. Normal TVF</td>
-<td><p>Tumor in 2+ subsites (can be glottis, vallecula).</p>
-<p>Normal TVF movement</p></td>
-<td><p>Vocal cord fixation and/OR</p>
-<p>Invasion of</p>
-<ul><li><p>Inner cortex of thyroid cartilage</p></li><li><p>Paraglottic space</p></li><li><p>Post-cricoid area</p></li><li><p>Preepiglottic space</p></li><li><p>Through thyroid cartilage</p></li><li><p>Neck soft tissue</p></li><li><p>Esophageus/Trachea</p></li><li><p>Prevertebral space</p></li><li><p>Around carotid</p></li><li><p>Mediastinum</p></li></ul>
-
-
-
-
-
-
-
-
-
-<p><img alt="" src="../media/image32.png" style="width:1.85124in;height:1.97204in"/> </p>
-<p>In general, for Laryngeal Cancer</p>
-<h4 class="unnumbered" id="glottis">Glottis</h4>
+```
+```{=html}
+<th>
+```
+Criteria
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+ Tumor in 1 subsite. Normal TVF
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Tumor in 2+ subsites (can be glottis, vallecula).
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Normal TVF movement
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Vocal cord fixation and/OR
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Invasion of
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Inner cortex of thyroid cartilage
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Paraglottic space
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Post-cricoid area
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Preepiglottic space
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Through thyroid cartilage
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Neck soft tissue
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Esophageus/Trachea
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Prevertebral space
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Around carotid
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Mediastinum
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+`<img alt="" src="../media/image32.png" style="width:1.85124in;height:1.97204in"/>`{=html} 
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+In general, for Laryngeal Cancer
+```{=html}
+</p>
+```
+```{=html}
+<h4 class="unnumbered" id="glottis">
+```
+Glottis
+```{=html}
+</h4>
+```
+```{=html}
 <col style="width: 74%"/>
-<td><p>T1a</p>
-<p>T1b</p></td>
-<td><p>1 vocal cord. Normal movement</p>
-<p>Both vocal cords. Normal movement</p></td>
-<td><p>Either:</p>
-<ul><li><p>Extension to supraglottis or subglottis</p></li><li><p>Impaired VF movement</p></li></ul>
-
-<p>*not similarity to supraglottic T3</p></td>
-<ul><li><p>Esophagus/Trachea</p></li></ul>
-<p>*note similarity to Supraglottic T4a</p></td>
-<p>*note similarity to Supraglottic T4b</p></td>
-<p>Glottic Stage and VF movement</p>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+T1a
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T1b
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+1 vocal cord. Normal movement
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Both vocal cords. Normal movement
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Either:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Extension to supraglottis or subglottis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Impaired VF movement
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+\*not similarity to supraglottic T3
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Esophagus/Trachea
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+\*note similarity to Supraglottic T4a
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+\*note similarity to Supraglottic T4b
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+Glottic Stage and VF movement
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 37%"/>
+```
+```{=html}
 <col style="width: 32%"/>
-<th>T1</th>
-<th>T2</th>
-<th>T3</th>
-<td>Normal Movement</td>
-<td>Less movement</td>
-<td>No movement</td>
-<h4 class="unnumbered" id="subglottis">SUBGLOTTIS</h4>
+```
+```{=html}
+<th>
+```
+T1
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+T2
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+T3
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+Normal Movement
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Less movement
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+No movement
+```{=html}
+</td>
+```
+```{=html}
+<h4 class="unnumbered" id="subglottis">
+```
+SUBGLOTTIS
+```{=html}
+</h4>
+```
+```{=html}
 <col style="width: 23%"/>
+```
+```{=html}
 <col style="width: 76%"/>
-<td><p>Limited to subglottis</p>
-<td>Extends to glottis</td>
-<td>Vocal cord fixation</td>
-<h4 class="unnumbered" id="hypopharynx">HYPOPHARYNX</h4>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Limited to subglottis
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+Extends to glottis
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Vocal cord fixation
+```{=html}
+</td>
+```
+```{=html}
+<h4 class="unnumbered" id="hypopharynx">
+```
+HYPOPHARYNX
+```{=html}
+</h4>
+```
+```{=html}
 <ol start="4" type="I">
-<li><p>Hypopharynx subsites</p>
-<ul><li><p>Pyriform sinuses</p></li><li><p>Lateral/posterior hypopharyngeal wall</p></li><li><p>Post-cricoid region</p></li></ul>
-
-
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Hypopharynx subsites
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Pyriform sinuses
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Lateral/posterior hypopharyngeal wall
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Post-cricoid region
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <col style="width: 78%"/>
-<td>One subsite AND &lt;2cm</td>
-<td><p>2+ subsites OR 2-4cm</p>
-<p>Cannot extend to esophageus or cause VF fixation</p></td>
-<td>&gt;4cm OR invades <strong>esophageus</strong> OR causes VF
-fixation</td>
-<ul><li><p>Trachea</p></li></ul>
-<h3 class="unnumbered" id="maxillary-sinus">MAXILLARY SINUS</h3>
-<td>Limited to maxillary sinus mucosa</td>
-<td><p>Erosion into bone EXCEPT orbital floor or posterior wall</p>
-<td><p>Invasion into:</p>
-<ul><li><p>Orbital floor/ethmoid sinus (think V2 numbness)</p></li><li><p>Posterior wall/pterygoid fossa</p></li><li><p>Orbital contents</p></li><li><p>Skin</p></li><li><p>Pterygoid plates/infratemporal fossa</p></li><li><p>Sphenoid/frontal sinus/cribriform plate</p></li><li><p>Orbital apex</p></li><li><p>Dura/brain/skull base</p></li><li><p>Cranial Nerves (except V2)</p></li><li><p>nasopharynx</p></li></ul>
-
-
-
-
-
-
-
-
-
-<h3 class="unnumbered" id="nasal-cavityethmoid-sinus">NASAL
-CAVITY/ETHMOID SINUS</h3>
+```
+```{=html}
+<td>
+```
+One subsite AND \<2cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+2+ subsites OR 2-4cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Cannot extend to esophageus or cause VF fixation
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>4cm OR invades `<strong>`{=html}esophageus`</strong>`{=html} OR causes VF
+fixation
+```{=html}
+</td>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Trachea
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="maxillary-sinus">
+```
+MAXILLARY SINUS
+```{=html}
+</h3>
+```
+```{=html}
+<td>
+```
+Limited to maxillary sinus mucosa
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Erosion into bone EXCEPT orbital floor or posterior wall
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Invasion into:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Orbital floor/ethmoid sinus (think V2 numbness)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Posterior wall/pterygoid fossa
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Orbital contents
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Skin
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Pterygoid plates/infratemporal fossa
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Sphenoid/frontal sinus/cribriform plate
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Orbital apex
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Dura/brain/skull base
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cranial Nerves (except V2)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+nasopharynx
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="nasal-cavityethmoid-sinus">
+```
+NASAL
+CAVITY/ETHMOID SINUS
+```{=html}
+</h3>
+```
+```{=html}
 <col style="width: 17%"/>
+```
+```{=html}
 <col style="width: 82%"/>
-<td>Limited to one subsite in nasoethmoid complex</td>
-<td><p>More than 1 subsite in nasoethmoid complex (aka both nose and
-ethmoid)</p>
-<ul><li><p>Orbital floor</p></li><li><p>Maxillary sinus</p></li><li><p>Cribriform plate</p></li></ul>
-
-
-<p>*Note similarity to Maxillary sinus CA</p></td>
-<ul><li><p>Nasopharynx</p></li></ul>
-<h3 class="unnumbered" id="nasopharyngeal-ca"> NASOPHARYNGEAL CA</h3>
-<p><strong>WHO Type I</strong> - Keratinizing SCCA</p>
-<p><strong>WHO Type II</strong> - Nonkerating SCCA (associated with EBV,
-better prognosis)</p>
-<p><strong>WHO Type III</strong> - Undifferentiated CA</p>
-<td>Nasopharynx/nasal cavity</td>
-<td><p>Invaded parapharyngeal space or pterygoids musces</p>
-<p>(If they have trismus)</p></td>
-<td>Invasion into bones and/or sinuses</td>
-<ul><li><p>hypopharynx</p></li><li><p>Cranial nerves</p></li><li><p>Orbit</p></li></ul>
-
-
+```
+```{=html}
+<td>
+```
+Limited to one subsite in nasoethmoid complex
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+More than 1 subsite in nasoethmoid complex (aka both nose and
+ethmoid)
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Orbital floor
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Maxillary sinus
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cribriform plate
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+\*Note similarity to Maxillary sinus CA
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nasopharynx
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="nasopharyngeal-ca">
+```
+ NASOPHARYNGEAL CA
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}WHO Type I`</strong>`{=html} - Keratinizing SCCA
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}WHO Type II`</strong>`{=html} - Nonkerating SCCA (associated with EBV,
+better prognosis)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}WHO Type III`</strong>`{=html} - Undifferentiated CA
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+Nasopharynx/nasal cavity
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Invaded parapharyngeal space or pterygoids musces
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+(If they have trismus)
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Invasion into bones and/or sinuses
+```{=html}
+</td>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+hypopharynx
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cranial nerves
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Orbit
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <col style="width: 47%"/>
+```
+```{=html}
 <col style="width: 52%"/>
-<th> N stage</th>
-<td>N1</td>
-<td>Unilateral</td>
-<td>Bilateral</td>
-<h3 class="unnumbered" id="salivary-gland">SALIVARY GLAND</h3>
+```
+```{=html}
+<th>
+```
+ N stage
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+N1
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Unilateral
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bilateral
+```{=html}
+</td>
+```
+```{=html}
+<h3 class="unnumbered" id="salivary-gland">
+```
+SALIVARY GLAND
+```{=html}
+</h3>
+```
+```{=html}
 <col style="width: 75%"/>
-<td>&lt;2cm, no extraparenchymal extension</td>
-<td>2-4cm, no extraparenchymal extension</td>
-<td>&gt;4cm OR extraparenchymal extension</td>
-<ul><li><p>Facial nerve</p></li><li><p>mandible</p></li><li><p>pterygoids</p></li><li><p>Wraps around carotid</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="well-differentiated-thyroid-ca">WELL
-DIFFERENTIATED THYROID CA</h3>
+```
+```{=html}
+<td>
+```
+\<2cm, no extraparenchymal extension
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+2-4cm, no extraparenchymal extension
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>4cm OR extraparenchymal extension
+```{=html}
+</td>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Facial nerve
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+mandible
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+pterygoids
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Wraps around carotid
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="well-differentiated-thyroid-ca">
+```
+WELL
+DIFFERENTIATED THYROID CA
+```{=html}
+</h3>
+```
+```{=html}
 <col style="width: 62%"/>
-<th>Tumor</th>
-<th>Lymph</th>
-<td><p>T1: &lt;2cm</p>
-<p>T1a: &lt;1cm</p>
-<p>T1b: 1-2cm</p></td>
-<p>N1a: Level VI/VII nodes</p></td>
-<td>T2: 2-4cm</td>
-<td>N1b: mets to cervical nodes</td>
-<td><p>T3a: &gt;4cm limited to thyroid</p>
-<p>T3b: ETE invading strap muscles</p></td>
-<td> </td>
-<td><p>T4a: invasion beyond capsule&amp;straps</p>
-<p>T4b: invading into carotid/mediastinum/RLN</p></td>
-<p>Thyroid cancer staging</p>
-<p><strong>Only <u>&gt;55 years old</u></strong>: those &lt;55yo are
-Stage I unless they have mets, then they are stage II</p>
-<p>Anaplastic CA is automatically stage IV (IVA if N0 &amp; T1-3a; IVB
-if &gt;T3a or N1+)</p>
+```
+```{=html}
+<th>
+```
+Tumor
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Lymph
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+T1: \<2cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T1a: \<1cm
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T1b: 1-2cm
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+N1a: Level VI/VII nodes
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T2: 2-4cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+N1b: mets to cervical nodes
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+T3a: \>4cm limited to thyroid
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T3b: ETE invading strap muscles
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ 
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+T4a: invasion beyond capsule&straps
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T4b: invading into carotid/mediastinum/RLN
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<p>
+```
+Thyroid cancer staging
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Only `<u>`{=html}\>55 years old`</u>`{=html}`</strong>`{=html}: those \<55yo are
+Stage I unless they have mets, then they are stage II
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Anaplastic CA is automatically stage IV (IVA if N0 & T1-3a; IVB
+if \>T3a or N1+)
+```{=html}
+</p>
+```
+```{=html}
 <col style="width: 34%"/>
-<p>Metastatic disease = Stage IVB</p>
-id="non-melanoma-skin-cancer-scc-etc"&gt;NON-MELANOMA SKIN CANCER (SCC
+```
+```{=html}
+<p>
+```
+Metastatic disease = Stage IVB
+```{=html}
+</p>
+```
+id="non-melanoma-skin-cancer-scc-etc"\>NON-MELANOMA SKIN CANCER (SCC
 etc)
+```{=html}
 <col style="width: 22%"/>
+```
+```{=html}
 <col style="width: 77%"/>
-<th> <em>T category</em></th>
-<td><em>T1</em></td>
-<td>&lt;2cm</td>
-<td><em>T2</em></td>
-<td><p>2-4cm</p>
-<td><em>T3</em></td>
-<td>&gt;4cm or <strong>DOI &gt;6mm</strong> or Perineural/minor bone
-invasion</td>
-<td><p><em>T4a</em></p>
-<p><em>T4b</em></p></td>
-<td><p>Gross cortical bone/bone marrow invasion</p>
-<p>Tumor with skull base/foramina invasion</p></td>
-<h3 class="unnumbered" id="section-25"> </h3>
-<h3 class="unnumbered" id="melanoma-skin"> MELANOMA (SKIN)</h3>
-<p> <strong>a/b/c classification</strong></p>
-<p>T stage: IF <strong>ulceration</strong> stage is <strong>B</strong>
-(as in T2-&gt;T2b)</p>
-<p>N stage</p>
-<p>(a) if micrometastasis</p>
-<p>(b) if macrometasis</p>
-<p>(c) given if in transit/satellite lesions</p>
-<p>w/o metastatic nodes</p>
-<col style="width: 15%"/>
-<col style="width: 9%"/>
-<th>T</th>
-<th>N</th>
-<td><p>T1</p>
-<p>T1a</p>
-<td><p>&lt;1mm thick</p>
-<p>&lt;0.8mm + no ulceration</p>
-<p>if 0.8-1mm thick (or if ulceration)</p></td>
-<td><strong>N1</strong></td>
-<td>1 node</td>
-<td><p>1-2mm thick</p>
-<td><strong>N2</strong></td>
-<td>2-3 nodes</td>
-<td>2-4mm thick</td>
-<td><strong>N3</strong></td>
-<td>4+ nodes, matted nodes, or in transit mets</td>
-<td>&gt;4mm thick</td>
-<h3 class="unnumbered" id="mucosal-melanoma">MUCOSAL MELANOMA</h3>
-<col style="width: 45%"/>
-<th>N/M stage</th>
-<td>Mucosal melanoma</td>
-<td>Any lymph node mets</td>
-<td><p>T4a</p>
-<td><p>Involves soft tissue, cartilage, bone,</p>
-<p>Overlying skin</p></td>
-<td><strong>M1</strong></td>
-<td>Any mets</td>
-<td>Involves skull base, cranial nerve, carotid, masticator,
-prevertebral space</td>
-<p><img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="../media/image33.png" style="width:1.88969in;height:2.90093in"/></p>
-<p><a href="../index.html">Back to homepage</a></p>
-</td></td></td></td></td></li></ol></td></td></td></ol>
+```
+```{=html}
+<th>
+```
+ `<em>`{=html}T category`</em>`{=html}
+```{=html}
+</th>
+```
+```{=html}
+<td>
+```
+`<em>`{=html}T1`</em>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\<2cm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<em>`{=html}T2`</em>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+2-4cm
+```{=html}
+</p>
+```
+```{=html}
+<td>
+```
+`<em>`{=html}T3`</em>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\>4cm or `<strong>`{=html}DOI \>6mm`</strong>`{=html} or Perineural/minor bone
+invasion
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+`<em>`{=html}T4a`</em>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<em>`{=html}T4b`</em>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+<p>
+```
+Gross cortical bone/bone marrow invasion
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Tumor with skull base/foramina invasion
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<h3 class="unnumbered" id="section-25">
+```
+ 
+```{=html}
+</h3>
+```
+```{=html}
+<h3 class="unnumbered" id="melanoma-skin">
+```
+ MELANOMA (SKIN)
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+ `<strong>`{=html}a/b/c classification`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T stage: IF `<strong>`{=html}ulceration`</strong>`{=html} stage is `<strong>`{=html}B`</strong>`{=html}
+(as in T2-\>T2b)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+N stage
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+(a) if micrometastasis
+    ```{=html}
+    </p>
+    ```
+    ```{=html}
+    <p>
+    ```
+    (b) if macrometasis
+        ```{=html}
+        </p>
+        ```
+        ```{=html}
+        <p>
+        ```
+        (c) given if in transit/satellite lesions
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            w/o metastatic nodes
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <col style="width: 15%"/>
+            ```
+            ```{=html}
+            <col style="width: 9%"/>
+            ```
+            ```{=html}
+            <th>
+            ```
+            T
+            ```{=html}
+            </th>
+            ```
+            ```{=html}
+            <th>
+            ```
+            N
+            ```{=html}
+            </th>
+            ```
+            ```{=html}
+            <td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            T1
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            T1a
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            \<1mm thick
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            \<0.8mm + no ulceration
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            if 0.8-1mm thick (or if ulceration)
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            `<strong>`{=html}N1`</strong>`{=html}
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            1 node
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            1-2mm thick
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <td>
+            ```
+            `<strong>`{=html}N2`</strong>`{=html}
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            2-3 nodes
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            2-4mm thick
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            `<strong>`{=html}N3`</strong>`{=html}
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            4+ nodes, matted nodes, or in transit mets
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            \>4mm thick
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <h3 class="unnumbered" id="mucosal-melanoma">
+            ```
+            MUCOSAL MELANOMA
+            ```{=html}
+            </h3>
+            ```
+            ```{=html}
+            <col style="width: 45%"/>
+            ```
+            ```{=html}
+            <th>
+            ```
+            N/M stage
+            ```{=html}
+            </th>
+            ```
+            ```{=html}
+            <td>
+            ```
+            Mucosal melanoma
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            Any lymph node mets
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            T4a
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            Involves soft tissue, cartilage, bone,
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            Overlying skin
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            `<strong>`{=html}M1`</strong>`{=html}
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            Any mets
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            Involves skull base, cranial nerve, carotid, masticator,
+            prevertebral space
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <p>
+            ```
+            `<img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="../media/image33.png" style="width:1.88969in;height:2.90093in"/>`{=html}
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            <p>
+            ```
+            `<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+            ```{=html}
+            </p>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </li>
+            ```
+            ```{=html}
+            </ol>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </ol>
+            ```

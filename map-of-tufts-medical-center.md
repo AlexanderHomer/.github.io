@@ -2,56 +2,1685 @@
 layout: default
 title: Map of Tufts Medical Center
 ---
-<p>Common phone numbers at Tufts Medical Center:</p>
+```{=html}
+<p>
+```
+Common phone numbers at Tufts Medical Center:
+```{=html}
+</p>
+```
+```{=html}
 <table>
-  <tr><th>Service</th><th>Phone</th><th>Service</th><th>Phone</th></tr>
-  <tr><td>Operator</td><td>5111</td><td>ENT resident Rm</td><td>0591</td></tr>
-  <tr><td>Help Desk</td><td>6485</td><td>ENT Clinic Area</td><td>9077</td></tr>
-  <tr><td>Interpreter Services</td><td>5547</td><td>ENT main</td><td>5496</td></tr>
-  <tr><td>Interpreter (code 1031)</td><td>(844) 266-0790</td><td>Pedi ENT</td><td>2820</td></tr>
-  <tr><td>Med. Records/Dictations</td><td>6262</td><td>Pedi backline</td><td>4606</td></tr>
-  <tr><td>eCW help</td><td>1643</td><td>Rebeiz (Cristin Dryer)</td><td>1664</td></tr>
-  <tr><td>Admitting/ADT</td><td>4238</td><td>Lee (Kwana Roberts)</td><td>7702</td></tr>
-  <tr><td>Pathology (surgical)</td><td>5829</td><td>Wein (Evelin Shepard)</td><td>8711</td></tr>
-  <tr><td>Microbiology</td><td>5785</td><td>Oleary (Tawana Harvey)</td><td>3030</td></tr>
-  <tr><td>Chemistry</td><td>5785</td><td>Sillman (Abdel -> Tawana)</td><td>8724</td></tr>
-  <tr><td>Hematology labs</td><td>5475</td><td>Vecchiotti (Melissa Garcia)</td><td>2820</td></tr>
-  <tr><td>Pharmacy (inpatient)</td><td>5389</td><td>Scott (Teagan Flint)</td><td>2820</td></tr>
-  <tr><td>Pharmacy (PG5N)</td><td>1431</td><td>Front Desk</td><td>6028</td></tr>
-  <tr><td>ED</td><td>5566</td><td>Booking</td><td>6031</td></tr>
-  <tr><td>ED Express/Pedi</td><td>5467</td><td>Anesthesia Board</td><td>4526</td></tr>
-  <tr><td>Neurorads Reading</td><td>6334</td><td>PACU</td><td>6020</td></tr>
-  <tr><td>CT control</td><td>5215</td><td>Phase 1</td><td>9972</td></tr>
-  <tr><td>CT reading room</td><td>8150</td><td>Fish Bowl</td><td>6032</td></tr>
-  <tr><td>XR control</td><td>0055</td><td>CPD</td><td>6026</td></tr>
-  <tr><td>XR reading room</td><td>0054</td><td>OR1</td><td>0209</td></tr>
-  <tr><td>MRI Control Rm</td><td>4883</td><td>OR2</td><td>0210</td></tr>
-  <tr><td>Adult U/S Reading Rm</td><td>4564</td><td>OR3</td><td>1211</td></tr>
-  <tr><td>Pedi Reading Rm</td><td>7936</td><td>OR4</td><td>1214</td></tr>
-  <tr><td>Pedi U/S Reading Rm</td><td>7933</td><td>OR5</td><td>0226</td></tr>
-  <tr><td>Pedi U/S Secretary</td><td>7932</td><td>OR6</td><td>3245</td></tr>
-  <tr><td>IR</td><td>6332</td><td>OR7</td><td>0227</td></tr>
-  <tr><td></td><td></td><td>OR8</td><td>0228</td></tr>
-  <tr><td>PG5N</td><td>6105</td><td>OR9</td><td>0009</td></tr>
-  <tr><td>N4</td><td>5804</td><td>OR10</td><td>0010</td></tr>
-  <tr><td>SICU</td><td>5807</td><td>OR11</td><td>0232</td></tr>
-  <tr><td>FL7</td><td>5005</td><td>OR12</td><td>0243</td></tr>
-  <tr><td>N6</td><td>6002</td><td>OR13</td><td>0253</td></tr>
-  <tr><td>N7</td><td>5995</td><td>OR14</td><td>0208</td></tr>
-  <tr><td>N8</td><td>6106</td><td>OR15</td><td>0199</td></tr>
-  <tr><td>PG7</td><td>5500</td><td>OR16</td><td>9380</td></tr>
-  <tr><td>Pedi BMT</td><td>2686</td><td>OR17</td><td>9381</td></tr>
-  <tr><td>PICU</td><td>5007</td><td>OR18</td><td>9382</td></tr>
-  <tr><td>NICU</td><td>5008</td><td>OR19</td><td>9383</td></tr>
-  <tr><td>CTU</td><td>6129</td><td>OR20</td><td>9384</td></tr>
-  <tr><td>CCU</td><td>6407</td><td>OR21</td><td>9385</td></tr>
-  <tr><td>MICU</td><td>6408</td><td>OR22</td><td>9386</td></tr>
-  <tr><td>NCCU</td><td>1840</td><td>OR23</td><td>9387</td></tr>
-  <tr><td>NIMC</td><td>1850</td><td>Janet Athens</td><td>7434</td></tr>
-  <tr><td>ID residents</td><td>8234</td><td>Pamela D'Arcy</td><td>1059</td></tr>
-  <tr><td>Pedi Residents</td><td>0103</td><td>PICU residents</td><td>1096</td></tr>
-  <tr><td>Gen Surgery Interns</td><td>4153</td><td>STAT phlebotomy</td><td>p1789</td></tr>
-  <tr><td>NuSu Residents</td><td>1862</td><td>STAT XR (adult)</td><td>p1208</td></tr>
-  <tr><td></td><td></td><td>STAT XR (pedi)</td><td>p1124</td></tr>
-</table>
-  <p><a href="index.html">Back to homepage</a></p>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Service
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Phone
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Service
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Phone
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Operator
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+5111
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ENT resident Rm
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+0591
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Help Desk
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+6485
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ENT Clinic Area
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+9077
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Interpreter Services
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+5547
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+ENT main
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+5496
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Interpreter (code 1031)
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+(844) 266-0790
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi ENT
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      2820
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Med. Records/Dictations
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6262
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi backline
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4606
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      eCW help
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1643
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Rebeiz (Cristin Dryer)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1664
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Admitting/ADT
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4238
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Lee (Kwana Roberts)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      7702
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pathology (surgical)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5829
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Wein (Evelin Shepard)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      8711
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Microbiology
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5785
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Oleary (Tawana Harvey)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      3030
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Chemistry
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5785
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Sillman (Abdel -\> Tawana)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      8724
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Hematology labs
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5475
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Vecchiotti (Melissa Garcia)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      2820
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pharmacy (inpatient)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5389
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Scott (Teagan Flint)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      2820
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pharmacy (PG5N)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1431
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Front Desk
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6028
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ED
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5566
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Booking
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6031
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ED Express/Pedi
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5467
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Anesthesia Board
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4526
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Neurorads Reading
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6334
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      PACU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6020
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      CT control
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5215
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Phase 1
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9972
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      CT reading room
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      8150
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Fish Bowl
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6032
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      XR control
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0055
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      CPD
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6026
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      XR reading room
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0054
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR1
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0209
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      MRI Control Rm
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4883
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR2
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0210
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Adult U/S Reading Rm
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4564
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR3
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1211
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi Reading Rm
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      7936
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR4
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1214
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi U/S Reading Rm
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      7933
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR5
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0226
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi U/S Secretary
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      7932
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR6
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      3245
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      IR
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6332
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR7
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0227
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR8
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0228
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      PG5N
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6105
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR9
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0009
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      N4
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5804
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR10
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0010
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      SICU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5807
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR11
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0232
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      FL7
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5005
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR12
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0243
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      N6
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6002
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR13
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0253
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      N7
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5995
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR14
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0208
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      N8
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6106
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR15
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0199
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      PG7
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5500
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR16
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9380
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi BMT
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      2686
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR17
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9381
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      PICU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5007
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR18
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9382
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      NICU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      5008
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR19
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9383
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      CTU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6129
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR20
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9384
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      CCU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6407
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR21
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9385
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      MICU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      6408
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR22
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9386
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      NCCU
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1840
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      OR23
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      9387
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      NIMC
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1850
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Janet Athens
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      7434
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ID residents
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      8234
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pamela D'Arcy
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1059
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Pedi Residents
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      0103
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      PICU residents
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1096
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      Gen Surgery Interns
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      4153
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      STAT phlebotomy
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      p1789
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      NuSu Residents
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      1862
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      STAT XR (adult)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      p1208
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      <tr>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      STAT XR (pedi)
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      <td>
+      ```
+      p1124
+      ```{=html}
+      </td>
+      ```
+      ```{=html}
+      </tr>
+      ```
+      ```{=html}
+      </table>
+      ```
+      ```{=html}
+      <p>
+      ```
+      `<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+      ```{=html}
+      </p>
+      ```

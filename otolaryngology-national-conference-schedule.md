@@ -2,66 +2,364 @@
 layout: default
 title: Otolaryngology National Conference Schedule
 ---
-<p>Triological (Combined Sections Meeting)</p>
+```{=html}
+<p>
+```
+Triological (Combined Sections Meeting)
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Abstracts due end on July/early august</li>
-  <li>Winter meeting end of Jan</li>
+```
+```{=html}
+<li>
+```
+Abstracts due end on July/early august
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Winter meeting end of Jan
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>CORE Grants</p>
+```
+```{=html}
+<p>
+```
+CORE Grants
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Start in Nov/early December on proposal</li>
-  <li>Letter of Interest is due end of December</li>
-  <li>Actual grant due mid/late Jan</li>
-  <li>e-mail Emily Cameron</li>
+```
+```{=html}
+<li>
+```
+Start in Nov/early December on proposal
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Letter of Interest is due end of December
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Actual grant due mid/late Jan
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+e-mail Emily Cameron
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>Combined Spring Otolaryngology Meeting (COSM)</p>
+```
+```{=html}
+<p>
+```
+Combined Spring Otolaryngology Meeting (COSM)
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Abstracts due mid-Oct to mid-Nov (depends on society you apply to)</li>
-  <li>Conference in April</li>
+```
+```{=html}
+<li>
+```
+Abstracts due mid-Oct to mid-Nov (depends on society you apply to)
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Conference in April
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>ASPO</p>
+```
+```{=html}
+<p>
+```
+ASPO
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Abstract Deadline in Nov</li>
-  <li>Tend to have a summer meeting in May/June</li>
+```
+```{=html}
+<li>
+```
+Abstract Deadline in Nov
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Tend to have a summer meeting in May/June
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>AHNS</p>
+```
+```{=html}
+<p>
+```
+AHNS
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Odd years: Annual meeting at COSM</li>
-  <li>Even years: Annual meeting in July (Abstract due Dec/Jan)</li>
+```
+```{=html}
+<li>
+```
+Odd years: Annual meeting at COSM
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Even years: Annual meeting in July (Abstract due Dec/Jan)
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>AAO-HNSF (Academy)</p>
+```
+```{=html}
+<p>
+```
+AAO-HNSF (Academy)
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Abstracts due early feb</li>
-  <li>Conference in Sep (sometimes early Oct)</li>
+```
+```{=html}
+<li>
+```
+Abstracts due early feb
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Conference in Sep (sometimes early Oct)
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>AAFPRS</p>
+```
+```{=html}
+<p>
+```
+AAFPRS
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>abstracts due in Feb</li>
-  <li>Conference at mid/end of October</li>
+```
+```{=html}
+<li>
+```
+abstracts due in Feb
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Conference at mid/end of October
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>SENTAC</p>
+```
+```{=html}
+<p>
+```
+SENTAC
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Abstracts due end of July</li>
-  <li>Conference in December</li>
+```
+```{=html}
+<li>
+```
+Abstracts due end of July
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Conference in December
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<p>New England Otolaryngology Society (NEOS)</p>
+```
+```{=html}
+<p>
+```
+New England Otolaryngology Society (NEOS)
+```{=html}
+</p>
+```
+```{=html}
 <ul>
-  <li>Meetings in Oct, Dec, March/April</li>
-  <li>Presentations by the PGY-3s</li>
+```
+```{=html}
+<li>
+```
+Meetings in Oct, Dec, March/April
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Presentations by the PGY-3s
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h3>VACATION REQUESTS</h3>
+```
+```{=html}
+<h3>
+```
+VACATION REQUESTS
+```{=html}
+</h3>
+```
+```{=html}
 <ul>
-  <li>If 2 residents at different locations want the same week, need permission from Dr. Noonan</li>
-  <li>No vacation during 1st 7 days of a rotation</li>
-  <li>In general, the PGY-3 take the calls during the x-mas holiday (so only one resident is on call)</li>
-  <li>Tufts: 3-month notice of vacations &amp; conferences (NEOS, national) to Dr. Scott</li>
-  <li>RIH: 2-month notice of vacations &amp; conferences (NEOS, national) to Dr. Groblewski</li>
-  <li>Brockton: way, way in notice of vacations &amp; conferences (NEOS, national) to Lori Keany. <strong>Do not count on being off the weekend before/after a vacation</strong></li>
-  <li>Children’s: 2-month notice of vacations to Dr. Gi-Soo Lee and Alanna Boyson + the MEEI resident on service with you (who make the schedule)</li>
+```
+```{=html}
+<li>
+```
+If 2 residents at different locations want the same week, need permission from Dr. Noonan
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+No vacation during 1st 7 days of a rotation
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+In general, the PGY-3 take the calls during the x-mas holiday (so only one resident is on call)
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Tufts: 3-month notice of vacations & conferences (NEOS, national) to Dr. Scott
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+RIH: 2-month notice of vacations & conferences (NEOS, national) to Dr. Groblewski
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Brockton: way, way in notice of vacations & conferences (NEOS, national) to Lori Keany. `<strong>`{=html}Do not count on being off the weekend before/after a vacation`</strong>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Children's: 2-month notice of vacations to Dr. Gi-Soo Lee and Alanna Boyson + the MEEI resident on service with you (who make the schedule)
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h4>Deadlines for vacation submission to Dr. Scott and Dr. Noonan:</h4>
-<p>April 1 – July to September</p>
-<p>July 1 – October to December</p>
-<p>October 1 – January to March</p>
-<p>January 1 – April to June</p>
-  <p><a href="index.html">Back to homepage</a></p>
+```
+```{=html}
+<h4>
+```
+Deadlines for vacation submission to Dr. Scott and Dr. Noonan:
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+April 1 -- July to September
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+July 1 -- October to December
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+October 1 -- January to March
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+January 1 -- April to June
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<a href="index.html">`{=html}Back to homepage`</a>`{=html}
+```{=html}
+</p>
+```

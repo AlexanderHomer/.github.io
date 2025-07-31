@@ -2,306 +2,2264 @@
 layout: default
 title: Head &amp; Neck Surgery - Clinic Guide
 ---
-<h2 class="unnumbered" id="head-neck-surgery-clinic-guide">Head &amp;
-Neck Surgery – Clinic Guide</h2>
-<h3 class="unnumbered" id="dr.-olearys-clinic">Dr. O’Leary’s Clinic</h3>
+```{=html}
+<h2 class="unnumbered" id="head-neck-surgery-clinic-guide">
+```
+Head &
+Neck Surgery -- Clinic Guide
+```{=html}
+</h2>
+```
+```{=html}
+<h3 class="unnumbered" id="dr.-olearys-clinic">
+```
+Dr. O'Leary's Clinic
+```{=html}
+</h3>
+```
+```{=html}
 <ol type="I">
-<li><p>Correct the chief compliant. Put type/site of cancer TNM stage
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Correct the chief compliant. Put type/site of cancer TNM stage
 and treatment (with date) at the beginning of every note (T2N1M0 HPV+
 left base of tongue SCCa s/p concomitant chemoradiation with weekly
-cisplatin completed on 10/13/2018.)</p></li>
-<li><p>Use Dr O’Leary’s New patient or Follow up visit
-templates</p></li>
-<li><p>ALWAYS CC op-note to primary care physician, other care providers
-(rad onc, med onc) and referring physician’</p></li>
-<li><p>Spray the patients with Lidocaine/Afrin spray prior to presenting
-to Dr. O’Leary so there is enough time for local anesthesia and
-decongestion</p></li>
+cisplatin completed on 10/13/2018.)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Use Dr O'Leary's New patient or Follow up visit
+templates
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+ALWAYS CC op-note to primary care physician, other care providers
+(rad onc, med onc) and referring physician'
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Spray the patients with Lidocaine/Afrin spray prior to presenting
+to Dr. O'Leary so there is enough time for local anesthesia and
+decongestion
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ol>
-<h3 class="unnumbered" id="dr.-weins-clinic">Dr. Wein’s Clinic</h3>
+```
+```{=html}
+<h3 class="unnumbered" id="dr.-weins-clinic">
+```
+Dr. Wein's Clinic
+```{=html}
+</h3>
+```
+```{=html}
 <!-- Wein Clinic list start -->
+```
+```{=html}
 <ol>
-  <li>if you can, dictate your notes and minimize the amount of templating</li>
-  <li>always give patients a copy of their pathology, lab, or imaging results at the time of an office visit</li>
-  <li>document and circle the appropriate spaces on the encounter form if:
-    <ul>
-      <li>smoking cessation advised</li>
-      <li>imaging/labs ordered or surgery booked</li>
-      <li>imaging/labs/path reviewed</li>
-      <li>procedures performed</li>
-    </ul>
-  </li>
-  <li>Always CC the corresponding MD at the end of the note with “CC: Andrew Scott, MD”, and not with less formal approaches like “Dr. Scott, PCP”</li>
-</ol>
-<!-- Wein Clinic list end -->
-<h3 class="unnumbered" id="dr.-tracys-clinic">Dr. Tracy’s Clinic</h3>
-<ol>
-<li>Similar to Dr. O’Leary’s clinic flow</li>
-</ol>
-<h3 class="unnumbered" id="burning-mouth-consults">Burning Mouth Consults</h3>
-<p><em>Dr. O’Leary’s workup</em></p>
+```
+```{=html}
+<li>
+```
+if you can, dictate your notes and minimize the amount of templating
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+always give patients a copy of their pathology, lab, or imaging results at the time of an office visit
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+document and circle the appropriate spaces on the encounter form if:
+```{=html}
 <ul>
-<li>Obtain lab tests: ANA, SS-A, SS-B, TSH, fasting glucose, A1c, CBC w/ diff, ferritin, Vit B1, B2, B6, B12, folate, Mg2+, Zinc</li>
-<li>Biopsy if visible lesion</li>
-<li>Consider patch testing</li>
+```
+```{=html}
+<li>
+```
+smoking cessation advised
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+imaging/labs ordered or surgery booked
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+imaging/labs/path reviewed
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+procedures performed
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h3 class="unnumbered" id="aphthous-ulcer-treatments">Aphthous ulcer
-treatments</h3>
-<p>triamcinolone acetonide with carboxymethylcellulose paste (Kenalog in
-Orabase)</p>
-<p>Fluocinonide (Lidex) gel</p>
-<p>Peridex mouthwash</p>
-<p>Aphthasol paste – Aphthasol oral paste is usually applied 4 times
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Always CC the corresponding MD at the end of the note with "CC: Andrew Scott, MD", and not with less formal approaches like "Dr. Scott, PCP"
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+<!-- Wein Clinic list end -->
+```
+```{=html}
+<h3 class="unnumbered" id="dr.-tracys-clinic">
+```
+Dr. Tracy's Clinic
+```{=html}
+</h3>
+```
+```{=html}
+<ol>
+```
+```{=html}
+<li>
+```
+Similar to Dr. O'Leary's clinic flow
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+<h3 class="unnumbered" id="burning-mouth-consults">
+```
+Burning Mouth Consults
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+`<em>`{=html}Dr. O'Leary's workup`</em>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+Obtain lab tests: ANA, SS-A, SS-B, TSH, fasting glucose, A1c, CBC w/ diff, ferritin, Vit B1, B2, B6, B12, folate, Mg2+, Zinc
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Biopsy if visible lesion
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Consider patch testing
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="aphthous-ulcer-treatments">
+```
+Aphthous ulcer
+treatments
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+triamcinolone acetonide with carboxymethylcellulose paste (Kenalog in
+Orabase)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Fluocinonide (Lidex) gel
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Peridex mouthwash
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Aphthasol paste -- Aphthasol oral paste is usually applied 4 times
 each day--usually after breakfast, lunch, and dinner, and at
-bedtime.</p>
-<p>Oral B12 melts (made by same company as Xylimelts)</p>
-<h3 class="unnumbered" id="inspire-consults">Inspire Consults</h3>
-<ul><li><p>Check diagnosis of sleep apnea: AHI, (must be btw 15-65 w/
-&lt;25% central apneas) date of sleep study (should be in last 3 years).
+bedtime.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Oral B12 melts (made by same company as Xylimelts)
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="inspire-consults">
+```
+Inspire Consults
+```{=html}
+</h3>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Check diagnosis of sleep apnea: AHI, (must be btw 15-65 w/
+\<25% central apneas) date of sleep study (should be in last 3 years).
 Ask previous nasal, palate, tonsil surgeries. Still having daytime
 fatigue. Check social hx: work history/driving problems. Ask about heart
-failure/afib</p></li><li><p>Patients must be &gt;21yo. BMI&lt;32</p></li><li><p>Check CPAP usage: &lt;4 hours/&lt;5days tolerated and reasons for
-poor tolerance (claustrophobia etc).</p></li><li><p>Contraindications: Pts w/ neuromuscular disorders or those who
-can’t operate the remote at night. Pregnant pts. Pts w/ complete
-concentric collapse of the soft palate of sleep endoscopy</p></li></ul>
-
-
-
-<h3 class="unnumbered" id="thyroid-nodules">Thyroid Nodules</h3>
-<ul><li><p>Nodules incidentally found on imaging </p>
+failure/afib
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Patients must be \>21yo. BMI\<32
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Check CPAP usage: \<4 hours/\<5days tolerated and reasons for
+poor tolerance (claustrophobia etc).
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Contraindications: Pts w/ neuromuscular disorders or those who
+can't operate the remote at night. Pregnant pts. Pts w/ complete
+concentric collapse of the soft palate of sleep endoscopy
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="thyroid-nodules">
+```
+Thyroid Nodules
+```{=html}
+</h3>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodules incidentally found on imaging 
+```{=html}
+</p>
+```
+```{=html}
 <ol type="A">
-<li><p>Should always be confirmed by Thyroid &amp; Cervical
-U/S </p></li>
-<li><p>Nodules &gt;1cm seen on PET scans that are confirmed on thyroid
-U/S should get an FNA </p></li>
-</ol></li><li><p>Initial workup of palpable or incidentally found nodules </p>
-<ul><li><p><strong>TSH </strong>[Free T<sub>4</sub>]
-and <strong>Ultrasound </strong> </p></li><li><p><strong>Normal or high TSH</strong> → no need for reuptake
-radionuclide cscan </p></li><li><p><strong>Low</strong> TSH → get a Iodine<sup>123</sup> or
-Technetium<sup>99</sup> reuptake scan </p>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Should always be confirmed by Thyroid & Cervical
+U/S 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodules \>1cm seen on PET scans that are confirmed on thyroid
+U/S should get an FNA 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Initial workup of palpable or incidentally found nodules 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}TSH `</strong>`{=html}\[Free T`<sub>`{=html}4`</sub>`{=html}\]
+and `<strong>`{=html}Ultrasound `</strong>`{=html} 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Normal or high TSH`</strong>`{=html} → no need for reuptake
+radionuclide cscan 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Low`</strong>`{=html} TSH → get a Iodine`<sup>`{=html}123`</sup>`{=html} or
+Technetium`<sup>`{=html}99`</sup>`{=html} reuptake scan 
+```{=html}
+</p>
+```
+```{=html}
 <ol type="1">
-<li><p>"Hot Nodule" → evaluate for hyperthyroidism </p></li>
-<li><p>"Cold Nodules" have a 5% risk of cancer and should get an
-ultrasound </p></li>
-<li><p>Multiple nodules? Evaluate each one separately. </p>
-<ul><li><p>If TSH low or normal. Get I<sup>123</sup> scan to see if there
-are autonomous nodules  </p></li><li><p>FNA iso or nonfunctioning nodules. </p></li><li><p>FNA </p>
-<ul><li><p>Don't bother if its completely cystic </p></li><li><p>Perform FNA if nodule is (A) &gt;2cm <strong> or </strong>(B) 
-&gt;1cm + suspicious features </p></li><li><p>Suspicious Ultrasound features (70% chance of malignancy) </p>
-<ul><li><p><strong><u>Hypo</u></strong>echoic - think hypOH DEAR ITS
-CANCER </p>
-<ul><li><p>partially cystic and iso/hyperechoic are less worrying features:
-perform FNA if &gt;1.5cm </p></li></ul>
-</li><li><p>Microcalcification or rim calcifications </p></li><li><p>Increased central vascularity </p></li><li><p>Tall than wide (think a Cachetic patient) = bad. Wider than tall
-(fat person) = good </p></li><li><p>Irregular margins </p></li></ul>
-
-
-
-
-<h4 class="unnumbered" id="bethesda-system---interpreting-results">Bethesda system -
-Interpreting Results</h4>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+"Hot Nodule" → evaluate for hyperthyroidism 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+"Cold Nodules" have a 5% risk of cancer and should get an
+ultrasound 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Multiple nodules? Evaluate each one separately. 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+If TSH low or normal. Get I`<sup>`{=html}123`</sup>`{=html} scan to see if there
+are autonomous nodules  
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+FNA iso or nonfunctioning nodules. 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+FNA 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Don't bother if its completely cystic 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Perform FNA if nodule is (A) \>2cm `<strong>`{=html} or `</strong>`{=html}(B) 
+\>1cm + suspicious features 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Suspicious Ultrasound features (70% chance of malignancy) 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}`<u>`{=html}Hypo`</u>`{=html}`</strong>`{=html}echoic - think hypOH DEAR ITS
+CANCER 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+partially cystic and iso/hyperechoic are less worrying features:
+perform FNA if \>1.5cm 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Microcalcification or rim calcifications 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Increased central vascularity 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Tall than wide (think a Cachetic patient) = bad. Wider than tall
+(fat person) = good 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Irregular margins 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h4 class="unnumbered" id="bethesda-system---interpreting-results">
+```
+Bethesda system -
+Interpreting Results
+```{=html}
+</h4>
+```
+```{=html}
 <ol start="4" type="A">
-<li><p>Malignant (99% risk) &amp; suspicious for malignancy (70%
-risk) </p>
-<ul><li><p>Go to Surgery   </p></li><li><p>Indeterminate cytology - Two types </p>
-<ul><li><p>Follicular neoplasm or suspicious for follicular neoplasm or
-Hurthle Cell (25% risk of malignancy) </p>
-<ul><li><p>Pretty much all of these are surgically excised. Affirma to
-supplement decision making </p></li><li><p>FLUS (follicular lesion of unknown significance) or Atypia of
-undetermined significance — 14% risk </p>
-<ul><li><p>Can observe or excise.  Affirma test can help you rule out
-malignancy </p></li><li><p>Surgery: if excision is planned - do a lobectomy unless there are
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Malignant (99% risk) & suspicious for malignancy (70%
+risk) 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Go to Surgery   
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Indeterminate cytology - Two types 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Follicular neoplasm or suspicious for follicular neoplasm or
+Hurthle Cell (25% risk of malignancy) 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Pretty much all of these are surgically excised. Affirma to
+supplement decision making 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+FLUS (follicular lesion of unknown significance) or Atypia of
+undetermined significance --- 14% risk 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Can observe or excise.  Affirma test can help you rule out
+malignancy 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Surgery: if excision is planned - do a lobectomy unless there are
 reasons in the history that make us more suspicious for
-malignancy  </p></li><li><p>Nondiagnostic—(around 1-4% risk):  </p>
-<ul><li><p>repeat U/S guided FNA. Most people wait ~3months but should
-repeat sooner if there are concerning U/S findings </p></li><li><p>Can excise if suspicious u/s findings or if its growth &gt;20% in
-2 directions </p></li><li><p>Benign — 2.5% risk </p>
-<ul><li><p>Follow up these patients </p>
-<ul><li><p>Suspicious U/S features: repeat U/S &amp; FNA within 12
-months </p></li><li><p>Otherwise repeat U/S in 12-24months and FNA if (a) growth &gt;20%
-in 2 directions or (b) nodule develops suspicious features </p></li><li><p>You can stop following any nodule that's had two benign cytology
-results. Its benign, get over it </p></li></ul>
-
-
+malignancy  
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nondiagnostic---(around 1-4% risk):  
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+repeat U/S guided FNA. Most people wait \~3months but should
+repeat sooner if there are concerning U/S findings 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Can excise if suspicious u/s findings or if its growth \>20% in
+2 directions 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Benign --- 2.5% risk 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Follow up these patients 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Suspicious U/S features: repeat U/S & FNA within 12
+months 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Otherwise repeat U/S in 12-24months and FNA if (a) growth \>20%
+in 2 directions or (b) nodule develops suspicious features 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+You can stop following any nodule that's had two benign cytology
+results. Its benign, get over it 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <ol start="5" type="I">
-<li><p>Follow Up </p>
-<ul><li><p>Nodules that met criteria for FNA but were benign: see
-above </p></li><li><p>Nodules that did not meet criteria for FNA </p></li><li><p>repeat U/S in 12-24months (you don't need to follow spongiform or
-purely cyst nodules) </p></li><li><p>Nodules that are &gt;4cm or cause compressive symptoms can be
-surgically removed </p></li><li><p>Preoperative: Guidelines recommend documentation of voice and
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Follow Up 
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodules that met criteria for FNA but were benign: see
+above 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodules that did not meet criteria for FNA 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+repeat U/S in 12-24months (you don't need to follow spongiform or
+purely cyst nodules) 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodules that are \>4cm or cause compressive symptoms can be
+surgically removed 
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Preoperative: Guidelines recommend documentation of voice and
 performing a FOE prior to Thyroid surgery on EVERY patient. Discuss risk
 of thyroid surgery to voice. Discuss findings of FOE w/
-anesthesia.</p></li><li><p>Perioperative: should identify RLN and SLN. Intraop nerve
-monitoring is optional. No opinion on decadron</p></li><li><p>Postop: should perform FOE on patients w/ voice change post op.
+anesthesia.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Perioperative: should identify RLN and SLN. Intraop nerve
+monitoring is optional. No opinion on decadron
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Postop: should perform FOE on patients w/ voice change post op.
 If abnormal voice or VF mobility abnormality, patients should f/u with
-SLP</p></li></ul>
-
-
-
-id="improving-voice-outcomes-after-thyroid-surgery-clinical-practice-guideline"&gt;Improving
-Voice Outcomes after Thyroid Surgery – Clinical Practice Guideline
-
-
-
-<h3 class="unnumbered" id="adult-neck-mass-clinical-practice-guideline">Adult Neck Mass –
-Clinical Practice Guideline</h3>
-<ul><li><p>Don’t routinely give antibiotics unless other signs of infection
-exist</p></li><li><p>Suspicious if: present for &gt;2 weeks w/o change in size
-<u>or</u> if on exam mass is (1) fixed to adjacent structure (2) firm
-(3) &gt;1.5cm or (4) has ulceration of overlying skin <u>or</u> history
-highly suspicious</p>
-<ul><li><p>In these patients, do targeted physical exam (FOE etc)</p></li><li><p>Strongly recommend CT neck (U/S or MRI ok) or performing an FNA
-on these suspicious neck masses</p>
-<ul><li><p>FNA should be done INSTEAD of an open biopsy</p></li><li><p>Cystic masses: don’t assume that they are benign</p></li><li><p>If testing is negative:</p>
-<ul><li><p>Can either with open biopsy (should <u>always</u> be done with a
-direct laryngoscopy)</p></li><li><p>Or could do additional testing (CBC, ANA, SSA/SSB, ESR, TSH, PTH,
-EBV,CMV, PPD, Bartonella, Thyroid U/S, CT chest /w contrast,
-Thyroglobulin FNA-needle wash assay</p></li></ul>
-
-<h3 class="unnumbered" id="nerve-sheath-tumors">Nerve Sheath Tumors</h3>
-<h4 class="unnumbered" id="paragangliomas-glomus-tumors">Paragangliomas
-(Glomus tumors)</h4>
-<p>Glomus Jugulare: supplied by ascending pharyngeal a.</p>
-<p>Glomus Tympanicum: arise from Jacobson’s nerve (CNIX)</p>
-<p>Carotid Body: MC in H&amp;N: internal carotid posterior and external
-carotid anteriorly (Lyre sign)</p>
-<p>Vagal paraganglioma: Displaces carotid anteriorly and medially</p>
-<h3 class="unnumbered" id="salivary-glands">Salivary Glands</h3>
-<p>Innervation:</p>
-<ul>
-<li>Sup. Salivary nuc → GSPN (pregang. parasymp.) [CN7] → pterygopalatine ganglion → lacrimal</li>
-<li>Inf. Salivary nuc → Lesser petrosal [CN9] → Otic ganglion → auriculotemporal n. → parotid</li>
-<li>Sup. Salivary nuc → Corda Tympani [CN7] → Submandibular ganglion → submandibular gland</li>
+SLP
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
 </ul>
-<h3 class="unnumbered" id="melanoma">Melanoma</h3>
-<ul><li><p>Ask about:</p>
-<ul><li><p>Sunlight exposure, history of skin burns, family history
+```
+id="improving-voice-outcomes-after-thyroid-surgery-clinical-practice-guideline"\>Improving
+Voice Outcomes after Thyroid Surgery -- Clinical Practice Guideline
+
+```{=html}
+<h3 class="unnumbered" id="adult-neck-mass-clinical-practice-guideline">
+```
+Adult Neck Mass --
+Clinical Practice Guideline
+```{=html}
+</h3>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Don't routinely give antibiotics unless other signs of infection
+exist
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Suspicious if: present for \>2 weeks w/o change in size
+`<u>`{=html}or`</u>`{=html} if on exam mass is (1) fixed to adjacent structure (2) firm
+(3) \>1.5cm or (4) has ulceration of overlying skin `<u>`{=html}or`</u>`{=html} history
+highly suspicious
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+In these patients, do targeted physical exam (FOE etc)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Strongly recommend CT neck (U/S or MRI ok) or performing an FNA
+on these suspicious neck masses
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+FNA should be done INSTEAD of an open biopsy
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Cystic masses: don't assume that they are benign
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+If testing is negative:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Can either with open biopsy (should `<u>`{=html}always`</u>`{=html} be done with a
+direct laryngoscopy)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Or could do additional testing (CBC, ANA, SSA/SSB, ESR, TSH, PTH,
+EBV,CMV, PPD, Bartonella, Thyroid U/S, CT chest /w contrast,
+Thyroglobulin FNA-needle wash assay
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="nerve-sheath-tumors">
+```
+Nerve Sheath Tumors
+```{=html}
+</h3>
+```
+```{=html}
+<h4 class="unnumbered" id="paragangliomas-glomus-tumors">
+```
+Paragangliomas
+(Glomus tumors)
+```{=html}
+</h4>
+```
+```{=html}
+<p>
+```
+Glomus Jugulare: supplied by ascending pharyngeal a.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Glomus Tympanicum: arise from Jacobson's nerve (CNIX)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Carotid Body: MC in H&N: internal carotid posterior and external
+carotid anteriorly (Lyre sign)
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+Vagal paraganglioma: Displaces carotid anteriorly and medially
+```{=html}
+</p>
+```
+```{=html}
+<h3 class="unnumbered" id="salivary-glands">
+```
+Salivary Glands
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+Innervation:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+Sup. Salivary nuc → GSPN (pregang. parasymp.) \[CN7\] → pterygopalatine ganglion → lacrimal
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Inf. Salivary nuc → Lesser petrosal \[CN9\] → Otic ganglion → auriculotemporal n. → parotid
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+Sup. Salivary nuc → Corda Tympani \[CN7\] → Submandibular ganglion → submandibular gland
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<h3 class="unnumbered" id="melanoma">
+```
+Melanoma
+```{=html}
+</h3>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Ask about:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Sunlight exposure, history of skin burns, family history
 (xeroderma pigmentosum, familial atypical multiple mole melanoma
-syndrome, dysplastic nevus syndrome)</p></li><li><p>Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
-not prognostic )</p>
-<ul><li><p>Asymmetry, Borders are irregular. Color is not uniform. Diameter
-&gt; 6 mm.</p></li><li><p>Workup:</p>
-<ul><li><p>Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
+syndrome, dysplastic nevus syndrome)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
+not prognostic )
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Asymmetry, Borders are irregular. Color is not uniform. Diameter
+\> 6 mm.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Workup:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
 can do punch biopsy however this is subject to sampling error so if
 negative, strongly consider repeating. This will give you information to
-perform the wide local excision later.</p></li><li><p>Patients with:</p></li><li><p>Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
-for liver mets)</p></li><li><p>Palpable LNs or imaging findings for enlarged LNs: get U/S guided
-FNA to eval for metastatic LN disease</p></li><li><p>Stage III disease: some advocate for CT C/A/P to look for distant
-mets (CT chest is most important)</p></li><li><p>Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
-trials</p></li><li><p>Prognosis depends on variant: worse with ↑Breslow Depth,
-ulceration, M&gt;F, and Head/Neck location</p>
-<ul><li><p>Occiput and cheek most common sites of H&amp;N</p></li><li><p>Markers</p>
-<ul><li><p>HMB-45 (specific). S-100 sensitive. Melan A. MART-1</p></li><li><p>Variants include</p>
-<ul><li><p>Superficial spreading—most common subtype; dominant early radial
-growth results in good prognosis.</p></li><li><p>Lentigo maligna melanoma (LMM)—lentiginous proliferation (radial
+perform the wide local excision later.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Patients with:
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
+for liver mets)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Palpable LNs or imaging findings for enlarged LNs: get U/S guided
+FNA to eval for metastatic LN disease
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Stage III disease: some advocate for CT C/A/P to look for distant
+mets (CT chest is most important)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
+trials
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Prognosis depends on variant: worse with ↑Breslow Depth,
+ulceration, M\>F, and Head/Neck location
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Occiput and cheek most common sites of H&N
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Markers
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+HMB-45 (specific). S-100 sensitive. Melan A. MART-1
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Variants include
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Superficial spreading---most common subtype; dominant early radial
+growth results in good prognosis.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Lentigo maligna melanoma (LMM)---lentiginous proliferation (radial
 growth); best prognosis. Associated with sun-exposed skin and the
-elderly</p></li><li><p>Nodular—blue/blackish, looks like hemangiomaearly vertical
-growth; poor prognosis</p></li><li><p>Acral lentiginous—arises on the palms or soles, often in
-dark-skinned individuals; not related to UV light exposure</p></li><li><p>Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
-High rate of recurrence</p></li><li><p>Clark levels: <u>only useful for prognosis in T1 lesions.</u></p>
-<ul><li><p><strong>epidermis</strong> only = stage I.</p></li><li><p><strong>Into papillary</strong> dermis = II.</p></li><li><p><strong>All of papillary</strong> dermis =III.</p></li><li><p>Invades <strong>reticular</strong> dermis = IV.</p></li><li><p>Into <strong>subcutaneous</strong> tissue: V</p></li><li><p>Melanoma TNM Staging</p></li></ul>
-
-
-
-
-
+elderly
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Nodular---blue/blackish, looks like hemangiomaearly vertical
+growth; poor prognosis
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Acral lentiginous---arises on the palms or soles, often in
+dark-skinned individuals; not related to UV light exposure
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
+High rate of recurrence
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Clark levels: `<u>`{=html}only useful for prognosis in T1 lesions.`</u>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}epidermis`</strong>`{=html} only = stage I.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}Into papillary`</strong>`{=html} dermis = II.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+`<strong>`{=html}All of papillary`</strong>`{=html} dermis =III.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Invades `<strong>`{=html}reticular`</strong>`{=html} dermis = IV.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Into `<strong>`{=html}subcutaneous`</strong>`{=html} tissue: V
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Melanoma TNM Staging
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <table>
+```
+```{=html}
 <colgroup>
+```
+```{=html}
 <col style="width: 36%"/>
+```
+```{=html}
 <col style="width: 31%"/>
+```
+```{=html}
 </colgroup>
+```
+```{=html}
 <thead>
+```
+```{=html}
 <tr class="header">
-<th></th>
-<th>N0</th>
-<th>N1</th>
+```
+```{=html}
+<th>
+```
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+N0
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+N1
+```{=html}
+</th>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </thead>
+```
+```{=html}
 <tbody>
+```
+```{=html}
 <tr class="odd">
-<td>T1a</td>
-<td>IA</td>
-<td>III</td>
+```
+```{=html}
+<td>
+```
+T1a
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IA
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+III
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr class="even">
-<td>T1b</td>
-<td>IB</td>
-<td>T2a</td>
-<td>T2b</td>
-<td>IIA</td>
-<td>T3a</td>
-<td>T3b</td>
-<td>IIB</td>
-<td>T4a</td>
-<td>T4b</td>
-<td>IIC</td>
+```
+```{=html}
+<td>
+```
+T1b
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IB
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T2a
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T2b
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IIA
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T3a
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T3b
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IIB
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T4a
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+T4b
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+IIC
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </tbody>
+```
+```{=html}
 </table>
-<p>Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%</p>
-<ul><li><p>Treatment</p>
-<ul><li><p>Surgical margins</p></li></ul>
+```
+```{=html}
+<p>
+```
+Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Treatment
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Surgical margins
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 <blockquote>
-<p>Tis = 0.5mm margin</p>
-<p>T1 (&lt;1mm) = 1cm margin.</p>
-<p>T2 (1-2mm): do 1-2cm margin</p>
-<p>T3+ (&gt;2mm): do 2cm</p>
+```
+```{=html}
+<p>
+```
+Tis = 0.5mm margin
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T1 (\<1mm) = 1cm margin.
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T2 (1-2mm): do 1-2cm margin
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+T3+ (\>2mm): do 2cm
+```{=html}
+</p>
+```
+```{=html}
 </blockquote>
+```
+```{=html}
 <ol start="2" type="A">
-<li><p>T2/T3/T4</p>
-<ul><li><p>Adjuvant: may consider interferon alpha 2b (Stage III+)</p></li><li><p>N0 neck: consider sentinel LN biopsy (SLNB). Especially if</p>
-<ul><li><p>&lt;60 yo especially for tumors w/o ulceration, Ulceration, High
-mitotic rate, Angiolymphatic invasion, Clark level IV</p></li><li><p>N1-N3: Neck dissection</p>
-<ul><li><p>Superficial parotidectomy + MRND if primary location is:
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+T2/T3/T4
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Adjuvant: may consider interferon alpha 2b (Stage III+)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+N0 neck: consider sentinel LN biopsy (SLNB). Especially if
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+\<60 yo especially for tumors w/o ulceration, Ulceration, High
+mitotic rate, Angiolymphatic invasion, Clark level IV
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+N1-N3: Neck dissection
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Superficial parotidectomy + MRND if primary location is:
 anterior/lateral scalp, temple, lateral forehead, lateral cheek , ear
-(basically anything anterior to the plane of the EACs)</p></li><li><p>Level II-V neck dissection: If primary is scalp/occiput posterior
-to the coronal plane of the EACs.</p></li><li><p>Special considerations:</p>
-<ul><li><p>Lentigo maligna melanoma (LMM) — tends to have subclinical spread
+(basically anything anterior to the plane of the EACs)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Level II-V neck dissection: If primary is scalp/occiput posterior
+to the coronal plane of the EACs.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Special considerations:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Lentigo maligna melanoma (LMM) --- tends to have subclinical spread
 (often has positive margins). After resection, take a circumferential
-"square" margin (Anderson et al. Johnson et al.)</p></li><li><p>Chemo:</p>
-<ul><li><p>Interferon alpha-2b — use for stage III, consider for T2+
-lesions. Can cause hepatic and cardiac toxicity.</p></li><li><p>Dacarbazine (DTIC) — stage IV</p></li><li><p>Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy</p>
-<ul><li><p>2-4 hours preop, patients get radioactive colloid into melanoma.
+"square" margin (Anderson et al. Johnson et al.)
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Chemo:
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Interferon alpha-2b --- use for stage III, consider for T2+
+lesions. Can cause hepatic and cardiac toxicity.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Dacarbazine (DTIC) --- stage IV
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy
+```{=html}
+</p>
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+```{=html}
+<p>
+```
+2-4 hours preop, patients get radioactive colloid into melanoma.
 Inject methylene blue into melanoma (dermis). Dissect out the hottest
 radiactive node and all other nodes that are above 10% of the cpm value
-of the hottest node.</p></li></ul>
-<p><a href="../index.html">Back to homepage</a></p>
-</li></ul>
-
-</li></ul>
-</li></ul>
-
-</li></ul>
-</li></ul>
-</li></ol></li></ul></li></ul>
-
-
-
-
-</li></ul>
-</li></ul>
-</li></ul>
-
-
-
-
-
-</li></ul>
-</li></ul>
-</li></ul></li></ul>
-
-</li></ul>
-</li></ul>
-</li></ol></li></ul></li></ul>
-
-</li></ul>
-
-</li></ul>
-</li></ul></li></ul>
-</li></ol></li></ul>
-
-</li></ul>
-
-</li></ol></li></ul>
-
-</li></ul>
+of the hottest node.
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+<p>
+```
+`<a href="../index.html">`{=html}Back to homepage`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ol>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```

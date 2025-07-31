@@ -2,11 +2,51 @@
 layout: default
 title: Head &amp; Neck Surgery
 ---
+```{=html}
 <ul>
-      <li><a href="clinic-guide.html">Clinic Guide</a></li>
-      <li><a href="squamous-cell-carcinoma.html">Squamous Cell Carcinoma</a></li>
-      <li><a href="follow-up-guide.html">Post-H&amp;N Cancer Follow-up Guide</a></li>
-      <li><a href="or-guide.html">OR Guide</a></li>
-      <li><a href="post-op-guide.html">Post-op Guide</a></li>
-      <li><a href="staging-8th-edition.html">Staging - 8th Edition</a></li>
-    </ul>
+```
+```{=html}
+<li>
+```
+`<a href="clinic-guide.html">`{=html}Clinic Guide`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+`<a href="squamous-cell-carcinoma.html">`{=html}Squamous Cell Carcinoma`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+`<a href="follow-up-guide.html">`{=html}Post-H&N Cancer Follow-up Guide`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+`<a href="or-guide.html">`{=html}OR Guide`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+`<a href="post-op-guide.html">`{=html}Post-op Guide`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+`<a href="staging-8th-edition.html">`{=html}Staging - 8th Edition`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
