@@ -1,20 +1,22 @@
+
 ---
-layout: default
+
+## layout: default
 title: Facial Trauma Guide
----
+
 <h4 class="unnumbered" id="guidelines">Guidelines </h4>
 <!-- Trauma guidelines list start -->
 <ol>
-  <li>Not all traumas need to be seen by ENT service when resident is not in house</li>
-  <li>On call resident must be called for all fractures as per previous ED practice</li>
-  <li>All imaging must be reviewed by on call resident at time of call</li>
-  <li>As outlined below, Category 1 patients do not need to be seen, unless deemed necessary by Resident after reviewing imaging. On call Resident will see every patient in Category 2.</li>
-  <li>ALL pediatric facial trauma should be seen in ED, regardless of category (Pediatric Trauma service should be consulted as well)</li>
-  <li>All trauma consults that come in from 7 am to 5 pm will be seen, regardless of Category.</li>
-  <li>All fractures, even if Category 1, will be seen in ED if they have lacerations that require ENT repair</li>
-  <li>Any patient transferred to Tufts from OSH for ENT/Facial trauma evaluation must be seen ED</li>
-  <li>Any patient with specific concern raised by ED attending will be seen in ED</li>
-  <li>All outpatients/discharges should have followed up scheduled within 1 week of trauma as outlined below – Resident will coordinate this and provide information to the ED</li>
+<li>Not all traumas need to be seen by ENT service when resident is not in house</li>
+<li>On call resident must be called for all fractures as per previous ED practice</li>
+<li>All imaging must be reviewed by on call resident at time of call</li>
+<li>As outlined below, Category 1 patients do not need to be seen, unless deemed necessary by Resident after reviewing imaging. On call Resident will see every patient in Category 2.</li>
+<li>ALL pediatric facial trauma should be seen in ED, regardless of category (Pediatric Trauma service should be consulted as well)</li>
+<li>All trauma consults that come in from 7 am to 5 pm will be seen, regardless of Category.</li>
+<li>All fractures, even if Category 1, will be seen in ED if they have lacerations that require ENT repair</li>
+<li>Any patient transferred to Tufts from OSH for ENT/Facial trauma evaluation must be seen ED</li>
+<li>Any patient with specific concern raised by ED attending will be seen in ED</li>
+<li>All outpatients/discharges should have followed up scheduled within 1 week of trauma as outlined below – Resident will coordinate this and provide information to the ED</li>
 </ol>
 <!-- Trauma guidelines list end -->
 <h4 class="unnumbered" id="timing-of-trauma-follow-up">Timing of Trauma
@@ -54,24 +56,24 @@ Follow up </h4>
 id="category-1-facial-fractures-that-do-not-require-evaluation-in-the-ed">Category
 1: Facial fractures that do not require evaluation in the ED</h4>
 <ol>
-  <li>Nasal bone fracture w/o concern for septal hematoma</li>
-  <li>Maxillary sinus fractures</li>
-  <li>Zygomatic arch fracture</li>
-  <li>Orbital floor fracture (has been evaluated by Ophtho and IOP/fundoscopic exam/visual acuity normal and no subjective vision complaints <strong>ie no entrapment)</strong></li>
-  <li>Mandible fracture (non displaced and no intraoral lacerations)</li>
-  <li>ZMC fracture (if concomitant floor component then same rules as #4 apply)</li>
-  <li>Medial orbital wall/ lamina papyracea fractures with no visual complaints and normal Ophthalmology evaluation</li>
-  <li>Lateral orbital wall fractures with no visual complaints and normal Ophthalmology evaluation</li>
-  <li>Frontal process of maxilla</li>
-  <li>Isolated anterior nasal spine</li>
+<li>Nasal bone fracture w/o concern for septal hematoma</li>
+<li>Maxillary sinus fractures</li>
+<li>Zygomatic arch fracture</li>
+<li>Orbital floor fracture (has been evaluated by Ophtho and IOP/fundoscopic exam/visual acuity normal and no subjective vision complaints <strong>ie no entrapment)</strong></li>
+<li>Mandible fracture (non displaced and no intraoral lacerations)</li>
+<li>ZMC fracture (if concomitant floor component then same rules as #4 apply)</li>
+<li>Medial orbital wall/ lamina papyracea fractures with no visual complaints and normal Ophthalmology evaluation</li>
+<li>Lateral orbital wall fractures with no visual complaints and normal Ophthalmology evaluation</li>
+<li>Frontal process of maxilla</li>
+<li>Isolated anterior nasal spine</li>
 </ol>
 <h4 class="unnumbered" id="category-2-facial-fractures-requiring-evaluation-in-the-ed">Category 2: Facial fractures requiring evaluation in the ED</h4>
 <ol>
-  <li>Nasal bone fracture with concern for septal hematoma</li>
-  <li>Orbital floor fracture with abnormal Ophthalmologic exam or subjective visual complaints</li>
-  <li>Mandible fractures (w/ Intraoral lacerations requiring repair, bilateral condylar fractures or concern for airway, or displaced/mobile segments that may require bridle wiring)</li>
-  <li>All LeFort fractures</li>
-  <li>All frontal sinus fractures</li>
+<li>Nasal bone fracture with concern for septal hematoma</li>
+<li>Orbital floor fracture with abnormal Ophthalmologic exam or subjective visual complaints</li>
+<li>Mandible fractures (w/ Intraoral lacerations requiring repair, bilateral condylar fractures or concern for airway, or displaced/mobile segments that may require bridle wiring)</li>
+<li>All LeFort fractures</li>
+<li>All frontal sinus fractures</li>
 </ol>
 <h4 class="unnumbered" id="category-3-temporal-bone-fractures">Category
 3: Temporal bone fractures</h4>
@@ -98,7 +100,7 @@ fork,</p></li>
 <h2 class="unnumbered"
 id="mandible-fractures-and-their-management">Mandible Fractures and
 their management</h2>
-<p><img src="media/image2.png" style="width:4.23333in;height:3.04514in" alt="Head [Condyle): rare. Some savMMF contra- indicated dueto riskofTMJ a n kvlosis&amp; rec Soft Diet on&quot;/ 0th ers sav 24 wksof MM F Nec k/SubcondyIar•. MM Fx2w ks th en Ewks elastics Can doORIF Coronoid: Coronoid process 2 % 6.7 Rara Do not need treatment Dentoalveolar: MMF only Ramus 3 % Ramus/AngIe: M Add ORIF if unfavorableor displaced (u peds) Treatment Guidelines: -MMF is 6 weeks. flu in @lwk to check occlusion, @3-4wk to remove interdentals &amp; replace w/ elastics. -Abx: open fx (til surgery) &amp; after ORIF (7days) -Pull teeth: if tooth/root is fx&#39;d, tooth is lux in socket, Save if only crown fxd, pulp exposed. Unfavorable Angle Body: Add ORIF if unfavorab•leor d $læed (unlesspeds) Favorable BOdy25% yseal / Mental 15% Symphyseal/parasymphyseal: Typicalb/ORIF&amp; M No ORIF in pediatrics Inok for fxs " /></p>
+<p><img src="media/image2.png" style="width:4.23333in;height:3.04514in" alt="Head \[Condyle): rare. Some savMMF contra- indicated dueto riskofTMJ a n kvlosis& rec Soft Diet on"/ 0th ers sav 24 wksof MM F Nec k/SubcondyIar•. MM Fx2w ks th en Ewks elastics Can doORIF Coronoid: Coronoid process 2 % 6.7 Rara Do not need treatment Dentoalveolar: MMF only Ramus 3 % Ramus/AngIe: M Add ORIF if unfavorableor displaced (u peds) Treatment Guidelines: -MMF is 6 weeks. flu in @lwk to check occlusion, @3-4wk to remove interdentals & replace w/ elastics. -Abx: open fx (til surgery) & after ORIF (7days) -Pull teeth: if tooth/root is fx'd, tooth is lux in socket, Save if only crown fxd, pulp exposed. Unfavorable Angle Body: Add ORIF if unfavorab•leor d $læed (unlesspeds) Favorable BOdy25% yseal / Mental 15% Symphyseal/parasymphyseal: Typicalb/ORIF& M No ORIF in pediatrics Inok for fxs " /></p>
 <p>In general: Locking plates: preferred because they are less likely to
 bring segments of bone towards the plate when screwing</p>
 <h4 class="unnumbered" id="mandible-fracture-plates">Mandible Fracture
@@ -128,4 +130,4 @@ are often edentulous. splint with</p>
 <p>7–11 years, the primary molars and incisors may be used for
 fixation.</p>
 <p>9–12 years—MMF w/ arch bars.</p>
-  <p><a href="index.html">Back to homepage</a></p>
+<p><a href="index.html">Back to homepage</a></p>
