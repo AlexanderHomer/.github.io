@@ -3,10 +3,10 @@ layout: default
 title: Weekly Routines
 ---
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Monday`</b>: [ ]{style="mso-tab-count:1"}PGY-2 sends out final radiology rounds list
+<b>Monday</b>: [ ]{style="mso-tab-count:1"}PGY-2 sends out final radiology rounds list
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Tuesday`</b>:[  ]{style="mso-tab-count:1"}
+<b>Tuesday</b>:[  ]{style="mso-tab-count:1"}
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:.2in">
 Attending on-call
@@ -17,7 +17,7 @@ PGY-4 reminds
 on-call attending re mock orals the next day)
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Wednesday`</b>
+<b>Wednesday</b>
 (didactic day)
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
@@ -46,26 +46,26 @@ run by PGY-4 or PGY-5
 [       ]{style="mso-tab-count:1"}4-6pm: Didactics
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Thursday`</b>
+<b>Thursday</b>
 (8:30am OR start): 7:00-8am: Article review (led by PGY-4/PGY-5)
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Friday`</b>:
+<b>Friday</b>:
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:.1in">
 PGY-5 e-mails out
 weekly schedule.[  ]{style="mso-spacerun:yes"}
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Saturday`</b>:
+<b>Saturday</b>:
 nothing
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
-`<b>Sunday`</b>: PGY-2
+<b>Sunday</b>: PGY-2
 sends out prelim radiology rounds list
 </p>
 <p class="MsoNormal" style="margin-left:0in;text-indent:0in">
 </p>
 <p>
-`<a href='index.html'>Back to homepage`</a>
+<a href='index.html'>Back to homepage</a>
 </p>

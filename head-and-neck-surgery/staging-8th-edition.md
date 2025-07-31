@@ -4,7 +4,7 @@ title: Head &amp; Neck Staging - 8th Edition
 ---
 <h2 class="unnumbered" id="head-neck-staging---8th-edition">
 Head &
-Neck Staging - 8`<sup>th`</sup> Edition
+Neck Staging - 8<sup>th</sup> Edition
 </h2>
 <ul>
 <li>
@@ -70,21 +70,21 @@ N1
 </p>
 </td>
 <td>
-`<strong>Single`</strong> ipsilateral, \<3cm,
-ENE`<sub>negative`</sub>
+<strong>Single</strong> ipsilateral, \<3cm,
+ENE<sub>negative</sub>
 </td>
 <td>
 N2
 </td>
 <td>
 <p>
-N2`<sub>ALL`</sub>: \<6cm, ENE`<sub>negative`</sub>
+N2<sub>ALL</sub>: \<6cm, ENE<sub>negative</sub>
 </p>
 <p>
 N2a: single, ipsilateral
 </p>
 <p>
-N2b: `<strong>multiple,`</strong> ipsilateral
+N2b: <strong>multiple,</strong> ipsilateral
 </p>
 <p>
 N2c: bilateral/contralateral
@@ -98,7 +98,7 @@ N3
 N3a: \>6cm
 </p>
 <p>
-N3b: ENE`<sub>positive`</sub>
+N3b: ENE<sub>positive</sub>
 </p>
 </td>
 <li>
@@ -112,7 +112,7 @@ For Nasopharyngeal and P16 positive
 HPV Positive
 </th>
 <td>
-ipsilateral `<strong>\<6cm`</strong>
+ipsilateral <strong>\<6cm</strong>
 </td>
 <td>
 Contralateral/bilateral \<6cm
@@ -251,17 +251,17 @@ Skull base
 Carotid
 </p>
 <p>
-\*note similarities to T4b of p16`<sub>neg`</sub> OPC
+\*note similarities to T4b of p16<sub>neg</sub> OPC
 </p>
 </td>
 <p>
-`<img alt="" src="../media/image31.emf" style="width:1.79653in;height:1.52526in"/> 
+<img alt="" src="../media/image31.emf" style="width:1.79653in;height:1.52526in"/> 
 </p>
 <h3 class="unnumbered" id="oropharyngeal">
 OROPHARYNGEAL
 </h3>
 <p>
-`<strong>HPV Neg (p16-) and HPV Pos`</strong>
+<strong>HPV Neg (p16-) and HPV Pos</strong>
 </p>
 <col style="width: 16%"/>
 <col style="width: 43%"/>
@@ -324,10 +324,10 @@ Mandible
 </ul>
 <td>
 <p>
-`<strong>T4a`</strong> - Same
+<strong>T4a</strong> - Same
 </p>
 <p>
-`<strong>T4b`</strong> - Invades
+<strong>T4b</strong> - Invades
 </p>
 <ul>
 <li>
@@ -361,8 +361,8 @@ Clinical N staging
 <col style="width: 38%"/>
 <col style="width: 42%"/>
 <p>
-`<strong>Note: ECE`</strong> automatically `<strong>bumps you up a N
-stage in the `<u>pathological N grading system`</u>`</strong> (not
+<strong>Note: ECE</strong> automatically <strong>bumps you up a N
+stage in the <u>pathological N grading system</u></strong> (not
 shown).
 </p>
 <p>
@@ -520,7 +520,7 @@ Mediastinum
 </li>
 </ul>
 <p>
-`<img alt="" src="../media/image32.png" style="width:1.85124in;height:1.97204in"/> 
+<img alt="" src="../media/image32.png" style="width:1.85124in;height:1.97204in"/> 
 </p>
 <p>
 In general, for Laryngeal Cancer
@@ -656,7 +656,7 @@ Cannot extend to esophageus or cause VF fixation
 </p>
 </td>
 <td>
-\>4cm OR invades `<strong>esophageus`</strong> OR causes VF
+\>4cm OR invades <strong>esophageus</strong> OR causes VF
 fixation
 </td>
 <ul>
@@ -778,14 +778,14 @@ Nasopharynx
  NASOPHARYNGEAL CA
 </h3>
 <p>
-`<strong>WHO Type I`</strong> - Keratinizing SCCA
+<strong>WHO Type I</strong> - Keratinizing SCCA
 </p>
 <p>
-`<strong>WHO Type II`</strong> - Nonkerating SCCA (associated with EBV,
+<strong>WHO Type II</strong> - Nonkerating SCCA (associated with EBV,
 better prognosis)
 </p>
 <p>
-`<strong>WHO Type III`</strong> - Undifferentiated CA
+<strong>WHO Type III</strong> - Undifferentiated CA
 </p>
 <td>
 Nasopharynx/nasal cavity
@@ -922,7 +922,7 @@ T4b: invading into carotid/mediastinum/RLN
 Thyroid cancer staging
 </p>
 <p>
-`<strong>Only `<u>\>55 years old`</u>`</strong>: those \<55yo are
+<strong>Only <u>\>55 years old</u></strong>: those \<55yo are
 Stage I unless they have mets, then they are stage II
 </p>
 <p>
@@ -938,34 +938,34 @@ etc)
 <col style="width: 22%"/>
 <col style="width: 77%"/>
 <th>
- `<em>T category`</em>
+ <em>T category</em>
 </th>
 <td>
-`<em>T1`</em>
+<em>T1</em>
 </td>
 <td>
 \<2cm
 </td>
 <td>
-`<em>T2`</em>
+<em>T2</em>
 </td>
 <td>
 <p>
 2-4cm
 </p>
 <td>
-`<em>T3`</em>
+<em>T3</em>
 </td>
 <td>
-\>4cm or `<strong>DOI \>6mm`</strong> or Perineural/minor bone
+\>4cm or <strong>DOI \>6mm</strong> or Perineural/minor bone
 invasion
 </td>
 <td>
 <p>
-`<em>T4a`</em>
+<em>T4a</em>
 </p>
 <p>
-`<em>T4b`</em>
+<em>T4b</em>
 </p>
 </td>
 <td>
@@ -983,10 +983,10 @@ Tumor with skull base/foramina invasion
  MELANOMA (SKIN)
 </h3>
 <p>
- `<strong>a/b/c classification`</strong>
+ <strong>a/b/c classification</strong>
 </p>
 <p>
-T stage: IF `<strong>ulceration`</strong> stage is `<strong>B`</strong>
+T stage: IF <strong>ulceration</strong> stage is <strong>B</strong>
 (as in T2-\>T2b)
 </p>
 <p>
@@ -1034,7 +1034,7 @@ N stage
             </p>
             </td>
             <td>
-            `<strong>N1`</strong>
+            <strong>N1</strong>
             </td>
             <td>
             1 node
@@ -1044,7 +1044,7 @@ N stage
             1-2mm thick
             </p>
             <td>
-            `<strong>N2`</strong>
+            <strong>N2</strong>
             </td>
             <td>
             2-3 nodes
@@ -1053,7 +1053,7 @@ N stage
             2-4mm thick
             </td>
             <td>
-            `<strong>N3`</strong>
+            <strong>N3</strong>
             </td>
             <td>
             4+ nodes, matted nodes, or in transit mets
@@ -1087,7 +1087,7 @@ N stage
             </p>
             </td>
             <td>
-            `<strong>M1`</strong>
+            <strong>M1</strong>
             </td>
             <td>
             Any mets
@@ -1097,10 +1097,10 @@ N stage
             prevertebral space
             </td>
             <p>
-            `<img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="../media/image33.png" style="width:1.88969in;height:2.90093in"/>
+            <img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="../media/image33.png" style="width:1.88969in;height:2.90093in"/>
             </p>
             <p>
-            `<a href="../index.html">Back to homepage`</a>
+            <a href="../index.html">Back to homepage</a>
             </p>
             </td>
             </td>

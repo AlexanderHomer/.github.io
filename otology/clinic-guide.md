@@ -38,7 +38,7 @@ Keep the plans short. Put a plan for each problem listed.
 <ul>
 <li>
 <p>
-`<img alt="" src="../media/image3.png" style="width:1.16111in;height:1.14028in" />including discussions regarding dry ear precautions. Put observation if no specific plan was proposed
+<img alt="" src="../media/image3.png" style="width:1.16111in;height:1.14028in" />including discussions regarding dry ear precautions. Put observation if no specific plan was proposed
 </p>
 </li>
 </ul>
@@ -60,28 +60,28 @@ Audiology
 <ul>
 <li>
 <p>
-`<strong>PTA (pure tone)`</strong>: Hearing sensitivity at 500,1000,2000Hz
+<strong>PTA (pure tone)</strong>: Hearing sensitivity at 500,1000,2000Hz
 </p>
 </li>
 <li>
 <p>
-`<strong>SRT`</strong> - lowest threshold `<strong>spondee`</strong> can be repeated 50% of time
+<strong>SRT</strong> - lowest threshold <strong>spondee</strong> can be repeated 50% of time
 </p>
 </li>
 <li>
 <p>
-`<strong>WRS (word rec)`</strong> - % correct of a 50 word list of `<u>monosyllabic phonetically balanced words.`</u> Given at 40dB greater than SRT
+<strong>WRS (word rec)</strong> - % correct of a 50 word list of <u>monosyllabic phonetically balanced words.</u> Given at 40dB greater than SRT
 </p>
 </li>
 <li>
 <p>
-`<strong>Hearing loss levels:`</strong> go down by 15dB starting at \<25dB
+<strong>Hearing loss levels:</strong> go down by 15dB starting at \<25dB
 </p>
 </li>
 </ul>
 <blockquote>
 <p>
-`<img alt="" src="../media/image4.emf" style="width:1.65347in;height:1.54792in" />`<strong>Audiogram symbols`</strong>: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)
+<img alt="" src="../media/image4.emf" style="width:1.65347in;height:1.54792in" /><strong>Audiogram symbols</strong>: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)
 </p>
 </blockquote>
 <h4 class="unnumbered" id="audiogram-patterns">
@@ -90,22 +90,22 @@ Audiogram Patterns
 <ol type="A">
 <li>
 <p>
-`<strong>2kHz notch`</strong> (air-bone) otosclerosis
+<strong>2kHz notch</strong> (air-bone) otosclerosis
 </p>
 </li>
 <li>
 <p>
-`<strong>4kHz notch`</strong> (SNHL) - noise exposure
+<strong>4kHz notch</strong> (SNHL) - noise exposure
 </p>
 </li>
 <li>
 <p>
-`<strong>Cookie bite`</strong> -- hereditary
+<strong>Cookie bite</strong> -- hereditary
 </p>
 </li>
 <li>
 <p>
-`<strong>Low Frequency`</strong> (SNHL) --- Meniere's
+<strong>Low Frequency</strong> (SNHL) --- Meniere's
 </p>
 </li>
 </ol>
@@ -114,10 +114,10 @@ Tympanometry
 </h4>
 <blockquote>
 <p>
-`<strong>Ad = `<u>D`</u>`</strong>eep for `<strong>`<u>d`</u>`</strong>iscontinuity
+<strong>Ad = <u>D</u></strong>eep for <strong><u>d</u></strong>iscontinuity
 </p>
 <p>
-As= `<strong>`<u>s`</u>`</strong>hallow for oto`<strong>`<u>s`</u>`</strong>clerosis /ossicular fixation
+As= <strong><u>s</u></strong>hallow for oto<strong><u>s</u></strong>clerosis /ossicular fixation
 </p>
 <p>
 B + volume wnl: OME
@@ -136,22 +136,22 @@ Acoustic Reflex Testing
 Image to the right are common patterns (Red = absent. Green = present)
 </p>
 <p>
-`<strong>Right/Left`</strong>: the side of the sound stimulus.
+<strong>Right/Left</strong>: the side of the sound stimulus.
 </p>
 <p>
-`<strong>Ipsilateral/Contralateral`</strong>: side that the reflect stimulus is detected.
+<strong>Ipsilateral/Contralateral</strong>: side that the reflect stimulus is detected.
 </p>
 <p>
-`<strong>Note`</strong>: Acoustic reflexes should be `<u>absent`</u> in `<u>CHL`</u> (otosclerosis etc) `<u>unless`</u> patients have `<u>semicircular canal dehiscence.`</u>
+<strong>Note</strong>: Acoustic reflexes should be <u>absent</u> in <u>CHL</u> (otosclerosis etc) <u>unless</u> patients have <u>semicircular canal dehiscence.</u>
 </p>
 <p>
-`<strong>OAEs`</strong>: `<u>T`</u>`<strong>EOAE - newborn testing.`</strong> `<u>D`</u>POAE - think `<u>d`</u>ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity
+<strong>OAEs</strong>: <u>T</u><strong>EOAE - newborn testing.</strong> <u>D</u>POAE - think <u>d</u>ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity
 </p>
 <p>
-`<strong>ECoG`</strong>: Basically measuring Wave I on a ABR. The big thing to know is `<strong>`<u>\>0.45 SP/AP`</u>`</strong> is associated with `<strong>`<u>Meniere's`</u>`</strong>
+<strong>ECoG</strong>: Basically measuring Wave I on a ABR. The big thing to know is <strong><u>\>0.45 SP/AP</u></strong> is associated with <strong><u>Meniere's</u></strong>
 </p>
 <p>
-`<strong>ABR`</strong>: `<strong>`<u>Wave V latency`</u>`</strong> (\>0.2ms) due to retrocochlear pathology
+<strong>ABR</strong>: <strong><u>Wave V latency</u></strong> (\>0.2ms) due to retrocochlear pathology
 </p>
 <ol type="A">
 <li>
@@ -161,5 +161,5 @@ Abnormal wave I-V and III-V latency = CHL
 </li>
 </ol>
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>

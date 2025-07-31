@@ -53,10 +53,10 @@ Follow up
 <thead>
 <tr class="header">
 <th>
-`<strong>Timing of Trauma`</strong>
+<strong>Timing of Trauma</strong>
 </th>
 <th>
-`<strong>Follow up`</strong>
+<strong>Follow up</strong>
 </th>
 </tr>
 </thead>
@@ -113,7 +113,7 @@ Maxillary sinus fractures
 Zygomatic arch fracture
 </li>
 <li>
-Orbital floor fracture (has been evaluated by Ophtho and IOP/fundoscopic exam/visual acuity normal and no subjective vision complaints `<strong>ie no entrapment)`</strong>
+Orbital floor fracture (has been evaluated by Ophtho and IOP/fundoscopic exam/visual acuity normal and no subjective vision complaints <strong>ie no entrapment)</strong>
 </li>
 <li>
 Mandible fracture (non displaced and no intraoral lacerations)
@@ -275,7 +275,7 @@ In general just do MMF as ORIF on mandible may affect dentition. Open
 at 7-10days for physiotherapy
 </p>
 <p>
-`<strong>Younger than 2 years`</strong>---Before age 2, a child's jaws
+<strong>Younger than 2 years</strong>---Before age 2, a child's jaws
 are often edentulous. splint with
 </p>
 <p>
@@ -295,5 +295,5 @@ fixation.
 9--12 years---MMF w/ arch bars.
 </p>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>

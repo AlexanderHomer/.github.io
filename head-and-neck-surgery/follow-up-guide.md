@@ -51,7 +51,7 @@ Evals: SLP, dental, and nutrition evals as needed
 </li>
 </ul>
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>
 </li>
 </ul>

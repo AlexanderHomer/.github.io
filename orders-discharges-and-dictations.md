@@ -6,7 +6,7 @@ title: Orders, Discharges, and Dictations
 Orders, Discharges, & Dictations
 </h1>
 <p>
-`<strong>Day surgery:`</strong> On doctor order sheet, put any meds they need IN PACU on the left, then on the
+<strong>Day surgery:</strong> On doctor order sheet, put any meds they need IN PACU on the left, then on the
 right column write:
 </p>
 <ul>
@@ -29,7 +29,7 @@ Don't forget to fill out the brief operative note if you are not able to complet
 </li>
 </ul>
 <p>
-`<strong>Inpatient/Bedded Outpatient Orders`</strong>
+<strong>Inpatient/Bedded Outpatient Orders</strong>
 </p>
 <ul>
 <li>
@@ -43,7 +43,7 @@ Every patient needs orders for vital signs, I&Os, and a diet order
 </li>
 </ul>
 <p>
-`<strong>Discharge Instructions (Generic)-`</strong>
+<strong>Discharge Instructions (Generic)-</strong>
 </p>
 <ul>
 <li>
@@ -68,7 +68,7 @@ Call or return to the ED if you have fevers, chills, chest pain, difficulty brea
 </li>
 </ul>
 <p>
-`<strong>Generic Operative Report Format:`</strong>
+<strong>Generic Operative Report Format:</strong>
 </p>
 <ul>
 <li>
@@ -105,14 +105,14 @@ Findings
 Indications
 </li>
 <li>
-Description: Remember to explicitly note written `<strong>consent`</strong> , `<strong>timeout`</strong> , administration of `<strong>antibiotics`</strong> was performed, proper `<strong>positioning`</strong> and `<strong>anesthesia`</strong> were achieved, the area was `<strong>prepped and drape in sterile fashion`</strong> , `<strong>sponge/needle/instrument counts were correct times two`</strong> , and that the `<strong>attending was scrubbed and present for the entirety of the case`</strong>.
+Description: Remember to explicitly note written <strong>consent</strong> , <strong>timeout</strong> , administration of <strong>antibiotics</strong> was performed, proper <strong>positioning</strong> and <strong>anesthesia</strong> were achieved, the area was <strong>prepped and drape in sterile fashion</strong> , <strong>sponge/needle/instrument counts were correct times two</strong> , and that the <strong>attending was scrubbed and present for the entirety of the case</strong>.
 </li>
 <li>
-`<em>For Dr. Scott's DLB's add plan`</em>
+<em>For Dr. Scott's DLB's add plan</em>
 </li>
 </ul>
 <p>
-`<strong>Example Dictation Description:`</strong>
+<strong>Example Dictation Description:</strong>
 </p>
 <p>
 \*\* Begin: \*\*After informed consent was obtained, the patient was brought into the operating room and
@@ -122,18 +122,18 @@ injected with \_cc of 1% lidocaine with epinephrine. The patient was then preppe
 usual sterile fashion
 </p>
 <p>
-`<strong>End:`</strong> ...this concluded the procedure. The patient was turned over to the care of anesthesia and
+<strong>End:</strong> ...this concluded the procedure. The patient was turned over to the care of anesthesia and
 extubated without complication. The patient was then transported to the PACU in stable condition. Dr
 \_\_\_, the attending surgeon, was present throughout the entire case.
 </p>
 <p>
-`<strong>`<em> `</em>`</strong>
+<strong><em> </em></strong>
 </p>
 <h2>
 Case & Duty Hour Logs
 </h2>
 <p>
-`<strong>`<em>LOGGING DUTY HOURS`</em>`</strong>
+<strong><em>LOGGING DUTY HOURS</em></strong>
 </p>
 <ol>
 <li>
@@ -178,7 +178,7 @@ Vacation: use "log vacation" button, only log M-F
 </li>
 </ol>
 <p>
-`<strong>`<em>LOGGING CASES`</em>`</strong>
+<strong><em>LOGGING CASES</em></strong>
 </p>
 <ol>
 <li>
@@ -192,8 +192,8 @@ All residents must update cases monthly
 Located in the Resident Suites on Farnsworth 1st floor (you need to make sure your badge has access)
 </p>
 <p>
-`<strong>Room A182 = ENT On Call Room`</strong>`<strong> Code=0044833`</strong>
+<strong>Room A182 = ENT On Call Room</strong><strong> Code=0044833</strong>
 </p>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>

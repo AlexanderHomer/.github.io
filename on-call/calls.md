@@ -11,14 +11,14 @@ Post-tonsillectomy patients
 <ul>
 <li>
 <p>
-`<strong>Bleeding:`</strong> Ask all tonsil bleeds to go to an ED.
+<strong>Bleeding:</strong> Ask all tonsil bleeds to go to an ED.
 If sounds like a large active bleed, they go to the nearest ED,
 otherwise they come to us.
 </p>
 </li>
 <li>
 <p>
-`<strong>Fever:`</strong> Fever is expected for up to 2 weeks. If
+<strong>Fever:</strong> Fever is expected for up to 2 weeks. If
 fever continues, can consider course of azithromycin (sometimes adenoid
 bed can become infected)
 </p>
@@ -103,7 +103,7 @@ When can I fly? 2-3 weeks post-op
 </li>
 </ul>
 <p>
-`<strong>Post-ear surgery Restrictions`</strong>:
+<strong>Post-ear surgery Restrictions</strong>:
 </p>
 <ul>
 <li>
@@ -200,7 +200,7 @@ Precautions:
 <ul>
 <li>
 <p>
-`<strong>Dry ear precautions:`</strong>
+<strong>Dry ear precautions:</strong>
 </p>
 <ol type="A">
 <li>
@@ -220,7 +220,7 @@ headband to keep earplugs from falling out.
 </li>
 <li>
 <p>
-`<strong>Sinus Precautions`</strong>:
+<strong>Sinus Precautions</strong>:
 </p>
 <ol type="A">
 <li>

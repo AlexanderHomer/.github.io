@@ -76,7 +76,7 @@ Incision 1cm behind postauricular crease. Then switch to bovie down to TPF. Find
 </li>
 <li>
 <p>
-`<strong>Postop`</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
+<strong>Postop</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
 </p>
 </li>
 </ul>
@@ -114,16 +114,16 @@ Harvests TPF and TF if graft is needed
 Temporal Bone Lab
 </h1>
 <p>
-`<strong>Location`</strong>: 4`<sup>th`</sup> floor of the Boston Dispensary. Get a key made
+<strong>Location</strong>: 4<sup>th</sup> floor of the Boston Dispensary. Get a key made
 </p>
 <p>
-`<strong>Temporal Bone Harvest`</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
+<strong>Temporal Bone Harvest</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
 </p>
 <p>
 Set up your station according to the House Dissection Manuel
 </p>
 <p>
-`<strong>Steps to a Mastoidectomy / Cochlear implant:`</strong>
+<strong>Steps to a Mastoidectomy / Cochlear implant:</strong>
 </p>
 <ul>
 <li>
@@ -176,42 +176,42 @@ Switch to a 2 coarse diamond: start drilling the facial recess. There are some a
 Cranial Nerves
 </h1>
 <p>
-`<strong>CNI`</strong>: Olfactory.
+<strong>CNI</strong>: Olfactory.
 </p>
 <p>
-`<strong>CNII`</strong>: Optic.
+<strong>CNII</strong>: Optic.
 </p>
 <p>
-`<strong>CNIII`</strong>: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
+<strong>CNIII</strong>: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
 </p>
 <p>
-`<strong>CNIV`</strong>: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
+<strong>CNIV</strong>: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
 </p>
 <p>
-`<strong>CNV:`</strong> Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1`<sup>st`</sup> branchial arch
+<strong>CNV:</strong> Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1<sup>st</sup> branchial arch
 </p>
 <p>
-`<strong>CNVI:`</strong> Abducens: Innervates lateral rectus.
+<strong>CNVI:</strong> Abducens: Innervates lateral rectus.
 </p>
 <p>
-`<strong>CNVII:`</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
+<strong>CNVII:</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
 </p>
 <p>
-`<strong>CNVIII:`</strong> Vestibulocochlear--- hearing & balance.
+<strong>CNVIII:</strong> Vestibulocochlear--- hearing & balance.
 </p>
 <p>
-`<strong>CNIX:`</strong> Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3`<sup>rd`</sup> branchial arch.
+<strong>CNIX:</strong> Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3<sup>rd</sup> branchial arch.
 </p>
 <p>
-`<strong>CNX:`</strong> Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
+<strong>CNX:</strong> Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
 </p>
 <p>
-`<strong>CNXI`</strong> -- Spinal Accessory --- innervates SCM, trapezius.
+<strong>CNXI</strong> -- Spinal Accessory --- innervates SCM, trapezius.
 </p>
 <p>
-`<strong>CNXII`</strong>: Hypoglossal --- all muscles of tongue except palatoglossus
+<strong>CNXII</strong>: Hypoglossal --- all muscles of tongue except palatoglossus
 </p>
 <!-- END Otology section -->
 <p>
-`<a href="../index.html">Back to homepage`</a>
+<a href="../index.html">Back to homepage</a>
 </p>

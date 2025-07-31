@@ -39,7 +39,7 @@ Keep the plans short. Put a plan for each problem listed.
 <ul>
 <li>
 <p>
-`<img alt="" src="media/image3.png" style="width:1.16111in;height:1.14028in" />including discussions regarding dry ear precautions. Put observation if no specific plan was proposed
+<img alt="" src="media/image3.png" style="width:1.16111in;height:1.14028in" />including discussions regarding dry ear precautions. Put observation if no specific plan was proposed
 </p>
 </li>
 </ul>
@@ -61,28 +61,28 @@ Audiology
 <ul>
 <li>
 <p>
-`<strong>PTA (pure tone)`</strong>: Hearing sensitivity at 500,1000,2000Hz
+<strong>PTA (pure tone)</strong>: Hearing sensitivity at 500,1000,2000Hz
 </p>
 </li>
 <li>
 <p>
-`<strong>SRT`</strong> - lowest threshold `<strong>spondee`</strong> can be repeated 50% of time
+<strong>SRT</strong> - lowest threshold <strong>spondee</strong> can be repeated 50% of time
 </p>
 </li>
 <li>
 <p>
-`<strong>WRS (word rec)`</strong> - % correct of a 50 word list of `<u>monosyllabic phonetically balanced words.`</u> Given at 40dB greater than SRT
+<strong>WRS (word rec)</strong> - % correct of a 50 word list of <u>monosyllabic phonetically balanced words.</u> Given at 40dB greater than SRT
 </p>
 </li>
 <li>
 <p>
-`<strong>Hearing loss levels:`</strong> go down by 15dB starting at \<25dB
+<strong>Hearing loss levels:</strong> go down by 15dB starting at \<25dB
 </p>
 </li>
 </ul>
 <blockquote>
 <p>
-`<img alt="" src="media/image4.emf" style="width:1.65347in;height:1.54792in" />`<strong>Audiogram symbols`</strong>: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)
+<img alt="" src="media/image4.emf" style="width:1.65347in;height:1.54792in" /><strong>Audiogram symbols</strong>: Right = O, Left = X (triangle for right masking, square for left masking → THINK ROLEX)
 </p>
 </blockquote>
 <h4 class="unnumbered" id="audiogram-patterns">
@@ -91,22 +91,22 @@ Audiogram Patterns
 <ol type="A">
 <li>
 <p>
-`<strong>2kHz notch`</strong> (air-bone) otosclerosis
+<strong>2kHz notch</strong> (air-bone) otosclerosis
 </p>
 </li>
 <li>
 <p>
-`<strong>4kHz notch`</strong> (SNHL) - noise exposure
+<strong>4kHz notch</strong> (SNHL) - noise exposure
 </p>
 </li>
 <li>
 <p>
-`<strong>Cookie bite`</strong> -- hereditary
+<strong>Cookie bite</strong> -- hereditary
 </p>
 </li>
 <li>
 <p>
-`<strong>Low Frequency`</strong> (SNHL) --- Meniere's
+<strong>Low Frequency</strong> (SNHL) --- Meniere's
 </p>
 </li>
 </ol>
@@ -115,10 +115,10 @@ Tympanometry
 </h4>
 <blockquote>
 <p>
-`<strong>Ad = `<u>D`</u>`</strong>eep for `<strong>`<u>d`</u>`</strong>iscontinuity
+<strong>Ad = <u>D</u></strong>eep for <strong><u>d</u></strong>iscontinuity
 </p>
 <p>
-As= `<strong>`<u>s`</u>`</strong>hallow for oto`<strong>`<u>s`</u>`</strong>clerosis /ossicular fixation
+As= <strong><u>s</u></strong>hallow for oto<strong><u>s</u></strong>clerosis /ossicular fixation
 </p>
 <p>
 B + volume wnl: OME
@@ -137,22 +137,22 @@ Acoustic Reflex Testing
 Image to the right are common patterns (Red = absent. Green = present)
 </p>
 <p>
-`<strong>Right/Left`</strong>: the side of the sound stimulus.
+<strong>Right/Left</strong>: the side of the sound stimulus.
 </p>
 <p>
-`<strong>Ipsilateral/Contralateral`</strong>: side that the reflect stimulus is detected.
+<strong>Ipsilateral/Contralateral</strong>: side that the reflect stimulus is detected.
 </p>
 <p>
-`<strong>Note`</strong>: Acoustic reflexes should be `<u>absent`</u> in `<u>CHL`</u> (otosclerosis etc) `<u>unless`</u> patients have `<u>semicircular canal dehiscence.`</u>
+<strong>Note</strong>: Acoustic reflexes should be <u>absent</u> in <u>CHL</u> (otosclerosis etc) <u>unless</u> patients have <u>semicircular canal dehiscence.</u>
 </p>
 <p>
-`<strong>OAEs`</strong>: `<u>T`</u>`<strong>EOAE - newborn testing.`</strong> `<u>D`</u>POAE - think `<u>d`</u>ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity
+<strong>OAEs</strong>: <u>T</u><strong>EOAE - newborn testing.</strong> <u>D</u>POAE - think <u>d</u>ouble tones (2 pure-tone freq.) DPOAE are good f or screening ototoxicity/noise toxicity
 </p>
 <p>
-`<strong>ECoG`</strong>: Basically measuring Wave I on a ABR. The big thing to know is `<strong>`<u>\>0.45 SP/AP`</u>`</strong> is associated with `<strong>`<u>Meniere's`</u>`</strong>
+<strong>ECoG</strong>: Basically measuring Wave I on a ABR. The big thing to know is <strong><u>\>0.45 SP/AP</u></strong> is associated with <strong><u>Meniere's</u></strong>
 </p>
 <p>
-`<strong>ABR`</strong>: `<strong>`<u>Wave V latency`</u>`</strong> (\>0.2ms) due to retrocochlear pathology
+<strong>ABR</strong>: <strong><u>Wave V latency</u></strong> (\>0.2ms) due to retrocochlear pathology
 </p>
 <ol type="A">
 <li>
@@ -165,22 +165,22 @@ Abnormal wave I-V and III-V latency = CHL
 Neuro-otology Imaging
 </h2>
 <p>
-`<strong>CT Temporal Bone`</strong>:
+<strong>CT Temporal Bone</strong>:
 </p>
 <p>
-`<strong>Stenvers/Perpendicular`</strong> view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the `<strong>round`</strong> window, `<strong>tegmen`</strong>, as well as other structures.
+<strong>Stenvers/Perpendicular</strong> view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the <strong>round</strong> window, <strong>tegmen</strong>, as well as other structures.
 </p>
 <p>
-The `<strong>Poschl/Parallel`</strong> view, a short-axis view of the petrous pyramid, was used to optimally visualize the `<strong>superior semicircular canal`</strong>
+The <strong>Poschl/Parallel</strong> view, a short-axis view of the petrous pyramid, was used to optimally visualize the <strong>superior semicircular canal</strong>
 </p>
 <h4 class="unnumbered" id="how-to-read-temporal-bone-images">
 How to Read Temporal Bone Images
 </h4>
 <p>
-`<strong>Divide into:`</strong> EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
+<strong>Divide into:</strong> EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
 </p>
 <p>
-`<strong>External Auditory Canal (EAC):`</strong>
+<strong>External Auditory Canal (EAC):</strong>
 </p>
 <ul>
 <li>
@@ -215,7 +215,7 @@ Canal Atresia/Stenosis: look at ossicles -- malleus/incus are typically fused. O
 </li>
 </ul>
 <p>
-`<strong>Middle Ear`</strong>
+<strong>Middle Ear</strong>
 </p>
 <ul>
 <li>
@@ -235,7 +235,7 @@ Glomus Tympanicum: oval mass of cochlear promontory
 </li>
 </ul>
 <p>
-`<strong>Inner Ear`</strong>
+<strong>Inner Ear</strong>
 </p>
 <ul>
 <li>
@@ -272,7 +272,7 @@ Otosclerosis: demineralized bone over otic capsule
 </li>
 </ul>
 <p>
-`<strong>Petrous Apex`</strong>
+<strong>Petrous Apex</strong>
 </p>
 <ul>
 <li>
@@ -297,7 +297,7 @@ Chondrosarcoma: look for intratumoral calcification
 </li>
 </ul>
 <p>
-`<strong>Intratemporal Fossa`</strong>
+<strong>Intratemporal Fossa</strong>
 </p>
 <ul>
 <li>
@@ -317,10 +317,10 @@ Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiat
 </li>
 </ul>
 <p>
-`<img alt="" src="media/image5.png" style="width:3.75841in;height:3.04933in" />
+<img alt="" src="media/image5.png" style="width:3.75841in;height:3.04933in" />
 </p>
 <p>
-`<em>Image:`</em> Adunka and Buchman, `<em>Otology, Neurotology, and Lateral Skull Base Surgery`</em>
+<em>Image:</em> Adunka and Buchman, <em>Otology, Neurotology, and Lateral Skull Base Surgery</em>
 </p>
 <p>
 .
@@ -329,7 +329,7 @@ Epidermoids: : T1 hypointense and T2 hyperintense, doesn't enhance. Differentiat
 MRI Internal Auditory Canal
 </h4>
 <p>
-`<strong>General principles of MRI:`</strong>
+<strong>General principles of MRI:</strong>
 </p>
 <table>
 <colgroup>
@@ -832,7 +832,7 @@ Test cranial nerves
 </li>
 <li>
 <p>
-Nystagmus: `<strong>nystagmus named in direction of fast phase`</strong>
+Nystagmus: <strong>nystagmus named in direction of fast phase</strong>
 </p>
 <ol type="A">
 <li>
@@ -869,12 +869,12 @@ Check for BPPV:
 <ol type="A">
 <li>
 <p>
-`<strong>Dix Hallpike`</strong>: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site
+<strong>Dix Hallpike</strong>: have head turned to one side then drop patient flat with head hanging slightly backwards. Repeat for both sides. Rotatory nystagmus occurs on the side of the lesion. Posterior SCC most common site
 </p>
 </li>
 <li>
 <p>
-`<strong>Head-shake test:`</strong>
+<strong>Head-shake test:</strong>
 </p>
 </li>
 </ol>
@@ -882,13 +882,13 @@ Check for BPPV:
 </ol>
 <blockquote>
 <p>
-Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. `<strong>Fast phase = towards lesion`</strong>
+Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. <strong>Fast phase = towards lesion</strong>
 </p>
 </blockquote>
 <ol start="3" type="A">
 <li>
 <p>
-`<strong>Head Impulse test/Head Trust`</strong>
+<strong>Head Impulse test/Head Trust</strong>
 </p>
 </li>
 </ol>
@@ -900,7 +900,7 @@ Hold head and quickly rotate it toward one ear while patient fixates on your nos
 <ol start="4" type="A">
 <li>
 <p>
-`<strong>Oscillopsia test`</strong>: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
+<strong>Oscillopsia test</strong>: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
 </p>
 </li>
 </ol>
@@ -908,7 +908,7 @@ Hold head and quickly rotate it toward one ear while patient fixates on your nos
 Additional testing
 </p>
 <p>
-`<img src="media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " />`<strong>VNG/ENG`</strong>: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.
+<img src="media/image6.png" style="width:1.65764in;height:0.925in" alt="Machine generated alternative text: Right Right beating nystagmus Fast beat Horizontal Slow beat Left beating nystagmus Left Slow beat Fast beat " /><strong>VNG/ENG</strong>: If you have a nystagmus graph. Use ur arms to determine which side. Ur left arm can be parallel to left sided slow beating.
 </p>
 <h4 class="unnumbered" id="caloric-testing">
 Caloric Testing
@@ -979,7 +979,7 @@ Phase lead - exaggerated in peripheral disease
 </li>
 </ul>
 <p>
-`<strong>VEMP`</strong> (cervical to SCM)
+<strong>VEMP</strong> (cervical to SCM)
 </p>
 <ul>
 <li>
@@ -994,17 +994,17 @@ oVEMP evaluates utricle (horizontal acceleration) -\> superior vestibular nerve
 </li>
 <li>
 <p>
-Unilateral decreased `<strong>amplitude`</strong> - peripheral lesion
+Unilateral decreased <strong>amplitude</strong> - peripheral lesion
 </p>
 </li>
 <li>
 <p>
-Decreased `<strong>threshold`</strong> - SCC dehiscence or perilymph fistula
+Decreased <strong>threshold</strong> - SCC dehiscence or perilymph fistula
 </p>
 </li>
 <li>
 <p>
-Increased `<strong>threshold`</strong> - middle ear pathology or ossicular chain abnormalities
+Increased <strong>threshold</strong> - middle ear pathology or ossicular chain abnormalities
 </p>
 </li>
 </ul>
@@ -1014,12 +1014,12 @@ Other
 <ol type="1">
 <li>
 <p>
-`<strong>vHIT`</strong>: basically a recorded head impulse test
+<strong>vHIT</strong>: basically a recorded head impulse test
 </p>
 </li>
 <li>
 <p>
-`<strong>Computer Dynamic Posturography`</strong>: expensive test to test proprioception
+<strong>Computer Dynamic Posturography</strong>: expensive test to test proprioception
 </p>
 </li>
 </ol>
@@ -1045,7 +1045,7 @@ Causes of Vertigo
 Perilymph Fistula
 </h4>
 <p>
--sudden `<u>SNHL w/ vertigo`</u> s/p trauma
+-sudden <u>SNHL w/ vertigo</u> s/p trauma
 </p>
 <p>
 -Tullio's phenomenon (vertigo w/ loud sound) Hennebert's sign: (vertigo w/ pneumatoscopy)
@@ -1060,7 +1060,7 @@ Superior Semicircular Canal Dehiscence
 -vertigo, autophony, Tullio's & Hennebert's sign, aural fullness
 </p>
 <p>
--Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), `<strong>acoustic reflexes are present`</strong>
+-Audiogram: CHL, supernormal bone conduction. cVEMP (↓threshold, ↑amplitude), <strong>acoustic reflexes are present</strong>
 </p>
 <p>
 -CT Temporal Bone: Get Porshl's view
@@ -1078,16 +1078,16 @@ BPPV - Clinical Practice Guideline
 -Assess patient's home safety/risk of falling + ability to perform Epley
 </p>
 <p>
-\-`<strong>No`</strong> i`<strong>maging or vestibular testing or vestibular suppressants`</strong> for those who have symptoms+exam findings of BPPV
+\-<strong>No</strong> i<strong>maging or vestibular testing or vestibular suppressants</strong> for those who have symptoms+exam findings of BPPV
 </p>
 <p>
--Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. `<strong>Hold head`</strong> and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. `<strong>Repeat`</strong> until nystagmus is gone
+-Can offer observation, vestibular rehab, or Epley maneuver: Dix hall pike to the offending side. Wait for nystagmus to stop, rotate head to contralateral side. <strong>Hold head</strong> and ask patient to rotate onto stomach, then have them tuck heels to bum and sit up. <strong>Repeat</strong> until nystagmus is gone
 </p>
 <p>
 -can do Semont maneuver. Ask patient to keep head elevated for 48hours.
 </p>
 <p>
--patients w/ migraines and motion refractory take longer to recover. `<u>F/u in 4-6 weeks`</u>. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
+-patients w/ migraines and motion refractory take longer to recover. <u>F/u in 4-6 weeks</u>. If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
 </p>
 <p>
 -surgery Tx: singular Neuroectomy (historic) posterior SCC occlusion (pack Posterior SCC with bone wax)
@@ -1105,13 +1105,13 @@ Dx: Audiogram & ECoG: SP/AP \>0.35
 Tx: restrict salt intake \<1.5g/day, avoid EtOH, caffeine, even out water consumption
 </p>
 <p>
-`<strong>Acute Vertigo`</strong> (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)
+<strong>Acute Vertigo</strong> (diazepam 5-10mg q12hrs/lorazepam 0.5-1mg q6hrs + zofran 4mg q8hrs +/- Benadryl 25-50mg q4-6hrs)
 </p>
 <p>
-`<strong>Maintenance therapy`</strong>: HCTZ 50mg qdaily
+<strong>Maintenance therapy</strong>: HCTZ 50mg qdaily
 </p>
 <p>
-`<strong>Surgery`</strong>: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)
+<strong>Surgery</strong>: endolymphatic sac decompression, transtympanic gentamycin injection (0.5 to 0.75 mL of a 40 mg/mL solution of gentamicin into middle ear space)
 </p>
 <h4 class="unnumbered" id="other-causes-of-vertigo">
 Other causes of vertigo
@@ -1131,12 +1131,12 @@ Acute Otitis Externa -- Clinical Practice Guideline
 <ul>
 <li>
 <p>
-`<img alt="" src="media/image7.jpeg" style="width:0.88194in;height:0.86944in" />`<strong>Diagnosis`</strong>: rapid onset (over 2 days) + ear pain, itchiness, fullness + EITHER signs of ear canal fullness (tenderness of tragus/pinnae) OR diffuse canal edema. Otorrhea is not needed for diagnosis. `<strong>MCC`</strong>: P aeruginosa + staph aureus. `<strong>Eval for`</strong>: Hx of T2DM, HIV, hx of XRT/immunocompromised. `<strong>Check for`</strong> TM perforation/Tubes -- ciprodex/ofloxacin are the only drops if perforation/tubes are present. `<u>If cranial nerve palsy or granulation tissue on inferior aspect of canal (at bony-cartilaginous junction)`</u>: consider malignant otitis externa (which is AOE + osteomyelitis of skull base)
+<img alt="" src="media/image7.jpeg" style="width:0.88194in;height:0.86944in" /><strong>Diagnosis</strong>: rapid onset (over 2 days) + ear pain, itchiness, fullness + EITHER signs of ear canal fullness (tenderness of tragus/pinnae) OR diffuse canal edema. Otorrhea is not needed for diagnosis. <strong>MCC</strong>: P aeruginosa + staph aureus. <strong>Eval for</strong>: Hx of T2DM, HIV, hx of XRT/immunocompromised. <strong>Check for</strong> TM perforation/Tubes -- ciprodex/ofloxacin are the only drops if perforation/tubes are present. <u>If cranial nerve palsy or granulation tissue on inferior aspect of canal (at bony-cartilaginous junction)</u>: consider malignant otitis externa (which is AOE + osteomyelitis of skull base)
 </p>
 </li>
 <li>
 <p>
-`<strong>Tx`</strong>: `<strong>Topical Abx:`</strong> Ciprodex/cipro HC, cortisporin, acetic acid (Vinegar), Vosol HC (acetic acid+hydrocortisone). Dosing should be at least BID, for 7-10days Don't give systemic antibiotics unless patients are high risk: T2DM, HIV, `<strong>Tell patients how to apply otic drops`</strong>: lie with affected ear up. Put drops. Tragus pump to help. Stay in position x3-5mins.
+<strong>Tx</strong>: <strong>Topical Abx:</strong> Ciprodex/cipro HC, cortisporin, acetic acid (Vinegar), Vosol HC (acetic acid+hydrocortisone). Dosing should be at least BID, for 7-10days Don't give systemic antibiotics unless patients are high risk: T2DM, HIV, <strong>Tell patients how to apply otic drops</strong>: lie with affected ear up. Put drops. Tragus pump to help. Stay in position x3-5mins.
 </p>
 </li>
 <li>
@@ -1146,7 +1146,7 @@ When to place ear wick: If EAC edema means TM cannot be seen
 </li>
 <li>
 <p>
-`<img alt="" src="media/image8.jpeg" style="width:1.27917in;height:1.01528in" />Follow up should be in 2-3 days
+<img alt="" src="media/image8.jpeg" style="width:1.27917in;height:1.01528in" />Follow up should be in 2-3 days
 </p>
 </li>
 </ul>
@@ -1175,19 +1175,19 @@ Chronic Otitis Externa
 -\>6weeks of persistent OE.
 </p>
 <p>
--first try `<strong>mineral oil`</strong> 2-3 drops at night. F/U in 2 months
+-first try <strong>mineral oil</strong> 2-3 drops at night. F/U in 2 months
 </p>
 <p>
--next can try `<strong>DermOtic`</strong> (fluocinolone) if that doesn't work
+-next can try <strong>DermOtic</strong> (fluocinolone) if that doesn't work
 </p>
 <h4 class="unnumbered" id="fungal-otitis-external-otomycosis">
 Fungal Otitis External (Otomycosis)
 </h4>
 <p>
-MCC: aspergillus. Exam shows sheets of keratin with black conidophores on top of white filamentous hyphae. Tx: acetic acid (vinegar) vs c`<strong>lotrimazole 1% solution (lotrimin)`</strong>, glucose control, dry ear precautions. Consider gentian violet or methyl-cresyl actate for refractors cases
+MCC: aspergillus. Exam shows sheets of keratin with black conidophores on top of white filamentous hyphae. Tx: acetic acid (vinegar) vs c<strong>lotrimazole 1% solution (lotrimin)</strong>, glucose control, dry ear precautions. Consider gentian violet or methyl-cresyl actate for refractors cases
 </p>
 <h3 class="unnumbered" id="tinnitus-clinical-practice-guideline">
-Tinnitus-`<strong>Clinical Practice Guideline`</strong>
+Tinnitus-<strong>Clinical Practice Guideline</strong>
 </h3>
 <p>
 
@@ -1197,7 +1197,7 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   -In general, don't get imaging. Only get imaging if tinnitus + either unilateral/asymmetric hearing loss or neurological abnormalities
   </p>
   <p>
-  -Tx: can observe for bothersome tinnitus that has lasted for \<6months. For tinnitus that is bothersome & persistent (\>6months) guideline recommends: `<strong>sound therapy`</strong> (white noise machine), `<strong>cognitive behavior therapy`</strong>, and `<strong>hearing aids`</strong> (ONLY IF patients have hearing loss). Guideline recommend against: dietary supplements, deep-brain stimulation, medical therapy. Dr Sillman also likely to recommend meditation.
+  -Tx: can observe for bothersome tinnitus that has lasted for \<6months. For tinnitus that is bothersome & persistent (\>6months) guideline recommends: <strong>sound therapy</strong> (white noise machine), <strong>cognitive behavior therapy</strong>, and <strong>hearing aids</strong> (ONLY IF patients have hearing loss). Guideline recommend against: dietary supplements, deep-brain stimulation, medical therapy. Dr Sillman also likely to recommend meditation.
   </p>
   <h3 class="unnumbered" id="otosclerosis">
   Otosclerosis
@@ -1205,12 +1205,12 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   <ul>
   <li>
   <p>
-  Ask: Progressive CHL beginning in 20-40yo. Strong family history (`<strong>Autosomal Dominant w/ incomplete penetrance)`</strong>. Often have tinnitus. Hear better in noise
+  Ask: Progressive CHL beginning in 20-40yo. Strong family history (<strong>Autosomal Dominant w/ incomplete penetrance)</strong>. Often have tinnitus. Hear better in noise
   </p>
   </li>
   <li>
   <p>
-  Exam: Schwartze sign (red hue behind TM). Audiogram: look for Carharts notch @ 2kHz (CO2: Carhart notch in Otosclerosis at 2Khz). Absent acoustic reflex. Shallow tympanometry (As: for Oto`<u>s`</u>clerosis)
+  Exam: Schwartze sign (red hue behind TM). Audiogram: look for Carharts notch @ 2kHz (CO2: Carhart notch in Otosclerosis at 2Khz). Absent acoustic reflex. Shallow tympanometry (As: for Oto<u>s</u>clerosis)
   </p>
   </li>
   <li>
@@ -1269,25 +1269,25 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   Facial Nerve
   </h3>
   <p>
-  `<strong>Intracranial segment`</strong>: gives of Nervus intermedius -- contributes to GSPN and chorda tympani -\> `<strong>meatal`</strong>: through IAC to fundus -\> `<strong>labyrinthine`</strong>: shortest segment -- goes to geniculate ganglion and gives of GSPN \[gives off pregang. Parasymp to lacrimal gland\] -\> `<strong>tympanic`</strong> : goes inferior to HSCC & above oval window/stapes (which is why you down-fracture stapes) -\> mastoid segment
+  <strong>Intracranial segment</strong>: gives of Nervus intermedius -- contributes to GSPN and chorda tympani -\> <strong>meatal</strong>: through IAC to fundus -\> <strong>labyrinthine</strong>: shortest segment -- goes to geniculate ganglion and gives of GSPN \[gives off pregang. Parasymp to lacrimal gland\] -\> <strong>tympanic</strong> : goes inferior to HSCC & above oval window/stapes (which is why you down-fracture stapes) -\> mastoid segment
   </p>
   <p>
-  `<strong>Management of FN paralysis`</strong>:
+  <strong>Management of FN paralysis</strong>:
   </p>
   <ul>
   <li>
   <p>
-  `<strong>HBI`</strong>-`<strong>V (Day 0-14)`</strong>: Give 14 day course of prednisone and have them f/u within 1 week. If progressed to HBVI at f/u, get a ENoG,
+  <strong>HBI</strong>-<strong>V (Day 0-14)</strong>: Give 14 day course of prednisone and have them f/u within 1 week. If progressed to HBVI at f/u, get a ENoG,
   </p>
   </li>
   <li>
   <p>
-  `<strong>HBVI (Day 0-3):`</strong> Give 14 day course of prednisone, f/u within 1 week
+  <strong>HBVI (Day 0-3):</strong> Give 14 day course of prednisone, f/u within 1 week
   </p>
   </li>
   <li>
   <p>
-  `<strong>HBVI (Day3-14)`</strong>: Get ENoG. If \>90% degeneration: Get EMG: decompress nerve if EMG is negative, observe if positive. If \<90% degeneration: give Prednisone.
+  <strong>HBVI (Day3-14)</strong>: Get ENoG. If \>90% degeneration: Get EMG: decompress nerve if EMG is negative, observe if positive. If \<90% degeneration: give Prednisone.
   </p>
   </li>
   </ul>
@@ -1295,10 +1295,10 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   Bell's Palsy -- Clinical Practice Guideline
   </h4>
   <p>
-  Dx: typically rapid onset unilateral FN paresis or paralysis. `<strong>R/O stroke, parotid mass, systemic/infection`</strong>. Ask about `<strong>Sarcoidosis`</strong> (Heerfordt fever). Guidelines say: `<strong>no lab or imaging tests needed`</strong>. If complete paralysis (HBVI) can `<em>offer`</em> ENoG/EMG (get after 7 days). If HBI→HBV: don't get nerve testing
+  Dx: typically rapid onset unilateral FN paresis or paralysis. <strong>R/O stroke, parotid mass, systemic/infection</strong>. Ask about <strong>Sarcoidosis</strong> (Heerfordt fever). Guidelines say: <strong>no lab or imaging tests needed</strong>. If complete paralysis (HBVI) can <em>offer</em> ENoG/EMG (get after 7 days). If HBI→HBV: don't get nerve testing
   </p>
   <p>
-  Tx: `<strong>eye protection`</strong>: tape eyes shut at night, eye drops + `<strong>steroids within 72hrs of symptoms:`</strong> at least 5 days of high dose then taper. Can add antivirals but meh evidence. `<strong>f/u in 3 months`</strong> sooner if ocular symptoms or new/worsening neurological symptoms
+  Tx: <strong>eye protection</strong>: tape eyes shut at night, eye drops + <strong>steroids within 72hrs of symptoms:</strong> at least 5 days of high dose then taper. Can add antivirals but meh evidence. <strong>f/u in 3 months</strong> sooner if ocular symptoms or new/worsening neurological symptoms
   </p>
   <p>
   Counsel: recover starts in 2-3 weeks, typically complete in 3-4months. HBVI (complete paralysis): 70% chance of recovery. HB1→HBV: 94% of recovery.
@@ -1307,7 +1307,7 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   Sudden Sensorineural Hearing Loss - Clinical Practice Guideline
   </h4>
   <p>
-  -non-CPG recommendations are in `<em>italics`</em>
+  -non-CPG recommendations are in <em>italics</em>
   </p>
   <p>
   -audiometric criteria: decrease in hearing of \>30db in 3 consecutive frequencies
@@ -1442,7 +1442,7 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   </li>
   <li>
   <p>
-  `<strong>Postop`</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
+  <strong>Postop</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
   </p>
   </li>
   </ul>
@@ -1480,16 +1480,16 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   Temporal Bone Lab
   </h1>
   <p>
-  `<strong>Location`</strong>: 4`<sup>th`</sup> floor of the Boston Dispensary. Get a key made
+  <strong>Location</strong>: 4<sup>th</sup> floor of the Boston Dispensary. Get a key made
   </p>
   <p>
-  `<strong>Temporal Bone Harvest`</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
+  <strong>Temporal Bone Harvest</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
   </p>
   <p>
   Set up your station according to the House Dissection Manuel
   </p>
   <p>
-  `<strong>Steps to a Mastoidectomy / Cochlear implant:`</strong>
+  <strong>Steps to a Mastoidectomy / Cochlear implant:</strong>
   </p>
   <ul>
   <li>
@@ -1542,42 +1542,42 @@ Tinnitus-`<strong>Clinical Practice Guideline`</strong>
   Cranial Nerves
   </h1>
   <p>
-  `<strong>CNI`</strong>: Olfactory.
+  <strong>CNI</strong>: Olfactory.
   </p>
   <p>
-  `<strong>CNII`</strong>: Optic.
+  <strong>CNII</strong>: Optic.
   </p>
   <p>
-  `<strong>CNIII`</strong>: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
+  <strong>CNIII</strong>: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
   </p>
   <p>
-  `<strong>CNIV`</strong>: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
+  <strong>CNIV</strong>: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
   </p>
   <p>
-  `<strong>CNV:`</strong> Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1`<sup>st`</sup> branchial arch
+  <strong>CNV:</strong> Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1<sup>st</sup> branchial arch
   </p>
   <p>
-  `<strong>CNVI:`</strong> Abducens: Innervates lateral rectus.
+  <strong>CNVI:</strong> Abducens: Innervates lateral rectus.
   </p>
   <p>
-  `<strong>CNVII:`</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
+  <strong>CNVII:</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
   </p>
   <p>
-  `<strong>CNVIII:`</strong> Vestibulocochlear--- hearing & balance.
+  <strong>CNVIII:</strong> Vestibulocochlear--- hearing & balance.
   </p>
   <p>
-  `<strong>CNIX:`</strong> Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3`<sup>rd`</sup> branchial arch.
+  <strong>CNIX:</strong> Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3<sup>rd</sup> branchial arch.
   </p>
   <p>
-  `<strong>CNX:`</strong> Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
+  <strong>CNX:</strong> Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
   </p>
   <p>
-  `<strong>CNXI`</strong> -- Spinal Accessory --- innervates SCM, trapezius.
+  <strong>CNXI</strong> -- Spinal Accessory --- innervates SCM, trapezius.
   </p>
   <p>
-  `<strong>CNXII`</strong>: Hypoglossal --- all muscles of tongue except palatoglossus
+  <strong>CNXII</strong>: Hypoglossal --- all muscles of tongue except palatoglossus
   </p>
   <!-- END Otology section -->
   <p>
-  `<a href="index.html">Back to homepage`</a>
+  <a href="index.html">Back to homepage</a>
   </p>

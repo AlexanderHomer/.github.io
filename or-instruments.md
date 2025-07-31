@@ -41,7 +41,7 @@ Instruments
 </h3>
 <ul>
 <li>
-`<strong>Otologic/Drills`</strong>
+<strong>Otologic/Drills</strong>
 <ul>
 <li>
 Midas Rex and Vasio drill bits -- Pyxis outside OR 16
@@ -65,5 +65,5 @@ Baha drill -- Dr. Sillman's cart
 </li>
 </ul>
 <p>
-`<a href="index.html">Back to homepage`</a>
+<a href="index.html">Back to homepage</a>
 </p>
