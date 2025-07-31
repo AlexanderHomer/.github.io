@@ -85,3 +85,28 @@ li {
 .search-form button:hover {
   background-color: #1565c0;
 }
+
+/* Floating navigation buttons */
+.floating-nav {
+  position: fixed;
+  left: 1rem;
+  bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  z-index: 1000;
+}
+
+.floating-nav .btn {
+  background-color: #1976d2;
+  color: #fff;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.floating-nav .btn:hover {
+  background-color: #1565c0;
+}
