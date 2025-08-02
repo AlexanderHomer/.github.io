@@ -1,41 +1,25 @@
-const pages = [
-  'antibiogram.html',
-  'cranial-nerves.html',
-  'daily-routine.html',
-  'facial-plastics.html',
-  'facial-trauma-guide.html',
-  'head-and-neck-surgery.html',
-  'index.html',
-  'laryngology.html',
-  'levels-of-the-neck.html',
-  'local-rotational-flaps.html',
-  'map-of-tufts-medical-center.html',
-  'medications.html',
-  'monthly-routines.html',
-  'on-call-guide.html',
-  'or-instruments.html',
-  'orders-discharges-and-dictations.html',
-  'otolaryngology-national-conference-schedule.html',
-  'otology.html',
-  'pediatric-otolaryngology.html',
-  'perioperative-aspirin-anticoagulation-guide.html',
-  'radiology-levels-of-the-neck.html',
-  'review-of-systems.html',
-  'rhinology.html',
-  'rotations.html',
-  'rules-of-the-game.html',
-  'templates-protocols.html',
-  'tips.html',
-  'weekly-routines.html',
-  'yearly-routines.html'
-];
+let cachedPages = null;
+
+async function getPages() {
+  if (!cachedPages) {
+    try {
+      const resp = await fetch('/pages.json');
+      cachedPages = await resp.json();
+    } catch (e) {
+      cachedPages = [];
+    }
+  }
+  return cachedPages;
+}
 
 async function searchSite(query) {
   const results = [];
   const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+  const pages = await getPages();
   for (const url of pages) {
     try {
-      const resp = await fetch(url);
+      const pageUrl = '/' + url;
+      const resp = await fetch(pageUrl);
       const text = await resp.text();
       const plain = text.replace(/<[^>]*>/g, ' ');
       const lower = plain.toLowerCase();
@@ -43,7 +27,7 @@ async function searchSite(query) {
       if (matches) {
         const idx = lower.indexOf(terms[0]);
         const titleMatch = text.match(/<title>(.*?)<\/title>/i);
-        const title = titleMatch ? titleMatch[1] : url;
+        const title = titleMatch ? titleMatch[1] : pageUrl;
         const start = Math.max(0, idx - 40);
         const end = Math.min(plain.length, idx + terms[0].length + 40);
         let snippet = plain.slice(start, end).replace(/\s+/g, ' ').trim();
@@ -52,7 +36,7 @@ async function searchSite(query) {
           snippet = snippet.replace(regex, '<b>$1</b>');
         }
         const fragment = encodeURIComponent(plain.substr(idx, terms[0].length));
-        results.push({ url, title, snippet, fragment });
+        results.push({ url: pageUrl, title, snippet, fragment });
       }
     } catch (e) {
       // ignore errors
