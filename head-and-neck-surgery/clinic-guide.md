@@ -133,76 +133,75 @@ Oral B12 melts (made by same company as Xylimelts)
 
             - Irregular margins 
 
-            #### Bethesda system - Interpreting Results
+    #### Bethesda system - Interpreting Results
+    
+    - Malignant (99% risk) & suspicious for malignancy (70%
+    risk) 
+    
+        - Go to Surgery   
+    
+    - Indeterminate cytology - Two types 
+    
+      - Follicular neoplasm or suspicious for follicular neoplasm or
+        Hurthle Cell (25% risk of malignancy) 
+    
+        - Pretty much all of these are surgically excised. Affirma to
+          supplement decision making 
+    
+    - FLUS (follicular lesion of unknown significance) or Atypia of
+      undetermined significance --- 14% risk 
 
-            4.  Malignant (99% risk) & suspicious for malignancy (70%
-                risk) 
+      - Can observe or excise.  Affirma test can help you rule out
+        malignancy 
 
-                - Go to Surgery   
+      - Surgery: if excision is planned - do a lobectomy unless there are
+        reasons in the history that make us more suspicious for
+        malignancy  
+    
+  - Nondiagnostic---(around 1-4% risk):  
 
-                - Indeterminate cytology - Two types 
+    - repeat U/S guided FNA. Most people wait 3months but should
+      repeat sooner if there are concerning U/S findings 
 
-                  - Follicular neoplasm or suspicious for follicular neoplasm or
-                    Hurthle Cell (25% risk of malignancy) 
+    - Can excise if suspicious u/s findings or if its growth 20% in
+      2 directions 
+    
+  - Benign --- 2.5% risk 
+    
+    - Follow up these patients 
+    
+    - Suspicious U/S features: repeat U/S & FNA within 12
+          months 
+    
+    - Otherwise repeat U/S in 12-24months and FNA if (a) growth 20%
+          in 2 directions or (b) nodule develops suspicious features 
+    
+    - You can stop following any nodule that's had two benign cytology results. Its benign, get over it.
+    
+    5.  Follow Up 
 
-                    - Pretty much all of these are surgically excised. Affirma to
-                      supplement decision making 
+        - Nodules that met criteria for FNA but were benign: see
+          above 
 
-                    - FLUS (follicular lesion of unknown significance) or Atypia of
-                      undetermined significance --- 14% risk 
+        - Nodules that did not meet criteria for FNA 
 
-                      - Can observe or excise.  Affirma test can help you rule out
-                        malignancy 
+        - repeat U/S in 12-24months (you don't need to follow spongiform or
+          purely cyst nodules) 
 
-                      - Surgery: if excision is planned - do a lobectomy unless there are
-                        reasons in the history that make us more suspicious for
-                        malignancy  
+        - Nodules that are 4cm or cause compressive symptoms can be
+          surgically removed 
 
-                      - Nondiagnostic---(around 1-4% risk):  
+        - Preoperative: Guidelines recommend documentation of voice and
+          performing a FOE prior to Thyroid surgery on EVERY patient. Discuss risk
+          of thyroid surgery to voice. Discuss findings of FOE w/
+          anesthesia.
 
-                        - repeat U/S guided FNA. Most people wait 3months but should
-                          repeat sooner if there are concerning U/S findings 
+        - Perioperative: should identify RLN and SLN. Intraop nerve
+          monitoring is optional. No opinion on decadron
 
-                        - Can excise if suspicious u/s findings or if its growth 20% in
-                          2 directions 
-
-                        - Benign --- 2.5% risk 
-
-                          - Follow up these patients 
-
-                            - Suspicious U/S features: repeat U/S & FNA within 12
-                              months 
-
-                            - Otherwise repeat U/S in 12-24months and FNA if (a) growth 20%
-                              in 2 directions or (b) nodule develops suspicious features 
-
-                            - You can stop following any nodule that's had two benign cytology
-                              results. Its benign, get over it 
-
-                            5.  Follow Up 
-
-                                - Nodules that met criteria for FNA but were benign: see
-                                  above 
-
-                                - Nodules that did not meet criteria for FNA 
-
-                                - repeat U/S in 12-24months (you don't need to follow spongiform or
-                                  purely cyst nodules) 
-
-                                - Nodules that are 4cm or cause compressive symptoms can be
-                                  surgically removed 
-
-                                - Preoperative: Guidelines recommend documentation of voice and
-                                  performing a FOE prior to Thyroid surgery on EVERY patient. Discuss risk
-                                  of thyroid surgery to voice. Discuss findings of FOE w/
-                                  anesthesia.
-
-                                - Perioperative: should identify RLN and SLN. Intraop nerve
-                                  monitoring is optional. No opinion on decadron
-
-                                - Postop: should perform FOE on patients w/ voice change post op.
-                                  If abnormal voice or VF mobility abnormality, patients should f/u with
-                                  SLP
+        - Postop: should perform FOE on patients w/ voice change post op.
+          If abnormal voice or VF mobility abnormality, patients should f/u with
+          SLP
 
 ### Improving Voice Outcomes after Thyroid Surgery -- Clinical Practice Guideline
 
@@ -257,135 +256,135 @@ Innervation:
 
 ### Melanoma
 
-                                      - Ask about:
+- Ask about:
 
-                                        - Sunlight exposure, history of skin burns, family history
-                                          (xeroderma pigmentosum, familial atypical multiple mole melanoma
-                                          syndrome, dysplastic nevus syndrome)
+- Sunlight exposure, history of skin burns, family history
+  (xeroderma pigmentosum, familial atypical multiple mole melanoma
+  syndrome, dysplastic nevus syndrome)
 
-                                        - Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
-                                          not prognostic )
+- Presents as a mole-like growth with "ABCD" (ABCD is diagnostic
+  not prognostic )
 
-                                          - Asymmetry, Borders are irregular. Color is not uniform. Diameter
-                                             6 mm.
+  - Asymmetry, Borders are irregular. Color is not uniform. Diameter
+     6 mm.
 
-                                          - Workup:
+  - Workup:
 
-                                            - Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
-                                              can do punch biopsy however this is subject to sampling error so if
-                                              negative, strongly consider repeating. This will give you information to
-                                              perform the wide local excision later.
+    - Ideally: excisional biopsy w/ 1-2mm narrow margins. If too large,
+      can do punch biopsy however this is subject to sampling error so if
+      negative, strongly consider repeating. This will give you information to
+      perform the wide local excision later.
 
-                                            - Patients with:
+    - Patients with:
 
-                                            - Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
-                                              for liver mets)
+    - Stage IB or higher: should get a CXR (r/o lung mets) LDH (eval
+      for liver mets)
 
-                                            - Palpable LNs or imaging findings for enlarged LNs: get U/S guided
-                                              FNA to eval for metastatic LN disease
+    - Palpable LNs or imaging findings for enlarged LNs: get U/S guided
+      FNA to eval for metastatic LN disease
 
-                                            - Stage III disease: some advocate for CT C/A/P to look for distant
-                                              mets (CT chest is most important)
+    - Stage III disease: some advocate for CT C/A/P to look for distant
+      mets (CT chest is most important)
 
-                                            - Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
-                                              trials
+    - Stage IV disease: PET-CT C/A/P, MRI head, refer for clinical
+      trials
 
-                                            - Prognosis depends on variant: worse with ↑Breslow Depth,
-                                              ulceration, MF, and Head/Neck location
+    - Prognosis depends on variant: worse with ↑Breslow Depth,
+      ulceration, MF, and Head/Neck location
 
-                                              - Occiput and cheek most common sites of H&N
+      - Occiput and cheek most common sites of H&N
 
-                                              - Markers
+      - Markers
 
-                                                - HMB-45 (specific). S-100 sensitive. Melan A. MART-1
+        - HMB-45 (specific). S-100 sensitive. Melan A. MART-1
 
-                                                - Variants include
+        - Variants include
 
-                                                  - Superficial spreading---most common subtype; dominant early radial
-                                                    growth results in good prognosis.
+          - Superficial spreading---most common subtype; dominant early radial
+            growth results in good prognosis.
 
-                                                  - Lentigo maligna melanoma (LMM)---lentiginous proliferation (radial
-                                                    growth); best prognosis. Associated with sun-exposed skin and the
-                                                    elderly
+          - Lentigo maligna melanoma (LMM)---lentiginous proliferation (radial
+            growth); best prognosis. Associated with sun-exposed skin and the
+            elderly
 
-                                                  - Nodular---blue/blackish, looks like hemangiomaearly vertical
-                                                    growth; poor prognosis
+          - Nodular---blue/blackish, looks like hemangiomaearly vertical
+            growth; poor prognosis
 
-                                                  - Acral lentiginous---arises on the palms or soles, often in
-                                                    dark-skinned individuals; not related to UV light exposure
+          - Acral lentiginous---arises on the palms or soles, often in
+            dark-skinned individuals; not related to UV light exposure
 
-                                                  - Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
-                                                    High rate of recurrence
+          - Desmoplastic-Neurotropic Melanoma (DM): often are amelanotic.
+            High rate of recurrence
 
-                                                  - Clark levels: only useful for prognosis in T1 lesions.
+          - Clark levels: only useful for prognosis in T1 lesions.
 
-                                                    - **epidermis** only = stage I.
+            - **epidermis** only = stage I.
 
-                                                    - **Into papillary** dermis = II.
+            - **Into papillary** dermis = II.
 
-                                                    - **All of papillary** dermis =III.
+            - **All of papillary** dermis =III.
 
-                                                    - Invades **reticular** dermis = IV.
+            - Invades **reticular** dermis = IV.
 
-                                                    - Into **subcutaneous** tissue: V
+            - Into **subcutaneous** tissue: V
 
-                                                    - Melanoma TNM Staging
+            - Melanoma TNM Staging
 
-                                                    |     | N0  |
-                                                    |-----|-----|
-                                                    | T1a | IA  |
-                                                    | T1b | IB  |
+            |     | N0  |
+            |-----|-----|
+            | T1a | IA  |
+            | T1b | IB  |
 
-                                                    Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%
+            Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%
 
-                                                    - Treatment
+            - Treatment
 
-                                                      - Surgical margins
+              - Surgical margins
 
-                                                      > Tis = 0.5mm margin
-                                                      >
-                                                      > T1 (1mm) = 1cm margin.
-                                                      >
-                                                      > T2 (1-2mm): do 1-2cm margin
-                                                      >
-                                                      > T3+ (2mm): do 2cm
+              > Tis = 0.5mm margin
+              >
+              > T1 (1mm) = 1cm margin.
+              >
+              > T2 (1-2mm): do 1-2cm margin
+              >
+              > T3+ (2mm): do 2cm
 
-                                                      2.  T2/T3/T4
+              2.  T2/T3/T4
 
-                                                          - Adjuvant: may consider interferon alpha 2b (Stage III+)
+                  - Adjuvant: may consider interferon alpha 2b (Stage III+)
 
-                                                          - N0 neck: consider sentinel LN biopsy (SLNB). Especially if
+                  - N0 neck: consider sentinel LN biopsy (SLNB). Especially if
 
-                                                            - 60 yo especially for tumors w/o ulceration, Ulceration, High
-                                                              mitotic rate, Angiolymphatic invasion, Clark level IV
+                    - 60 yo especially for tumors w/o ulceration, Ulceration, High
+                      mitotic rate, Angiolymphatic invasion, Clark level IV
 
-                                                            - N1-N3: Neck dissection
+                    - N1-N3: Neck dissection
 
-                                                              - Superficial parotidectomy + MRND if primary location is:
-                                                                anterior/lateral scalp, temple, lateral forehead, lateral cheek , ear
-                                                                (basically anything anterior to the plane of the EACs)
+                      - Superficial parotidectomy + MRND if primary location is:
+                        anterior/lateral scalp, temple, lateral forehead, lateral cheek , ear
+                        (basically anything anterior to the plane of the EACs)
 
-                                                              - Level II-V neck dissection: If primary is scalp/occiput posterior
-                                                                to the coronal plane of the EACs.
+                      - Level II-V neck dissection: If primary is scalp/occiput posterior
+                        to the coronal plane of the EACs.
 
-                                                              - Special considerations:
+                      - Special considerations:
 
-                                                                - Lentigo maligna melanoma (LMM) --- tends to have subclinical spread
-                                                                  (often has positive margins). After resection, take a circumferential
-                                                                  "square" margin (Anderson et al. Johnson et al.)
+                        - Lentigo maligna melanoma (LMM) --- tends to have subclinical spread
+                          (often has positive margins). After resection, take a circumferential
+                          "square" margin (Anderson et al. Johnson et al.)
 
-                                                                - Chemo:
+                        - Chemo:
 
-                                                                  - Interferon alpha-2b --- use for stage III, consider for T2+
-                                                                    lesions. Can cause hepatic and cardiac toxicity.
+                          - Interferon alpha-2b --- use for stage III, consider for T2+
+                            lesions. Can cause hepatic and cardiac toxicity.
 
-                                                                  - Dacarbazine (DTIC) --- stage IV
+                          - Dacarbazine (DTIC) --- stage IV
 
-                                                                  - Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy
+                          - Sentinel LN biopsy (SLNB) w/ pre-operative lymphoscintigraphy
 
-                                                                    - 2-4 hours preop, patients get radioactive colloid into melanoma.
-                                                                      Inject methylene blue into melanoma (dermis). Dissect out the hottest
-                                                                      radiactive node and all other nodes that are above 10% of the cpm value
-                                                                      of the hottest node.
+                            - 2-4 hours preop, patients get radioactive colloid into melanoma.
+                              Inject methylene blue into melanoma (dermis). Dissect out the hottest
+                              radiactive node and all other nodes that are above 10% of the cpm value
+                              of the hottest node.
 
-                                                                    [Back to homepage](../index.html)
+                            [Back to homepage](../index.html)
