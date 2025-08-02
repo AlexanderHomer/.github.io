@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 
 # [Orientation](/orientation/index.html)
 
@@ -26,7 +29,6 @@
 
 [Vacation Requests](orientation/vacation-requests.html)
 
-
 # [Calls and Consults](on-call/index.html)
 
 [On-Call](on-call/index.html)
@@ -37,28 +39,27 @@
 
 [Facial Trauma Guide](on-call/facial-trauma-guide.html)
 
-
 # Specialties
 
 [Otology](otology/index.html)
 
-* [Clinic Guide](otology/clinic-guide.html)
+- [Clinic Guide](otology/clinic-guide.html)
 
-* [Neuro-otology Imaging](otology/neuro-otology-imaging.html)
+- [Neuro-otology Imaging](otology/neuro-otology-imaging.html)
 
-* [Otitis](otology/otitis.html)
+- [Otitis](otology/otitis.html)
 
-* [OR Guide](otology/or-guide.html)
+- [OR Guide](otology/or-guide.html)
 
 [Facial Plastics](facial-plastics.html)
 
 [Pediatric Otolaryngology](pediatric-otolaryngology/index.html)
 
-* [Clinic Guide](pediatric-otolaryngology/clinic-guide.html)
+- [Clinic Guide](pediatric-otolaryngology/clinic-guide.html)
 
-* [Neck Masses](pediatric-otolaryngology/neck-masses.html)
+- [Neck Masses](pediatric-otolaryngology/neck-masses.html)
 
-* [OR Guide](pediatric-otolaryngology/or-guide.html)
+- [OR Guide](pediatric-otolaryngology/or-guide.html)
 
 [Rhinology](rhinology.html)
 
@@ -66,18 +67,17 @@
 
 [Head and Neck Surgery](head-and-neck-surgery/index.html)
 
-* [Clinic Guide](head-and-neck-surgery/clinic-guide.html)
+- [Clinic Guide](head-and-neck-surgery/clinic-guide.html)
 
-* [Squamous Cell Carcinoma](head-and-neck-surgery/squamous-cell-carcinoma.html)
+- [Squamous Cell Carcinoma](head-and-neck-surgery/squamous-cell-carcinoma.html)
 
-* [Post-H&N Cancer Follow-up Guide](head-and-neck-surgery/follow-up-guide.html)
+- [Post-H&N Cancer Follow-up Guide](head-and-neck-surgery/follow-up-guide.html)
 
-* [OR Guide](head-and-neck-surgery/or-guide.html)
+- [OR Guide](head-and-neck-surgery/or-guide.html)
 
-* [Post-op Guide](head-and-neck-surgery/post-op-guide.html)
+- [Post-op Guide](head-and-neck-surgery/post-op-guide.html)
 
-* [Staging - 8th Edition](head-and-neck-surgery/staging-8th-edition.html)
-
+- [Staging - 8th Edition](head-and-neck-surgery/staging-8th-edition.html)
 
 # Resources
 
@@ -104,6 +104,7 @@
 [Map of Tufts Medical Center](map-of-tufts-medical-center.html)
 
 # Editors and Contributors
+
 **Jonathan C. Simmonds, M.D.**
 
 **Jennifer L. Harb, M.D.**
@@ -124,16 +125,10 @@
 
 **Emily Gall, M.D.**
 
-
 If you add to the pocket guide, feel free to add your name to the list above
 
 To edit this website - talk to me (Alex)
 
 To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
-
 ![Tufts Oto-HNS Pocket Guide](media/image1.png)
-
-
-
-

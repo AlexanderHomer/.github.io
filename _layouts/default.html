@@ -1,10 +1,35 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-</head>
-<body>
-<pre>{{ page.content | escape }}</pre>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/github-markdown.css' | relative_url }}" />
+  </head>
+  <body>
+    <textarea id="markdown-src" style="display: none">
+{{ page.content | escape }}</textarea
+    >
+    <article id="content" class="markdown-body"></article>
+    <script>
+      (async () => {
+        const src = document.getElementById("markdown-src");
+        const content = document.getElementById("content");
+        const md = src.value;
+        try {
+          const resp = await fetch("https://api.github.com/markdown", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              Accept: "application/vnd.github+json",
+            },
+            body: JSON.stringify({ text: md }),
+          });
+          const html = await resp.text();
+          content.innerHTML = html;
+        } catch (e) {
+          content.textContent = md;
+        }
+      })();
+    </script>
+  </body>
 </html>
