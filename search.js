@@ -37,23 +37,26 @@ function getQuery() {
 
 async function searchSite(query) {
   const results = [];
-  const lower = query.toLowerCase();
+  const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   for (const url of pages) {
     try {
       const resp = await fetch(url);
       const text = await resp.text();
       const plain = text.replace(/<[^>]*>/g, ' ');
-      const idx = plain.toLowerCase().indexOf(lower);
-      if (idx !== -1) {
+      const lower = plain.toLowerCase();
+      const matches = terms.every(t => lower.includes(t));
+      if (matches) {
+        const idx = lower.indexOf(terms[0]);
         const titleMatch = text.match(/<title>(.*?)<\/title>/i);
         const title = titleMatch ? titleMatch[1] : url;
         const start = Math.max(0, idx - 40);
-        const end = Math.min(plain.length, idx + query.length + 40);
+        const end = Math.min(plain.length, idx + terms[0].length + 40);
         let snippet = plain.slice(start, end).replace(/\s+/g, ' ').trim();
-        // highlight query in snippet
-        const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'i');
-        snippet = snippet.replace(regex, '<b>$1</b>');
-        const fragment = encodeURIComponent(plain.substr(idx, query.length));
+        for (const term of terms) {
+          const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'ig');
+          snippet = snippet.replace(regex, '<b>$1</b>');
+        }
+        const fragment = encodeURIComponent(plain.substr(idx, terms[0].length));
         results.push({ url, title, snippet, fragment });
       }
     } catch (e) {
