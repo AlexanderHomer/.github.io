@@ -106,14 +106,21 @@ main ul ul ul {
   list-style-type: square;
 }
 
+main ol {
+  margin-left: 1.5em;
+  padding-left: 0;
+}
+
 li {
   margin: 0.7em 0;
 }
 
 main li {
-  list-style-type: disc;
-  display: list-item;
   margin-left: 1.5em;
+}
+
+main li::marker {
+  color: #9e9e9e; /* Subtle grey for bullets and numbers */
 }
 
 .search-form {
