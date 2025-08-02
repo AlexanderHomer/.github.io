@@ -56,6 +56,15 @@
       #search-results a {
         text-decoration: none;
       }
+      .collapsible {
+        cursor: pointer;
+      }
+      .collapsible::after {
+        content: " \25BE";
+      }
+      .collapsible.collapsed::after {
+        content: " \25B8";
+      }
     </style>
   </head>
   <body>
@@ -65,7 +74,9 @@
     <article id="content" class="markdown-body"></article>
     <div id="bottom-bar">
       <button id="back-button" title="Back">&#8592;</button>
-      <a id="home-button" title="Home" href="{{ '/' | relative_url }}">&#8962;</a>
+      <a id="home-button" title="Home" href="{{ '/' | relative_url }}"
+        >&#8962;</a
+      >
       <input type="search" id="search-input" placeholder="Search..." />
     </div>
     <div id="search-results"></div>
@@ -91,5 +102,6 @@
       })();
     </script>
     <script src="{{ '/menu.js' | relative_url }}"></script>
+    <script src="{{ '/site.js' | relative_url }}"></script>
   </body>
 </html>
