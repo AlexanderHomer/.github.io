@@ -10,8 +10,6 @@
 * **Neck Pain:** A small amount of neck pain is expected (typically from suspension or the adenoidectomy). If the patient cannot move their neck, send patient to ED for CT to r/o Grisel’s syndrome (especially if patient has down syndrome)
 * **Pain:** check if patient has been able to receive pain meds (often parents can’t get kids to drink the meds). Offer PR Tylenol to help catch up pain
 
-#### 
-
 ## Post Septorhinoplasty Q&A
 
 * **Duration of swelling/bruising:** 7-10days. Ways to reduce: sit up, apply ice
