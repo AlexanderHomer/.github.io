@@ -105,15 +105,25 @@
 
 # Editors and Contributors
 **Jonathan C. Simmonds, M.D.**
+
 **Jennifer L. Harb, M.D.**
+
 **Erin Haser, M.D.**
+
 **Ameer Shah, M.D.**
+
 **Samih Nassif, M.D.**
+
 **Andrew R. Scott, M.D.**
+
 **Michelle White, M.D.**
+
 **Anju Patel, M.D.**
+
 **Ramya Bharathi, M.D.**
+
 **Emily Gall, M.D.**
+
 
 If you add to the pocket guide, feel free to add your name to the list above
 
