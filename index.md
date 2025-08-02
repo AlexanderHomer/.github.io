@@ -5,11 +5,11 @@
 ------------------------------------------------------------------
 
 
-# [Orientation](https://orientation/index.html)
+# [Orientation](/orientation/index.html)
 
-[Rules of the Game](rules-of-the-game.html)
+[Rules of the Game](/rules-of-the-game.html)
 
-[Daily Routine](daily-routine.html)
+[Daily Routine](/daily-routine.html)
 
 [Weekly Routines](weekly-routines.html)
 
