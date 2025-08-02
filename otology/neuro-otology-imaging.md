@@ -55,7 +55,8 @@
 * **Epidermoids**: T1 hypointense and T2 hyperintense, doesn't enhance. Differentiated from arachnoid cysts as **epidermoids** are bright on DWI.
 
 
-## MRI Internal Auditory Canal  ![CT Temporal Bone](../media/image5.png)
+## MRI Internal Auditory Canal   ![CT Temporal Bone](../media/image5.png "right-50")
+
 
 
 ### General principles of MRI:
@@ -80,8 +81,6 @@
 | **Cholesterol Granuloma** | ↑ | ↑ | ↑ | – |
 | **Cholesteatomas** | ↔ | ↑ | ↔ | Lights up on DWI |
 
-
-### \[IMAGE PLACEHOLDER – MRI and CT Pathology Comparisons\]
 
 
 [Back to homepage](../index.html)
