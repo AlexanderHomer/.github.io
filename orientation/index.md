@@ -3,34 +3,34 @@
 
 # Orientation
 
-[Rules of the Game](https://rules-of-the-game.html)
+[Rules of the Game](rules-of-the-game.html)
 
 
-[Daily Routine](https://daily-routine.html)
+[Daily Routine](daily-routine.html)
 
 
-[Weekly Routines](https://weekly-routines.html)
+[Weekly Routines](weekly-routines.html)
 
 
-[Monthly Routines](https://monthly-routines.html)
+[Monthly Routines](monthly-routines.html)
 
 
-[Yearly Routines](https://yearly-routines.html)
+[Yearly Routines](yearly-routines.html)
 
 
-[Tips](https://tips.html)
+[Tips](tips.html)
 
 
-[Templates/Protocols](https://templates-protocols.html)
+[Templates/Protocols](templates-protocols.html)
 
 
-[Orders, Discharges, and Dictations](https://orders-discharges-and-dictations.html)
+[Orders, Discharges, and Dictations](orders-discharges-and-dictations.html)
 
 
 [Case & Duty Hour Logs](case-duty-hour-logs.html)
 
 
-[Otolaryngology National Conference Schedule](../otolaryngology-national-conference-schedule.html)
+[Otolaryngology National Conference Schedule](otolaryngology-national-conference-schedule.html)
 
 
 [Vacation Requests](vacation-requests.html)
