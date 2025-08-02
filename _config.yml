@@ -1,2 +1,4 @@
 title: ENT Guidebook
 markdown: kramdown
+kramdown:
+  input: GFM

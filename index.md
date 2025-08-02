@@ -7,32 +7,32 @@
 
 # [Orientation](/orientation/index.html)
 
-[Rules of the Game](/rules-of-the-game.html)
+[Rules of the Game](orientation/rules-of-the-game.html)
 
-[Daily Routine](/daily-routine.html)
+[Daily Routine](orientation/daily-routine.html)
 
-[Weekly Routines](weekly-routines.html)
+[Weekly Routines](orientation/weekly-routines.html)
 
-[Monthly Routines](monthly-routines.html)
+[Monthly Routines](orientation/monthly-routines.html)
 
-[Yearly Routines](yearly-routines.html)
+[Yearly Routines](orientation/yearly-routines.html)
 
-[Tips](tips.html)
+[Tips](orientation/tips.html)
 
-[Templates/Protocols](templates-protocols.html)
+[Templates/Protocols](orientation/templates-protocols.html)
 
-[Orders, Discharges, and Dictations](orders-discharges-and-dictations.html)
+[Orders, Discharges, and Dictations](orientation/orders-discharges-and-dictations.html)
 
 [Case & Duty Hour Logs](orientation/case-duty-hour-logs.html)
 
 [On-Call Room](orientation/on-call-room.html)
 
-[Otolaryngology National Conference Schedule](otolaryngology-national-conference-schedule.html)
+[Otolaryngology National Conference Schedule](orientation/otolaryngology-national-conference-schedule.html)
 
 [Vacation Requests](orientation/vacation-requests.html)
 
 
-# [Calls and Consults](https://on-call/index.html)
+# [Calls and Consults](on-call/index.html)
 
 [On-Call](on-call/index.html)
 
