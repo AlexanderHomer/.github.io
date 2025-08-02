@@ -2,78 +2,31 @@
 layout: default
 title: Neuro-otology Imaging
 ---
-## 
-Neuro-otology Imaging
-
-
+## Neuro-otology Imaging
 
 **CT Temporal Bone**:
 
-
-
 **Stenvers/Perpendicular** view: a long-axis projection of the petrous portion of the temporal bone, perpendicular to axis of cochlear (best for seeing cochlear implant electrode array) and is used to depict the **round** window, **tegmen**, as well as other structures.
-
-
 
 The **Poschl/Parallel** view, a short-axis view of the petrous pyramid, was used to optimally visualize the **superior semicircular canal**
 
-
-#### 
-How to Read Temporal Bone Images
-
-
+#### How to Read Temporal Bone Images
 
 **Divide into:** EAC, Middle Ear, Inner Ear, Petrous Apex, Intratemporal Facial Nerve
 
-
-
 **External Auditory Canal (EAC):**
 
+- Necrotizing otitis externa: inflamed EAC and auricle w/ bony erosion of inferior EAC. T1 w/ contrast: cellulitis enhances. Same with T2
 
+- Cholesteatoma: eroding mass in inferior, posterior EAC. MRI shows T1 iso/hypointense.T2 intermediate/high intensity. DWI is bright (aka restricted)
 
-- 
+- Keratosis Obturans does not have bony destruction
 
-Necrotizing otitis externa: inflamed EAC and auricle w/ bony erosion of inferior EAC. T1 w/ contrast: cellulitis enhances. Same with T2
+- Exostoses (swimmers ears): typically at suture lines and are bilateral.
 
+- Osteomas: Typically ovoid \1.5mm. Look for Mondini malformation: think Pendred's
 
-
-- 
-
-Cholesteatoma: eroding mass in inferior, posterior EAC. MRI shows T1 iso/hypointense.T2 intermediate/high intensity. DWI is bright (aka restricted)
-
-
-
-- 
-
-Keratosis Obturans does not have bony destruction
-
-
-
-- 
-
-Exostoses (swimmers ears): typically at suture lines and are bilateral.
-
-
-
-- 
-
-Osteomas: Typically ovoid \1.5mm. Look for Mondini malformation: think Pendred's
-
-
-
-
-
-- 
-
-Hypoplastic CN8: If \
-
-
-
-
-
-
-
-
+- Hypoplastic CN8: If \
 
 
  | 
