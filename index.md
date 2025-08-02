@@ -127,5 +127,8 @@ To edit this website - talk to me (Alex)
 To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
 
+![Tufts Oto-HNS Pocket Guide](media/image1.png)
+
+
 
 
