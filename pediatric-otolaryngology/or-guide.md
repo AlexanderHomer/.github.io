@@ -2,574 +2,679 @@
 layout: default
 title: Pediatric Otolaryngology OR Guide
 ---
-<h2 class="unnumbered" id="pediatric-otolaryngology-or-guide">
+## 
 Pediatric
 Otolaryngology -- OR guide
-</h2>
-<h3 class="unnumbered" id="rigid-bronchoscopy-scott-or-vecchiotti">
+
+
+### 
 Rigid
 Bronchoscopy (Scott or Vecchiotti)
-</h3>
-<p>
-<strong>Set up:</strong>
-</p>
-<ul>
-<li>
-<p>
+
+
+
+**Set up:**
+
+
+
+- 
+
 Check last op note to see what size laryngoscope, bronch, and ETT
 sizes were used
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 On table for bronch:
-</p>
-</li>
-<li>
-<p>
-<strong>Parson's Laryngoscope</strong>: Age appropriate \[see
+
+
+
+- 
+
+**Parson's Laryngoscope**: Age appropriate \[see
 chart\]
-</p>
-</li>
-<li>
-<p>
-<strong>Y-split light cable</strong> (must be the one with a
+
+
+
+- 
+
+**Y-split light cable** (must be the one with a
 straight light cable adapter on one side and the curved light prism for
 the laryngoscope of the other end.
-</p>
-</li>
-<li>
-<p>
-<strong>Bronchoscope</strong> age appropriate \[check chart\]
-</p>
-<ul>
-<li>
-<p>
-Connect the <strong>rubber nipple, suction cover, bridge, and
-light prism</strong> (only in half way down so it doesn't obstruct the
+
+
+
+- 
+
+**Bronchoscope** age appropriate \[check chart\]
+
+
+
+- 
+
+Connect the **rubber nipple, suction cover, bridge, and
+light prism** (only in half way down so it doesn't obstruct the
 endoscope)
-</p>
-</li>
-<li>
-<p>
-<strong>0 degree endoscope</strong>: pick the largest size that
-will fit into the bronchoscope. <strong>MAKE SURE IT FITS</strong>.
-<strong>MAKE SURE YOU CAN SEE THROUGH IT</strong> (sometimes they are
+
+
+
+- 
+
+**0 degree endoscope**: pick the largest size that
+will fit into the bronchoscope. **MAKE SURE IT FITS**.
+**MAKE SURE YOU CAN SEE THROUGH IT** (sometimes they are
 broken)
-</p>
-</li>
-<li>
-<p>
-<strong>2 suctions:</strong> A small shorter suction for the
+
+
+
+- 
+
+**2 suctions:** A small shorter suction for the
 larynx and a longer suction (one that fits through the bronch)
-</p>
-</li>
-<li>
-<p>
-<strong>Camera</strong>: connect to endoscope, focus and white
+
+
+
+- 
+
+**Camera**: connect to endoscope, focus and white
 balance
-</p>
-</li>
-<li>
-<p>
-<strong>Fred</strong>
-</p>
-</li>
-<li>
-<p>
-<strong>1% lidocaine</strong>:
-</p>
-<ul>
-<li>
-<p>
-<strong>Calculate max dose for patient's weight</strong>: 0.4 x
+
+
+
+- 
+
+**Fred**
+
+
+
+- 
+
+**1% lidocaine**:
+
+
+
+- 
+
+**Calculate max dose for patient's weight**: 0.4 x
 pt's weight (kg) = amount of 1% lidocaine in cc. \[eg 10kg child can have
 4cc of 1%lidocaine\]
-</p>
-</li>
-<li>
-<p>
-draw up into a <strong><u>non-luer lock</u> 1cc syringe</strong>
-x 2. Put on a <strong>14G angiocath</strong> (orange tip)
-</p>
-</li>
-<li>
-<p>
-<strong>Vocal fold spreader</strong> + <strong>sterile elastics +
-A right angled probe</strong>
-</p>
-</li>
-<li>
-<p>
-<strong>A shoulder roll.</strong>
-</p>
-</li>
-</ul>
-<p>
-<img alt="" src="../media/image17.png" style="width:4.10216in;height:2.80449in"/>
-</p>
-<p>
+
+
+
+- 
+
+draw up into a **non-luer lock 1cc syringe**
+x 2. Put on a **14G angiocath** (orange tip)
+
+
+
+- 
+
+**Vocal fold spreader** + **sterile elastics +
+A right angled probe**
+
+
+
+- 
+
+**A shoulder roll.**
+
+
+
+
+
+![](../media/image17.png)
+
+
+
 []{#_Toc139824222 .anchor}Flexible
 bronchoscopy:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Need the flexible bronchoscopy (XP size), probably pediatric size
 (unless you're bronching an older child), flexible bronchoscopy Olympus
 tower
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Place all of the following on a blue towel on top of the XP
 towel:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Lubrication on a separate blue towel
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 FRED and green pad
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Swivel adapter -- should be in the drawer, but if not, get one
 from anesthesia work room
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 1% Lidocaine (plain), 1mL in a 5cc syringe with a 14G
 angiocath
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Pieces for the flexible bronchoscope -- should also be in the
 drawer, but these include the suction piece and the injector piece.
 These need to click into place.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Blue basin with sterile saline
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 If he is performing BALs you will need:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Luken's traps
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 A few of the sterile 10cc saline syringes
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Have DL Bronch set up. Keep in room and don't break down after
 use
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Have flex bronch set up (can keep in substerile room if space is
 needed -- will use at end of case)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Set-up:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Start with DLB. Afterwards, rotate patient so he/she is a full
 180 degrees around
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 You have time as anesthesia places a femoral line.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Make sure anesthesia has a second circuit that comes under bed to
 a Christmas tree at the head of the bed.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Remove tracheostomy tube and replace with an oral rae. Suture
 this to the skin w/ silks like we do in free flaps
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Mark a right-side inframammary incision & inject w. lido w/
 epi
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Mark an elliptical incision around trach stoma. Mark midline and
 the clavicles
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Prep from upper lip to belly button all the way laterally to just
 past midline
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Towel off (don't include mouth in sterile field) and staple to
 skin (not on face). Use split from inferior to superior and then use
 half drape superiorly (like Wein's INSPIRE patients) and then staple a
 blue towel between rib incision and clavicle (just one edge so it can
 flip upwards over the stoma when working on the ribs and flip back down
 once you finish to keep it clean
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Make sure uncuffed oral rae tubes are on the sterile field (size
 of trach + 2/3 sizes up).
-</p>
-</li>
-<li>
-<p>
-Be in preop area <u>at least</u> 15 minutes prior to
-1<sup>st</sup> case
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
+Be in preop area at least 15 minutes prior to
+1^st^ case
+
+
+
+- 
+
 Update the pre-op paperwork. Sign the ticket to safety.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Place post-op orders, and brief op note, but only if you have
 time! Get the room ready first!
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Check the room to make sure equipment is ready!
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Ear tubes
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Balance microscope (make sure plugged in).
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Make sure 250 mm lens in place. Wipe lens with alcohol
 swab
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 2 Sheehey Silastic button collar tubes available
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Chairs on both sides of the OR table.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Have speculum and loop curette wrapped in blue towel ready on OR
 bed
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Tonsils and Adenoids
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Head drape (blue towel folded into triangle) on OR bed. Tape for
 head drape
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Shoulder roll
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Settings:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Spatula-tip bovie on 20/20.
-</p>
-</li>
-<li>
-<p>
-Suction cautery <u>coag on 28 (cut on 20) & blend</u> for
+
+
+
+- 
+
+Suction cautery coag on 28 (cut on 20) & blend for
 adenoids
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Head lights
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 On mayo stand:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 appropriate size crowe-davis mouth gag.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 soft suction catheter and curved kelly clamp
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Allis clamp and herd elevator
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 laryngeal mirror + fred
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 pre-bend the suction cautery!
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 For ear tubes, have your gloves on and be ready to push the
 microscope toward the OR bed as soon as the patient is asleep!
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 For tonsils and adenoids, have your headlight on by the time the
 patient is intubated. Help anesthesia tape the tube down middle of
 bottom lip. Be ready to turn the table 90 degrees to the right. Place
 the head drape and shoulder roll. Have chair ready.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Try to finish your op note when done
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Sign-out to the PICU resident if the patient is being admitted to
 PICU post-op.
-</p>
-</li>
-</ul>
+
+
+
+
 id="open-neck-cases-eg-thyroglossal-duct-cyst-vecchiotti"\>Open Neck
 Cases eg thyroglossal duct cyst (Vecchiotti)
-<p>
-Dr. Vecchiotti's glove size: <strong>7</strong>
-</p>
-<p>
-<u>PREPPING - You need:</u>
-</p>
-<ul>
-<li>
-<p>
+
+Dr. Vecchiotti's glove size: **7**
+
+
+
+PREPPING - You need:
+
+
+
+- 
+
 "1000 drapes" cut in half. Mastisol. Betadine. Marking pen.
 Alcohol swabs. 1% lido with 1:100,000 epi (use 0.5 % with 1:200,000 epi
 if young infant, ask if in doubt) .
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 2 sets of headlights
-</p>
-</li>
-</ul>
-<p>
+
+
+
+
+
 Have marking pen ready to pre-mark incision -- have alcohol swabs
 ready if need to erase/remark. Apply mastisol around your operative
 field. Place the 1000 drapes on all 4 sides. Do a wide prep with
-betadine. <strong>Put on headlight before you scrub.</strong> Have
+betadine. **Put on headlight before you scrub.** Have
 bipolar set on 10/10.
-</p>
-<p>
-<u>CLOSING -- in general:</u>
-</p>
-<ul>
-<li>
-<p>
+
+
+
+CLOSING -- in general:
+
+
+
+- 
+
 4.0 vicryl for deep layers; buried interrupted
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 5.0 or 6.0 fast absorbing gut for skin; simple running
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 5.0 monocryl if closing skin with subcuticular stitches
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Prolene if placing drain
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Bacitracin ointment (occasionally dermabond)
-</p>
-</li>
-</ul>
-<p>
-<strong>Sistrunk (Thyroglossal Duct Cyst Excision)
-Technique:</strong> see article <em>Posterior Hyoid Space as Related to
-Excision of the Thyroglossal Duct Cyst</em> John Maddalozzo, MD, FAAP,
-FACS, Jeremy Alderfer, MD; Vikash Modi, MD <em>The Laryngoscope
-2010</em>
-</p>
-<h3 class="unnumbered" id="cochlear-implants-vecchiotti">
+
+
+
+
+
+**Sistrunk (Thyroglossal Duct Cyst Excision)
+Technique:** see article *Posterior Hyoid Space as Related to
+Excision of the Thyroglossal Duct Cyst* John Maddalozzo, MD, FAAP,
+FACS, Jeremy Alderfer, MD; Vikash Modi, MD *The Laryngoscope
+2010*
+
+
+### 
 Cochlear
 Implants (Vecchiotti)
-</h3>
-<p>
-<strong>To confirm before patient enters room</strong>
-</p>
-<ul>
-<li>
-<blockquote>
-<p>
+
+
+
+**To confirm before patient enters room**
+
+
+
+- 
+**
+
 Check the patient's ear in the pre-op area to r/o mucoid
 effusion.
-</p>
-</blockquote>
-</li>
-</ul>
-<p>
+
+
+
+
+
+
 Make sure CPD have pulled the cochlear implant instruments kit (there
 is a special kit for each CI manufacturer), the ear kit, an M&T kit,
 the Paparella press (for tympmastoids) the Visao drill with a 6 cutting,
 3 cutting, 2 coarse diamond and 1 fine diamond drill on the field (a 1.5
 fine diamond off the field as well)
-</p>
-<p>
+
+
+
 Make sure they have the PURPLE permanent marker on the field (it's
 the only one that draws on the Ioban)
-</p>
-<p>
+
+
+
 Make sure they have a NIM nerve stimulator (the one where you can
 change the voltage) on the field
-</p>
-<p>
+
+
+
 A big bag of saline and big bag of sterile water handing on the
 irrigation machine (the one used for the microdebrider). Don't allow the
 scrubs to open an actual microdebrider...for their sake.
-</p>
-<p>
+
+
+
 Make sure the cochlear instruments have these templates (Cochlear
 Corp)
-</p>
-<p>
+
+
+
 Balance the microscope. Don't drape it yet.
-</p>
-<p>
-<img alt="" src="../media/image18.jpeg" style="width:0.85278in;height:0.78194in"/><img alt="" src="../media/image19.png" style="width:0.9625in;height:0.71042in"/>Call audiology and give them
+
+
+
+![](../media/image18.jpeg)![](../media/image19.png)Call audiology and give them
 the serial numbers for the cochlear implants
-</p>
-<p>
-<strong>Things to put on the non-sterile side table:</strong>
-</p>
-<p>
+
+
+
+**Things to put on the non-sterile side table:**
+
+
+
 M&T kit, mastisol, 1000 drapes cut in half (need 5-6), NIM
 electrodes, tegederms cut in ½, a razor, alcohol prep pads,
 lidocaine)
-</p>
-<p>
-<strong>Set up</strong>
-</p>
-<p>
-<img alt="" src="../media/image20.png" style="width:1.56319in;height:1.09306in"/>Bed rotated 180 degrees.
+
+
+
+**Set up**
+
+
+
+![](../media/image20.png)Bed rotated 180 degrees.
 Leica microscope at head of bed, tower can be on the scrub side of
 microscope, NIM monitor and suction on the scrub side by the feet.
-</p>
-<p>
+
+
+
 Draw out the BTE template. Draw out the location of the implant using
 the silicone template. This has to be above the temporal line and make
 the angle that it sits \>45 degrees (Vecchiotti likes it more vertical
 than usual) from the temporal line. Shave the hair by the proposed
 implant site.
-</p>
-<p>
+
+
+
 Draw a lazy S incision 0.5cm behind the post-auricular crease.
-</p>
-<p>
-<img alt="" src="../media/image21.png" style="width:1.94861in;height:1.71389in"/>Place the NIM and curl the
+
+
+
+![](../media/image21.png)Place the NIM and curl the
 leads before you stick the Tegaderm down. Test the monitor. Volume to
 max, voltage at 0.8.
-</p>
-<p>
+
+
+
 Put mastisol where the 1000 drapes will go and put the 1000 drapes
 down.
-</p>
-<p>
-<strong>Evaluate the TM with the microscope before you
-prep</strong>.
-</p>
-<p>
+
+
+
+**Evaluate the TM with the microscope before you
+prep**.
+
+
+
 Prep a wide area. Get the parts of the 1000 drapes that slip behind
 each other. put the craniotomy drape (the one that collects fluid) on
 the patient. Redraw template. Cut the ear out. Then put the Ioban from
 posterior to anterior pulling the ear forward as you do. Redraw template
 markings again. Have scrub drape the microscope and the chairs.
-</p>
-<p>
-<strong>Procedure</strong>
-</p>
-<p>
+
+
+
+**Procedure**
+
+
+
 15 blade for incision, carry down to the temporalis fascia. Raise
 supraperiosteal flaps anteriorly to the posterior aspect of the EAC.
-</p>
-<p>
+
+
+
 Create a palva flap -- use a bovie (if no contralateral implant
 placed) down to the bone. Raise the flap with a Lempert periosteal
 elevator to the spine of henle.
-</p>
-<p>
-<img alt="" src="../media/image22.png" style="width:3.74306in;height:1.43333in"/>Do a cortical mastoidectomy,
+
+
+
+![](../media/image22.png)Do a cortical mastoidectomy,
 focus on the corner where the tegmen and EAC meet. Use a #6 until you
 hit Koerner septum, then switch to a #3 to expose the lateral
 semicircular canal, incus buttress and the fossa incudes. The incus
@@ -579,8 +684,9 @@ idea where the facial nerve is, then take down the air cells on the EAC
 window. Drill part of your cochlostomy with a 1 diamond burr
 anterior/inferior to round window until you are about to pop through it
 then stop.
-</p>
-<p>
+
+
+
 Use a freer to create your pocket (make it small/tight. He'll pimp
 you on what is keeps the implant from moving. The answer is the
 temporalis tendon blocks the anterior/inferior corner of the implant
@@ -588,472 +694,497 @@ from migrating) Put the metal implant template on a Kelly and use that
 to dissect the pocket for a good fit. Use a pen to mark a line from the
 metal template to the mastoid cavity and use a 3 cutting burr to drill a
 well for the electrodes. Take some temporalis fascia for later
-</p>
-<p>
+
+
+
 Irrigate the mastoid. Ask for blue towels to put around the sterile
 area and change gloves. Open to the cochlear implant. Ask the nurses to
 disconnect the bovie and the circulator to order the portable x-ray
-</p>
-<p>
+
+
+
 Use the #1 diamond burr to finish your cochleostomy. Hold the implant
 fin with AOS forceps and put the implant into the cochleostomy until you
 hit the Silastic stopper. Then advance the electrodes, stop if you feel
 resistance, until the white tabs line up. Pack the cochleostomy
-</p>
-<p>
+
+
+
 Use non-compressed gelfoam to pack the mastoid. Close palva flap with
 running 4-0 vicryl. Close deep layer with 4-0 vicyrl. Superficial with a
 5-0 fast absorbing plain gut, use dermabond over that. Use a kerlex for
 fluffs. Then do a mastoid dressing (with 2 kerlexs)
-</p>
-<p>
-<strong>Post-op Instructions</strong>
-</p>
-<p>
+
+
+
+**Post-op Instructions**
+
+
+
 Mastoid/glasscock dressing for 24 hours. Then glasscock dressing at
 night until follow up
-</p>
-<p>
+
+
+
 Keflex until f/u (give a refill on script)
-</p>
-<p>
+
+
+
 HOB \>30 degrees. Sinus precautions. Dry ear precautions
-</p>
-<p>
+
+
+
 Call for fevers, chills, drainage, persistent vertigo etc
-</p>
-<h3 class="unnumbered" id="botox-injections-to-salivary-glands-both-mv-as">
+
+
+### 
 Botox injections to salivary glands - both MV & AS
-</h3>
-<ul>
-<li>
+
+
+
+- 
 Call pedi ultrasound to make sure they're available and will be in the room at start of case
-</li>
-<li>
+
+- 
 x4 1cc syringes
-</li>
-<li>
+
+- 
 x4 yellow tip 27gauge needles
-</li>
-<li>
+
+- 
 x1 5cc syringe filled with sterile NS. Use 18gauge needle to dilute botox in the 5cc sterile NS.
-</li>
-<li>
+
+- 
 Draw 1cc into each of the 1cc syringes. Place 27gauge needles on the 4 1cc syringes
-</li>
-<li>
+
+- 
 Alcohol swabs to clean skin before injections
-</li>
-<li>
+
+- 
 Usually inject 1cc or 20 units/gland
-</li>
-</ul>
-<h3 class="unnumbered" id="dr-scotts-or-guide">
+
+
+### 
 Dr Scott's OR Guide
-</h3>
-<p>
-For <strong><u>Andrew Scott operative note</u></strong> you need to
-focus on FINDINGS: <strong>+/- submucus cleft, Size of Tonsils, Size of
-Adenoids, Electrocautery Settings.</strong>
-</p>
-<p>
+
+
+
+For **Andrew Scott operative note** you need to
+focus on FINDINGS: **+/- submucus cleft, Size of Tonsils, Size of
+Adenoids, Electrocautery Settings.**
+
+
+
 []{#_Toc139824229 .anchor}Adenotonsillectomy
 (Scott):
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Have shoulder roll and head drape ready
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Drape head, place shoulder roll after intubated and rotated 90
 degrees away from anesthesia
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Place Crowe-Davis mouth gag, feel for submucus cleft
 palate
-</p>
-</li>
-<li>
-<p>
-Place soft suction catheter through nasal cavity; <u>place rolled
-gauze between soft suction catheter and clamp to secure in place</u>
+
+
+
+- 
+
+Place soft suction catheter through nasal cavity; place rolled
+gauze between soft suction catheter and clamp to secure in place
 (Vecchiotti does not use rolled gauze)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Start with adenoidectomy- use microdebrider with the curved
 blade. Get all the adenoids out before blood hits the suction machine
 (this is Scott's gauge if you're doing it correctly)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Pack with tonsil ball(s)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Remove tonsils using Bovie electrocautery at setting of 20 and
 20. Start more laterally than Vecchiotti (take the anterior pillar)
 Cauterize the tonsillar fossa with suction electrocautery at setting of
 20.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Remove the tonsil balls, cauterize adenoid bed at setting of
 28.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Irrigate oral and nasal cavity with saline. (The correct way to
 irrigate the nasal cavity is to place the bulb suction in the nostril,
 squeeze, and gradually remove will still squeezing so irrigation gets on
 the patient's face. Do not release the squeeze while in the nose, as
 this could cause epistaxis and general annoyance.)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Suction stomach with adult orogastric tube "Tummy time"
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Remove everything, you're done!
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="nasal-endoscopy-casedcr-in-combo-w-ophtho-scott">
+
+
+
+
+### 
 Nasal endoscopy case/DCR in combo w/ ophtho - Scott
-</h3>
-<ul>
-<li>
+
+
+
+- 
 Afrin-soaked pledgets
-</li>
-<li>
+
+- 
 4.0 zero degree scope (this can be obtained from airway cart, does not need to be sterile, i.e. don't need pedi FESS kit solely for the scope)
-</li>
-<li>
+
+- 
 lido w/ epi with yellow tip 27gauge needle
-</li>
-<li>
+
+- 
 4.0 Vicryl TF (if suturing stent in place)
-</li>
-<li>
+
+- 
 BMT kit usually adequate for equipment (alligator, Frazier tip suctions), also might need freer - unless planning for full DCR in which case FESS kit +/- drill (not sure which kind) may be necessary
-</li>
-</ul>
-<h3 class="unnumbered" id="butterfly-tympanoplasty-scott">
+
+
+### 
 Butterfly
 tympanoplasty -- Scott
-</h3>
-<p>
+
+
+
 Steps:
-</p>
-<ul>
-<li>
+
+
+
+- 
 inject canal. Make an incision on posterior tragus. Incise through the cartilage to anterior surface. Elevate anterior surface first. Then do posterior. Keep scissors bevel up (check what this means). KEEP the perichondrium on the cartilage
-</li>
-<li>
+
+- 
 just close incision with 2 interrupted sutures to prevent a tragal hematoma
-</li>
-<li>
+
+- 
 rim perforation. Then use cartilage, size it 2mm larger than perforation. Butterfly the cartilage with a #15 blade (circumferentially score it). The perichondrium will cause the edges to curl so it looks like a ear tube. Place it in the perforation.
-</li>
-</ul>
+
+
 id="pediatric-otolaryngology-post-op-guide"\>Pediatric Otolaryngology --
 Post Op Guide
-<ul>
-<li>
-<p>
+
+- 
+
 Pediatric hospitalist consult is MANDATORY for all children under
 2 year old
-</p>
-</li>
-</ul>
-<h4 class="unnumbered" id="tonsillectomy-patients">
+
+
+
+
+#### 
 Tonsillectomy
 Patients
-</h4>
-<p>
-<strong>Orders</strong>: IVF, soft diet, pulse oximetry, cool
+
+
+
+**Orders**: IVF, soft diet, pulse oximetry, cool
 humidified air, ice pack to back of neck,
-</p>
-<p>
-<strong>Meds</strong>:
-</p>
-<p>
+
+
+
+**Meds**:
+
+
+
 Tylenol & ibuprofen liquid PO (should be standing orders, to be
 given 3 hours apart), Tylenol PR
-</p>
-<p>
+
+
+
 Oxycodone and Morphine (since they are inpatient, its find to give to
-patients \<6yo)
-</p>
-<p>
-Zofran IV, +/- Phenergine PR
-</p>
-<p>
-<strong>D/C Criteria</strong>: When you check soarian in the AM of
-POD#1: make sure
-</p>
-<p>
-\~360cc (12 fl oz) PO intake since OR (that should be roughly 1 fl oz
-(12cc) per hour)
-</p>
-<p>
-No desats. If patient has a desat, ask the nurse to make sure the
-patient naps during the day. If no desats during pt's nap, they can be
-d/c'd in the evening
-</p>
-<h4 class="unnumbered" id="mandibular-distraction">
-Mandibular
-Distraction
-</h4>
-<p>
-POD#0-1: stay intubated. IV ancef or vanco. <strong>Trend cap
-gas</strong> (high risk of ↑↑PCO<sub>2</sub>) POD#2: clean pins w/ H2O2
-and distraction begins.
-</p>
-<p>
-<strong>External devices:</strong> 1.5 turns (0.75mm) BID (
-1.5mm/day)
-</p>
-<p>
-<strong>Internal devices:</strong> 1 turn (1mm) BID (2mm/day)
-</p>
-<p>
-POD#5: wean sedation POD#6: extubate, dispo planning. Discharge on
-oral antibiotics. F/U w/ Dr. Scott 2x/week. Distraction stops on
-POD10-14. Pins removed in OR in 6 weeks.
-</p>
-<p>
-\[See MDO protocol\]
-</p>
-id="laryngotracheal-reconstruction-ltr-protocol"\>Laryngotracheal
+patients \Laryngotracheal
 Reconstruction (LTR) Protocol
-<p>
+
 POD#0-5: Make sure patient is on zosyn. Check for pressure necrosis
 (occiput, heels), and alar necrosis.
-</p>
-<p>
-<strong>Periextubation plan (POD#5):</strong> Decadron 0.25-0.5mg/kg
+
+
+
+**Periextubation plan (POD#5):** Decadron 0.25-0.5mg/kg
 to be given 13 hours prior to extubation q6hrs x3 so last dose is 1 hour
-prior to extubation. <u>Propofol "washout":</u> 8-10 hours prior to
+prior to extubation. Propofol "washout": 8-10 hours prior to
 planned extubation: start propofol 30mcg/kg/min (can titrate up to max
 100mcg/kg/min) then after 1 hour, can cut opioid and benzodiazepine
 infusions to 25-50% of previous level. continue precedex at same rate.
 Discontinue vecuronium 4-6 hours prior to extubation
-</p>
-<p>
+
+
+
 \[see LTR protocol\]
-</p>
-<h4 class="unnumbered" id="vecchiotti-ear-patient">
+
+
+#### 
 Vecchiotti Ear
 Patient
-</h4>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Keflex x1 week
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Glasscock x 24 hours then at night prn comfort
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Ciprodex & Bactroban: Remove the cotton ball in ear, apply 3
 drops of ciprodex, then placed a new cotton ball coated in Bactroban
-back into the ear. Do this <u>three times a day</u>
-</p>
-</li>
-<li>
-<p>
-<u>Sinus</u> precautions and <u>dry ear</u> precautions x 2
+back into the ear. Do this three times a day
+
+
+
+- 
+
+Sinus precautions and dry ear precautions x 2
 weeks
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Follow up in 2 weeks
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Perform tuning fork and facial nerve exam post-op
-</p>
-</li>
-</ul>
-<h4 class="unnumbered" id="scott-cleft-lip-cleft-palate">
+
+
+
+
+#### 
 Scott Cleft Lip
 & Cleft Palate
-</h4>
-<p>
-<strong>Medications</strong>:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+**Medications**:
+
+
+
+- 
+
 Tylenol
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Motrin (ONLY if \>6 months)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Morphine
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 +/- Oxycodone
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 LR @ mIVF rate
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Nasal saline spray: 4 drops to each nostril and to lip incisions
-q4 hours <strong><u>\[cleft lip only\]</u></strong> (this is super
+q4 hours **\[cleft lip only\]** (this is super
 important -- write an RN order to clean nose with q-tip if there is any
 crusting and do this on rounds in the AM)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Amoxicillin x1 week (Azithromycin for PCN allergic
 patients)
-</p>
-</li>
-</ul>
-<p>
-<strong>Non-Medication Orders</strong>:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+
+
+**Non-Medication Orders**:
+
+
+
+- 
+
 Vitals per unit routine
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Activity ad lib
-</p>
-</li>
-<li>
-<p>
-Regular Pedi Age-appropriate diet <strong><u>\[cleft
-lip\]</u></strong>
-</p>
-</li>
-<li>
-<p>
-Soft/Pureed diet until follow up <strong><u>\[cleft
-palate\]</u></strong>
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
+Regular Pedi Age-appropriate diet **\[cleft
+lip\]**
+
+
+
+- 
+
+Soft/Pureed diet until follow up **\[cleft
+palate\]**
+
+
+
+- 
+
 Welcome sleeves at all times (except under direct supervision) x2
-weeks (<em>sign the restraint order form in PACU otherwise you WILL get
-a page at night)</em>
-</p>
-</li>
-<li>
-<p>
+weeks (*sign the restraint order form in PACU otherwise you WILL get
+a page at night)*
+
+
+
+- 
+
 No sippy cups or cups that have a valve or from a bottle. May
 drink from a regular cup. May be spoon fed. May not use a
 pacifier.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Humidified air at all times
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Continuous O2 sat monitoring
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Titrate FiO2 to maintain sats \>92%
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Call ENT for significant bleeding or desaturations
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 I&O per unit routine
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 HOB elevated 30 degrees
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 No ointment of any kind to incisions
-</p>
-</li>
-<li>
-<p>
-<u>Follow up is 3 weeks</u>
-</p>
-</li>
-</ul>
-<p>
-<a href="../index.html">Back to homepage</a>
-</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+
+
+
+- 
+
+Follow up is 3 weeks
+
+
+
+
+
+[Back to homepage](../index.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 id="tonsils-adenoids-ear-tubes-vecchiotti"\>Tonsils, Adenoids, Ear Tubes
 (Vecchiotti)
 
-</li>
-</ul>
-</li>
-</ul>
+
+
+
+
 
 id="laryngotracheal-reconstruction-vecchiotti-scott"\>Laryngotracheal
 Reconstruction (Vecchiotti & Scott)
 
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+
+
+
+
+
+
+
+

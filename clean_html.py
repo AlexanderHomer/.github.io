@@ -1,3 +1,6 @@
++24
+-5
+
 import sys
 import re
 import pathlib
@@ -52,13 +55,18 @@ for i in range(6,0,-1):
     substitutions.append((re.compile(fr'</h{i}>', re.I), '\n'))
 
 link_pattern = re.compile(r'<a href="([^"]*)"[^>]*>(.*?)</a>', re.I | re.S)
-img_pattern = re.compile(r'<img[^>]*src="([^"]+)"[^>]*?(?:alt="([^"]*)")?[^>]*>', re.I | re.S)
+img_pattern = re.compile(r'<img[^>]*>', re.I | re.S)
 comment_pattern = re.compile(r'<!--.*?-->', re.S)
 
 def clean_text(text):
     text = comment_pattern.sub('', text)
     text = link_pattern.sub(lambda m: f'[{m.group(2).strip()}]({m.group(1)})', text)
-    text = img_pattern.sub(lambda m: f'![{(m.group(2) or '').strip()}]({m.group(1)})', text)
+    def replace_img(m):
+        attrs = dict(re.findall(r'(\w+)="([^"]*)"', m.group(0), re.I))
+        alt = attrs.get('alt', '').strip()
+        src = attrs.get('src', '')
+        return f'![{alt}]({src})'
+    text = img_pattern.sub(replace_img, text)
     for pat, repl in substitutions:
         text = pat.sub(repl, text)
     text = re.sub(r'<[^>]+>', '', text)

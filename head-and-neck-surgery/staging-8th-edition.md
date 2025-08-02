@@ -2,1114 +2,1108 @@
 layout: default
 title: Head &amp; Neck Staging - 8th Edition
 ---
-<h2 class="unnumbered" id="head-neck-staging---8th-edition">
+## 
 Head &
-Neck Staging - 8<sup>th</sup> Edition
-</h2>
-<ul>
-<li>
-<p>
+Neck Staging - 8^th^ Edition
+
+
+
+- 
+
 AJCC 8th Edition Staging
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx,
 Salivary Gland, Thyroid CA (in general)
-</p>
-</li>
-</ul>
-<p>
-T1---\<2cm
-</p>
-<p>
-T2--- 2-4cm
-</p>
-<p>
-T3--- 4+cm
-</p>
-<ul>
-<li>
-<p>
-In general, for Laryngeal Cancer
-</p>
-</li>
-</ul>
-<p>
-T1 - same subsite
-</p>
-<p>
-T2 - extends to nearby subsite
-</p>
-<p>
-T3 - fixes vocal cords
-</p>
-<p>
-T4 - extends past borders of larynx
-</p>
-<ol start="3" type="A">
-<li>
-<p>
-For oral cavity, p16 negative OP, larynx, salivary gland
-</p>
-</li>
-<col style="width: 30%"/>
-<col style="width: 69%"/>
-<th>
+
+
+
+
+
+T1---\
+
+
 N category
-</th>
-<th>
+ | 
+
 HPV Negative
-</th>
-<td>
-<p>
+ | 
+
+
 N1
-</p>
-<p>
+
+
+
  
-</p>
-</td>
-<td>
-<strong>Single</strong> ipsilateral, \<3cm,
-ENE<sub>negative</sub>
-</td>
-<td>
-N2
-</td>
-<td>
-<p>
-N2<sub>ALL</sub>: \<6cm, ENE<sub>negative</sub>
-</p>
-<p>
-N2a: single, ipsilateral
-</p>
-<p>
-N2b: <strong>multiple,</strong> ipsilateral
-</p>
-<p>
-N2c: bilateral/contralateral
-</p>
-</td>
-<td>
-N3
-</td>
-<td>
-<p>
-N3a: \>6cm
-</p>
-<p>
-N3b: ENE<sub>positive</sub>
-</p>
-</td>
-<li>
-<p>
+
+
+ | 
+
+**Single** ipsilateral, \6cm
+
+
+
+N3b: ENE_positive_
+
+
+ | 
+- 
+
 For Nasopharyngeal and P16 positive
-</p>
-</li>
-<col style="width: 29%"/>
-<col style="width: 70%"/>
-<th>
+
+
+
+
+
+
 HPV Positive
-</th>
-<td>
-ipsilateral <strong>\<6cm</strong>
-</td>
-<td>
-Contralateral/bilateral \<6cm
-</td>
-<td>
-\>6cm
-</td>
-<ol start="5" type="A">
-<li>
-<p>
+ | 
+
+ipsilateral **\6cm
+ | 
+
+- 
+
 Tumor Staging
-</p>
-</li>
-<p>
+
+
+
+
 Head & Neck Cancer Staging (for most cancers)
-</p>
-<table style="width:100%;">
-<col style="width: 20%"/>
-<col style="width: 19%"/>
-<th>
+
+
+
+
+
+
  
-</th>
-<th>
+ | 
+
 N2
-</th>
-<th>
+ | 
+
 N3
-</th>
-<td>
+ | 
+
 T1
-</td>
-<td>
+ | 
+
 I
-</td>
-<td>
+ | 
+
 IVA
-</td>
-<td>
+ | 
+
 IVB
-</td>
-<td>
+ | 
+
 T2
-</td>
-<td>
+ | 
+
 II
-</td>
-<td>
+ | 
+
 T3
-</td>
-<p>
+ | 
+
 \*except Nasopharynx, p16 positive OP, salivary, thyroid CAs
-</p>
-<h3 class="unnumbered" id="oral-cavity">
+
+
+### 
  ORAL CAVITY
-</h3>
-<col style="width: 27%"/>
-<col style="width: 72%"/>
-<th>
+
+
+
+
+
 T category
-</th>
-<td>
-<p>
+ | 
+
+
  T0
-</p>
-<p>
+
+
+
 Tis
-</p>
-</td>
-<td>
-<p>
+
+
+ | 
+
+
  No primary identified
-</p>
-<p>
+
+
+
 Carcinoma in situ
-</p>
-</td>
-<td>
+
+
+ | 
+
  T1
-</td>
-<td>
- \<2 cm & DOI \<5mm
-</td>
-<td>
-2-4cm or DOI 5-10mm
-</td>
-<td>
-\>4cm or DOI \>10mm
-</td>
-<td>
-<p>
+ | 
+
+ \4cm or DOI \>10mm
+ | 
+
+
  T4a
-</p>
-<td>
-<p>
+
+
+
+
  Invades
-</p>
-<ul>
-<li>
-<blockquote>
-<p>
+
+
+
+- 
+**
+
 Mandible (into cortex)
-</p>
-</blockquote>
-</li>
-</ul>
-<p>
+
+
+
+
+
+
 Inf. alveolar nerve
-</p>
-<p>
+
+
+
 FOM
-</p>
-<p>
+
+
+
 Skin
-</p>
-<p>
+
+
+
 Tongue musculature
-</p>
-</td>
-</td>
-</table>
-</ol>
-<td>
-<p>
+
+
+ | 
+ | 
+
+
+
+
 Invades
-</p>
-<p>
+
+
+
 Masticator space
-</p>
-<p>
+
+
+
 Pterygoid plates
-</p>
-<p>
+
+
+
 Skull base
-</p>
-<p>
+
+
+
 Carotid
-</p>
-<p>
-\*note similarities to T4b of p16<sub>neg</sub> OPC
-</p>
-</td>
-<p>
-<img alt="" src="../media/image31.emf" style="width:1.79653in;height:1.52526in"/> 
-</p>
-<h3 class="unnumbered" id="oropharyngeal">
+
+
+
+\*note similarities to T4b of p16_neg_ OPC
+
+
+ | 
+
+![](../media/image31.emf) 
+
+
+### 
 OROPHARYNGEAL
-</h3>
-<p>
-<strong>HPV Neg (p16-) and HPV Pos</strong>
-</p>
-<col style="width: 16%"/>
-<col style="width: 43%"/>
-<col style="width: 39%"/>
-<p>
+
+
+
+**HPV Neg (p16-) and HPV Pos**
+
+
+
+
+
+
 Tx
-</p>
-<td>
+
+
+
  No primary identified
-</td>
-<td>
-<p>
+ | 
+
+
  
-</p>
-<td>
- \<2 cm
-</td>
-<td>
-same
-</td>
-<td>
-2-4cm
-</td>
-<td>
-\>4cm or extension to lingual surface of epiglottis
-</td>
-<td>
+
+
+
+ \4cm or extension to lingual surface of epiglottis
+ | 
+
  same
-</td>
-<td>
-<p>
+ | 
+
+
  T4
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Larynx
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Tongue musculature
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Medial pterygoids
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Hard palate
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Mandible
-</p>
-</li>
-</ul>
-<td>
-<p>
-<strong>T4a</strong> - Same
-</p>
-<p>
-<strong>T4b</strong> - Invades
-</p>
-<ul>
-<li>
-<p>
+
+
+
+
+
+
+**T4a** - Same
+
+
+
+**T4b** - Invades
+
+
+
+- 
+
 Lateral nasopharynx
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Lateral pterygoids/pterygoid plate
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Skull base
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Carotid
-</p>
-</li>
-</ul>
-<p>
+
+
+
+
+
 Red = only for p16 negative OP cancers
-</p>
-<p>
+
+
+
 Clinical N staging
-</p>
-<col style="width: 18%"/>
-<col style="width: 38%"/>
-<col style="width: 42%"/>
-<p>
-<strong>Note: ECE</strong> automatically <strong>bumps you up a N
-stage in the <u>pathological N grading system</u></strong> (not
+
+
+
+
+
+
+**Note: ECE** automatically **bumps you up a N
+stage in the pathological N grading system** (not
 shown).
-</p>
-<p>
+
+
+
 Basically, if you have a N1 node and path shows ECE then its becomes
 a N2a node.
-</p>
-<p>
+
+
+
 With Pathological N Staging
-</p>
-<col style="width: 41%"/>
-<th>
+
+
+
+
 HPV Positive - clinical
-</th>
-<th>
+ | 
+
 HPV Positive - Pathological
-</th>
-<td>
+ | 
+
 Positive nodes ≤4
-</td>
-<td>
+ | 
+
 Positive nodes \>4
-</td>
-<td>
+ | 
+
 \-
-</td>
-<p>
+ | 
+
 Staging - Oropharyngeal
-</p>
-<p>
+
+
+
 HPV Positive
-</p>
-<col style="width: 21%"/>
-<td>
+
+
+
+
 T4
-</td>
-<p>
+ | 
+
 HPV Positive Staging
-</p>
-<p>
+
+
+
 (based on pathological N stage)
-</p>
-<col style="width: 24%"/>
-<col style="width: 25%"/>
-<p>
+
+
+
+
+
 HPV Negative
-</p>
-<h3 class="unnumbered" id="larynx">
+
+
+### 
  LARYNX
-</h3>
-<p>
+
+
+
 Supraglottic subsites:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Suprahyoid epiglottis
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Infrahyoid epiglottis
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Aryepiglottic folds (laryngeal aspect)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Arytenoids
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Ventricular bands (false vocal folds)
-</p>
-</li>
-</ul>
-<h4 class="unnumbered" id="supraglottis">
+
+
+
+
+#### 
  SUPRAGLOTTIS
-</h4>
-<col style="width: 80%"/>
-<th>
+
+
+
+
 Criteria
-</th>
-<td>
+ | 
+
  Tumor in 1 subsite. Normal TVF
-</td>
-<td>
-<p>
+ | 
+
+
 Tumor in 2+ subsites (can be glottis, vallecula).
-</p>
-<p>
+
+
+
 Normal TVF movement
-</p>
-</td>
-<td>
-<p>
+
+
+ | 
+
+
 Vocal cord fixation and/OR
-</p>
-<p>
+
+
+
 Invasion of
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Inner cortex of thyroid cartilage
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Paraglottic space
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Post-cricoid area
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Preepiglottic space
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Through thyroid cartilage
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Neck soft tissue
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Esophageus/Trachea
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Prevertebral space
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Around carotid
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Mediastinum
-</p>
-</li>
-</ul>
-<p>
-<img alt="" src="../media/image32.png" style="width:1.85124in;height:1.97204in"/> 
-</p>
-<p>
+
+
+
+
+
+![](../media/image32.png) 
+
+
+
 In general, for Laryngeal Cancer
-</p>
-<h4 class="unnumbered" id="glottis">
+
+
+#### 
 Glottis
-</h4>
-<col style="width: 74%"/>
-<td>
-<p>
+
+
+
+
+
 T1a
-</p>
-<p>
+
+
+
 T1b
-</p>
-</td>
-<td>
-<p>
+
+
+ | 
+
+
 1 vocal cord. Normal movement
-</p>
-<p>
+
+
+
 Both vocal cords. Normal movement
-</p>
-</td>
-<td>
-<p>
+
+
+ | 
+
+
 Either:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Extension to supraglottis or subglottis
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Impaired VF movement
-</p>
-</li>
-</ul>
-<p>
+
+
+
+
+
 \*not similarity to supraglottic T3
-</p>
-</td>
-<ul>
-<li>
-<p>
+
+
+ | 
+
+- 
+
 Esophagus/Trachea
-</p>
-</li>
-</ul>
-<p>
+
+
+
+
+
 \*note similarity to Supraglottic T4a
-</p>
-</td>
-<p>
+
+
+ | 
+
 \*note similarity to Supraglottic T4b
-</p>
-</td>
-<p>
+
+
+ | 
+
 Glottic Stage and VF movement
-</p>
-<col style="width: 37%"/>
-<col style="width: 32%"/>
-<th>
+
+
+
+
+
 T1
-</th>
-<th>
+ | 
+
 T2
-</th>
-<th>
+ | 
+
 T3
-</th>
-<td>
+ | 
+
 Normal Movement
-</td>
-<td>
+ | 
+
 Less movement
-</td>
-<td>
+ | 
+
 No movement
-</td>
-<h4 class="unnumbered" id="subglottis">
+ | 
+#### 
 SUBGLOTTIS
-</h4>
-<col style="width: 23%"/>
-<col style="width: 76%"/>
-<td>
-<p>
+
+
+
+
+
+
 Limited to subglottis
-</p>
-<td>
+
+
+
 Extends to glottis
-</td>
-<td>
+ | 
+
 Vocal cord fixation
-</td>
-<h4 class="unnumbered" id="hypopharynx">
+ | 
+#### 
 HYPOPHARYNX
-</h4>
-<ol start="4" type="I">
-<li>
-<p>
+
+
+
+- 
+
 Hypopharynx subsites
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Pyriform sinuses
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Lateral/posterior hypopharyngeal wall
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Post-cricoid region
-</p>
-</li>
-</ul>
-<col style="width: 78%"/>
-<td>
-One subsite AND \<2cm
-</td>
-<td>
-<p>
-2+ subsites OR 2-4cm
-</p>
-<p>
-Cannot extend to esophageus or cause VF fixation
-</p>
-</td>
-<td>
-\>4cm OR invades <strong>esophageus</strong> OR causes VF
+
+
+
+
+
+
+One subsite AND \4cm OR invades **esophageus** OR causes VF
 fixation
-</td>
-<ul>
-<li>
-<p>
+ | 
+
+- 
+
 Trachea
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="maxillary-sinus">
+
+
+
+
+### 
 MAXILLARY SINUS
-</h3>
-<td>
+
+
+
 Limited to maxillary sinus mucosa
-</td>
-<td>
-<p>
+ | 
+
+
 Erosion into bone EXCEPT orbital floor or posterior wall
-</p>
-<td>
-<p>
+
+
+
+
 Invasion into:
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Orbital floor/ethmoid sinus (think V2 numbness)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Posterior wall/pterygoid fossa
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Orbital contents
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Skin
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Pterygoid plates/infratemporal fossa
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Sphenoid/frontal sinus/cribriform plate
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Orbital apex
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Dura/brain/skull base
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Cranial Nerves (except V2)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 nasopharynx
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="nasal-cavityethmoid-sinus">
+
+
+
+
+### 
 NASAL
 CAVITY/ETHMOID SINUS
-</h3>
-<col style="width: 17%"/>
-<col style="width: 82%"/>
-<td>
+
+
+
+
+
 Limited to one subsite in nasoethmoid complex
-</td>
-<td>
-<p>
+ | 
+
+
 More than 1 subsite in nasoethmoid complex (aka both nose and
 ethmoid)
-</p>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Orbital floor
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Maxillary sinus
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Cribriform plate
-</p>
-</li>
-</ul>
-<p>
+
+
+
+
+
 \*Note similarity to Maxillary sinus CA
-</p>
-</td>
-<ul>
-<li>
-<p>
+
+
+ | 
+
+- 
+
 Nasopharynx
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="nasopharyngeal-ca">
+
+
+
+
+### 
  NASOPHARYNGEAL CA
-</h3>
-<p>
-<strong>WHO Type I</strong> - Keratinizing SCCA
-</p>
-<p>
-<strong>WHO Type II</strong> - Nonkerating SCCA (associated with EBV,
+
+
+
+**WHO Type I** - Keratinizing SCCA
+
+
+
+**WHO Type II** - Nonkerating SCCA (associated with EBV,
 better prognosis)
-</p>
-<p>
-<strong>WHO Type III</strong> - Undifferentiated CA
-</p>
-<td>
+
+
+
+**WHO Type III** - Undifferentiated CA
+
+
+
 Nasopharynx/nasal cavity
-</td>
-<td>
-<p>
+ | 
+
+
 Invaded parapharyngeal space or pterygoids musces
-</p>
-<p>
+
+
+
 (If they have trismus)
-</p>
-</td>
-<td>
+
+
+ | 
+
 Invasion into bones and/or sinuses
-</td>
-<ul>
-<li>
-<p>
+ | 
+
+- 
+
 hypopharynx
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Cranial nerves
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Orbit
-</p>
-</li>
-</ul>
-<col style="width: 47%"/>
-<col style="width: 52%"/>
-<th>
+
+
+
+
+
+
+
  N stage
-</th>
-<td>
+ | 
+
 N1
-</td>
-<td>
+ | 
+
 Unilateral
-</td>
-<td>
+ | 
+
 Bilateral
-</td>
-<h3 class="unnumbered" id="salivary-gland">
+ | 
+### 
 SALIVARY GLAND
-</h3>
-<col style="width: 75%"/>
-<td>
-\<2cm, no extraparenchymal extension
-</td>
-<td>
-2-4cm, no extraparenchymal extension
-</td>
-<td>
-\>4cm OR extraparenchymal extension
-</td>
-<ul>
-<li>
-<p>
+
+
+
+
+\4cm OR extraparenchymal extension
+ | 
+
+- 
+
 Facial nerve
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 mandible
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 pterygoids
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Wraps around carotid
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="well-differentiated-thyroid-ca">
+
+
+
+
+### 
 WELL
 DIFFERENTIATED THYROID CA
-</h3>
-<col style="width: 62%"/>
-<th>
+
+
+
+
 Tumor
-</th>
-<th>
+ | 
+
 Lymph
-</th>
-<td>
-<p>
-T1: \<2cm
-</p>
-<p>
-T1a: \<1cm
-</p>
-<p>
-T1b: 1-2cm
-</p>
-</td>
-<p>
-N1a: Level VI/VII nodes
-</p>
-</td>
-<td>
-T2: 2-4cm
-</td>
-<td>
-N1b: mets to cervical nodes
-</td>
-<td>
-<p>
-T3a: \>4cm limited to thyroid
-</p>
-<p>
+ | 
+
+
+T1: \4cm limited to thyroid
+
+
+
 T3b: ETE invading strap muscles
-</p>
-</td>
-<td>
+
+
+ | 
+
  
-</td>
-<td>
-<p>
+ | 
+
+
 T4a: invasion beyond capsule&straps
-</p>
-<p>
+
+
+
 T4b: invading into carotid/mediastinum/RLN
-</p>
-</td>
-<p>
+
+
+ | 
+
 Thyroid cancer staging
-</p>
-<p>
-<strong>Only <u>\>55 years old</u></strong>: those \<55yo are
-Stage I unless they have mets, then they are stage II
-</p>
-<p>
-Anaplastic CA is automatically stage IV (IVA if N0 & T1-3a; IVB
-if \>T3a or N1+)
-</p>
-<col style="width: 34%"/>
-<p>
+
+
+
+**Only \>55 years old**: those \T3a or N1+)
+
+
+
+
 Metastatic disease = Stage IVB
-</p>
+
+
 id="non-melanoma-skin-cancer-scc-etc"\>NON-MELANOMA SKIN CANCER (SCC
 etc)
-<col style="width: 22%"/>
-<col style="width: 77%"/>
-<th>
- <em>T category</em>
-</th>
-<td>
-<em>T1</em>
-</td>
-<td>
-\<2cm
-</td>
-<td>
-<em>T2</em>
-</td>
-<td>
-<p>
-2-4cm
-</p>
-<td>
-<em>T3</em>
-</td>
-<td>
-\>4cm or <strong>DOI \>6mm</strong> or Perineural/minor bone
+
+
+
+ *T category*
+ | 
+
+*T1*
+ | 
+
+\4cm or **DOI \>6mm** or Perineural/minor bone
 invasion
-</td>
-<td>
-<p>
-<em>T4a</em>
-</p>
-<p>
-<em>T4b</em>
-</p>
-</td>
-<td>
-<p>
+ | 
+
+
+*T4a*
+
+
+
+*T4b*
+
+
+ | 
+
+
 Gross cortical bone/bone marrow invasion
-</p>
-<p>
+
+
+
 Tumor with skull base/foramina invasion
-</p>
-</td>
-<h3 class="unnumbered" id="section-25">
+
+
+ | 
+### 
  
-</h3>
-<h3 class="unnumbered" id="melanoma-skin">
+
+
+### 
  MELANOMA (SKIN)
-</h3>
-<p>
- <strong>a/b/c classification</strong>
-</p>
-<p>
-T stage: IF <strong>ulceration</strong> stage is <strong>B</strong>
+
+
+
+ **a/b/c classification**
+
+
+
+T stage: IF **ulceration** stage is **B**
 (as in T2-\>T2b)
-</p>
-<p>
+
+
+
 N stage
-</p>
-<p>
+
+
+
 
 (a) if micrometastasis
-    </p>
-    <p>
+    
+
+    
 
     (b) if macrometasis
-        </p>
-        <p>
+        
+
+        
 
         (c) given if in transit/satellite lesions
-            </p>
-            <p>
+            
+
+            
             w/o metastatic nodes
-            </p>
-            <col style="width: 15%"/>
-            <col style="width: 9%"/>
-            <th>
+            
+
+            
+            
+            
             T
-            </th>
-            <th>
+             | 
+            
             N
-            </th>
-            <td>
-            <p>
+             | 
+            
+            
             T1
-            </p>
-            <p>
+            
+
+            
             T1a
-            </p>
-            <td>
-            <p>
-            \<1mm thick
-            </p>
-            <p>
-            \<0.8mm + no ulceration
-            </p>
-            <p>
-            if 0.8-1mm thick (or if ulceration)
-            </p>
-            </td>
-            <td>
-            <strong>N1</strong>
-            </td>
-            <td>
-            1 node
-            </td>
-            <td>
-            <p>
-            1-2mm thick
-            </p>
-            <td>
-            <strong>N2</strong>
-            </td>
-            <td>
-            2-3 nodes
-            </td>
-            <td>
-            2-4mm thick
-            </td>
-            <td>
-            <strong>N3</strong>
-            </td>
-            <td>
-            4+ nodes, matted nodes, or in transit mets
-            </td>
-            <td>
-            \>4mm thick
-            </td>
-            <h3 class="unnumbered" id="mucosal-melanoma">
+            
+
+            
+            
+            \4mm thick
+             | 
+            ### 
             MUCOSAL MELANOMA
-            </h3>
-            <col style="width: 45%"/>
-            <th>
+            
+
+            
+            
             N/M stage
-            </th>
-            <td>
+             | 
+            
             Mucosal melanoma
-            </td>
-            <td>
+             | 
+            
             Any lymph node mets
-            </td>
-            <td>
-            <p>
+             | 
+            
+            
             T4a
-            </p>
-            <td>
-            <p>
+            
+
+            
+            
             Involves soft tissue, cartilage, bone,
-            </p>
-            <p>
+            
+
+            
             Overlying skin
-            </p>
-            </td>
-            <td>
-            <strong>M1</strong>
-            </td>
-            <td>
+            
+
+             | 
+            
+            **M1**
+             | 
+            
             Any mets
-            </td>
-            <td>
+             | 
+            
             Involves skull base, cranial nerve, carotid, masticator,
             prevertebral space
-            </td>
-            <p>
-            <img alt="MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets " src="../media/image33.png" style="width:1.88969in;height:2.90093in"/>
-            </p>
-            <p>
-            <a href="../index.html">Back to homepage</a>
-            </p>
-            </td>
-            </td>
-            </td>
-            </td>
-            </td>
-            </li>
-            </ol>
-            </td>
-            </td>
-            </td>
-            </ol>
+             | 
+            
+            ![MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets](../media/image33.png)
+            
+
+            
+            [Back to homepage](../index.html)
+            
+
+             | 
+             | 
+             | 
+             | 
+             | 
+            
+            
+             | 
+             | 
+             | 
+            
