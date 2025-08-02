@@ -29,9 +29,9 @@ header h1 {
 }
 
 /* GitHub Markdown container */
-.markdown-body {
+/* .markdown-body {
   box-sizing: border-box;
-}
+} */
 
 /* Subtle underline for headings */
 .markdown-body h1,
