@@ -1,6 +1,3 @@
-+24
--5
-
 import sys
 import re
 import pathlib
@@ -13,7 +10,7 @@ substitutions = [
     (re.compile(r'</ul>', re.I), ''),
     (re.compile(r'<ol[^>]*>', re.I), ''),
     (re.compile(r'</ol>', re.I), ''),
-    (re.compile(r'<li[^>]*>', re.I), '- '),
+    (re.compile(r'<li[^>]*>\s*', re.I), '- '),
     (re.compile(r'</li>', re.I), ''),
     (re.compile(r'<strong>', re.I), '**'),
     (re.compile(r'</strong>', re.I), '**'),
@@ -50,8 +47,8 @@ substitutions = [
     (re.compile(r'<a name="[^"]*">', re.I), ''),
 ]
 
-for i in range(6,0,-1):
-    substitutions.append((re.compile(fr'<h{i}[^>]*>', re.I), '#' * i + ' '))
+for i in range(6, 0, -1):
+    substitutions.append((re.compile(fr'<h{i}[^>]*>\s*', re.I), '#' * i + ' '))
     substitutions.append((re.compile(fr'</h{i}>', re.I), '\n'))
 
 link_pattern = re.compile(r'<a href="([^"]*)"[^>]*>(.*?)</a>', re.I | re.S)
@@ -95,7 +92,6 @@ def main():
         paths = [repo_root / p for p in result.strip().splitlines() if p]
     for path in paths:
         process_file(path)
-
 
 if __name__ == '__main__':
     main()
