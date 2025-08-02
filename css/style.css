@@ -22,18 +22,33 @@ header {
   z-index: 1000;
 }
 
-h1 {
+header h1 {
   font-size: 2.2rem;
   margin: 0;
-  color: #0d47a1;
-}
-
-header h1 {
   color: #fff;
 }
 
-h2, h3 {
-  color: #0d47a1;
+/* GitHub Markdown container */
+.markdown-body {
+  box-sizing: border-box;
+}
+
+/* Collapsible headings */
+.collapsible {
+  cursor: pointer;
+}
+
+.collapsible::after {
+  content: '▾';
+  margin-left: 0.5em;
+}
+
+.collapsible.collapsed::after {
+  content: '▸';
+}
+
+.collapsible-content {
+  margin-bottom: 1em;
 }
 
 main {
