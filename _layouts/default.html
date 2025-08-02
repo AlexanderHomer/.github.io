@@ -59,11 +59,14 @@
       .collapsible {
         cursor: pointer;
       }
-      .collapsible::after {
-        content: " \25BE";
+      .collapsible::before {
+        content: "\25BE";
+        display: inline-block;
+        margin-right: 0.25em;
+        font-size: 0.8em;
       }
-      .collapsible.collapsed::after {
-        content: " \25B8";
+      .collapsible.collapsed::before {
+        content: "\25B8";
       }
     </style>
   </head>
