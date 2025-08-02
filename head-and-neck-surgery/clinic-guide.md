@@ -2,7 +2,6 @@
 layout: default
 title: Head & Neck Surgery - Clinic Guide
 ---
-
 ## Head & Neck Surgery -- Clinic Guide
 
 ### Dr. O'Leary's Clinic
