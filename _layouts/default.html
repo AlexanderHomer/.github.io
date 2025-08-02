@@ -3,29 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
-  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-  {% if page.custom_script %}
-  <script src="{{ page.custom_script }}" defer></script>
-  {% endif %}
 </head>
 <body>
-  <header>
-    <h1>{{ page.title }}</h1>
-    <form action="{{ '/search.html' | relative_url }}" method="get" class="search-form">
-      <input type="text" name="q" placeholder="Search" required>
-      <button class="btn waves-effect waves-light" type="submit">Search</button>
-    </form>
-    <div class="floating-nav">
-      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-      <button type="button" class="btn" onclick="history.back()">Back</button>
-    </div>
-  </header>
-  <main class="container markdown-body">
-    {{ content }}
-  </main>
-  <script src="{{ '/site.js' | relative_url }}"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<pre>{{ page.content | escape }}</pre>
 </body>
 </html>
