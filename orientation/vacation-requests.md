@@ -12,10 +12,8 @@
 
 * **Tufts:** 3-month notice of vacations & conferences (NEOS, national) to ?Dr. Scott?
 * **RIH:** 2-month notice of vacations & conferences (NEOS, national) to Dr. Groblewski
-* **Brockton:** way, way advance in notice of vacations & conferences (NEOS, national) to Lori Keany. 
+* **Brockton:** way, way advance in notice of vacations & conferences (NEOS, national) to Lori Keany.
   * **Do not count on being off the weekend before/after a vacation**
-
-
 * **Children’s:** 2-month notice of vacations to Dr. Gi-Soo Lee and Alanna Boyson + the MEEI resident on service with you (who make the schedule)
 
 
@@ -29,4 +27,5 @@ October 1 – January to March
 
 January 1 – April to June
 
- 
+
+[Back to homepage](index.html)

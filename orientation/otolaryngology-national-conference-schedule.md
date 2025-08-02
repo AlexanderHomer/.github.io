@@ -44,8 +44,6 @@
 ## AAFPRS
 
 * abstracts due in Feb
-
-
 * Conference at mid/end of October
 
   \
@@ -53,22 +51,13 @@
 ## SENTAC
 
 * Abstracts due end of July
-
-
 * Conference in December
 
 
 ## New England Otolaryngology Society (NEOS)
 
 * Meetings in Oct, Dec, March/April
-
-
 * Presentations by the PGY-3s
-
- \n 
-
- 
-
 
 
 [Back to homepage](index.html)
