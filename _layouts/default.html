@@ -7,12 +7,61 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
     />
+    <style>
+      #bottom-bar {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.25rem 0.5rem;
+        background: rgba(255, 255, 255, 0.9);
+        border-top: 1px solid #ccc;
+        font-family: sans-serif;
+      }
+      #bottom-bar input[type="search"] {
+        flex: 1;
+        padding: 0.25rem;
+      }
+      #search-results {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 2.5rem;
+        max-height: 40vh;
+        overflow-y: auto;
+        background: #fff;
+        border-top: 1px solid #ccc;
+        display: none;
+        padding: 0.5rem;
+        font-family: sans-serif;
+      }
+      #search-results ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      #search-results li {
+        margin: 0.25rem 0;
+      }
+      #search-results a {
+        text-decoration: none;
+      }
+    </style>
   </head>
   <body>
     <textarea id="markdown-src" style="display: none">
 {{ page.content | escape }}</textarea
     >
     <article id="content" class="markdown-body"></article>
+    <div id="bottom-bar">
+      <button id="back-button" title="Back">&#8592;</button>
+      <a id="home-button" title="Home" href="{{ '/' | relative_url }}">&#8962;</a>
+      <input type="search" id="search-input" placeholder="Search..." />
+    </div>
+    <div id="search-results"></div>
     <script>
       (async () => {
         const src = document.getElementById("markdown-src");
@@ -34,5 +83,6 @@
         }
       })();
     </script>
+    <script src="{{ '/menu.js' | relative_url }}"></script>
   </body>
 </html>
