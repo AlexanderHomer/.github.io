@@ -1,4 +1,7 @@
-import sys, re, pathlib
+import sys
+import re
+import pathlib
+import subprocess
 
 substitutions = [
     (re.compile(r'<p[^>]*>', re.I), ''),
@@ -74,6 +77,17 @@ def process_file(path):
     cleaned = clean_text(body)
     path.write_text(front + cleaned, encoding='utf-8')
 
+def main():
+    args = sys.argv[1:]
+    if args:
+        paths = [pathlib.Path(p) for p in args]
+    else:
+        repo_root = pathlib.Path(__file__).resolve().parent
+        result = subprocess.check_output(['git', 'ls-files', '*.md'], text=True)
+        paths = [repo_root / p for p in result.strip().splitlines() if p]
+    for path in paths:
+        process_file(path)
+
+
 if __name__ == '__main__':
-    for file in sys.argv[1:]:
-        process_file(pathlib.Path(file))
+    main()
