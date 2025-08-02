@@ -2,216 +2,266 @@
 layout: default
 title: Otology OR Guide
 ---
-<h2 class="unnumbered" id="otology-or">
+## 
 Otology -- OR
-</h2>
-<h3 class="unnumbered" id="dr.-sillmans-tympanomastoidectomy">
+
+
+### 
 Dr. Sillman's Tympanomastoidectomy
-</h3>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Remove the OR bed's pad under head and place yellow gel + towels. Keep ear the same height as shoulder.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Always balance the microscope and make sure the teaching oculars are on the ipsilateral side of the operating ear, and the oculars are "zeroed"
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 NIM monitor for all mastoids
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Bien Air drill (Large 3L normal saline bags are used if using midas rex drill)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Turn 180 degrees
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 6,4 cutter, 3,2,1 diamond
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 10% betadine
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Facial nerve leads: Orbicularis oris (in nasolabial fold next to nose pointing down) to get zygomaticus and orbicularis, and orbicularis oculi (just above lateral eyebrow pointing down and lateral) to get frontal and orbicularis
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 For the hair, use mupirocin to keep it out of your way
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 No thousand drapes. Blue towels start shoulder, posterior, superior, anterior. Staple
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Need crani drape. Direct the head of the little man to surgeon side.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Drape microscope: don't connect the lens first- do last. Put hand pieces in first.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Incision 1cm behind postauricular crease. Then switch to bovie down to TPF. Find temporal line and do a vertical incision then a horizontal one (T-shaped) through TPF to the bone. Use Joseph periosteal to expose mastoid. Harvests TPF if graft is needed
-</p>
-</li>
-<li>
-<p>
-<strong>Postop</strong>: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
-</p>
-</li>
-</ul>
-<h3 class="unnumbered" id="dr.-noonans-tympanomastoidectomy">
+
+
+
+- 
+
+**Postop**: f/u 2 weeks, glasscock/cotton in ear x2 days (remove POD#2), 1 week antibiotics (Augmentin preferred), drops start POD#2, bacitracin x1 week. No Narcotics.
+
+
+
+
+### 
 Dr. Noonan's Tympanomastoidectomy
-</h3>
-<ul>
-<li>
-<p>
+
+
+
+- 
+
 Similar to Dr. Sillman's but does not remove the OR bed's pad under the head
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Have a shaver
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Use mastisol and place 2 halves of the 1020 drapes around the surgical ear
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Inject 10cc lido with epi off the field for post auricular incision, have 3 cc of 1:10,000 epi alone on the field for canal injections.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Harvests TPF and TF if graft is needed
-</p>
-</li>
-</ul>
-<h1 class="unnumbered" id="temporal-bone-lab">
+
+
+
+
+# 
 Temporal Bone Lab
-</h1>
-<p>
-<strong>Location</strong>: 4<sup>th</sup> floor of the Boston Dispensary. Get a key made
-</p>
-<p>
-<strong>Temporal Bone Harvest</strong>: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
-</p>
-<p>
+
+
+
+**Location**: 4^th^ floor of the Boston Dispensary. Get a key made
+
+
+
+**Temporal Bone Harvest**: At the end of the MD and PA anatomy courses in March/April. Speak to Michael Doyle at Tufts
+
+
+
 Set up your station according to the House Dissection Manuel
-</p>
-<p>
-<strong>Steps to a Mastoidectomy / Cochlear implant:</strong>
-</p>
-<ul>
-<li>
-<p>
+
+
+
+**Steps to a Mastoidectomy / Cochlear implant:**
+
+
+
+- 
+
 Get a 6 cutting burr: Drill out Trotman's triangle (temporal line, parallel to EAC, and sigmoid)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Always keep the corner of the EAC/Temporal line as your deepest point and saucerize.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Get your exposure:
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Make sure you hug the tegmen -- the tegmen is the roof of the mastoid antrum and will lead you directly to it.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Thin the posterior EAC (put your suction into the EAC and really thin it out)
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Get through Koerner's Septum → you should enter the antrum and see Lateral SCC.
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Switch to 3 cutting burr: Drill away the inferior/anterior part of the antrum until you see the fossa incus (and the reflection of the incus) The incus points to the facial recess
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Thin the posterior EAC some more
-</p>
-</li>
-<li>
-<p>
+
+
+
+- 
+
 Switch to a 2 coarse diamond: start drilling the facial recess. There are some air cells above the facial recess (sentinel cells). Show yourself the cochlear. Practice a cochleostomy with a 1 fine diamond burr
-</p>
-</li>
-</ul>
-<h1 class="unnumbered" id="cranial-nerves">
+
+
+
+
+# 
 Cranial Nerves
-</h1>
-<p>
-<strong>CNI</strong>: Olfactory.
-</p>
-<p>
-<strong>CNII</strong>: Optic.
-</p>
-<p>
-<strong>CNIII</strong>: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
-</p>
-<p>
-<strong>CNIV</strong>: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
-</p>
-<p>
-<strong>CNV:</strong> Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1<sup>st</sup> branchial arch
-</p>
-<p>
-<strong>CNVI:</strong> Abducens: Innervates lateral rectus.
-</p>
-<p>
-<strong>CNVII:</strong> Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
-</p>
-<p>
-<strong>CNVIII:</strong> Vestibulocochlear--- hearing & balance.
-</p>
-<p>
-<strong>CNIX:</strong> Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3<sup>rd</sup> branchial arch.
-</p>
-<p>
-<strong>CNX:</strong> Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
-</p>
-<p>
-<strong>CNXI</strong> -- Spinal Accessory --- innervates SCM, trapezius.
-</p>
-<p>
-<strong>CNXII</strong>: Hypoglossal --- all muscles of tongue except palatoglossus
-</p>
-<!-- END Otology section -->
-<p>
-<a href="../index.html">Back to homepage</a>
-</p>
+
+
+
+**CNI**: Olfactory.
+
+
+
+**CNII**: Optic.
+
+
+
+**CNIII**: Oculomotor --- constricts+ accommodates, innervates levator palpebrae. Moves eyes.
+
+
+
+**CNIV**: Trochlear ---innervates superior oblique. Diplopia when looking down (walking down stairs) or watching TV in bed. Pts tilt head.
+
+
+
+**CNV:** Trigeminal---sensation to face. Corneal reflex (afferent tract). Muscles innervated: Muscles of mastication (medial pterygoid, lateral pterygoid, masseter, temporalis) Suprahyoid muscles (Ant belly of digastric, mylohyoid muscle) Tensorsx2 (Tensor veli palatini & Tensor tympani). Associated w/ 1^st^ branchial arch
+
+
+
+**CNVI:** Abducens: Innervates lateral rectus.
+
+
+
+**CNVII:** Facial: Muscles: facial muscles (temporal, zygomatic, buccal, marginal, cervical), post. Belly of digastric, stapedius). Parasympathetic to lacrimal and submandibular glands. Taste to anterior 2/3s of tongue.
+
+
+
+**CNVIII:** Vestibulocochlear--- hearing & balance.
+
+
+
+**CNIX:** Glossopharyngeal--- muscle: stylopharyngeus. Parasympathetics to parotid. Taste: posterior 1/3 of tongue. Visceral afferent: info from carotid sinus&body. Sensation to middle ear, pharynx (afferent limb of gag reflex) Associated w/ 3^rd^ branchial arch.
+
+
+
+**CNX:** Vagus --- muscles: cricothyroid, levator veli palatini (lifts palate), salpingopharyngeus, palatoglossus, palatopharyngeus, pharyngeal constructors, muscles of larynx. Sensation to dura, larynx, Arnold's nerve (sensation in ear canal). Parasympathetic to abdomen heart (innervates SA/AV node).
+
+
+
+**CNXI** -- Spinal Accessory --- innervates SCM, trapezius.
+
+
+
+**CNXII**: Hypoglossal --- all muscles of tongue except palatoglossus
+
+
+
+
+[Back to homepage](../index.html)
+
+
