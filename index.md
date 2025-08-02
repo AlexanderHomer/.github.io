@@ -40,7 +40,7 @@
 
 [Consults](on-call/consults.html)
 
-[Facial Trauma Guide](facial-trauma-guide.html)
+[Facial Trauma Guide](on-call/facial-trauma-guide.html)
 
 
 # Specialties
