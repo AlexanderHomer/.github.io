@@ -1,41 +1,38 @@
+
 ---
-layout: default
-title: Orientation
----
-- 
-[Rules of the Game](../rules-of-the-game.html)
 
-- 
-[Daily Routine](../daily-routine.html)
+# Orientation
 
-- 
-[Weekly Routines](../weekly-routines.html)
+[Rules of the Game](https://rules-of-the-game.html)
 
-- 
-[Monthly Routines](../monthly-routines.html)
 
-- 
-[Yearly Routines](../yearly-routines.html)
+[Daily Routine](https://daily-routine.html)
 
-- 
-[Tips](../tips.html)
 
-- 
-[Templates/Protocols](../templates-protocols.html)
+[Weekly Routines](https://weekly-routines.html)
 
-- 
-[Orders, Discharges, and Dictations](../orders-discharges-and-dictations.html)
 
-- 
+[Monthly Routines](https://monthly-routines.html)
+
+
+[Yearly Routines](https://yearly-routines.html)
+
+
+[Tips](https://tips.html)
+
+
+[Templates/Protocols](https://templates-protocols.html)
+
+
+[Orders, Discharges, and Dictations](https://orders-discharges-and-dictations.html)
+
+
 [Case & Duty Hour Logs](case-duty-hour-logs.html)
 
-- 
-[On-Call Room](on-call-room.html)
 
-- 
 [Otolaryngology National Conference Schedule](../otolaryngology-national-conference-schedule.html)
 
-- 
+
 [Vacation Requests](vacation-requests.html)
 
 

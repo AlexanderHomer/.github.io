@@ -1,35 +1,32 @@
+
 ---
-layout: default
-title: Vacation Requests
----
-- 
-If two residents at different locations want the same week, permission from Dr. Noonan is required.
 
-- 
-No vacation during the first 7 days of a rotation.
+# Vacation Requests
 
-- 
-The PGY-3 typically covers calls over the Christmas holiday.
-
-- 
-Tufts: provide 3 months notice to Dr. Scott for vacations or conferences.
-
-- 
-RIH: give 2 months notice to Dr. Groblewski.
-
-- 
-Brockton: give ample notice to Lori Keany. Do not expect to have the weekends before or after off.
-
-- 
-Children's: notify Dr. Gi-Soo Lee and Alanna Boyson 2 months in advance and coordinate with the MEEI resident.
+* If 2 residents at different locations want the same week, need permission from Dr. Noonan
+* No vacation during 1st 7 days of a rotation
+* In general, the PGY-3 take the calls during the x-mas holiday (so only one resident is on call)
 
 
+## Sites
 
-    ### Deadlines for submission
+* **Tufts:** 3-month notice of vacations & conferences (NEOS, national) to ?Dr. Scott?
+* **RIH:** 2-month notice of vacations & conferences (NEOS, national) to Dr. Groblewski
+* **Brockton:** way, way advance in notice of vacations & conferences (NEOS, national) to Lori Keany. 
+  * **Do not count on being off the weekend before/after a vacation**
 
-    
-      - April 1 &ndash; requests for July to September
-      - July 1 &ndash; requests for October to December
-      - October 1 &ndash; requests for January to March
-      - January 1 &ndash; requests for April to June
-    
+
+* **Children’s:** 2-month notice of vacations to Dr. Gi-Soo Lee and Alanna Boyson + the MEEI resident on service with you (who make the schedule)
+
+
+## Deadlines for vacation submission to Dr. Scott and Dr. Noonan
+
+April 1 – July to September
+
+July 1 – October to December
+
+October 1 – January to March
+
+January 1 – April to June
+
+ 
