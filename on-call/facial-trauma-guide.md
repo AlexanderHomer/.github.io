@@ -25,7 +25,9 @@
 | Thur | Friday or beginning of following week |
 | Fri–Sun | Beginning of following week |
 
-\* Exception is operative nasal bone fractures, which should be seen earlier so that they may be seen in clinic and taken to OR in appropriate time. -Adult – arrange clinic follow up in 2-3 days, plan for OR in 7-10 days -Pediatric – clinic follow up ASAP, plan for OR in 4-6 days
+\* Exception is operative nasal bone fractures, which should be seen earlier so that they may be seen in clinic and taken to OR in appropriate time. 
+* Adult – arrange clinic follow up in 2-3 days, plan for OR in 7-10 days
+* Pediatric – clinic follow up ASAP, plan for OR in 4-6 days
 
 
 ## Category 1: Facial fractures that do not require evaluation in the ED
