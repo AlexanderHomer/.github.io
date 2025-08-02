@@ -6,11 +6,6 @@
 
 ## General Guidelines
 
-
-
-
-
-
  1. Not all traumas need to be seen by ENT service when resident is not in house
  2. On call resident must be called for all fractures as per previous ED practice
  3. All imaging must be reviewed by on call resident at time of call
@@ -35,11 +30,6 @@
 
 ## Category 1: Facial fractures that do not require evaluation in the ED
 
-
-
-
-
-
 1. Nasal bone fracture w/o concern for septal hematoma
 2. Maxillary sinus fractures
 3. Zygomatic arch fracture
@@ -56,18 +46,12 @@ Isolated anterior nasal spine
 
 ## Category 2: Facial fractures requiring evaluation in the ED
 
-
-
-
-
-
 1. Nasal bone fracture with concern for septal hematoma
 2. Orbital floor fracture with abnormal Ophthalmologic exam or subjective visual complaints
 3. Mandible fractures (w/ Intraoral lacerations requiring repair, bilateral condylar fractures or concern for airway, or displaced/mobile segments that may require bridle wiring)
 4. All LeFort fractures
 5. All frontal sinus fractures
 
-   \
 
 ## Category 3: Temporal bone fractures
 
@@ -95,10 +79,10 @@ Isolated anterior nasal spine
 **In general:** Locking plates: preferred because they are less likely to bring segments of bone towards the plate when screwing
 
 
-!\[Mandible Fracture Subtypes\](../media/image2.png "Mandible Fractures and Their management")
+![Mandible Fracture Subtypes](../media/image2.png "Mandible Fractures and Their management")
 
 
-**Mandible Fracture Plates**
+#### Mandible Fracture Plates
 
 * load sharing (lag-screw plates, compression plates, miniplates)
 * load bearing (big recon bars - needed for comminuted fractures and atrophic edentulous patients)
@@ -109,9 +93,7 @@ Isolated anterior nasal spine
 * Body: MMF or MMF w/ ORIF and 2 straight plates or a recon bar. Recon bar for edentulous fractures
 * Angle: recommended two plates for ORIF with a champy plate to prevent pivoting of the tension band or MMF for simple fractures.
 
-  \
-
-**Pediatric Mandible Fractures**
+#### Pediatric Mandible Fractures
 
 * In general, just do MMF as ORIF on mandible may affect dentition. Open at 7-10days for physiotherapy
   * Younger than 2 years—Before age 2, a child’s jaws are often edentulous. Aplint with
