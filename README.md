@@ -1,6 +1,6 @@
-# ENT Guidebook
+# Tufts Oto-HNS Guide
 
-This repository contains the source for the ENT Guidebook website. Pages are written in Markdown and built with [Jekyll](https://jekyllrb.com/). GitHub Pages will automatically generate the site when new changes are pushed.
+This repository contains the source for the Tufts Oto-HNS Guide website. Pages are written in Markdown and built with [Jekyll](https://jekyllrb.com/). GitHub Pages will automatically generate the site when new changes are pushed.
 
 To preview locally run:
 
