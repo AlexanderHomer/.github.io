@@ -70,15 +70,12 @@
       }
       .collapsible {
         cursor: pointer;
+        display: flex;
+        align-items: center;
       }
-      .collapsible::before {
-        content: "\25BE";
-        display: inline-block;
+      .collapse-icon {
         margin-right: 0.25em;
         font-size: 0.8em;
-      }
-      .collapsible.collapsed::before {
-        content: "\25B8";
       }
       @media (max-width: 600px) {
         body {
