@@ -179,6 +179,7 @@
         } catch (e) {
           content.textContent = md;
         }
+        window.dispatchEvent(new Event("markdown-rendered"));
       })();
     </script>
     <script src="{{ '/menu.js' | relative_url }}"></script>
