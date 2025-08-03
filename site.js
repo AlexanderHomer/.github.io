@@ -57,6 +57,11 @@ function adjustH3HeadingColors() {
   });
 }
 
+function applyHeadingColors() {
+  adjustH3HeadingColors();
+  syncBoldTextColors();
+}
+
 function syncBoldTextColors() {
   const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
   headings.forEach((heading) => {
@@ -126,8 +131,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initCollapsibleHeadings();
 
-  adjustH3HeadingColors();
-  syncBoldTextColors();
+  applyHeadingColors();
+  const schemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  if (schemeQuery.addEventListener) {
+    schemeQuery.addEventListener("change", applyHeadingColors);
+  } else if (schemeQuery.addListener) {
+    schemeQuery.addListener(applyHeadingColors);
+  }
 
   let sparkleEnabled = false;
   const sparkleToggle = document.getElementById("sparkle-toggle");
