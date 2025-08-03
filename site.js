@@ -80,7 +80,6 @@ function applySparkleEffect() {
         bold.style.setProperty("--sparkle-color", color);
         if (bold.closest("#contributors")) {
           bold.style.color = color;
-          bold.classList.add("pazzaz");
         }
       });
       el = el.nextElementSibling;
@@ -92,12 +91,10 @@ function removeSparkleEffect() {
   document.querySelectorAll(".sparkle").forEach((el) => {
     el.classList.remove("sparkle");
     el.style.removeProperty("--sparkle-color");
-    if (el.classList.contains("pazzaz")) {
-      el.classList.remove("pazzaz");
-      if (el.closest("#contributors")) {
-        el.style.removeProperty("color");
-      }
+    if (el.closest("#contributors")) {
+      el.style.removeProperty("color");
     }
+    el.classList.remove("pazzaz");
   });
 }
 
