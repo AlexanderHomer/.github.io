@@ -1,4 +1,8 @@
-# [Orientation](orientation/index.html)
+# Tufts Oto-HNS Guide
+
+---
+
+## [Orientation](orientation/index.html)
 
 [Rules of the Game](orientation/rules-of-the-game.html)
 
@@ -22,7 +26,7 @@
 
 [Vacation Requests](orientation/vacation-requests.html)
 
-# [Calls and Consults](on-call/index.html)
+## [Calls and Consults](on-call/index.html)
 
 [On-Call](on-call/index.html)
 
@@ -32,7 +36,7 @@
 
 [Facial Trauma Guide](on-call/facial-trauma-guide.html)
 
-# Specialties
+## Specialties
 
 [Otology](specialties/otology/index.html)
 
@@ -73,7 +77,7 @@
 * [Post-op Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/post-op-guide.html)
 * [Staging - 8th Edition](specialties/head-and-neck-surgery/head-and-neck-surgery/staging-8th-edition.html)
 
-# Resources
+## Resources
 
 [Perioperative Aspirin/Anticoagulation Guide](resources/perioperative-aspirin-anticoagulation-guide.html)
 
