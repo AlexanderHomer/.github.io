@@ -62,4 +62,32 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   initCollapsibleHeadings();
+
+  const collapseToggle = document.getElementById("collapse-toggle");
+  if (collapseToggle) {
+    let allCollapsed = false;
+    collapseToggle.addEventListener("click", () => {
+      const headings = document.querySelectorAll(
+        "h1.collapsible, h2.collapsible, h3.collapsible, h4.collapsible, h5.collapsible, h6.collapsible",
+      );
+      headings.forEach((heading) => {
+        const content = heading.nextElementSibling;
+        const icon = heading.querySelector(".collapse-icon");
+        if (!content || !content.classList.contains("collapsible-content"))
+          return;
+        if (!allCollapsed) {
+          content.style.display = "none";
+          heading.classList.add("collapsed");
+          if (icon) icon.textContent = "\u25B8";
+        } else {
+          content.style.display = "";
+          heading.classList.remove("collapsed");
+          if (icon) icon.textContent = "\u25BE";
+        }
+      });
+      allCollapsed = !allCollapsed;
+      collapseToggle.textContent = allCollapsed ? "+" : "\u2212";
+      collapseToggle.title = allCollapsed ? "Expand all" : "Collapse all";
+    });
+  }
 });
