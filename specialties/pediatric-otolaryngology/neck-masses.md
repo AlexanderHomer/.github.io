@@ -30,14 +30,8 @@ PEDIATRIC NECK MASSES
 * **Get Thyroid U/S** to evaluate for thyroid tissue (1% of patients, TDC will be only thyroid tissue)
 * Excision - **Sistrunk:** get mid portion of hyoid and cuff of tongue base (see *Posterior hyoid space as related to excision of the thyroglossal duct cyst. J Maddalozzo, J Alderfer, V Modi - The Laryngoscope, 2010*)
 
-**Thymic cysts**:
-
-<<<<<<< HEAD
+### **Thymic cysts**:
  ![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png)
-=======
-* ![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png) always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst). Get serial calcium and eval for Consider DiGeorge Syndrome
->>>>>>> 0c9c006ca87872221882bf753584938b78e15d0a
-
 * always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst).
   * **Get serial calcium** and eval for **DiGeorge Syndrome**
 
@@ -49,7 +43,7 @@ PEDIATRIC NECK MASSES
 * Typically disappears w/ physiotherapy.
 
 
-### Branchial Cleft Cyst
+### Branchial Cleft Cysts
 
  ![Branchial Cleft Cysts](../../media/image16.png)
 
