@@ -105,6 +105,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <div id="contributors">
+  
 **Jonathan C. Simmonds, M.D.**
 
 **Jennifer L. Harb, M.D.**
@@ -124,6 +125,7 @@
 **Ramya Bharathi, M.D.**
 
 **Emily Gall, M.D.**
+
 </div>
 
 <button id="sparkle-toggle">✨ Enable sparkle ✨</button>
