@@ -27,7 +27,7 @@
 * **Vocal fold spreader** + **sterile elastics + A right angled probe**
 * **A shoulder roll.**
 
-<img src="media/image17.png" style="width:4.10216in;height:2.80449in" />
+![Rigid bronchoscopy setup](../../media/image17.png)
 
 <span id="_Toc139824222" class="anchor"></span>Flexible bronchoscopy:
 
@@ -134,16 +134,16 @@ Have marking pen ready to pre-mark incision – have alcohol swabs ready if need
 * A big bag of saline and big bag of sterile water handing on the irrigation machine (the one used for the microdebrider). Don’t allow the scrubs to open an actual microdebrider…for their sake.
 * Make sure the cochlear instruments have these templates (Cochlear Corp)
 * Balance the microscope. Don’t drape it yet.
-* <img src="media/image18.jpeg" style="width:0.85278in;height:0.78194in" /><img src="media/image19.png" style="width:0.9625in;height:0.71042in" />Call audiology and give them the serial numbers for the cochlear implants
+* ![Cochlear implant components](../../media/image18.jpeg) ![Cochlear implant components](../../media/image19.png) Call audiology and give them the serial numbers for the cochlear implants
 * **Things to put on the non-sterile side table:**
   * M&T kit, mastisol, 1000 drapes cut in half (need 5-6), NIM electrodes, tegederms cut in ½, a razor, alcohol prep pads, lidocaine)
 
 > **Set up**
 
-* <img src="media/image20.png" style="width:1.56319in;height:1.09306in" />Bed rotated 180 degrees. Leica microscope at head of bed, tower can be on the scrub side of microscope, NIM monitor and suction on the scrub side by the feet.
+* ![Cochlear implant OR setup](../../media/image20.png) Bed rotated 180 degrees. Leica microscope at head of bed, tower can be on the scrub side of microscope, NIM monitor and suction on the scrub side by the feet.
 * Draw out the BTE template. Draw out the location of the implant using the silicone template. This has to be above the temporal line and make the angle that it sits >45 degrees (Vecchiotti likes it more vertical than usual) from the temporal line. Shave the hair by the proposed implant site.
 * Draw a lazy S incision 0.5cm behind the post-auricular crease.
-* <img src="media/image21.png" style="width:1.94861in;height:1.71389in" />Place the NIM and curl the leads before you stick the Tegaderm down. Test the monitor. Volume to max, voltage at 0.8.
+* ![NIM lead placement](../../media/image21.png) Place the NIM and curl the leads before you stick the Tegaderm down. Test the monitor. Volume to max, voltage at 0.8.
 * Put mastisol where the 1000 drapes will go and put the 1000 drapes down.
 * **Evaluate the TM with the microscope before you prep**.
 * Prep a wide area. Get the parts of the 1000 drapes that slip behind each other. put the craniotomy drape (the one that collects fluid) on the patient. Redraw template. Cut the ear out. Then put the Ioban from posterior to anterior pulling the ear forward as you do. Redraw template markings again. Have scrub drape the microscope and the chairs.
@@ -152,7 +152,7 @@ Have marking pen ready to pre-mark incision – have alcohol swabs ready if need
 
 * 15 blade for incision, carry down to the temporalis fascia. Raise supraperiosteal flaps anteriorly to the posterior aspect of the EAC.
 * Create a palva flap – use a bovie (if no contralateral implant placed) down to the bone. Raise the flap with a Lempert periosteal elevator to the spine of henle.
-* <img src="media/image22.png" style="width:3.74306in;height:1.43333in" />Do a cortical mastoidectomy, focus on the corner where the tegmen and EAC meet. Use a #6 until you hit Koerner septum, then switch to a #3 to expose the lateral semicircular canal, incus buttress and the fossa incudes. The incus points to the facial recess. Use the facial nerve stimulator to get an idea where the facial nerve is, then take down the air cells on the EAC (your gonna take corda) to get through the facial recess. Expose round window. Drill part of your cochlostomy with a 1 diamond burr anterior/inferior to round window until you are about to pop through it then stop.
+* ![Mastoidectomy diagram](../../media/image22.png) Do a cortical mastoidectomy, focus on the corner where the tegmen and EAC meet. Use a #6 until you hit Koerner septum, then switch to a #3 to expose the lateral semicircular canal, incus buttress and the fossa incudes. The incus points to the facial recess. Use the facial nerve stimulator to get an idea where the facial nerve is, then take down the air cells on the EAC (your gonna take corda) to get through the facial recess. Expose round window. Drill part of your cochlostomy with a 1 diamond burr anterior/inferior to round window until you are about to pop through it then stop.
 * Use a freer to create your pocket (make it small/tight. He’ll pimp you on what is keeps the implant from moving. The answer is the temporalis tendon blocks the anterior/inferior corner of the implant from migrating) Put the metal implant template on a Kelly and use that to dissect the pocket for a good fit. Use a pen to mark a line from the metal template to the mastoid cavity and use a 3 cutting burr to drill a well for the electrodes. Take some temporalis fascia for later
 * Irrigate the mastoid. Ask for blue towels to put around the sterile area and change gloves. Open to the cochlear implant. Ask the nurses to disconnect the bovie and the circulator to order the portable x-ray
 * Use the #1 diamond burr to finish your cochleostomy. Hold the implant fin with AOS forceps and put the implant into the cochleostomy until you hit the Silastic stopper. Then advance the electrodes, stop if you feel resistance, until the white tabs line up. Pack the cochleostomy
