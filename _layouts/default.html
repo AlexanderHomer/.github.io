@@ -7,13 +7,11 @@
     <link
       rel="icon"
       href="{{ '/media/site-logo.png' | relative_url }}"
-      type="image/png"
-    />
+      type="image/png" />
     <title>{{ page.title }}</title>
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
-    />
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css" />
     <style>
       body {
         margin: 0;
@@ -75,6 +73,11 @@
         flex: 1;
         padding: 0.5rem;
         font-size: 1em;
+        border-top: none;
+        background-color: rgba(13, 17, 23, 0.9);
+        border-left: none;
+        border-right: none;
+        border-bottom-width: 0.05em;
       }
       #search-overlay-results {
         flex: 1;
@@ -189,6 +192,11 @@
         }
         #bottom-bar input[type="search"] {
           padding: 0.75rem;
+          border-top: none;
+          background-color: rgba(13, 17, 23, 0.9);
+          border-left: none;
+          border-right: none;
+          border-bottom-width: 0.05em;
         }
       }
       @media (prefers-color-scheme: dark) {
@@ -238,9 +246,8 @@
     <article id="content" class="markdown-body">{{ content }}</article>
     <div id="bottom-bar">
       <button id="back-button" title="Back">&#8592;</button>
-      <a id="home-button" title="Home" href="{{ '/' | relative_url }}"
-        >&#8962;</a
-      >
+      <a id="home-button" title="Home"
+        href="{{ '/' | relative_url }}">&#8962;</a>
       <input type="search" id="search-input" placeholder="Search..." />
       <button id="collapse-toggle" title="Collapse all">&#8722;</button>
     </div>
@@ -249,8 +256,7 @@
         <input
           type="search"
           id="search-overlay-input"
-          placeholder="Search..."
-        />
+          placeholder="Search..." />
         <button id="search-close" title="Close">&times;</button>
       </div>
       <div id="search-overlay-results"></div>
