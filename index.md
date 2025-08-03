@@ -61,6 +61,9 @@
 - [Clinic Guide](specialties/pediatric-otolaryngology/clinic-guide.html)
 - [Neck Masses](specialties/pediatric-otolaryngology/neck-masses.html)
 - [OR Guide](specialties/pediatric-otolaryngology/or-guide.html)
+- [Common Conditions](specialties/pediatric-otolaryngology/common-conditions.html)
+- [Pediatric Syndromes](specialties/pediatric-otolaryngology/pediatric-syndromes.html)
+- [Post-op Guide](specialties/pediatric-otolaryngology/peds-postop.html)
 
 [Rhinology](specialties/rhinology/rhinology.html)
 
