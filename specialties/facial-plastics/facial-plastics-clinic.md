@@ -12,7 +12,7 @@ Dilute to 1.25U per 0.1cc (8cc in a 100U vial):
 * If 60U in 3mL from OR (20U per mL) → add 1.8cc NS
 * If 20U in 1mL from OR (20U per mL) → add 0.6cc NS \n Inject 0.2cc (2.5U) in each site (X) below
 
- ![Botox Injection Points](../media/image9.png)
+ ![Botox Injection Points](../../media/image9.png)
 
 
 ## Rhinoplasty – Clinical Practice Guideline
