@@ -1,4 +1,4 @@
-PEDIATRIC NECK MASSES
+# PEDIATRIC NECK MASSES
 
 **History**:
 
@@ -118,8 +118,6 @@ Suppurative lymphadenopathy: **Staph** and **Group A strep** are MCC. Cover for 
 ## PEDIATRIC VASCULAR LESIONS
 
 * In general: They grow at the same rate as the child, do not involute
-
-  \
 
 ### **Infantile Hemangiomas**:
 
