@@ -90,7 +90,7 @@ Dilute to 1.25U per 0.1cc (8cc in a 100U vial):
 
         \
 
- ![Facial Analysis Diagram (Carruthers)](..media/image10.png)
+ ![Facial Analysis Diagram (Carruthers)](../../media/image10.png)
 
 
 ## III. Oblique View
