@@ -1,7 +1,5 @@
 # Tufts Oto-HNS Guide
 
----
-
 ## [Orientation](orientation/index.html)
 
 [Rules of the Game](orientation/rules-of-the-game.html)
