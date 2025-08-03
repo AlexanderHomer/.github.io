@@ -55,7 +55,7 @@
 * **Epidermoids**: T1 hypointense and T2 hyperintense, doesn't enhance. Differentiated from arachnoid cysts as **epidermoids** are bright on DWI.
 
 
-## MRI Internal Auditory Canal   ![CT Temporal Bone](../media/image5.png "right-50")
+## MRI Internal Auditory Canal   ![CT Temporal Bone](../../media/image5.png "right-50")
 
 
 
@@ -83,6 +83,6 @@
 
 
 
-[Back to homepage](../index.html)
+[Back to homepage](../../index.html)
 
 

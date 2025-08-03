@@ -16,64 +16,32 @@ function escapeRegExp(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-async function fetchPage(url) {
-  const resp = await fetch(url);
-  const text = await resp.text();
-  const titleMatch = text.match(/<title>(.*?)<\/title>/i);
-  const title = titleMatch ? titleMatch[1] : url;
-  const mdMatch = text.match(
-    /<textarea id="markdown-src"[^>]*>([\s\S]*?)<\/textarea>/i
-  );
-  const md = mdMatch ? mdMatch[1] : '';
-  let html = md;
-  try {
-    const mdResp = await fetch('https://api.github.com/markdown', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Accept: 'application/vnd.github+json',
-      },
-      body: JSON.stringify({ text: md }),
-    });
-    html = await mdResp.text();
-  } catch (e) {
-    html = md;
-  }
-  return { title, html };
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
 }
 
 async function searchSite(query) {
   const results = [];
   const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   const pages = await getPages();
-  for (const url of pages) {
-    try {
-      const pageUrl = '/' + url;
-      const { title, html } = await fetchPage(pageUrl);
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(html, 'text/html');
-      const bodyText = doc.body.textContent.toLowerCase();
-      if (!terms.every((t) => bodyText.includes(t))) continue;
-      let snippetEl = null;
-      for (const el of doc.querySelectorAll(
-        'p, li, h1, h2, h3, h4, h5, h6'
-      )) {
-        const text = el.textContent.toLowerCase();
-        if (terms.every((t) => text.includes(t))) {
-          snippetEl = el;
-          break;
-        }
-      }
-      let snippetHtml = snippetEl ? snippetEl.innerHTML : '';
-      for (const term of terms) {
-        const regex = new RegExp(escapeRegExp(term), 'ig');
-        snippetHtml = snippetHtml.replace(regex, '<mark>$&</mark>');
-      }
-      const fragment = encodeURIComponent(terms[0]);
-      results.push({ url: pageUrl, title, snippet: snippetHtml, fragment });
-    } catch (e) {
-      // ignore errors
+  for (const page of pages) {
+    const text = page.content.toLowerCase();
+    if (!terms.every((t) => text.includes(t))) continue;
+    const pageUrl = '/' + page.url;
+    const index = terms
+      .map((t) => text.indexOf(t))
+      .filter((i) => i !== -1)
+      .sort((a, b) => a - b)[0];
+    let snippet = page.content.substring(Math.max(0, index - 40), index + 60);
+    snippet = escapeHtml(snippet);
+    for (const term of terms) {
+      const regex = new RegExp(escapeRegExp(term), 'ig');
+      snippet = snippet.replace(regex, '<mark>$&</mark>');
     }
+    const fragment = encodeURIComponent(terms[0]);
+    results.push({ url: pageUrl, title: page.title, snippet, fragment });
   }
   return results;
 }

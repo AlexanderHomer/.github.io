@@ -67,4 +67,4 @@
 * Bending over: Keep your head above the level of your heart. Sleep with your head slightly raised
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)

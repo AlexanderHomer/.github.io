@@ -21,6 +21,6 @@ Example cross-sectional images can be viewed at [headneckbrainspine.com](http://
 
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

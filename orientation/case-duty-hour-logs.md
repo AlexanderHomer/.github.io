@@ -32,6 +32,6 @@
 5. All residents must update cases monthly
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

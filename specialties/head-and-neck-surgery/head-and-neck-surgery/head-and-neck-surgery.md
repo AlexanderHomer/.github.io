@@ -1418,7 +1418,7 @@ Carotid
 
  | 
 
-![](media/image31.emf) 
+![](../../../media/image31.emf) 
 
 
 ### 
@@ -1723,7 +1723,7 @@ Mediastinum
 
 
 
-![](media/image32.png) 
+![](../../../media/image32.png) 
 
 
 
@@ -2304,11 +2304,11 @@ N stage
             prevertebral space
              | 
             
-            ![MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets](media/image33.png)
+            ![MELANOMA STAGING DEPTH OF NUMBER OF 2 4 INVASION (MM) LYMPH NODES 0.8 - (in-transit m ets = N3) T staging (a) No ulceration (b) ulceration N staging (a) Micromets (&lt;0.1 mm) (b) Macromets (c) In-transit / satellite lesions w/o mets](../../../media/image33.png)
             
 
             
-            [Back to homepage](index.html)
+            [Back to homepage](../../../index.html)
             
 
              | 

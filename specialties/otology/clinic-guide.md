@@ -38,7 +38,7 @@
 
 ### Tympanometry
 
- ![Tympanogram Types](../media/image3.png "right-50")
+ ![Tympanogram Types](../../media/image3.png "right-50")
 
 * **Ad:** Deep for **discontinuity**
 * **As:** Shallow for otosclerosis / ossicular fixation
@@ -89,6 +89,6 @@
 | Left |    | **Brainstem** |
 
 
-[Back to homepage](../index.html)
+[Back to homepage](../../index.html)
 
 

@@ -51,6 +51,6 @@ Paging system>personal profile> login/pw is pager number > Status/Exceptions> Ad
 * Don’t forget to forward your pager when you’re on vacation
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

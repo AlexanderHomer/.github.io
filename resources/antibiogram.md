@@ -11,4 +11,4 @@ The Tufts antibiogram guides empiric therapy for common ENT infections. The tabl
 
 Consult the printed antibiogram in the resident workroom or the Tufts intranet for detailed susceptibility data.
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)

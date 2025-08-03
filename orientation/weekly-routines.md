@@ -46,6 +46,6 @@ Nothing
 PGY-2 sends out prelim radiology rounds list
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

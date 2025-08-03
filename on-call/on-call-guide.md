@@ -8,6 +8,6 @@ Located in the Resident Suites on Farnsworth 1st floor (you need to make sure yo
 **Room A182 = ENT On Call Room                                        Code=0044833**
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

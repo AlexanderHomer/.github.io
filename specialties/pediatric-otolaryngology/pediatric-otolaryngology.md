@@ -573,7 +573,7 @@ Laryngoscope, 2010*)
 
 - 
 
-![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](media/image15.png)always
+![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png)always
 on the left side and are cysts. Consider if patient has a macrocystic
 lymphatic malformation but no loculations (LVMs are multiple cysts,
 Thymic cysts are a single cyst). Get serial calcium and eval for
@@ -615,7 +615,7 @@ masses. Runs along EAC. Lateral to CN7
 
 - 
 
-![](media/image16.png)Type 2: 2 layers (ectoderm +
+![](../../media/image16.png)Type 2: 2 layers (ectoderm +
 mesoderm)  More common
 
 
@@ -1033,7 +1033,7 @@ Balance the microscope. Don't drape it yet.
 
 
 
-![](media/image18.jpeg)![](media/image19.png)Call audiology and give them
+![](../../media/image18.jpeg)![](../../media/image19.png)Call audiology and give them
 the serial numbers for the cochlear implants
 
 
@@ -1052,7 +1052,7 @@ lidocaine)
 
 
 
-![](media/image20.png)Bed rotated 180 degrees.
+![](../../media/image20.png)Bed rotated 180 degrees.
 Leica microscope at head of bed, tower can be on the scrub side of
 microscope, NIM monitor and suction on the scrub side by the feet.
 
@@ -1070,7 +1070,7 @@ Draw a lazy S incision 0.5cm behind the post-auricular crease.
 
 
 
-![](media/image21.png)Place the NIM and curl the
+![](../../media/image21.png)Place the NIM and curl the
 leads before you stick the Tegaderm down. Test the monitor. Volume to
 max, voltage at 0.8.
 
@@ -1109,7 +1109,7 @@ elevator to the spine of henle.
 
 
 
-![](media/image22.png)Do a cortical mastoidectomy,
+![](../../media/image22.png)Do a cortical mastoidectomy,
 focus on the corner where the tegmen and EAC meet. Use a #6 until you
 hit Koerner septum, then switch to a #3 to expose the lateral
 semicircular canal, incus buttress and the fossa incudes. The incus
@@ -1590,7 +1590,7 @@ Follow up is 3 weeks
 
 
 
-[Back to homepage](index.html)
+[Back to homepage](../../index.html)
 
 
 
