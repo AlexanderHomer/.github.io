@@ -25,10 +25,10 @@ If you **delegate work,** you are still responsible for following up on the resu
 **Help the PGY-2**. It’s a small service so if anyone isn’t pulling their weight things fall apart.  We are our own checks and balances.
 
 
-**Teach**– you have an obligation to pass on your knowledge to the residents, interns, and medical students under you. If you present, make sure you give people 3-4 take away points.
+**Teach:** You have an obligation to pass on your knowledge to the residents, interns, and medical students under you. If you present, make sure you give people 3-4 take away points.
 
 
-**Be prepared for every case** – pretend there is no attending with you.
+**Be prepared for every case:** Pretend there is no attending with you.
 
 
 When you present to an attending, give **just the meat** – tell them what symptoms the patient has before telling them what the patient doesn’t have\*\*.\*\*
