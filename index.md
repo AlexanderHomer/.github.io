@@ -1,9 +1,3 @@
-
----
-layout: default
-title: Home
----
-
 # [Orientation](orientation/index.html)
 
 [Rules of the Game](orientation/rules-of-the-game.html)
@@ -42,25 +36,16 @@ title: Home
 
 [Otology](specialties/otology/index.html)
 
-- [Clinic Guide](specialties/otology/clinic-guide.html)
-
-- [Facial Nerve](specialties/otology/facial-nerve.html)
-
-- [Neuro-otology Imaging](specialties/otology/neuro-otology-imaging.html)
-
-- [Otitis](specialties/otology/otitis.html)
-
-- [OR Guide](specialties/otology/or-guide.html)
-
-- [Otosclerosis](specialties/otology/otosclerosis.html)
-
-- [Temporal Bone Lab](specialties/otology/temporal-bone-lab.html)
-
-- [The Cranial Nerves](specialties/otology/the-cranial-nerves.html)
-
-- [Tinnitus](specialties/otology/tinnitus.html)
-
-- [Vertigo](specialties/otology/vertigo.html)
+* [Clinic Guide](specialties/otology/clinic-guide.html)
+* [Facial Nerve](specialties/otology/facial-nerve.html)
+* [Neuro-otology Imaging](specialties/otology/neuro-otology-imaging.html)
+* [Otitis](specialties/otology/otitis.html)
+* [OR Guide](specialties/otology/or-guide.html)
+* [Otosclerosis](specialties/otology/otosclerosis.html)
+* [Temporal Bone Lab](specialties/otology/temporal-bone-lab.html)
+* [The Cranial Nerves](specialties/otology/the-cranial-nerves.html)
+* [Tinnitus](specialties/otology/tinnitus.html)
+* [Vertigo](specialties/otology/vertigo.html)
 
 [Facial Plastics](specialties/facial-plastics/facial-plastics.html)
 
