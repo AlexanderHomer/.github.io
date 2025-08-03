@@ -46,6 +46,23 @@ function initCollapsibleHeadings() {
   }
 }
 
+function syncBoldTextColors() {
+  const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+  headings.forEach((heading) => {
+    const color = getComputedStyle(heading).color;
+    heading.querySelectorAll("strong, b").forEach((el) => {
+      el.style.color = color;
+    });
+    let el = heading.nextElementSibling;
+    while (el && !el.tagName.match(/^H[1-6]$/)) {
+      el.querySelectorAll("strong, b").forEach((bold) => {
+        bold.style.color = color;
+      });
+      el = el.nextElementSibling;
+    }
+  });
+}
+
 function applySparkleEffect() {
   const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
   headings.forEach((heading) => {
@@ -89,17 +106,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initCollapsibleHeadings();
 
+  syncBoldTextColors();
+
   let sparkleEnabled = false;
   const sparkleToggle = document.getElementById("sparkle-toggle");
   if (sparkleToggle) {
+    let prev = sparkleToggle.previousElementSibling;
+    while (prev && !prev.tagName.match(/^H[1-6]$/)) {
+      prev = prev.previousElementSibling;
+    }
+    if (prev) {
+      const color = getComputedStyle(prev).color;
+      sparkleToggle.style.color = color;
+    }
     sparkleToggle.addEventListener("click", () => {
       sparkleEnabled = !sparkleEnabled;
       if (sparkleEnabled) {
         applySparkleEffect();
-        sparkleToggle.textContent = "Disable sparkle";
+        sparkleToggle.textContent = "✨ Disable sparkle ✨";
       } else {
         removeSparkleEffect();
-        sparkleToggle.textContent = "Enable sparkle";
+        sparkleToggle.textContent = "✨ Enable sparkle ✨";
       }
     });
   }

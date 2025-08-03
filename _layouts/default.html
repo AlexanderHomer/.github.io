@@ -4,12 +4,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" href="{{ '/media/site-logo.png' | relative_url }}"
-      type="image/png" />
+    <link
+      rel="icon"
+      href="{{ '/media/site-logo.png' | relative_url }}"
+      type="image/png"
+    />
     <title>{{ page.title }}</title>
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css" />
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
+    />
     <style>
       body {
         margin: 0;
@@ -129,6 +133,30 @@
             0 0 4px var(--sparkle-color);
         }
       }
+      #sparkle-toggle {
+        cursor: pointer;
+        font-weight: bold;
+        padding: 0.5rem 1rem;
+        border: 2px solid currentColor;
+        border-radius: 9999px;
+        background: none;
+        text-shadow: 0 0 4px currentColor;
+        box-shadow: 0 0 8px currentColor;
+        animation: groove 2s ease-in-out infinite alternate;
+      }
+      #sparkle-toggle:hover {
+        transform: scale(1.05) rotate(-2deg);
+      }
+      @keyframes groove {
+        from {
+          transform: scale(1);
+          box-shadow: 0 0 6px currentColor;
+        }
+        to {
+          transform: scale(1.1) rotate(2deg);
+          box-shadow: 0 0 16px currentColor;
+        }
+      }
       @media (max-width: 600px) {
         body {
           font-size: 18px;
@@ -193,8 +221,9 @@
     <article id="content" class="markdown-body">{{ content }}</article>
     <div id="bottom-bar">
       <button id="back-button" title="Back">&#8592;</button>
-      <a id="home-button" title="Home"
-        href="{{ '/' | relative_url }}">&#8962;</a>
+      <a id="home-button" title="Home" href="{{ '/' | relative_url }}"
+        >&#8962;</a
+      >
       <input type="search" id="search-input" placeholder="Search..." />
       <button id="collapse-toggle" title="Collapse all">&#8722;</button>
     </div>
@@ -203,7 +232,8 @@
         <input
           type="search"
           id="search-overlay-input"
-          placeholder="Search..." />
+          placeholder="Search..."
+        />
         <button id="search-close" title="Close">&times;</button>
       </div>
       <div id="search-overlay-results"></div>
