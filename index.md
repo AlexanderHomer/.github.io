@@ -115,9 +115,10 @@
 <p><b>Anju Patel, M.D.</b></p>
 <p><b>Ramya Bharathi, M.D.</b></p>
 <p><b>Emily Gall, M.D.</b></p>
+  </br>
 </div>
 
-&nbsp;
+
 <button id="sparkle-toggle">✨ Enable sparkle ✨</button>
 <!-- markdownlint-enable MD033 -->
 
