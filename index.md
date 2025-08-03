@@ -106,25 +106,25 @@
 <!-- markdownlint-disable MD033 -->
 <div id="contributors">
   
-**Jonathan C. Simmonds, M.D.**
+<b>Jonathan C. Simmonds, M.D. </b>
 
-**Jennifer L. Harb, M.D.**
+<b>Jennifer L. Harb, M.D.</b>
 
-**Erin Haser, M.D.**
+<b>Erin Haser, M.D.</b>
 
-**Ameer Shah, M.D.**
+<b>Ameer Shah, M.D.</b>
 
-**Samih Nassif, M.D.**
+<b>Samih Nassif, M.D.</b>
 
-**Andrew R. Scott, M.D.**
+<b>Andrew R. Scott, M.D.</b>
 
-**Michelle White, M.D.**
+<b>Michelle White, M.D.</b>
 
-**Anju Patel, M.D.**
+<b>Anju Patel, M.D.</b>
 
-**Ramya Bharathi, M.D.**
+<b>Ramya Bharathi, M.D.</b>
 
-**Emily Gall, M.D.**
+<b>Emily Gall, M.D.</b>
 
 </div>
 
