@@ -93,6 +93,15 @@
         background: none;
         border: none;
       }
+      .markdown-body a {
+        background-color: transparent;
+        color: #57c7ff;
+        text-decoration: none;
+      }
+      .markdown-body h1 a,
+      .markdown-body h2 a {
+        color: inherit;
+      }
       .collapsible {
         cursor: pointer;
         display: flex;
@@ -134,25 +143,31 @@
         #search-overlay-header {
           border-bottom: 1px solid #30363d;
         }
-        /* Cycle through a rainbow for successive h1 headings */
-        h1:nth-of-type(6n + 1) {
-          color: #ff5555;
-        }
-        h1:nth-of-type(6n + 2) {
-          color: #ffb86c;
-        }
-        h1:nth-of-type(6n + 3) {
-          color: #f1fa8c;
-        }
-        h1:nth-of-type(6n + 4) {
-          color: #50fa7b;
-        }
-        h1:nth-of-type(6n + 5) {
-          color: #57c7ff;
-        }
-        h1:nth-of-type(6n + 6) {
-          color: #bd93f9;
-        }
+      /* Cycle through a rainbow for successive h1 and h2 headings */
+      h1:nth-of-type(6n + 1),
+      h2:nth-of-type(6n + 1) {
+        color: #57c7ff;
+      }
+      h1:nth-of-type(6n + 2),
+      h2:nth-of-type(6n + 2) {
+        color: #bd93f9;
+      }
+      h1:nth-of-type(6n + 3),
+      h2:nth-of-type(6n + 3) {
+        color: #ff5555;
+      }
+      h1:nth-of-type(6n + 4),
+      h2:nth-of-type(6n + 4) {
+        color: #ffb86c;
+      }
+      h1:nth-of-type(6n + 5),
+      h2:nth-of-type(6n + 5) {
+        color: #f1fa8c;
+      }
+      h1:nth-of-type(6n + 6),
+      h2:nth-of-type(6n + 6) {
+        color: #50fa7b;
+      }
       }
     </style>
   </head>
