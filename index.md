@@ -47,7 +47,12 @@
 * [Tinnitus](specialties/otology/tinnitus.html)
 * [Vertigo](specialties/otology/vertigo.html)
 
-[Facial Plastics](specialties/facial-plastics/facial-plastics.html)
+[Facial Plastics](specialties/facial-plastics/index.html)
+
+* [Clinic Guide](specialties/facial-plastics/facial-plastics-clinic.html)
+* [OR Guide](specialties/facial-plastics/facial-plastics-OR.html)
+* [Local Rotational Flaps](specialties/facial-plastics/facial-plastics-local-rotational-flaps.html)
+* [Post-op Guide](specialties/facial-plastics/facial-plastics-postop.html)
 
 [Pediatric Otolaryngology](specialties/pediatric-otolaryngology/index.html)
 
