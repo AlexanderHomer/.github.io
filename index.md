@@ -99,6 +99,7 @@
 
 [Map of Tufts Medical Center](resources/map-of-tufts-medical-center.html)
 
+<!-- markdownlint-disable-next-line MD025 -->
 # Editors and Contributors
 
 **Jonathan C. Simmonds, M.D.**
@@ -128,3 +129,6 @@ To edit this website - talk to me (Alex)
 To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
  ![Tufts Oto-HNS Pocket Guide](media/image1.png "right-50")
+
+<!-- markdownlint-disable-next-line MD033 -->
+<button id="sparkle-toggle">Enable sparkle</button>

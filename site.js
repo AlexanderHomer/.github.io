@@ -65,6 +65,13 @@ function applySparkleEffect() {
   });
 }
 
+function removeSparkleEffect() {
+  document.querySelectorAll(".sparkle").forEach((el) => {
+    el.classList.remove("sparkle");
+    el.style.removeProperty("--sparkle-color");
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const header = document.querySelector("header");
   if (header) {
@@ -81,7 +88,21 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   initCollapsibleHeadings();
-  applySparkleEffect();
+
+  let sparkleEnabled = false;
+  const sparkleToggle = document.getElementById("sparkle-toggle");
+  if (sparkleToggle) {
+    sparkleToggle.addEventListener("click", () => {
+      sparkleEnabled = !sparkleEnabled;
+      if (sparkleEnabled) {
+        applySparkleEffect();
+        sparkleToggle.textContent = "Disable sparkle";
+      } else {
+        removeSparkleEffect();
+        sparkleToggle.textContent = "Enable sparkle";
+      }
+    });
+  }
 
   const collapseToggle = document.getElementById("collapse-toggle");
   if (collapseToggle) {
