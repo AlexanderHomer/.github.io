@@ -4,15 +4,12 @@
 
 On doctor order sheet, put any meds they need IN PACU on the left, then on the right column write:
 
-
-
 1. Complete medication reconciliation under the Discharge->orders. Continue all home meds unless otherwise stated
 2. Order PACU pain meds if needed under red “orders” tab
 3. D/C instruction: Diet, activity, wound care, when to shower, follow up instructions
 4. Order any new outpatient meds
 5. Don’t forget to fill out the brief operative note if you are not able to complete the op note prior to leaving the OR
 
-   \
 
 ## **Inpatient/Bedded Outpatient Orders**
 
