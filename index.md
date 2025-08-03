@@ -115,13 +115,12 @@
 <p><b>Anju Patel, M.D.</b></p>
 <p><b>Ramya Bharathi, M.D.</b></p>
 <p><b>Emily Gall, M.D.</b></p>
- 
 </div>
- </br>
+
+If you add to the pocket guide, feel free to add your name to the list above
+
 <button id="sparkle-toggle">✨ Enable sparkle ✨</button>
 <!-- markdownlint-enable MD033 -->
- </br>
-If you add to the pocket guide, feel free to add your name to the list above
 
 To edit this website - talk to me (Alex)
 
