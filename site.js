@@ -47,16 +47,19 @@ function initCollapsibleHeadings() {
 }
 
 function adjustH3HeadingColors() {
-  document.querySelectorAll("h3").forEach((h3) => {
-    let prev = h3.previousElementSibling;
-    while (prev && !prev.tagName.match(/^H[12]$/)) {
-      prev = prev.previousElementSibling;
-    }
-    if (prev) {
-      const color = getComputedStyle(prev).color;
-      h3.style.color = color;
+  let color = "";
+  document.querySelectorAll("h1, h2, h3").forEach((el) => {
+    if (el.tagName.match(/^H[12]$/)) {
+      color = getComputedStyle(el).color;
+    } else if (el.tagName === "H3" && color) {
+      el.style.color = color;
     }
   });
+}
+
+function applyHeadingColors() {
+  adjustH3HeadingColors();
+  syncBoldTextColors();
 }
 
 function syncBoldTextColors() {
@@ -128,8 +131,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initCollapsibleHeadings();
 
-  adjustH3HeadingColors();
-  syncBoldTextColors();
+  applyHeadingColors();
+  const schemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  if (schemeQuery.addEventListener) {
+    schemeQuery.addEventListener("change", applyHeadingColors);
+  } else if (schemeQuery.addListener) {
+    schemeQuery.addListener(applyHeadingColors);
+  }
 
   let sparkleEnabled = false;
   const sparkleToggle = document.getElementById("sparkle-toggle");
