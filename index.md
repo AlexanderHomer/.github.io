@@ -117,6 +117,7 @@
 <p><b>Emily Gall, M.D.</b></p>
 </div>
 
+
 <button id="sparkle-toggle">✨ Enable sparkle ✨</button>
 <!-- markdownlint-enable MD033 -->
 
