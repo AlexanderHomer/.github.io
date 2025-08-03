@@ -27,7 +27,7 @@
 
 **Thymic cysts**:
 
-* <img src="media/image15.png" style="width:1.74653in;height:1.36875in" alt="Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC " />always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst). Get serial calcium and eval for Consider DiGeorge Syndrome
+* ![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png) always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst). Get serial calcium and eval for Consider DiGeorge Syndrome
 
 **Congenital Torticollis (SCM tumors of infancy)**:
 
@@ -38,7 +38,7 @@
 **First Branchial Cleft Cysts**:
 
 * Type 1: 1 layer (ectoderm): Present as pre or post-auricular masses. Runs along EAC. Lateral to CN7
-* <img src="media/image16.png" style="width:1.53472in;height:1.37986in" />Type 2: 2 layers (ectoderm + mesoderm)  More common
+* ![Branchial cleft cyst types](../../media/image16.png) Type 2: 2 layers (ectoderm + mesoderm) ← More common
 
   
   1. Angle of mandible → Ends in/near EAC. Can be medial to CN7 and may require a superficial parotidectomy (NIM monitoring required)
