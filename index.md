@@ -102,6 +102,9 @@
 <!-- markdownlint-disable-next-line MD025 -->
 # Editors and Contributors
 
+<!-- markdownlint-disable-next-line MD033 -->
+<button id="sparkle-toggle">Enable sparkle</button>
+
 **Jonathan C. Simmonds, M.D.**
 
 **Jennifer L. Harb, M.D.**
@@ -130,5 +133,3 @@ To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
  ![Tufts Oto-HNS Pocket Guide](media/image1.png "right-50")
 
-<!-- markdownlint-disable-next-line MD033 -->
-<button id="sparkle-toggle">Enable sparkle</button>
