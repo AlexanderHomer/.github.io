@@ -47,52 +47,16 @@ function initCollapsibleHeadings() {
 }
 
 function adjustH3HeadingColors() {
-  document.querySelectorAll("h2").forEach((h2) => {
-    const baseColor = getComputedStyle(h2).color;
-    const { h, s, l } = rgbToHsl(baseColor);
-    let el = h2.nextElementSibling;
-    let index = 0;
-    while (el && !el.tagName.match(/^H[12]$/)) {
-      if (el.tagName === "H3") {
-        const saturation = Math.max(0, s - index * 10);
-        el.style.color = `hsl(${h}, ${saturation}%, ${l}%)`;
-        index++;
-      }
-      el = el.nextElementSibling;
+  document.querySelectorAll("h3").forEach((h3) => {
+    let prev = h3.previousElementSibling;
+    while (prev && !prev.tagName.match(/^H[12]$/)) {
+      prev = prev.previousElementSibling;
+    }
+    if (prev) {
+      const color = getComputedStyle(prev).color;
+      h3.style.color = color;
     }
   });
-}
-
-function rgbToHsl(rgb) {
-  const m = rgb.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/);
-  if (!m) return { h: 0, s: 0, l: 0 };
-  let r = m[1] / 255,
-    g = m[2] / 255,
-    b = m[3] / 255;
-  const max = Math.max(r, g, b),
-    min = Math.min(r, g, b);
-  let h,
-    s,
-    l = (max + min) / 2;
-  if (max === min) {
-    h = s = 0;
-  } else {
-    const d = max - min;
-    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
-    switch (max) {
-      case r:
-        h = (g - b) / d + (g < b ? 6 : 0);
-        break;
-      case g:
-        h = (b - r) / d + 2;
-        break;
-      case b:
-        h = (r - g) / d + 4;
-        break;
-    }
-    h *= 60;
-  }
-  return { h, s: s * 100, l: l * 100 };
 }
 
 function syncBoldTextColors() {
