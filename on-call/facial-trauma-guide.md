@@ -107,6 +107,6 @@ Isolated anterior nasal spine
   * 9–12 years—MMF w/ arch bars
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

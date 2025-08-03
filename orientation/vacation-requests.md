@@ -28,4 +28,4 @@ October 1 – January to March
 January 1 – April to June
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)

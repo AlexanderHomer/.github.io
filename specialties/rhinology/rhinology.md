@@ -216,7 +216,7 @@ enlarges (use 1ml of previous strength + 4ml of dilute)
 
 
 #### 
-![](media/image23.png)Allergens (will associated
+![](../../media/image23.png)Allergens (will associated
 oral allergy triggers)
 
 
@@ -391,7 +391,7 @@ Positive fungal stain of sinus content
 
 - 
 
-![](media/image24.jpeg)**Mycetoma (Fungal
+![](../../media/image24.jpeg)**Mycetoma (Fungal
 Ball)**: typically aspergillus (Y-shaped 45 degree septated
 hyphae) in one sinus treated with surgery
 
@@ -796,7 +796,7 @@ present, may need angled instruments)
 
 
 
-![](media/image25.png)
+![](../../media/image25.png)
 
 
 
@@ -932,7 +932,7 @@ Type 4 within frontal sinus
 
 
 
-![](media/image26.png)
+![](../../media/image26.png)
 
 
 
@@ -992,7 +992,7 @@ SURGERY:
 
 - 
 
-![](media/image27.png)**Inject** 1%
+![](../../media/image27.png)**Inject** 1%
 lido + epi : root of middle turb and lateral nasal wall. Inject with
 patties in place in middle meatus
 
@@ -1052,7 +1052,7 @@ roof of the maxillary sinus
 
 
 
-![](media/image28.png)
+![](../../media/image28.png)
 
 
 
@@ -1190,6 +1190,6 @@ Have suction electrocautery and nasopores for hemostasis
 
 
 
-[Back to homepage](index.html)
+[Back to homepage](../../index.html)
 
 

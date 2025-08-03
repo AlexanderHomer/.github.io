@@ -27,7 +27,7 @@
 
 ## Malignant Otitis Externa
 
- ![Malignant Otitis Externa (MOE)](../media/image6.png "right-50")
+ ![Malignant Otitis Externa (MOE)](../../media/image6.png "right-50")
 
 * Granulation tissue in EAC at bony-cartilaginous junction
 
@@ -51,14 +51,16 @@
 
 ## Fungal Otitis Externa (*Otomycosis*)
 
- ![Fungal Otitis Externa (Otomycosis)](../media/image7.png "right-50")
+![Fungal Otitis Externa (Otomycosis)](../../media/image7.jpeg "right-50")
 
 * **MCC**: *Aspergillus*
 * Exam: sheets of keratin with black **conidiophores** over white filamentous hyphae
 * **Tx**:
   * Acetic acid (vinegar)
-  * **Clotrimazole 1% solution** (*Lotrimin*)
-  * *Glucose control*, dry ear precautions
-  * Consider: gentian violet or methyl-cresyl acetate for refractory cases
+* **Clotrimazole 1% solution** (*Lotrimin*)
+* *Glucose control*, dry ear precautions
+* Consider: gentian violet or methyl-cresyl acetate for refractory cases
 
+
+[Back to homepage](../../index.html)
 

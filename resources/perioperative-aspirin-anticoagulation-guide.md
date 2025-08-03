@@ -474,7 +474,7 @@ Optional: Furosemide 10-40mg IV / double their daily dose (onset
                                     
 
                                     
-                                    [Back to homepage](index.html)
+                                    [Back to homepage](../index.html)
                                     
 
                                     

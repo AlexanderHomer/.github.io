@@ -68,7 +68,7 @@
 
 * If nystagmus graph available, use your arms to identify slow side
 
-   ![Nystagmus Identification](../media/image6.png "right-50")
+   ![Nystagmus Identification](../../media/image6.png "right-50")
 * **Caloric Testing**
   * Cold Opposite Warm Same (**COWS**)
   * Only tests horizontal SCC (can’t detect bilateral lesions without rotary chair)

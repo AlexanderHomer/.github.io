@@ -84,6 +84,6 @@ Zofran IV 0.1mg/kg/dose q8hrs (max dose 4mg).
 
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

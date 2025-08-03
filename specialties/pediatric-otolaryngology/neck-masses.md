@@ -86,7 +86,7 @@ Laryngoscope, 2010*)
 
 - 
 
-![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../media/image15.png)always
+![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png)always
 on the left side and are cysts. Consider if patient has a macrocystic
 lymphatic malformation but no loculations (LVMs are multiple cysts,
 Thymic cysts are a single cyst). Get serial calcium and eval for
@@ -128,7 +128,7 @@ masses. Runs along EAC. Lateral to CN7
 
 - 
 
-![](../media/image16.png)Type 2: 2 layers (ectoderm +
+![](../../media/image16.png)Type 2: 2 layers (ectoderm +
 mesoderm)  More common
 
 
@@ -479,7 +479,7 @@ Lymphoma: Hogkins is more common than NHL in the neck: HL = B-symptoms
 
 
 
-[Back to homepage](../index.html)
+[Back to homepage](../../index.html)
 
 
 

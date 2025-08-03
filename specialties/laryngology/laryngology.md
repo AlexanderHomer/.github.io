@@ -2,7 +2,7 @@
 layout: default
 title: Laryngology
 ---
-[Back to homepage](index.html)
+[Back to homepage](../../index.html)
 
 
 

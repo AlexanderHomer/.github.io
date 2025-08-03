@@ -20,6 +20,6 @@ These are the things that we need to make sure happen.
    2. Obtain access to the boardvitals website for questions
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

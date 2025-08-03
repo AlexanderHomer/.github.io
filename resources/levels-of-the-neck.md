@@ -30,6 +30,6 @@ Understanding these levels is essential for staging head and neck cancers.
 
 
 
-[Back to homepage](index.html)
+[Back to homepage](../index.html)
 
 

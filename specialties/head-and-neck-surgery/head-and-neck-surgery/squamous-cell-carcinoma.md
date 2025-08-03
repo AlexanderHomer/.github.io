@@ -620,7 +620,7 @@ Supraglottic: yes for T1 N0
 
 
 
-[Back to homepage](../index.html)
+[Back to homepage](../../../index.html)
 
 
 

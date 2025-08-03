@@ -387,4 +387,4 @@ Innervation:
                               radiactive node and all other nodes that are above 10% of the cpm value
                               of the hottest node.
 
-                            [Back to homepage](../index.html)
+                            [Back to homepage](../../../index.html)

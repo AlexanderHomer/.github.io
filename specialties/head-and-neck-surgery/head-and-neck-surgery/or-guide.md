@@ -242,7 +242,7 @@ Lead 3 (purple) goes into marginal mandibular
 
 
 
-![](../media/image29.png)
+![](../../../media/image29.png)
 
 
 
@@ -273,7 +273,7 @@ intercostal space)
 
 
 
-![](../media/image30.png) 4-5cm incision lateral to
+![](../../../media/image30.png) 4-5cm incision lateral to
 nipple line
 
 
@@ -399,7 +399,7 @@ PTX
 
 
 
-[Back to homepage](../index.html)
+[Back to homepage](../../../index.html)
 
 
 
