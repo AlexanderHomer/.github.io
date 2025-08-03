@@ -21,8 +21,13 @@
         padding-bottom: 4rem;
         box-sizing: border-box;
         color-scheme: light dark;
-        background: #fff;
+        background-color: #fff;
         color: #000;
+        background-image:
+          radial-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+          radial-gradient(rgba(0, 0, 0, 0.02) 1px, transparent 1px);
+        background-size: 6px 6px;
+        background-position: 0 0, 3px 3px;
       }
       #bottom-bar {
         position: fixed;
@@ -248,8 +253,11 @@
       }
       @media (prefers-color-scheme: dark) {
         body {
-          background: #0d1117;
+          background-color: #0d1117;
           color: #c9d1d9;
+          background-image:
+            radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+            radial-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px);
         }
         #bottom-bar {
           background: rgba(13, 17, 23, 0.9);
