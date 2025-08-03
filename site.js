@@ -37,11 +37,24 @@ document.addEventListener("DOMContentLoaded", () => {
         section.forEach((node) => wrapper.appendChild(node));
         heading.insertAdjacentElement("afterend", wrapper);
         heading.classList.add("collapsible");
-        heading.addEventListener("click", () => {
+
+        const icon = document.createElement("span");
+        icon.classList.add("collapse-icon");
+        icon.textContent = "\u25BE";
+        heading.insertBefore(icon, heading.firstChild);
+
+        const toggle = () => {
           const hidden = wrapper.style.display === "none";
           wrapper.style.display = hidden ? "" : "none";
           heading.classList.toggle("collapsed", !hidden);
+          icon.textContent = hidden ? "\u25BE" : "\u25B8";
+        };
+
+        icon.addEventListener("click", (e) => {
+          e.stopPropagation();
+          toggle();
         });
+        heading.addEventListener("click", toggle);
       }
     });
   }
