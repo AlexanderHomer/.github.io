@@ -43,7 +43,6 @@
 * abstracts due in Feb
 * Conference at mid/end of October
 
-  \
 
 ## SENTAC
 
