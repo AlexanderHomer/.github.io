@@ -63,5 +63,3 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initCollapsibleHeadings();
 });
-
-window.addEventListener("markdown-rendered", initCollapsibleHeadings);

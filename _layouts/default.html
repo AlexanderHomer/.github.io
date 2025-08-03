@@ -157,10 +157,9 @@
     </style>
   </head>
   <body>
-    <textarea id="markdown-src" style="display: none">
-{{ page.content | escape }}</textarea
-    >
-    <article id="content" class="markdown-body"></article>
+    <article id="content" class="markdown-body">
+{{ content }}
+    </article>
     <div id="bottom-bar">
       <button id="back-button" title="Back">&#8592;</button>
       <a id="home-button" title="Home" href="{{ '/' | relative_url }}"
@@ -179,28 +178,6 @@
       </div>
       <div id="search-overlay-results"></div>
     </div>
-    <script>
-      (async () => {
-        const src = document.getElementById("markdown-src");
-        const content = document.getElementById("content");
-        const md = src.value;
-        try {
-          const resp = await fetch("https://api.github.com/markdown", {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json",
-              Accept: "application/vnd.github+json",
-            },
-            body: JSON.stringify({ text: md }),
-          });
-          const html = await resp.text();
-          content.innerHTML = html;
-        } catch (e) {
-          content.textContent = md;
-        }
-        window.dispatchEvent(new Event("markdown-rendered"));
-      })();
-    </script>
     <script src="{{ '/menu.js' | relative_url }}"></script>
     <script src="{{ '/site.js' | relative_url }}"></script>
   </body>
