@@ -55,9 +55,11 @@ function syncBoldTextColors() {
     });
     let el = heading.nextElementSibling;
     while (el && !el.tagName.match(/^H[1-6]$/)) {
-      el.querySelectorAll("strong, b").forEach((bold) => {
-        bold.style.color = color;
-      });
+      if (!el.closest("#contributors")) {
+        el.querySelectorAll("strong, b").forEach((bold) => {
+          bold.style.color = color;
+        });
+      }
       el = el.nextElementSibling;
     }
   });
@@ -76,6 +78,10 @@ function applySparkleEffect() {
       el.querySelectorAll("strong, b").forEach((bold) => {
         bold.classList.add("sparkle");
         bold.style.setProperty("--sparkle-color", color);
+        if (bold.closest("#contributors")) {
+          bold.style.color = color;
+          bold.classList.add("pazzaz");
+        }
       });
       el = el.nextElementSibling;
     }
@@ -86,6 +92,12 @@ function removeSparkleEffect() {
   document.querySelectorAll(".sparkle").forEach((el) => {
     el.classList.remove("sparkle");
     el.style.removeProperty("--sparkle-color");
+    if (el.classList.contains("pazzaz")) {
+      el.classList.remove("pazzaz");
+      if (el.closest("#contributors")) {
+        el.style.removeProperty("color");
+      }
+    }
   });
 }
 
@@ -124,9 +136,11 @@ document.addEventListener("DOMContentLoaded", () => {
       if (sparkleEnabled) {
         applySparkleEffect();
         sparkleToggle.textContent = "✨ Disable sparkle ✨";
+        sparkleToggle.classList.add("pazzaz");
       } else {
         removeSparkleEffect();
         sparkleToggle.textContent = "✨ Enable sparkle ✨";
+        sparkleToggle.classList.remove("pazzaz");
       }
     });
   }

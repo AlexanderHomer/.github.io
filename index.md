@@ -103,10 +103,8 @@
 
 # Editors and Contributors
 
-<!-- markdownlint-disable-next-line MD033 -->
-
-<button id="sparkle-toggle">✨ Enable sparkle ✨</button>
-
+<!-- markdownlint-disable MD033 -->
+<div id="contributors">
 **Jonathan C. Simmonds, M.D.**
 
 **Jennifer L. Harb, M.D.**
@@ -126,6 +124,10 @@
 **Ramya Bharathi, M.D.**
 
 **Emily Gall, M.D.**
+</div>
+
+<button id="sparkle-toggle">✨ Enable sparkle ✨</button>
+<!-- markdownlint-enable MD033 -->
 
 If you add to the pocket guide, feel free to add your name to the list above
 

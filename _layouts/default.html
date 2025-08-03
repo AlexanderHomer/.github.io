@@ -140,11 +140,17 @@
         border: 2px solid currentColor;
         border-radius: 9999px;
         background: none;
+      }
+      .pazzaz {
+        display: inline-block;
         text-shadow: 0 0 4px currentColor;
-        box-shadow: 0 0 8px currentColor;
         animation: groove 2s ease-in-out infinite alternate;
       }
-      #sparkle-toggle:hover {
+      #sparkle-toggle.pazzaz {
+        box-shadow: 0 0 8px currentColor;
+      }
+      .pazzaz:hover {
+
         transform: scale(1.05) rotate(-2deg);
       }
       @keyframes groove {
