@@ -1,6 +1,3 @@
-
----
-
 ## On-Call Resources
 
 [On-Call Guide](on-call-guide.html)

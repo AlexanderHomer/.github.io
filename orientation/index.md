@@ -1,6 +1,3 @@
-
----
-
 # Orientation
 
 [Rules of the Game](rules-of-the-game.html)

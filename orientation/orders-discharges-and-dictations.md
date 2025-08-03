@@ -1,11 +1,9 @@
-
----
-
 ## Orders, Discharges, & Dictations
 
 ## **Day surgery**
 
 On doctor order sheet, put any meds they need IN PACU on the left, then on the right column write:
+
 
 
 1. Complete medication reconciliation under the Discharge->orders. Continue all home meds unless otherwise stated

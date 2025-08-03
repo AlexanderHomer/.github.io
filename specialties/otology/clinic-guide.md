@@ -1,7 +1,4 @@
 
----
-
-
 # Otology - Clinic Guide
 
 ## Sillman/Noonan Clinic

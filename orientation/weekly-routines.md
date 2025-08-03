@@ -1,6 +1,3 @@
-
----
-
 # Weekly Routines
 
 ## **Monday**:

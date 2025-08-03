@@ -1,6 +1,3 @@
-
----
-
 ## Rules of the Game
 
 

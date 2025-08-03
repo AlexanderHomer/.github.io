@@ -1,6 +1,3 @@
-
----
-
 # Calls
 
 ## Post-tonsillectomy patients

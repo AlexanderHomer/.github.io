@@ -1,10 +1,8 @@
 
-------
-
-
 # Facial Trauma Guide
 
 ## General Guidelines
+
 
  1. Not all traumas need to be seen by ENT service when resident is not in house
  2. On call resident must be called for all fractures as per previous ED practice
@@ -25,12 +23,14 @@
 | Thur | Friday or beginning of following week |
 | Fri–Sun | Beginning of following week |
 
-\* Exception is operative nasal bone fractures, which should be seen earlier so that they may be seen in clinic and taken to OR in appropriate time. 
+\* Exception is operative nasal bone fractures, which should be seen earlier so that they may be seen in clinic and taken to OR in appropriate time.
+
 * Adult – arrange clinic follow up in 2-3 days, plan for OR in 7-10 days
 * Pediatric – clinic follow up ASAP, plan for OR in 4-6 days
 
 
 ## Category 1: Facial fractures that do not require evaluation in the ED
+
 
 1. Nasal bone fracture w/o concern for septal hematoma
 2. Maxillary sinus fractures
@@ -47,6 +47,7 @@ Isolated anterior nasal spine
 
 
 ## Category 2: Facial fractures requiring evaluation in the ED
+
 
 1. Nasal bone fracture with concern for septal hematoma
 2. Orbital floor fracture with abnormal Ophthalmologic exam or subjective visual complaints
@@ -81,7 +82,7 @@ Isolated anterior nasal spine
 **In general:** Locking plates: preferred because they are less likely to bring segments of bone towards the plate when screwing
 
 
-![Mandible Fracture Subtypes](../media/image2.png "Mandible Fractures and Their management")
+ ![Mandible Fracture Subtypes](../media/image2.png "Mandible Fractures and Their management")
 
 
 #### Mandible Fracture Plates

@@ -44,7 +44,6 @@
 ## Physical Exam for Vertigo
 
 
-
 1. Test hearing with tuning forks
 2. Test cranial nerves
 3. **Nystagmus**: *named in direction of fast phase*
@@ -100,7 +99,6 @@
 ## Other Tests
 
 
-
 1. **vHIT**: like head impulse test
 2. **Computer Dynamic Posturography**: expensive proprioception test
 
@@ -149,8 +147,8 @@
     * Repeat until nystagmus gone
   * Semont
     * Keep head elevated 48h
-  * Patients with migraines and motion refractory take longer to recover. 
-    * __F/u in 4-6 weeks__. 
+  * Patients with migraines and motion refractory take longer to recover.
+    * __F/u in 4-6 weeks__.
     * If refractory, send to neurology to r/o migraines and get MRI to r/o retrocochlear pathology.
   * Surgery: posterior SCC occlusion, neuroectomy (historic)
 

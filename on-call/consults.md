@@ -1,6 +1,3 @@
-
----
-
 # Consults
 
 ## Epistaxis
@@ -96,11 +93,12 @@
 ## Orbital Cellulitis
 
 
+
 1. **Preseptal vs Orbital Cellulitis:**
 
    
    1. Orbital cellulitis is likely to have chemosis, pain with EOMI, restricted eye movement
-2. **When to drain a subperiosteal abscess?** 
+2. **When to drain a subperiosteal abscess?**
 
    
    1. If the abscess volume is <1250mm3 can avoid OR (measure abscess in 3 dimensions WxDxL in mm)
@@ -136,7 +134,7 @@
 ## Pediatric Stridor
 
 * Scope with nursing and bag mask equipment available. Always ask the NICU RN before you even touch a kid in the NICU
-*  When you scope, scope around the nasal cannula, don’t remove it
+* When you scope, scope around the nasal cannula, don’t remove it
 * No reflux medications in NICU babies unless the attending clears it (causes NEC)
 * DDX:
 

@@ -1,6 +1,3 @@
-
----
-
 # DAILY ROUTINE
 
 ## Things to Do Before Rounds

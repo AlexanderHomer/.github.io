@@ -1,6 +1,3 @@
-
----
-
 # Templates/Protocols
 
 Click to access (electronic version):
