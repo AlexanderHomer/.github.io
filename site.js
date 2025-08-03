@@ -46,6 +46,25 @@ function initCollapsibleHeadings() {
   }
 }
 
+function applySparkleEffect() {
+  const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+  headings.forEach((heading) => {
+    const color = getComputedStyle(heading).color;
+    heading.querySelectorAll("strong, b").forEach((el) => {
+      el.classList.add("sparkle");
+      el.style.setProperty("--sparkle-color", color);
+    });
+    let el = heading.nextElementSibling;
+    while (el && !el.tagName.match(/^H[1-6]$/)) {
+      el.querySelectorAll("strong, b").forEach((bold) => {
+        bold.classList.add("sparkle");
+        bold.style.setProperty("--sparkle-color", color);
+      });
+      el = el.nextElementSibling;
+    }
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const header = document.querySelector("header");
   if (header) {
@@ -62,6 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   initCollapsibleHeadings();
+  applySparkleEffect();
 
   const collapseToggle = document.getElementById("collapse-toggle");
   if (collapseToggle) {
