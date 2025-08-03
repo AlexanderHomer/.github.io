@@ -44,10 +44,25 @@ title: Home
 
 [Otology](otology/index.html)
 
-* [Clinic Guide](otology/clinic-guide.html)
-* [Neuro-otology Imaging](otology/neuro-otology-imaging.html)
-* [Otitis](otology/otitis.html)
-* [OR Guide](otology/or-guide.html)
+- [Clinic Guide](otology/clinic-guide.html)
+
+- [Facial Nerve](otology/facial-nerve.html)
+
+- [Neuro-otology Imaging](otology/neuro-otology-imaging.html)
+
+- [Otitis](otology/otitis.html)
+
+- [OR Guide](otology/or-guide.html)
+
+- [Otosclerosis](otology/otosclerosis.html)
+
+- [Temporal Bone Lab](otology/temporal-bone-lab.html)
+
+- [The Cranial Nerves](otology/the-cranial-nerves.html)
+
+- [Tinnitus](otology/tinnitus.html)
+
+- [Vertigo](otology/vertigo.html)
 
 [Facial Plastics](facial-plastics.html)
 
