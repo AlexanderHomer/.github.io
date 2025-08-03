@@ -1,7 +1,8 @@
+
 ---
-layout: default
+
+## layout: default
 title: Home
----
 
 # [Orientation](/orientation/index.html)
 
@@ -67,11 +68,9 @@ title: Home
 
 [Pediatric Otolaryngology](pediatric-otolaryngology/index.html)
 
-- [Clinic Guide](pediatric-otolaryngology/clinic-guide.html)
-
-- [Neck Masses](pediatric-otolaryngology/neck-masses.html)
-
-- [OR Guide](pediatric-otolaryngology/or-guide.html)
+* [Clinic Guide](pediatric-otolaryngology/clinic-guide.html)
+* [Neck Masses](pediatric-otolaryngology/neck-masses.html)
+* [OR Guide](pediatric-otolaryngology/or-guide.html)
 
 [Rhinology](rhinology.html)
 
@@ -79,17 +78,12 @@ title: Home
 
 [Head and Neck Surgery](head-and-neck-surgery/index.html)
 
-- [Clinic Guide](head-and-neck-surgery/clinic-guide.html)
-
-- [Squamous Cell Carcinoma](head-and-neck-surgery/squamous-cell-carcinoma.html)
-
-- [Post-H&N Cancer Follow-up Guide](head-and-neck-surgery/follow-up-guide.html)
-
-- [OR Guide](head-and-neck-surgery/or-guide.html)
-
-- [Post-op Guide](head-and-neck-surgery/post-op-guide.html)
-
-- [Staging - 8th Edition](head-and-neck-surgery/staging-8th-edition.html)
+* [Clinic Guide](head-and-neck-surgery/clinic-guide.html)
+* [Squamous Cell Carcinoma](head-and-neck-surgery/squamous-cell-carcinoma.html)
+* [Post-H&N Cancer Follow-up Guide](head-and-neck-surgery/follow-up-guide.html)
+* [OR Guide](head-and-neck-surgery/or-guide.html)
+* [Post-op Guide](head-and-neck-surgery/post-op-guide.html)
+* [Staging - 8th Edition](head-and-neck-surgery/staging-8th-edition.html)
 
 # Resources
 
@@ -143,4 +137,4 @@ To edit this website - talk to me (Alex)
 
 To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
-![Tufts Oto-HNS Pocket Guide](media/image1.png)
+ ![Tufts Oto-HNS Pocket Guide](media/image1.png "right-50")
