@@ -6,8 +6,6 @@
 * Paging URL:<http://neamcomweb.tufts-nemc.org/smartweb/pages/directory/PersonSearchResults.jsf>
 * Citrix Receiver: <https://access.well-net.org/Citrix/WellforceWeb/>
 
-  \
-
 ## Radiology
 
 * Access PACS from home Log on to the VPN and go to <http://radlink.tufts-nemc.org/>
