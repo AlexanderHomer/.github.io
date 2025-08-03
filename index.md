@@ -38,29 +38,29 @@
 
 [Otology](specialties/otology/index.html)
 
-* [Clinic Guide](specialties/otology/clinic-guide.html)
-* [Facial Nerve](specialties/otology/facial-nerve.html)
-* [Neuro-otology Imaging](specialties/otology/neuro-otology-imaging.html)
-* [Otitis](specialties/otology/otitis.html)
-* [OR Guide](specialties/otology/or-guide.html)
-* [Otosclerosis](specialties/otology/otosclerosis.html)
-* [Temporal Bone Lab](specialties/otology/temporal-bone-lab.html)
-* [The Cranial Nerves](specialties/otology/the-cranial-nerves.html)
-* [Tinnitus](specialties/otology/tinnitus.html)
-* [Vertigo](specialties/otology/vertigo.html)
+- [Clinic Guide](specialties/otology/clinic-guide.html)
+- [Facial Nerve](specialties/otology/facial-nerve.html)
+- [Neuro-otology Imaging](specialties/otology/neuro-otology-imaging.html)
+- [Otitis](specialties/otology/otitis.html)
+- [OR Guide](specialties/otology/or-guide.html)
+- [Otosclerosis](specialties/otology/otosclerosis.html)
+- [Temporal Bone Lab](specialties/otology/temporal-bone-lab.html)
+- [The Cranial Nerves](specialties/otology/the-cranial-nerves.html)
+- [Tinnitus](specialties/otology/tinnitus.html)
+- [Vertigo](specialties/otology/vertigo.html)
 
 [Facial Plastics](specialties/facial-plastics/index.html)
 
-* [Clinic Guide](specialties/facial-plastics/facial-plastics-clinic.html)
-* [OR Guide](specialties/facial-plastics/facial-plastics-OR.html)
-* [Local Rotational Flaps](specialties/facial-plastics/facial-plastics-local-rotational-flaps.html)
-* [Post-op Guide](specialties/facial-plastics/facial-plastics-postop.html)
+- [Clinic Guide](specialties/facial-plastics/facial-plastics-clinic.html)
+- [OR Guide](specialties/facial-plastics/facial-plastics-OR.html)
+- [Local Rotational Flaps](specialties/facial-plastics/facial-plastics-local-rotational-flaps.html)
+- [Post-op Guide](specialties/facial-plastics/facial-plastics-postop.html)
 
 [Pediatric Otolaryngology](specialties/pediatric-otolaryngology/index.html)
 
-* [Clinic Guide](specialties/pediatric-otolaryngology/clinic-guide.html)
-* [Neck Masses](specialties/pediatric-otolaryngology/neck-masses.html)
-* [OR Guide](specialties/pediatric-otolaryngology/or-guide.html)
+- [Clinic Guide](specialties/pediatric-otolaryngology/clinic-guide.html)
+- [Neck Masses](specialties/pediatric-otolaryngology/neck-masses.html)
+- [OR Guide](specialties/pediatric-otolaryngology/or-guide.html)
 
 [Rhinology](specialties/rhinology/rhinology.html)
 
@@ -68,12 +68,12 @@
 
 [Head and Neck Surgery](specialties/head-and-neck-surgery/head-and-neck-surgery/index.html)
 
-* [Clinic Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/clinic-guide.html)
-* [Squamous Cell Carcinoma](specialties/head-and-neck-surgery/head-and-neck-surgery/squamous-cell-carcinoma.html)
-* [Post-H&N Cancer Follow-up Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/follow-up-guide.html)
-* [OR Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/or-guide.html)
-* [Post-op Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/post-op-guide.html)
-* [Staging - 8th Edition](specialties/head-and-neck-surgery/head-and-neck-surgery/staging-8th-edition.html)
+- [Clinic Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/clinic-guide.html)
+- [Squamous Cell Carcinoma](specialties/head-and-neck-surgery/head-and-neck-surgery/squamous-cell-carcinoma.html)
+- [Post-H&N Cancer Follow-up Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/follow-up-guide.html)
+- [OR Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/or-guide.html)
+- [Post-op Guide](specialties/head-and-neck-surgery/head-and-neck-surgery/post-op-guide.html)
+- [Staging - 8th Edition](specialties/head-and-neck-surgery/head-and-neck-surgery/staging-8th-edition.html)
 
 ## Resources
 
@@ -100,10 +100,12 @@
 [Map of Tufts Medical Center](resources/map-of-tufts-medical-center.html)
 
 <!-- markdownlint-disable-next-line MD025 -->
+
 # Editors and Contributors
 
 <!-- markdownlint-disable-next-line MD033 -->
-<button id="sparkle-toggle">Enable sparkle</button>
+
+<button id="sparkle-toggle">✨ Enable sparkle ✨</button>
 
 **Jonathan C. Simmonds, M.D.**
 
@@ -131,5 +133,4 @@ To edit this website - talk to me (Alex)
 
 To edit the pocket guide – go to the g-drive folder “ENT Pocket guide”
 
- ![Tufts Oto-HNS Pocket Guide](media/image1.png "right-50")
-
+![Tufts Oto-HNS Pocket Guide](media/image1.png "right-50")
