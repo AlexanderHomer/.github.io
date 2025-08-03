@@ -120,7 +120,7 @@
  </br>
 <button id="sparkle-toggle">✨ Enable sparkle ✨</button>
 <!-- markdownlint-enable MD033 -->
-
+ </br>
 If you add to the pocket guide, feel free to add your name to the list above
 
 To edit this website - talk to me (Alex)
