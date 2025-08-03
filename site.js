@@ -46,6 +46,25 @@ function initCollapsibleHeadings() {
   }
 }
 
+function syncBoldTextColors() {
+  const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+  headings.forEach((heading) => {
+    const color = getComputedStyle(heading).color;
+    heading.querySelectorAll("strong, b").forEach((el) => {
+      el.style.color = color;
+    });
+    let el = heading.nextElementSibling;
+    while (el && !el.tagName.match(/^H[1-6]$/)) {
+      if (!el.closest("#contributors")) {
+        el.querySelectorAll("strong, b").forEach((bold) => {
+          bold.style.color = color;
+        });
+      }
+      el = el.nextElementSibling;
+    }
+  });
+}
+
 function applySparkleEffect() {
   const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
   headings.forEach((heading) => {
@@ -59,6 +78,10 @@ function applySparkleEffect() {
       el.querySelectorAll("strong, b").forEach((bold) => {
         bold.classList.add("sparkle");
         bold.style.setProperty("--sparkle-color", color);
+        if (bold.closest("#contributors")) {
+          bold.style.color = color;
+          bold.classList.add("pazzaz");
+        }
       });
       el = el.nextElementSibling;
     }
@@ -69,6 +92,12 @@ function removeSparkleEffect() {
   document.querySelectorAll(".sparkle").forEach((el) => {
     el.classList.remove("sparkle");
     el.style.removeProperty("--sparkle-color");
+    if (el.classList.contains("pazzaz")) {
+      el.classList.remove("pazzaz");
+      if (el.closest("#contributors")) {
+        el.style.removeProperty("color");
+      }
+    }
   });
 }
 
@@ -89,17 +118,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initCollapsibleHeadings();
 
+  syncBoldTextColors();
+
   let sparkleEnabled = false;
   const sparkleToggle = document.getElementById("sparkle-toggle");
   if (sparkleToggle) {
+    let prev = sparkleToggle.previousElementSibling;
+    while (prev && !prev.tagName.match(/^H[1-6]$/)) {
+      prev = prev.previousElementSibling;
+    }
+    if (prev) {
+      const color = getComputedStyle(prev).color;
+      sparkleToggle.style.color = color;
+    }
     sparkleToggle.addEventListener("click", () => {
       sparkleEnabled = !sparkleEnabled;
       if (sparkleEnabled) {
         applySparkleEffect();
-        sparkleToggle.textContent = "Disable sparkle";
+        sparkleToggle.textContent = "✨ Disable sparkle ✨";
+        sparkleToggle.classList.add("pazzaz");
       } else {
         removeSparkleEffect();
-        sparkleToggle.textContent = "Enable sparkle";
+        sparkleToggle.textContent = "✨ Enable sparkle ✨";
+        sparkleToggle.classList.remove("pazzaz");
       }
     });
   }
