@@ -49,7 +49,6 @@ PEDIATRIC NECK MASSES
 
 **First Branchial Cleft Cysts**:
 
-<<<<<<< HEAD
 * **Type 1:** 1 layer (ectoderm): Present as pre or post-auricular masses.
   * Runs along EAC. Lateral to CN7
 * **Type 2:** 2 layers (ectoderm + mesoderm). **More common.**
@@ -66,10 +65,7 @@ PEDIATRIC NECK MASSES
 
 
 **Third Branchial Cleft**:
-
 * Deep to CN9 (3rd arch). Superficial to CN10. Ends in piriform
-
-  \
 
 **Fourth Branchial Cleft**:
 
@@ -79,12 +75,6 @@ PEDIATRIC NECK MASSES
 **Treatment of 3rd & 4th Branchial Cleft Cysts**
 
 * **Endoscopic Cauterization of Piriform Sinus Tract:** Success rates similar to open technique. Occasionally needs 2 or 3 treatments
-=======
-* Type 1: 1 layer (ectoderm): Present as pre or post-auricular masses. Runs along EAC. Lateral to CN7
-* ![Branchial cleft cyst types](../../media/image16.png) Type 2: 2 layers (ectoderm + mesoderm) ← More common
->>>>>>> 0c9c006ca87872221882bf753584938b78e15d0a
-
-  
   1. Especially good for patients who are revisions or have had multiple infections (lots of scarring in neck)
   2. Use a 5 Fr Bugbee dome-tipped electrode. Use a setting of 8 on the Valleylab electrosurgical unit. Can throw a simple interrupted with a 6-0 or 7-0 polyglactin suture (Endoscopic electrocauterization of pyriform fossa sinus tracts as definitive treatment, EY Chen et al IJPORL 2009)
 
@@ -139,8 +129,6 @@ Suppurative lymphadenopathy: **Staph** and **Group A strep** are MCC. Cover for 
   * Involution: 50% regress by 5 years, 70% by 7years
 * **Diagnosis:** MRI - high intensity T2, flow voids
   * If in beard distribution CNV: think PHACES (posterior fossa, hemangiomas, aorta/cardiac, seye, sternal pits) more common in females
-
-    
     1. Get **cardiac u/s & Head MRI to r/o posterior cranial fossa abnormalities.** Possible risk of subglottic hemangiomas **(do DLB if any respiratory symptoms)**
 * **Treatment:**
   * **Propanolol:** during proliferative phase (aka under 1yo)
@@ -179,8 +167,6 @@ Suppurative lymphadenopathy: **Staph** and **Group A strep** are MCC. Cover for 
 * Can cause **consumption coagulopathy.** 
 * Imaging shows **calcifications (phleboliths)** because of low flow. 
 * **Tx:** Sclerotherapy
-
-  \
 
 ### **Lymphatic Malformations**
 
