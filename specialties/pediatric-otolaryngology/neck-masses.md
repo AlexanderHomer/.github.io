@@ -32,7 +32,11 @@ PEDIATRIC NECK MASSES
 
 **Thymic cysts**:
 
+<<<<<<< HEAD
  ![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png)
+=======
+* ![Type I Lateral to CN7. parallel to EAC Type 2 Medial or Lateral to CN7. More common. Ends in EAC](../../media/image15.png) always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst). Get serial calcium and eval for Consider DiGeorge Syndrome
+>>>>>>> 0c9c006ca87872221882bf753584938b78e15d0a
 
 * always on the left side and are cysts. Consider if patient has a macrocystic lymphatic malformation but no loculations (LVMs are multiple cysts, Thymic cysts are a single cyst).
   * **Get serial calcium** and eval for **DiGeorge Syndrome**
@@ -51,6 +55,7 @@ PEDIATRIC NECK MASSES
 
 **First Branchial Cleft Cysts**:
 
+<<<<<<< HEAD
 * **Type 1:** 1 layer (ectoderm): Present as pre or post-auricular masses.
   * Runs along EAC. Lateral to CN7
 * **Type 2:** 2 layers (ectoderm + mesoderm). **More common.**
@@ -80,6 +85,10 @@ PEDIATRIC NECK MASSES
 **Treatment of 3rd & 4th Branchial Cleft Cysts**
 
 * **Endoscopic Cauterization of Piriform Sinus Tract:** Success rates similar to open technique. Occasionally needs 2 or 3 treatments
+=======
+* Type 1: 1 layer (ectoderm): Present as pre or post-auricular masses. Runs along EAC. Lateral to CN7
+* ![Branchial cleft cyst types](../../media/image16.png) Type 2: 2 layers (ectoderm + mesoderm) ← More common
+>>>>>>> 0c9c006ca87872221882bf753584938b78e15d0a
 
   
   1. Especially good for patients who are revisions or have had multiple infections (lots of scarring in neck)
