@@ -4,12 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" href="{{ '/media/site-logo.png' | relative_url }}" type="image/png" />
+    <link rel="icon" href="{{ '/media/site-logo.png' | relative_url }}"
+      type="image/png" />
     <title>{{ page.title }}</title>
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
-    />
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css" />
     <style>
       body {
         margin: 0;
@@ -120,13 +120,13 @@
         0%,
         100% {
           text-shadow:
-            0 0 1px var(--sparkle-color),
-            0 0 2px var(--sparkle-color);
+            0 0 0px var(--sparkle-color),
+            0 0 1px var(--sparkle-color);
         }
         50% {
           text-shadow:
-            0 0 4px var(--sparkle-color),
-            0 0 8px var(--sparkle-color);
+            0 0 2px var(--sparkle-color),
+            0 0 4px var(--sparkle-color);
         }
       }
       @media (max-width: 600px) {
@@ -193,9 +193,8 @@
     <article id="content" class="markdown-body">{{ content }}</article>
     <div id="bottom-bar">
       <button id="back-button" title="Back">&#8592;</button>
-      <a id="home-button" title="Home" href="{{ '/' | relative_url }}"
-        >&#8962;</a
-      >
+      <a id="home-button" title="Home"
+        href="{{ '/' | relative_url }}">&#8962;</a>
       <input type="search" id="search-input" placeholder="Search..." />
       <button id="collapse-toggle" title="Collapse all">&#8722;</button>
     </div>
@@ -204,8 +203,7 @@
         <input
           type="search"
           id="search-overlay-input"
-          placeholder="Search..."
-        />
+          placeholder="Search..." />
         <button id="search-close" title="Close">&times;</button>
       </div>
       <div id="search-overlay-results"></div>
