@@ -137,8 +137,7 @@ or both.
    3. Double density sign on CT sinus
    4. Eosinophilic mucus w/o fungal invasion
    5. Positive fungal stain of sinus content
-2. \
-3. **Tx:** oral/nasal steroids. Surgical debridement
+2. **Tx:** oral/nasal steroids. Surgical debridement
 
 ## Invasive Fungal Sinusitis
 
@@ -224,8 +223,6 @@ or both.
 ## Zenkers Diverticulum
 
 * Presents w/ dysphagia and regurgitation of indigested food
-
-
 * **Pulsion** diverticulum at Killians Triangle (between cricopharyngeus and inferior constrictor).
 * Occurs on left side 90% of time
 
@@ -244,10 +241,10 @@ or both.
 
 ## Otolaryngologic Manifestations of Autoimmune Diseases
 
-* **W.A.S.: Autoimmune** laryngeal manifestations →
-  * Wegener’s=supraglottic.
+* **W.A.S.:** Autoimmune laryngeal manifestations →
+  * Wegener’s = supraglottic.
   * Amyloid = Glottic.
-  * Sarcoidosis= Subglottic
+  * Sarcoidosis = Subglottic
 * **Wegener’s (Granulomatosis with Polyangiitis GPA):**
   * MC H&N symptom recurrent sinusitis.
   * Also associated w/ septal perforation, chronic otitis, subglottic stenosis.
