@@ -9,6 +9,7 @@
 
 
 
+
 1. **Dx:** nasal congestion, rhinorrhea, itchy nose or sneezing with an allergic etiology
 2. **Workup:** can treat empirically but if no response or if you want to target therapy get allergy testing (aka: pretty much always get allergy testing)
 
@@ -50,6 +51,7 @@
       3. More likely to cause GI upset
 
 ### **Allergy testing**:
+
 
 
 
@@ -124,9 +126,7 @@ or both.
 
 ## Allergic Fungal Rhinosinusitis
 
-
-
-
+ ![Mycetoma (Fungal Ball): typically aspergillus (Y-shaped 45 degree septated hyphae) in one sinus treated with surgery](../../media/image24.png)
 
 
 1. **Major Criteria (Bent & Kuhn)**
@@ -137,12 +137,10 @@ or both.
    3. Double density sign on CT sinus
    4. Eosinophilic mucus w/o fungal invasion
    5. Positive fungal stain of sinus content
-2.  ![Mycetoma (Fungal Ball): typically aspergillus (Y-shaped 45 degree septated hyphae) in one sinus treated with surgery](../../media/image24.png)
+2. \
 3. **Tx:** oral/nasal steroids. Surgical debridement
 
 ## Invasive Fungal Sinusitis
-
-
 
 
 
@@ -165,16 +163,12 @@ or both.
 ## Inverted Papilloma
 
 
-
-
 1. Caused by HPV 6/11.
 2. Have **Schneiderian mucosa** on path report
 3. Tend to be unilateral + vascular. Occur on lateral nasal wall. Require Medial Maxillectomy. Freq involve middle turbinate
 4. 10% risk of becoming **SCCA**
 
 ## Other Nasal Mass Vignettes
-
-
 
 
 1. Bluish mass behind middle turbinate in adolescent male w/ hx of epistaxis→ **Juvenile Nasopharyngeal Angiofibroma**
@@ -187,7 +181,6 @@ or both.
 ## Epistaxis
 
 ### **Anatomy**
-
 
 
 1. **Anterior bleeds:** 1) int carotid -> ophthalmic -> ant. ethmoid 2) ext carotid -> facial -> superior labial 3) ext carotid -> int max -> greater palatine 4) ext carotid -> int max -> sphenopalatine
@@ -209,34 +202,34 @@ or both.
   * 30+4 criteria: drop in 30% of baseline nasal air pressure + 4% O2 desat (for >10 secs)
   * 30+3/arousal criteria: drop in 30% of baseline + 3% O2 desat **or** an arousal (>10secs)
 * **AHI**: Apnea+hypopnea per hour.
-  * AHI > 5 = OSA. 
-  * >15 = moderate. 
-  * >30 = severe
+  * AHI > 5 = OSA.
+  * 15+ = moderate.
+  * 30+ = severe
 * **RERA**: Arousal preceded by inc. respiratory effort (for >10sec)
 * **RDI**: Apnea+hypopnea+RERA/hour
-* **Central Apnea:** cessation of respiratory effort during apnea. 
-  * >5 central apneas/hour = primary central sleep apnea.
+* **Central Apnea:** cessation of respiratory effort during apnea.
+  * 5+ central apneas/hour = primary central sleep apnea.
 
 ### Evaluation
 
 * Perform fiberoptic scope w/ exam to determine site of collapse:
   * **Nose:** septum, turbinates, nasal valve → improves CPAP compliance, doesn’t affect AHI
   * **Nasopharynx:** Adenoids?
-  * **Velopharynx:** do **Mullers maneuver**: attempt to breathing in with mouth/nose closed. 
+  * **Velopharynx:** do **Mullers maneuver**: attempt to breathing in with mouth/nose closed.
     * **If >50% collapse**→ retropalatal/retrolingual collapse (velopharynx)
     * Can address with uvulopalatopharyngoplasty (UPPP) or lateral pharyngoplasty (but this can make air leak w/ CPAP worse). Midface/Mandibular advancement for severe cases
   * **Oral Cavity:** tonsillar hypertrophy
   * **OP/Hypopharyngeal:** lingual tonsillectomy, genioglossal advancement, hyoid suspension, INSPIRE placement
 
-### Zenkers Diverticulum
+## Zenkers Diverticulum
 
 * Presents w/ dysphagia and regurgitation of indigested food
 
 
-* **Pulsion** diverticulum at Killians Triangle (between cricopharyngeus and inferior constrictor). 
+* **Pulsion** diverticulum at Killians Triangle (between cricopharyngeus and inferior constrictor).
 * Occurs on left side 90% of time
 
-### Nasal Cavity/Sinus Cancer
+## Nasal Cavity/Sinus Cancer
 
 * **Ask:** about exposure to heavy metals and job (woodworkers inc. rate of SCCA (if soft wood work) and Adenocarcinoma (if hard wood))
 * **Types**:
@@ -244,27 +237,27 @@ or both.
   * Adenocarcinoma (in wood/leather workers)
   * Adenoid Cystic (slow groeth)
   * Melanoma (bad)
-  * Esthesioneuroblastoma (teens and elderly) 
-  * Rhabdomyosarcoma (pleomorphic MC in adults). 
-  * Chordoma (from clivus/skull base) or chondro/osteosarcomas: bad. 
+  * Esthesioneuroblastoma (teens and elderly)
+  * Rhabdomyosarcoma (pleomorphic MC in adults).
+  * Chordoma (from clivus/skull base) or chondro/osteosarcomas: bad.
   * Juvenile Nasopharyngeal Angiofibroma (bluish mass at post. aspect of middle turbinate. Consider preop embolization, hormonal therapy)
 
-### Otolaryngologic Manifestations of Autoimmune Diseases
+## Otolaryngologic Manifestations of Autoimmune Diseases
 
-* **W.A.S.: Autoimmune** laryngeal manifestations → 
-  * Wegener’s=supraglottic. 
-  * Amyloid = Glottic. 
+* **W.A.S.: Autoimmune** laryngeal manifestations →
+  * Wegener’s=supraglottic.
+  * Amyloid = Glottic.
   * Sarcoidosis= Subglottic
-* **Wegener’s (Granulomatosis with Polyangiitis GPA):** 
-  * MC H&N symptom recurrent sinusitis. 
-  * Also associated w/ septal perforation, chronic otitis, subglottic stenosis. 
+* **Wegener’s (Granulomatosis with Polyangiitis GPA):**
+  * MC H&N symptom recurrent sinusitis.
+  * Also associated w/ septal perforation, chronic otitis, subglottic stenosis.
   * **Order c-ANCA**
-* **Amyloidosis**: 
-  * causes macroglossia, deposits on TVF. 
+* **Amyloidosis**:
+  * causes macroglossia, deposits on TVF.
   * **Requires biopsy for diagnosis**
-* **Sarcoidosis**: 
-  * can cause **supraglottic mass** (epiglottis) w/ TVF immobility. 
-  * Also risk of FN palsy (w/ uveitis and parotitis = Heerfordt’s disease) 
+* **Sarcoidosis**:
+  * can cause **supraglottic mass** (epiglottis) w/ TVF immobility.
+  * Also risk of FN palsy (w/ uveitis and parotitis = Heerfordt’s disease)
   * **Order ACE levels**
 
 
