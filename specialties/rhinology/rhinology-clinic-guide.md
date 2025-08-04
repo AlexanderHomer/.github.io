@@ -5,11 +5,6 @@
 ### Allergic Rhinitis – Clinical Practice Guideline
 
 
-
-
-
-
-
 1. **Dx:** nasal congestion, rhinorrhea, itchy nose or sneezing with an allergic etiology
 2. **Workup:** can treat empirically but if no response or if you want to target therapy get allergy testing (aka: pretty much always get allergy testing)
 
@@ -53,11 +48,6 @@
 ### **Allergy testing**:
 
 
-
-
-
-
-
 1. **Skin testing:** contraindicated in eczema, uncontrolled asthma, cardiovascular disease or on beta-blockers (Can do blood tests on these patients instead).
 
    
@@ -76,36 +66,28 @@
 * **Fall** — Ragweed → bananas, melon
 * **Nighttime** — dust mites
 * **Cross-reactive oral allergens**:
-* Peach → 55% of apple, plum, pear
-* Cantaloupe → 92% avocado, banana, kiwi
-* Latex → 30-50% avocado, banana, kiwi
-* Pediatric Allergens
-* Most likely to resolve - Cow's Milk & Eggs
-* Least likely to resolve with age - Tree nuts, then peanuts)
+  * Peach → 55% of apple, plum, pear
+  * Cantaloupe → 92% avocado, banana, kiwi
+  * Latex → 30-50% avocado, banana, kiwi
+  * Pediatric Allergens
+  * Most likely to resolve - Cow's Milk & Eggs
+  * Least likely to resolve with age - Tree nuts, then peanuts)
 
 ### Other causes of Rhinitis
 
-**Acid reflux**. MCC of rhinitis. Especially at night.
-
-**Rhinoscleroma:** nasal deformity 2/2 klebsiella
-
-**Rhinosporidososis**: strawberry friable nasal mass 2/2 rhinosporidium seebri
-
-**Nonallergic rhinitis w/ eosinophilia Syndrome (NARES):** associated w/ aspirin allergies.
-
-**Rhinitis of pregnancy**: avoid afrin. Consider turbinate reduction
-
-**Atrophic Rhinitis**: Includes empty nose syndrome.
-
-**Rhinitis Medicamentosa**: due to overuse of afrin
-
-**Vasomotor Rhinitis**: diagnosis of exclusion.
+* **Acid reflux**. MCC of rhinitis. Especially at night.
+* **Rhinoscleroma:** nasal deformity 2/2 klebsiella
+* **Rhinosporidososis**: strawberry friable nasal mass 2/2 rhinosporidium seebri
+* **Nonallergic rhinitis w/ eosinophilia Syndrome (NARES):** associated w/ aspirin allergies.
+* **Rhinitis of pregnancy**: avoid afrin. Consider turbinate reduction
+* **Atrophic Rhinitis**: Includes empty nose syndrome.
+* **Rhinitis Medicamentosa**: due to overuse of afrin
+* **Vasomotor Rhinitis**: diagnosis of exclusion.
 
 ## Sinusitis – Clinical Practice Guideline (*Italicized* = not part of guidelines)
 
-**ARS**: purulent nasal **drainage** accompanied by nasal **obstruction**, facial **pain**-pressure fullness,
+* **ARS**: purulent nasal **drainage** accompanied by nasal **obstruction**, facial **pain**-pressure fullness, or both.
 
-or both.
 
 * **Suspect Acute Bacterial Rhinosinusitis (ABRS) if symptoms >10days or get better then worse.**
   * If you see patients w/ symptoms <10days, this is likely viral: give Flonase, nasal saline, Tylenol/ibuprofen.
@@ -140,7 +122,6 @@ or both.
 2. **Tx:** oral/nasal steroids. Surgical debridement
 
 ## Invasive Fungal Sinusitis
-
 
 
 1. Seen in immunocompromised (diabetics, transplant pts, HIV+)
