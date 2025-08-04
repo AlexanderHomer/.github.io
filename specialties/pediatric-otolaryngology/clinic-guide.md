@@ -1,16 +1,14 @@
-## Pediatric Otolaryngology Clinic Guide
+# Pediatric Otolaryngology Clinic Guide
 
-#### New patient visit format
+### New patient visit format
 
 ___is a __-year-old patient born full term. No NICU admission, no intubation, passed NBHS. No prenatal, perinatal, or postnatal problems. The patient presents to clinic today with __.
 
-#### F/U visit format
+### F/U visit format
 
 _____ is a __-year-old patient who is followed by this clinic for __. He/She was last seen on ___, at that time ___ was noted and the plan for the patient was ___. Today, the patient returns. Since then ___.
 
-#### 
-
-#### NEED to ASK
+### NEED to ASK
 
 * Weight
 * Pregnancy
@@ -46,7 +44,7 @@ _____ is a __-year-old patient who is followed by this clinic for __. He/She was
 * Feeding
   * Family hx of ear disease; ankyloglossia (paternal);
 
-#### Pediatric ROS
+### Pediatric ROS
 
 **Ears: No** episodes of AOM. No otorrhea or otalgia. No concerns for hearing loss. No difficulty with balance. No history of speech delay.
 

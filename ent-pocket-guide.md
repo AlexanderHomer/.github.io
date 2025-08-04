@@ -417,6 +417,8 @@ Try and **improve every aspect of our program**. Everyone has to do their bit to
 ### Things to Do Before Rounds
 
 
+
+
 1. **Send Staff E-mail** (performed by on-call resident)
 
    
@@ -440,9 +442,11 @@ Try and **improve every aspect of our program**. Everyone has to do their bit to
 > -The last 3 JP outputs (q8hrs) should be written from oldest to newest (e.g. 25→15→5)
 
 
-4. Labs / Imaging / Cultures / Path
+4\. Labs / Imaging / Cultures / Path
 
 ### Things to Do After Rounds
+
+
 
 
 1. **Update List**
@@ -512,6 +516,8 @@ PGY-5 e-mails out weekly schedule.
 # Yearly Routines
 
 These are the things that we need to make sure happen.
+
+
 
 
 1. Temporal Bone Lab:
@@ -1112,6 +1118,8 @@ load bearing (big recon bars - needed for comminuted fractures and atrophic eden
 #### Mandible Fracture repair by site:
 
 
+
+
 1. Symphysis and parasymphysis: require two plates or one recon bar, MMF = 24G. Simple can be MMF alone
 2. Body: MMF or MMF w/ ORIF and 2 straight plates or a recon bar. Recon bar for edentulous fractures
 3. Angle: recommended two plates for ORIF with a champy plate to prevent pivoting of the tension band or MMF for simple fractures.
@@ -1159,6 +1167,8 @@ circummandibular wires. Can wire through the pyriform aperture.
 #### Audiogram Patterns
 
 
+
+
 1. **2kHz notch** (air-bone) otosclerosis
 2. **4kHz notch** (SNHL) - noise exposure
 3. **Cookie bite** – hereditary
@@ -1191,6 +1201,8 @@ Image to the right are common patterns (Red = absent. Green = present)
 **ECoG**: Basically measuring Wave I on a ABR. The big thing to know is **<u>>0.45 SP/AP</u>** is associated with **<u>Meniere's</u>**
 
 **ABR**: **<u>Wave V latency</u>** (>0.2ms) due to retrocochlear pathology
+
+
 
 
 1. Abnormal wave I-V and III-V latency = CHL
@@ -1284,6 +1296,8 @@ Pathology:
 #### History
 
 
+
+
 1. Time course of sensation
 
    
@@ -1320,6 +1334,8 @@ Pathology:
 #### Physical exam for Vertigo
 
 
+
+
 1. Test hearing with tuning forks
 2. Test cranial nerves
 3. Nystagmus: **nystagmus named in direction of fast phase**
@@ -1339,12 +1355,12 @@ Pathology:
 > Ask patient to close eyes then shake head (lateral rotation left and right) twice a second (2Hz) for 15-20 seconds. Ask them to open eyes. **Fast phase = towards lesion**
 
 
-3. **Head Impulse test/Head Trust**
+3\. **Head Impulse test/Head Trust**
 
 > Hold head and quickly rotate it toward one ear while patient fixates on your nose. If their eyes don't stay locked on you, patient has lesion on the side you rotate them towards
 
 
-4. **Oscillopsia test**: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
+4\. **Oscillopsia test**: a quick test to evaluate for bilateral vestibular loss: Have patient do a head shake test while reading a snellen chart. If visual acuity significantly different than at rest, suspect b/l vestibular dysfunction
 
 Additional testing
 
@@ -1383,6 +1399,8 @@ Additional testing
 * Increased threshold - middle ear pathology or ossicular chain abnormalities
 
 #### Other
+
+
 
 
 1. **vHIT**: basically a recorded head impulse test
@@ -1694,6 +1712,8 @@ Cutaneous Malignancies — see H&N section
 All views should be in the Frankfort horizontal plane: Infraorbital rim aligned with top of tragus
 
 
+
+
 1. **Frontal View:**
 
    
@@ -1759,12 +1779,13 @@ All views should be in the Frankfort horizontal plane: Infraorbital rim aligned 
 Image: Carruthers and Carruthers, *Soft Tissue Augmentation E-Book*.
 
 
-3. **Oblique view (left/right)**
+3\. **Oblique view (left/right)**
 
-   
-   1. Tip of nose is at malar eminence
-   2. Comment on brow-tip aesthetic line
-   3. Pseudohump: when middle vault is smaller than bony vault
+
+
+1. Tip of nose is at malar eminence
+2. Comment on brow-tip aesthetic line
+3. Pseudohump: when middle vault is smaller than bony vault
 4. **Base of nose/Basal view**
 
    
@@ -1790,6 +1811,8 @@ Image: Carruthers and Carruthers, *Soft Tissue Augmentation E-Book*.
 * Gonion → most posterior/inferior point of angle of mandible
 
 **Problems**:
+
+
 
 
  1. Narrow Nasal Valve
@@ -1848,6 +1871,8 @@ Image: Carruthers and Carruthers, *Soft Tissue Augmentation E-Book*.
 **Complications**
 
 
+
+
 1. Rocker deformity (early)
 
    
@@ -1874,6 +1899,8 @@ Image: Carruthers and Carruthers, *Soft Tissue Augmentation E-Book*.
    1. Collapse of nasal dorsum due to overresection of septum or failure to preserve L strut
 
 > **Approaches**
+
+
 
 
 1. Endonasal
@@ -2158,6 +2185,8 @@ Always use pneumatic otoscopy. Tympanometry if diagnosis is uncertain. Council p
 #### Tonsillitis
 
 
+
+
 1. Paradise criteria: tonsillectomy if:
 
    
@@ -2167,6 +2196,8 @@ Always use pneumatic otoscopy. Tympanometry if diagnosis is uncertain. Council p
 2. Tonsillitis causing febrile convulsions, PTAx2, PFAPA (Periodic fever adenitis pharyngitis aphthous ulcers)
 
 ### Pediatric Vocal Fold Paralysis
+
+
 
 
 1. Workup
@@ -2284,6 +2315,8 @@ E – Ear abnormalities (microtia, inner ear abnormalities)
 * 14-18 years: definitive orthognathic and rhinoplasty procedures
 
 #### Pierre Robin Sequence
+
+
 
 
 1. Work Up
@@ -2827,6 +2860,8 @@ POD#0-5: Make sure patient is on zosyn. Check for pressure necrosis (occiput, he
 #### Allergic Rhinitis – Clinical Practice Guideline
 
 
+
+
 1. Dx: nasal congestion, rhinorrhea, itchy nose or sneezing with an allergic etiology
 2. Workup: can treat empirically but if no response or if you want to target therapy get allergy testing (aka: pretty much always get allergy testing)
 
@@ -2865,6 +2900,8 @@ POD#0-5: Make sure patient is on zosyn. Check for pressure necrosis (occiput, he
       3. More likely to cause GI upset
 
 > **Allergy testing**:
+
+
 
 
 1. <u>Skin testing</u>: contraindicated in eczema, uncontrolled asthma, cardiovascular disease or on beta-blockers (Can do blood tests on these patients instead). **Patients should stop antihistamines 48-72hrs prior**
@@ -2935,6 +2972,8 @@ Tx: Flonase and/or saline. Some evidence that macrolides or budesonide rinses ma
 #### Allergic Fungal Rhinosinusitis
 
 
+
+
 1. Major Criteria (Bent & Kuhn)
 
    
@@ -2947,6 +2986,8 @@ Tx: Flonase and/or saline. Some evidence that macrolides or budesonide rinses ma
 3. Tx: oral/nasal steroids. Surgical debridement
 
 #### Invasive Fungal Sinusitis
+
+
 
 
 1. Seen in immunocompromised (diabetics, transplant pts, HIV+)
@@ -2970,11 +3011,15 @@ Medical Tx : aggressive allergy mgmt\*\*, flonase\*\* +/- rhinocort aqua (Budeso
 ### Inverted Papilloma
 
 
+
+
 1. Caused by HPV 6/11. Have Schneiderian mucosa on path report
 2. Tend to be unilateral + vascular. Occur on lateral nasal wall. Require Medial Maxillectomy. Freq involve middle turbinate
 3. 10% risk of becoming SCCA
 
 ### Other Nasal Mass Vignettes
+
+
 
 
 1. Bluish mass behind middle turbinate in adolescent male w/ hx of epistaxis→ Juvenile Nasopharyngeal Angiofibroma
@@ -2987,6 +3032,8 @@ Medical Tx : aggressive allergy mgmt\*\*, flonase\*\* +/- rhinocort aqua (Budeso
 ### Epistaxis
 
 **Anatomy**
+
+
 
 
 1. Anterior bleeds : 1) int carotid -> ophthalmic -> ant. ethmoid 2) ext carotid -> facial -> superior labial 3) ext carotid -> int max -> greater palatine 4) ext carotid -> int max -> sphenopalatine
@@ -3231,6 +3278,8 @@ Don’t prescribe reflux for symptoms alone, must have FOE showing reflux relate
 ### Dr. O’Leary’s Clinic
 
 
+
+
 1. Correct the chief compliant. Put type/site of cancer TNM stage and treatment (with date) at the beginning of every note (T2N1M0 HPV+ left base of tongue SCCa s/p concomitant chemoradiation with weekly cisplatin completed on 10/13/2018.)
 2. Use Dr O’Leary’s New patient or Follow up visit templates
 3. ALWAYS CC op-note to primary care physician, other care providers (rad onc, med onc) and referring physician’
@@ -3278,12 +3327,16 @@ Oral B12 melts (made by same company as Xylimelts)
 ### Inspire Consults
 
 
+
+
 1. Check diagnosis of sleep apnea: AHI, (must be btw 15-65 w/ <25% central apneas) date of sleep study (should be in last 3 years). Ask previous nasal, palate, tonsil surgeries. Still having daytime fatigue. Check social hx: work history/driving problems. Ask about heart failure/afib
 2. Patients must be >21yo. BMI<32
 3. Check CPAP usage: <4 hours/<5days tolerated and reasons for poor tolerance (claustrophobia etc).
 4. Contraindications: Pts w/ neuromuscular disorders or those who can’t operate the remote at night. Pregnant pts. Pts w/ complete concentric collapse of the soft palate of sleep endoscopy
 
 ### Thyroid Nodules
+
+
 
 
 1. Nodules incidentally found on imaging
@@ -3324,11 +3377,12 @@ Oral B12 melts (made by same company as Xylimelts)
 #### Bethesda system - Interpreting Results
 
 
-4. Malignant (99% risk) & suspicious for malignancy (70% risk)
+4\. Malignant (99% risk) & suspicious for malignancy (70% risk)
 
-   
-   1. Go to Surgery
-5. Indeterminate cytology - Two types
+
+
+1. Go to Surgery
+2. Indeterminate cytology - Two types
 
    
    1. Follicular neoplasm or suspicious for follicular neoplasm or Hurthle Cell (25% risk of malignancy)
@@ -3336,29 +3390,30 @@ Oral B12 melts (made by same company as Xylimelts)
    2. FLUS (follicular lesion of unknown significance) or Atypia of undetermined significance — 14% risk
       * Can observe or excise.  Affirma test can help you rule out malignancy
    3. Surgery: if excision is planned - do a lobectomy unless there are reasons in the history that make us more suspicious for malignancy
-6. Nondiagnostic—(around 1-4% risk):
+3. Nondiagnostic—(around 1-4% risk):
 
    
    1. repeat U/S guided FNA. Most people wait \~3months but should repeat sooner if there are concerning U/S findings
    2. Can excise if suspicious u/s findings or if its growth >20% in 2 directions
-7. Benign — 2.5% risk
+4. Benign — 2.5% risk
 
    
    1. Follow up these patients
       * Suspicious U/S features: repeat U/S & FNA within 12 months
       * Otherwise repeat U/S in 12-24months and FNA if (a) growth >20% in 2 directions or (b) nodule develops suspicious features
-8. You can stop following any nodule that's had two benign cytology results. Its benign, get over it
+5. You can stop following any nodule that's had two benign cytology results. Its benign, get over it
 
 <!-- -->
 
 
-5. Follow Up
+5\. Follow Up
 
-   
-   1. Nodules that met criteria for FNA but were benign: see above
-   2. Nodules that did not meet criteria for FNA
-   3. repeat U/S in 12-24months (you don't need to follow spongiform or purely cyst nodules)
-   4. Nodules that are >4cm or cause compressive symptoms can be surgically removed
+
+
+1. Nodules that met criteria for FNA but were benign: see above
+2. Nodules that did not meet criteria for FNA
+3. repeat U/S in 12-24months (you don't need to follow spongiform or purely cyst nodules)
+4. Nodules that are >4cm or cause compressive symptoms can be surgically removed
 
 #### Improving Voice Outcomes after Thyroid Surgery – Clinical Practice Guideline
 
@@ -3478,12 +3533,13 @@ Survival: T1 95%, T2 80-95%, T3:40-85%. T4:10-30%
 > T3+ (>2mm): do 2cm
 
 
-2. T2/T3/T4
+2\. T2/T3/T4
 
-   
-   1. Adjuvant: may consider interferon alpha 2b (Stage III+)
-   2. N0 neck: consider sentinel LN biopsy (SLNB). Especially if
-      * <60 yo especially for tumors w/o ulceration, Ulceration, High mitotic rate, Angiolymphatic invasion, Clark level IV
+
+
+1. Adjuvant: may consider interferon alpha 2b (Stage III+)
+2. N0 neck: consider sentinel LN biopsy (SLNB). Especially if
+   * <60 yo especially for tumors w/o ulceration, Ulceration, High mitotic rate, Angiolymphatic invasion, Clark level IV
 3. N1-N3: Neck dissection
 
    
@@ -3587,6 +3643,8 @@ T3-T4: typically treated with radiation
 #### Premalignant Glottic Lesions
 
 
+
+
 1. Hyperplasia/Hyperkeratosis - <u>not a risk for malignancy</u>
 2. Dysplasia
 
@@ -3599,6 +3657,8 @@ T3-T4: typically treated with radiation
    1. Microflap excision: Dissects superficial lamina propria and <u>spares vocal ligament</u>
 
 #### Hypopharyngeal CA
+
+
 
 
 1. Hypopharynx: Level of hyoid bone to the cricopharyngeus behind the larynx
@@ -3628,6 +3688,8 @@ T3-T4: typically treated with radiation
    4. For these, need reconstruction with tension-free closure.
 
 #### LARYNGEAL
+
+
 
 
 1. Sites
@@ -3728,6 +3790,8 @@ Once you found the thyroid then you want to work the sternothyroid off the thyro
 This is the part to pay attention to: developing the superior pole is the one of three or four critical steps. You should not look for the superior laryngeal nerve necessarily but you should be cognizant of the cricothyroid muscle.
 
 Once you have freed the superior pole you can develop the middle a little bit more but don’t get too deep/posterior. This is when you have to check to see where your current laryngeal nerve is remember the different landmarks.
+
+
 
 
 1. Located in simon's triangle: trachea, carotid, and inferior lobe.
@@ -3963,6 +4027,8 @@ High output >500cc/day: typically need to go to OR.
 ## Head & Neck Staging - 8<sup>th</sup> Edition
 
 
+
+
 1. AJCC 8th Edition Staging
 2. GENERAL THEMES: For Oral Cavity, Oropharynx, Hypopharynx, Salivary Gland, Thyroid CA (in general)
 
@@ -3973,7 +4039,7 @@ High output >500cc/day: typically need to go to OR.
 > T3— 4+cm
 
 
-2. In general, for Laryngeal Cancer
+2\. In general, for Laryngeal Cancer
 
 > T1 - same subsite
 >
@@ -3984,7 +4050,7 @@ High output >500cc/day: typically need to go to OR.
 > T4 - extends past borders of larynx
 
 
-3. For oral cavity, p16 negative OP, larynx, salivary gland
+3\. For oral cavity, p16 negative OP, larynx, salivary gland
 
 <table>
 <colgroup>
@@ -4019,7 +4085,7 @@ High output >500cc/day: typically need to go to OR.
 </table>
 
 
-4. For Nasopharyngeal and P16 positive
+4\. For Nasopharyngeal and P16 positive
 
 <table>
 <colgroup>
@@ -4050,7 +4116,7 @@ High output >500cc/day: typically need to go to OR.
 </table>
 
 
-5. Tumor Staging
+5\. Tumor Staging
 
 Head & Neck Cancer Staging (for most cancers)
 
@@ -4328,6 +4394,8 @@ HPV Negative
 > Supraglottic subsites:
 
 
+
+
 1. Suprahyoid epiglottis
 2. Infrahyoid epiglottis
 3. Aryepiglottic folds (laryngeal aspect)
@@ -4528,12 +4596,13 @@ Glottic Stage and VF movement
 
 
 
-4. Hypopharynx subsites
+4\. Hypopharynx subsites
 
-   
-   1. Pyriform sinuses
-   2. Lateral/posterior hypopharyngeal wall
-   3. Post-cricoid region
+
+
+1. Pyriform sinuses
+2. Lateral/posterior hypopharyngeal wall
+3. Post-cricoid region
 
 <table>
 <colgroup>
@@ -5209,6 +5278,8 @@ Pupils should still react when you use a paralytic (vec, succ etc)
 **Vacation/weekend requests/conferences**
 
 
+
+
 1. Program coordinator will forward switch days to Brockton coordinator at the beginning of the academic year
 2. Please email them regarding regional meetings: NEOS, alumni day
 3. Email any vacation, weekend, or conference requests at least 2 months prior to the start of the rotation to Brockton Coordinator, Lori Keaney
@@ -5216,6 +5287,8 @@ Pupils should still react when you use a paralytic (vec, succ etc)
 5. If you need a weekend off during Brockton that requires resident coverage, first try to get another resident to cover that weekend; if that is not feasible, *then* try to switch the resident coverage weekend to another weekend for that same attending (contact the attending directly first, and if OK’ed, email Cathy with the change)
 
 **Surgical responsibilities**
+
+
 
 
 1. Brockton is first and foremost an operative-heavy rotation, and OR cases should be your TOP PRIORITY
@@ -5229,11 +5302,15 @@ Pupils should still react when you use a paralytic (vec, succ etc)
 **Clinic responsibilities**
 
 
+
+
 1. There are 4 clinic locations: Brockton, Norwood, Taunton, and Plainville.
 2. There are several office procedures that may be listed on the weekly schedule as well; these are usually thyroid ultrasounds with Dr. Dhingra or in-office balloon sinuplasties with Dr. Pradhan/O’Brien
 3. Make every effort to attend these sessions, unless you are seeing urgent consults
 
 **Consult responsibilities**
+
+
 
 
  1. The Brockton resident is responsible for fielding all daytime consults between 8 AM and 5 PM
@@ -5254,6 +5331,8 @@ Pupils should still react when you use a paralytic (vec, succ etc)
 12. Residents cannot see patients at Beth Israel Needham. For any calls from this institution, please contact the on-call attending
 
 **Where to find scopes**
+
+
 
 
 1. Flexible laryngoscopes are available at every clinic in a travel case (all have portable light sources) during business hours, though it is preferred you obtain them at the hospital
@@ -5413,6 +5492,8 @@ Follow-ups
   2. Book appt at 1pm, if non-trauma, needs audiogram, needs stroboscopy, or needs attending to see
 
 **How to schedule f/u to the COOP Clinic (This is a new number as of 2018)**
+
+
 
 
 1. Create a telephone encounter: EPIC dropdown→Patient Care→Call patient
