@@ -65,7 +65,10 @@
 - [Pediatric Syndromes](specialties/pediatric-otolaryngology/pediatric-syndromes.html)
 - [Post-op Guide](specialties/pediatric-otolaryngology/peds-postop.html)
 
-[Rhinology](specialties/rhinology/rhinology.html)
+[Rhinology](specialties/rhinology/index.html)
+
+- [Clinic Guide](specialties/rhinology/rhinology-clinic-guide.html)
+- [OR Guide](specialties/rhinology/rhinology-or.html)
 
 [Laryngology](specialties/laryngology/laryngology.html)
 
